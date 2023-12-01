@@ -1,1 +1,1 @@
-# cs598-tpcds
+# UIUC CS598 Text-to-SQL using TPCDS
