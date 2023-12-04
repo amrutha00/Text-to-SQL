@@ -1,0 +1,7 @@
+For a given merchandise return reason, this query retrieves the customer IDs (ss_customer_sk) and calculates the total sales (sumsales) after deducting the cost of returned items. It does so by joining the store_sales and store_returns tables on matching item IDs and ticket numbers, and then further filtering by the reason description 'duplicate purchase' from the reason table. The resulting sales are grouped by customer ID (ss_customer_sk), ordered first by the sum of sales (sumsales) and then by customer ID (ss_customer_sk), and limited to the top 100 results.
+
+CREATE TABLE store_sales (  ss_sold_date_sk,  ss_sold_time_sk,  ss_item_sk,  ss_customer_sk,  ss_cdemo_sk,  ss_hdemo_sk,  ss_addr_sk,  ss_store_sk,  ss_promo_sk,  ss_ticket_number,  ss_quantity,  ss_wholesale_cost,  ss_list_price,  ss_sales_price,  ss_ext_discount_amt,  ss_ext_sales_price,  ss_ext_wholesale_cost,  ss_ext_list_price,  ss_ext_tax,  ss_coupon_amt,  ss_net_paid,  ss_net_paid_inc_tax,  ss_net_profit );
+
+CREATE TABLE store_returns (  sr_returned_date_sk,  sr_return_time_sk,  sr_item_sk,  sr_customer_sk,  sr_cdemo_sk,  sr_hdemo_sk,  sr_addr_sk,  sr_store_sk,  sr_reason_sk,  sr_ticket_number,  sr_return_quantity,  sr_return_amt,  sr_return_tax,  sr_return_amt_inc_tax,  sr_fee,  sr_return_ship_cost,  sr_refunded_cash,  sr_reversed_charge,  sr_store_credit,  sr_net_loss );
+
+CREATE TABLE reason (  r_reason_sk,  r_reason_id,  r_reason_desc );
