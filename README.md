@@ -56,7 +56,7 @@ The generated golden queries for SF100 dataset should be present in the followin
 
 The generated SF100 dataset should be present in the following folder: 
 
-3. If you plan to test [SQLCoder-34B](https://github.com/defog-ai/sqlcoder), follow the steps presented in <> file.
+3. If you plan to test [SQLCoder-34B](https://github.com/defog-ai/sqlcoder), execute data/sqlcoder/sqlcoder.ipynb script.
 
 4. If you plan to train or test SQLize, download the models from here: [Google drive](ADD LINK). 
 Copy the models to this location of the repository 

@@ -1,0 +1,3 @@
+Within the year 1999, the following description lists all the months, along with the combinations of item categories, classes, and brands that have experienced monthly sales exceeding 0.1 percent of the total yearly sales. The results are sorted by the difference between the sum of monthly sales and the average monthly sales, and the store names are included in the output. The query is limited to the top 100 results.
+
+CREATE TABLE item (  i_item_sk,  i_item_id,  i_rec_start_date,  i_rec_end_date,  i_item_desc,  i_current_price,  i_wholesale_cost,  i_brand_id,  i_brand,  i_class_id,  i_class,  i_category_id,  i_category,  i_manufact_id,  i_manufact,  i_size,  i_formulation,  i_color,  i_units,  i_container,  i_manager_id,  i_product_name );

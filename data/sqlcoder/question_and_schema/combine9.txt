@@ -1,0 +1,13 @@
+Categorize store sales transactions into 5 buckets according to the number of items sold. Each bucket contains the following statistics:
+
+For bucket 1, which includes transactions where the quantity sold is between 1 and 20, the average external sales price if the count of such transactions is greater than 2,972,190, otherwise the average net profit.
+
+For bucket 2, which includes transactions where the quantity sold is between 21 and 40, the average external sales price if the count of such transactions is greater than 4,505,785, otherwise the average net profit.
+
+For bucket 3, which includes transactions where the quantity sold is between 41 and 60, the average external sales price if the count of such transactions is greater than 1,575,726, otherwise the average net profit.
+
+For bucket 4, which includes transactions where the quantity sold is between 61 and 80, the average external sales price if the count of such transactions is greater than 3,188,917, otherwise the average net profit.
+
+For bucket 5, which includes transactions where the quantity sold is between 81 and 100, the average external sales price if the count of such transactions is greater than 3,525,216, otherwise the average net profit.
+
+CREATE TABLE store_sales (  ss_sold_date_sk,  ss_sold_time_sk,  ss_item_sk,  ss_customer_sk,  ss_cdemo_sk,  ss_hdemo_sk,  ss_addr_sk,  ss_store_sk,  ss_promo_sk,  ss_ticket_number,  ss_quantity,  ss_wholesale_cost,  ss_list_price,  ss_sales_price,  ss_ext_discount_amt,  ss_ext_sales_price,  ss_ext_wholesale_cost,  ss_ext_list_price,  ss_ext_tax,  ss_coupon_amt,  ss_net_paid,  ss_net_paid_inc_tax,  ss_net_profit );
