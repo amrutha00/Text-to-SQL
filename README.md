@@ -42,19 +42,23 @@ Since we will be using GPT3.5 and GPT4 models in our evaluation, you must regist
 1. Download TPC-DS Text-to-SQL dataset from here: [Google drive](ADD LINK)
 You need to copy the downloaded dataset in this location of the repository.
 ```
-mv ~/Downloads/tpcds_dataset.tar.gz ./dataset
-cd ./dataset
+mv ~/Downloads/tpcds_dataset.tar.gz /workspace/data/cs598-tpcds/data/tpcds/NLQ/
+cd /workspace/data/cs598-tpcds/data/tpcds/NLQ/
 tar xvzf <>
 ```
 
-2. Due to licensing requirements, we do not provide TPC-DS queries or dataset publicly.
+2. Due to licensing requirements, we do not provide TPC-DS source code to generate queries or dataset publicly.
 One can raise a request to [TPC-DS committee](https://www.tpc.org/tpc_documents_current_versions/current_specifications5.asp) and get these tools.  
 Download TPC-DS dsdqgen tool after accepting their licensing terms. The tool is filled with errors, and we are open to providing the patch on-request. 
 Note: If you are a core developer of the project, you can raise a request by emailing primary author. 
 
-The generated golden queries for SF100 dataset should be present in the following folder: 
-
-The generated SF100 dataset should be present in the following folder: 
+We are providing generated golden queries only for SF100 dataset in this folder: 
+We expect the user generates SF100 dataset using the following commands. (This should take close to 1hr on Gen4 SSD).
+```
+python data/duckdb/gen_sf_data.py
+```
+On successful generation, you should be able to see the dataset stored in parquet format in `data/tpcds/tpcds_sf100`.
+If successful generation fails, then it can be either you ran out of memory or disk space or you are using older version of duckdb. 
 
 3. If you plan to test [SQLCoder-34B](https://github.com/defog-ai/sqlcoder), execute data/sqlcoder/sqlcoder.ipynb script.
 
@@ -72,7 +76,7 @@ tar xvzf <>
 You can execute golden queries is quite easy. Please follow the below script.
 
 ```
-Add scripts here
+python data/sql/scripts/execute_golden_queries.py
 ```
  
 

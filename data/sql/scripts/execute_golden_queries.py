@@ -3,17 +3,22 @@ import os
 import time
 
 # Define the connection parameters
-query_path='/workspace/data/tpcds-insights/data/sql/sql_files_sf100'
-query_result='/workspace/data/duckdb/results/tpcds/100/golden/'
-query_time_file='/workspace/data/duckdb/results/tpcds/100/golden/query_time.csv'
+workingdir = '/workspace/data/cs598-tpcds/'
+query_path=workingdir+'data/sql/sql_files_sf100'
+query_result=workingdir+'data/sql/results/100/golden/'
+query_time_file=workingdir+'data/sql/results/100/golden/query_time.csv'
 
 # Connect to the DB 
 db_con = duckdb.connect()
 
 # Load the TPCDS database
-db_con.execute("IMPORT DATABASE '/workspace/data/duckdb/build/release/tpcdssf100'")
+print("Starting to load TPCDS DB (SF100).")
+db_con.execute("IMPORT DATABASE '/workspace/data/cs598-tpcds/data/duckdb/tpcds_sf100'")
+#you must pick the right sf factor here to get the correct results. We are assuming you are running with SF=100. 
+#db_con.execute("IMPORT DATABASE '/workspace/data/duckdb/tpcdssf1'")
 
-print("Loading of TPCDS DB complete.")
+print("Loading of TPCDS DB (SF100) complete.")
+print("Starting to execute Golden queries on TPCDS DB (SF100).")
 
 # Create a folder to store query results
 os.makedirs(query_result, exist_ok=True)
@@ -51,3 +56,4 @@ for query_file in query_files:
 # Close the database connection
 db_con.close()
 
+print("Execution of Golden queries on TPCDS DB (SF100) complete.")
