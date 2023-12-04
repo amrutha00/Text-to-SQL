@@ -1,0 +1,5 @@
+Reproduce a list of items that were sold in stores during the month of April in 1999, and subsequently returned within the following six months of the same year. Furthermore, these returned items were re-purchased by the returning customer through the catalog sales channel in the next three years. Calculate the average quantity of these items sold in the stores, the average quantity returned, and the average quantity purchased through the catalog channel. Organize this data by item and store, and then sort the results in ascending order based on the item ID, item description, store ID, and store name. Finally, retrieve the first 100 records from the sorted list.
+
+
+
+

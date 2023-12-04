@@ -1,0 +1,1 @@
+List the best and worst performing products, determined by their net profit, at Store 146. The top-performing products are ranked in ascending order, while the worst-performing products are ranked in descending order. We have limited the results to the top 100 products based on their net profit.

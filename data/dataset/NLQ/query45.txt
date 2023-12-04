@@ -1,0 +1,1 @@
+Report the total web sales for customers in zip codes 85669, 86197, 88274, 83405, 86475, 85392, 85460, 80348, and 81792, cities, counties, or states in the year 2000's second quarter. The results are grouped by zip codes and city names, and ordered by zip codes and city names. The report is limited to the top 100 results.

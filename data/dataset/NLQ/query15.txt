@@ -1,0 +1,1 @@
+Report the total catalog sales for customers in selected geographical regions or who made large purchases in the first quarter of the year 2001. The results are grouped by ZIP code, and only the top 100 ZIP codes are displayed.

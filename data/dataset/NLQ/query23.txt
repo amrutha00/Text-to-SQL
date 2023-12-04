@@ -1,0 +1,11 @@
+Certainly, let's include the years in the description:
+
+First, we identify frequently sold items that were purchased more than four times on any day during four consecutive years (from 2000 to 2003) through the store sales channel.
+
+Next, we calculate the maximum store sales made by any customer over a four-year period (from 2000 to 2003).
+
+We then determine the best store customers who fall in the 5th percentile of sales.
+
+Finally, we compute the total sales from both web and catalog sales channels in a specific month in the year 2000, made by our best store customers who are purchasing our most frequently sold store items.
+
+This final result is limited to 100 records.

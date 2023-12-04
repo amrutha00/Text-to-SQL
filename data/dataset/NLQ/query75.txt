@@ -1,0 +1,9 @@
+For two consecutive years, 1998 and 1999, we are tracking the sales of items by brand, class, and category. Specifically, we are comparing the sales data for the year 1999 with the previous year, 1998. We are interested in the sales of items in the 'Home' category. To calculate this, we first gather sales information from various sources, including catalog sales, store sales, and web sales, and aggregate the data. For each year, we calculate the total sales count and sales amount for each combination of year, brand, class, category, and manufacturer.
+
+Then, we compare the sales data for 1999 with 1998 to identify any significant differences. We focus on cases where the sales count in 1999 is less than 90% of the sales count in 1998, as indicated by the condition CAST(curr_yr.sales_cnt AS DECIMAL(17,2))/CAST(prev_yr.sales_cnt AS DECIMAL(17,2))<0.9. We also order the results by the difference in sales count (sales_cnt_diff) and the difference in sales amount (sales_amt_diff) in ascending order.
+
+Finally, we limit the output to the top 100 results. This query helps us analyze and identify instances where there has been a substantial decrease in sales from the previous year in the 'Home' category across different brands, classes, and categories.
+
+
+
+

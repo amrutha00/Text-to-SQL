@@ -1,0 +1,1 @@
+Create a report for web sales that displays the counts of orders shipped within 30 days, between 31 and 60 days, between 61 and 90 days, between 91 and 120 days, and over 120 days within the year 1194. The report is grouped by warehouse name, shipping mode, and web site. The results are ordered by warehouse name, shipping mode, and web name, and limited to the top 100 records.

@@ -1,0 +1,5 @@
+Calculate the count of sales from the store 'ese' to customers who have 3 dependents, made during the time when the hour is 8 and the minute is greater than or equal to 30 in the specified half-hour period of the day. The results are ordered by the count of sales and limited to the top 100 records.
+
+
+
+

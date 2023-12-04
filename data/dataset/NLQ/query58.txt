@@ -1,0 +1,22 @@
+The SQL query's primary objective is to find items that generated the highest revenue and had revenue that was approximately equivalent across all store, catalog, and web sales for the week ending on '2001-03-24'.
+
+Here's a step-by-step explanation of how the SQL query accomplishes this:
+
+It starts by defining three subqueries, 'ss_items,' 'cs_items,' and 'ws_items,' which calculate the total revenue for each item in the 'store_sales,' 'catalog_sales,' and 'web_sales' tables, respectively. These subqueries are used to gather information about each item's revenue from different sales channels.
+
+After calculating the total revenue for each item in each sales channel, the query calculates the relative deviation for each revenue type. This deviation is a measure of how close the revenues are for a specific item across different sales channels. A lower deviation indicates that the revenue is roughly equivalent for the item across all sales types.
+
+The query then selects items that meet specific conditions:
+
+Items where the 'ss_item_rev' (store_sales revenue) is between 90% and 110% of 'cs_item_rev' (catalog_sales revenue).
+Items where the 'ss_item_rev' is between 90% and 110% of 'ws_item_rev' (web_sales revenue).
+Items where the 'cs_item_rev' is between 90% and 110% of 'ss_item_rev' and 'ws_item_rev.'
+Items where the 'ws_item_rev' is between 90% and 110% of 'ss_item_rev' and 'cs_item_rev.'
+This means that the selected items have revenue levels that are within 10% of each other across all three sales types.
+Finally, the result set is ordered by 'item_id' and 'ss_item_rev' (store_sales revenue) and limited to 100 rows. This means that the query returns the top 100 items that meet the specified conditions, ordered by 'item_id' and 'store_sales' revenue.
+
+In summary, the SQL query finds items that not only have high revenue but also have revenue levels that are quite similar across store, catalog, and web sales for the week ending on '2001-03-24.' It does so by calculating revenue and deviations and applying specific conditions to select the desired items.
+
+
+
+

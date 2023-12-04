@@ -1,0 +1,1 @@
+For the year 2002 and the month of November, calculate the sum of the extended sales prices of store transactions for each item in category 1. The results are grouped by the year, item category ID, and item category, and then sorted in descending order of the sum of extended sales prices. Finally, the top 100 results are displayed.

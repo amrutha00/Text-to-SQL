@@ -1,0 +1,1 @@
+Find customers whose spending increased significantly on the web compared to in stores in the year following 2001 compared to 2001. Specifically, retrieve the customer IDs, first names, last names, and birth countries of customers who meet these criteria. The result should be ordered by customer ID, first name, last name, and birth country, and limited to the top 100 customers.

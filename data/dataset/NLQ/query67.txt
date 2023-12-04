@@ -1,0 +1,4 @@
+Retrieve the top 100 stores for each category, sorted by store sales in descending order, for the year 1206. The results include information such as item category, item class, item brand, product name, year, quarter of the year, month of the year, store ID, total sales, and the ranking of each store within its category.
+
+
+

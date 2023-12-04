@@ -1,0 +1,1 @@
+Select the top revenue-generating products bought by out-of-zip code customers in November 1998, managed by MANAGER.01 = 8. The result is sorted by the total external price (ext_price), with products grouped by brand (i_brand) and brand ID (i_brand_id) as well as manufacturer ID (i_manufact_id) and manufacturer (i_manufact). The query returns the top 100 results.

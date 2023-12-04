@@ -4,7 +4,7 @@ import time
 
 # Define the connection parameters
 workingdir = '/workspace/data/cs598-tpcds/'
-query_path=workingdir+'data/sql/sql_files_sf100'
+query_path=workingdir+'data/dataset/SQL/'
 query_result=workingdir+'data/sql/results/100/golden/'
 query_time_file=workingdir+'data/sql/results/100/golden/query_time.csv'
 

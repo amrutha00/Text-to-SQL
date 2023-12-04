@@ -1,0 +1,8 @@
+Find the customers who spent more money on catalog sales compared to in-store sales. Specifically, identify preferred customers and their country of origin. This query aggregates data from various sales types (in-store, catalog, and web) to calculate the total sales amount for each customer in two consecutive years, 1999 and 2000. It then selects customers who meet the following criteria:
+
+The total sales amount for in-store sales (sale_type 's') in 1999 is greater than 0.
+The total sales amount for catalog sales (sale_type 'c') in 1999 is greater than 0.
+The total sales amount for web sales (sale_type 'w') in 1999 is greater than 0.
+The ratio of total catalog sales in 2000 to total catalog sales in 1999 is greater than the ratio of total in-store sales in 2000 to total in-store sales in 1999.
+The ratio of total catalog sales in 2000 to total catalog sales in 1999 is greater than the ratio of total web sales in 2000 to total web sales in 1999.
+The results are ordered by customer ID, first name, last name, and country of origin, and the query retrieves the top 100 results that match these criteria.

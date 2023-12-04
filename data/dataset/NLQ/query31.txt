@@ -1,0 +1,5 @@
+The SQL query retrieves information about counties where the percentage growth in web sales consistently outpaces the percentage growth in store sales during the first three consecutive quarters of a specified year. It achieves this by initially creating two temporary tables, 'ss' and 'ws,' which compute the total store and web sales for each county, quarter, and year. Then, it selects specific columns such as county, year, and various growth ratios. The query filters the data to include only the first three quarters of the year 2000. It also uses conditional logic to ensure that the growth ratios are computed only when the sales values are greater than zero. Finally, it orders the results by the 'web_q1_q2_increase' column, providing a list of counties where web sales outperformed store sales in the first and second quarters.
+
+
+
+

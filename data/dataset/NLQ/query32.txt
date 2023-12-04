@@ -1,0 +1,1 @@
+Compute the total excess discount amount for catalog sales associated with manufacturer ID 29, within the 90-day period starting from '1999-01-07' to '1999-04-07'. This includes sales with discounts greater than 30% compared to the average discount among catalog sales during the same period. The result is limited to the top 100 records.

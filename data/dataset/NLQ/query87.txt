@@ -1,0 +1,1 @@
+Calculate the total count of customers who have made purchases on the same day through three different channels: in-store, via the catalog, and on the web. Specifically, this query considers customers who made purchases in stores and online (catalog and web) during the time period from month 1184 to month 1195.

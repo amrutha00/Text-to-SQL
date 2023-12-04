@@ -1,0 +1,1 @@
+Calculate the net profit for stores located in 400 metropolitan areas with more than 10 preferred customers during the second quarter (Q2) of the year 1998. The results are aggregated by store name and sorted in ascending order by store name. The query returns the top 100 results.
