@@ -5,8 +5,8 @@ import csv
 import random
 
 db_con = duckdb.connect()
-dir_path = "/workspace/data/cs598-tpcds/data/duckdb/tpcds_sf1"
-#dir_path = "/workspace/data/cs598-tpcds/data/duckdb/tpcds_sf100"
+#dir_path = "/workspace/data/cs598-tpcds/data/duckdb/tpcds_sf1"
+dir_path = "/workspace/data/cs598-tpcds/data/duckdb/tpcds_sf100"
 db_populate = db_con.execute(f"import database '{dir_path}';")
 db_info = db_con.execute("select * from information_schema.tables;")
 db_populated = len(db_info.fetchall())
