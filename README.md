@@ -109,10 +109,11 @@ Please follow the notebook described below for the purpose.
 
 # Dataset keyword and complexity analysis 
 
-Complexity analysis script is available here: 
-Keyword analysis script is available here: 
-Presence keyword analysis script is available here: 
+Complexity analysis script is available here: `python scripts/datastats/complexity_analysis.py` 
+Keyword analysis script is available here:  `python scripts/datastats/keyword_analysis.py`
+Presence keyword analysis script is available here: `python scripts/datastats/presense_keyword_analysis.py`
 
+By default these scripts execute for the proposed dataset. To execute for spider dataset, please uncomment `extract_target_dir = '/workspace/data/cs598-tpcds/data/dataset-spider/'` in each of the above scripts.
 
 # Contribute
 We have many improvements we'd like to implement. Please help us! If you would like to contribute, please contact us. 
