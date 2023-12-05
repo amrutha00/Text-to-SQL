@@ -8,8 +8,8 @@ messages = [
 ]
 '''
 '''
-schema_info : ./data/raw/prompt_schema_info/
-user_query: ./data/raw/NLQ-Converted/GPT-NLQ/
+schema_info : ./data/GPT/tpcds-schema/
+user_query: ./data/dataset/NLQ/
 '''
 import os
 import json
@@ -20,8 +20,8 @@ if not os.path.exists(output_directory):
     os.makedirs(output_directory)
 
 for i in range(1, 100):
-    schema_file_path = f"../../../raw/GPT-schema/schema_{i}.txt"
-    user_query_path = f"../../../raw/NLQ-Converted/GPT-NLQ/query{i}.txt"
+    schema_file_path = f"../../../tpcds-schema/query_{i}.txt"
+    user_query_path = f"../../../../dataset/NLQ/query{i}.txt"
     output_file_path = f"{output_directory}/oneshot-prompt{i}.txt"
 
     with open(schema_file_path, 'r') as schema_file, open(user_query_path, 'r') as query_file:

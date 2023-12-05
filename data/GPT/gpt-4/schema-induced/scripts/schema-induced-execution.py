@@ -5,16 +5,20 @@ import csv
 import random
 
 db_con = duckdb.connect()
-dir_path = "/workspace/data/cs598-tpcds/data/duckdb/tpcds_sf100"
+dir_path = "/workspace/data/cs598-tpcds/data/duckdb/tpcds_sf1"
+#dir_path = "/workspace/data/cs598-tpcds/data/duckdb/tpcds_sf100"
 db_populate = db_con.execute(f"import database '{dir_path}';")
 db_info = db_con.execute("select * from information_schema.tables;")
 db_populated = len(db_info.fetchall())
 if db_populated > 0: 
-    zeroshot_path = "./data/GPT/results/"
+    zeroshot_path = "/workspace/data/cs598-tpcds/data/GPT/"
     gpt_model = os.path.join(zeroshot_path,"gpt-4/schema-induced")
     output_dir = os.path.join(gpt_model,"results")
     log_dir =  os.path.join(gpt_model,"logs")
     response_time_dir = os.path.join(gpt_model,"execution-time")
+    os.makedirs(output_dir, exist_ok=True)
+    os.makedirs(log_dir, exist_ok=True)
+    os.makedirs(response_time_dir, exist_ok=True)
     seed_value = 42
  
     count_fail = 0
