@@ -1,10 +1,8 @@
 import os
-from dotenv import load_dotenv
 import openai
 import time
 import json
 
-load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def llm(model,message):
