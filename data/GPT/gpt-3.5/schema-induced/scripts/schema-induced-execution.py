@@ -16,6 +16,9 @@ if db_populated > 0:
     output_dir = os.path.join(gpt_model,"results")
     log_dir =  os.path.join(gpt_model,"logs")
     response_time_dir = os.path.join(gpt_model,"execution-time")
+    os.makedirs(output_dir, exist_ok=True)
+    os.makedirs(log_dir, exist_ok=True)
+    os.makedirs(response_time_dir, exist_ok=True)
     seed_value = 42
  
     count_fail = 0
