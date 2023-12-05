@@ -11,16 +11,16 @@ db_info = db_con.execute("select * from information_schema.tables;")
 db_populated = len(db_info.fetchall())
 if db_populated > 0: 
     zeroshot_path = "/workspace/shared/duckdb/build/release/tpcdssf16-results/zero-shot"
-    gpt_model = os.path.join(zeroshot_path,"GPT-4/Semi-Zero-Shot")
-    output_dir = os.path.join(gpt_model,"Results")
-    log_dir =  os.path.join(gpt_model,"Logs")
-    response_time_dir = os.path.join(gpt_model,"Execution-Time")
+    gpt_model = os.path.join(zeroshot_path,"GPT-4/semi-zero-shot")
+    output_dir = os.path.join(gpt_model,"results")
+    log_dir =  os.path.join(gpt_model,"logs")
+    response_time_dir = os.path.join(gpt_model,"execution-time")
     seed_value = 42
  
     count_fail = 0
     for i in range(1,100):
         print(f"Executing query {i}")
-        sql_file_path = os.path.join(gpt_model,f"Queries/semi-zero-shot-query{i}.sql")
+        sql_file_path = os.path.join(gpt_model,f"queries/semi-zero-shot-query{i}.sql")
         output_file_path = os.path.join(output_dir,f"/query-output{i}.csv")
         log_file_path = os.path.join(log_dir,f"query-output-log{i}.csv")
         response_file_path = os.path.join(response_time_dir,f"query-execution-time{i}.txt")

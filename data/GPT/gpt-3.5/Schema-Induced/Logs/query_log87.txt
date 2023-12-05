@@ -1,1 +1,0 @@
-Binder Error: Duplicate alias "c" in query!

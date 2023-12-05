@@ -1,2 +1,0 @@
-Binder Error: Referenced column "cr_return_amt" not found in FROM clause!
-Candidate bindings: "catalog_returns.cr_return_amount", "catalog_returns.cr_return_tax"

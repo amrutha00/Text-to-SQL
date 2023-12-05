@@ -33,9 +33,9 @@ def llm(model,message):
 def main():
    
     for i in range(1,100):
-        prompt_path = f"../Prompts/prompt{i}.txt"
-        response_time_path = f"../LLM-Gen-Time/semi-zero-shot-gen{i}.txt"
-        query_path = f"../Queries/semi-zero-shot-query{i}.sql"
+        prompt_path = f"../prompts/prompt{i}.txt"
+        response_time_path = f"../llm-gen-time/semi-zero-shot-gen{i}.txt"
+        query_path = f"../queries/semi-zero-shot-query{i}.sql"
 
         with open(prompt_path,"r") as f:
             prompt = f.read()

@@ -1,4 +1,0 @@
-Binder Error: Referenced column "year" not found in FROM clause!
-Candidate bindings: "date_dim.d_year", "date_dim.d_fy_year"
-LINE 22:     AND date_dim.d_year BETWEEN year AND year + 2
-                                         ^

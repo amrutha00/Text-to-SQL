@@ -1,5 +1,0 @@
-Binder Error: Referenced column "cs_item_sk" not found in FROM clause!
-Candidate bindings: "web_and_catalog_sales.cs_sold_date_sk"
-LINE 37: WHERE cs_item_sk IN (SELECT ss_item_sk FROM frequent_items)
-LIMIT 100;...
-               ^

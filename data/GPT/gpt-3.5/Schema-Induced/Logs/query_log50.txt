@@ -1,2 +1,0 @@
-Binder Error: Referenced column "DAY" not found in FROM clause!
-Candidate bindings: "s.s_city"
