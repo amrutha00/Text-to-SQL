@@ -1,2 +1,0 @@
-Binder Error: Referenced column "item_id" not found in FROM clause!
-Candidate bindings: "store_sales.ss_item_sk"

@@ -1,1 +1,0 @@
-Binder Error: Table "catalog_sales" does not have a column named "cs_customer_sk"

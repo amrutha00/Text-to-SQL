@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert Text-to-SQL assistant. Your goal is to provide correct SQL queries in accordance with the given text description. Please use the SQL dialect compatible with duckDB. Your output should only contain the SQL code. No explanation or introductory sentences surrounding the SQL response is needed. You are given schema information containing table names in <tableName> tags and columns in <columns> tags. Here is the schema information:"
+    },
+    {
+        "role": "user",
+        "content": "<tableName>store_sales</tableName>\n<columns>ss_sold_time_sk, ss_hdemo_sk, ss_store_sk</columns>\n<tableName>household_demographics</tableName>\n<columns>hd_demo_sk, hd_dep_count, hd_vehicle_count</columns>\n<tableName>time_dim</tableName>\n<columns>t_time_sk, t_hour, t_minute</columns>\n<tableName>store</tableName>\n<columns>s_store_sk, s_store_name</columns>"
+    },
+    {
+        "role": "system",
+        "content": "Here is the user question:"
+    },
+    {
+        "role": "user",
+        "content": "This SQL query calculates the number of items sold in the store named 'ese' during different time intervals of the day, from 8:30 to 9, 9 to 9:30, 9:30 to 10, 10 to 10:30, 10:30 to 11, 11 to 11:30, and 11:30 to 12:30. It considers customers who meet specific conditions: they either have one dependent and 2 or fewer registered vehicles, or 2 dependents with 4 or fewer registered vehicles, or 3 dependents with 5 or fewer registered vehicles. Each of these time intervals is counted separately and presented in a single row as 'h8_30_to_9', 'h9_to_9_30', 'h9_30_to_10', 'h10_to_10_30', 'h10_30_to_11', 'h11_to_11_30', and 'h11_30_to_12'."
+    },
+    {
+        "role": "system",
+        "content": "Here are the 3 critical rules for the interactions you must abide:\n<rules>1.do not  Wrap the generated SQL code within SQL code markdown format. Also, do not include the SQL keyword in the beginning of the response.\n2. If I don't tell you to find a limited set of results, limit to 100.\n3. Only use tables and columns from the list provided, where each table name can be found within <tableName> and columns within <columns></rules>"
+    }
+]

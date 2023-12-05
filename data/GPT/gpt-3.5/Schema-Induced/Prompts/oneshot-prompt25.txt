@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert Text-to-SQL assistant. Your goal is to provide correct SQL queries in accordance with the given text description. Please use the SQL dialect compatible with duckDB. Your output should only contain the SQL code. No explanation or introductory sentences surrounding the SQL response is needed. You are given schema information containing table names in <tableName> tags and columns in <columns> tags. Here is the schema information:"
+    },
+    {
+        "role": "user",
+        "content": "<tableName>store_sales</tableName>\n<columns>i_item_id, i_item_desc, s_store_id, s_store_name, ss_net_profit, ss_sold_date_sk, ss_item_sk, ss_store_sk, ss_customer_sk, ss_ticket_number, ss_quantity, ss_wholesale_cost, ss_list_price, ss_sales_price, ss_ext_discount_amt, ss_ext_sales_price, ss_ext_wholesale_cost, ss_ext_list_price, ss_ext_tax, ss_coupon_amt, ss_net_paid, ss_net_paid_inc_tax, ss_net_profit</columns>\n\n<tableName>store_returns</tableName>\n<columns>sr_returned_date_sk, sr_item_sk, sr_customer_sk, sr_ticket_number, sr_return_quantity, sr_return_amt, sr_return_tax, sr_return_amt_inc_tax, sr_fee, sr_return_ship_cost, sr_refunded_cash, sr_reversed_charge, sr_store_credit, sr_net_loss</columns>\n\n<tableName>catalog_sales</tableName>\n<columns>cs_net_profit, cs_sold_date_sk, cs_ship_date_sk, cs_bill_customer_sk, cs_item_sk, cs_promo_sk, cs_order_number, cs_quantity, cs_wholesale_cost, cs_list_price, cs_sales_price, cs_ext_discount_amt, cs_ext_sales_price, cs_ext_wholesale_cost, cs_ext_list_price, cs_ext_tax, cs_coupon_amt, cs_ext_ship_cost, cs_net_paid, cs_net_paid_inc_tax, cs_net_paid_inc_ship, cs_net_paid_inc_ship_tax</columns>\n\n<tableName>date_dim</tableName>\n<columns>d_date_sk, d_moy, d_year</columns>\n\n<tableName>store</tableName>\n<columns>s_store_sk, s_store_name</columns>\n\n<tableName>item</tableName>\n<columns>i_item_sk, i_item_id</columns>"
+    },
+    {
+        "role": "system",
+        "content": "Here is the user question:"
+    },
+    {
+        "role": "user",
+        "content": "Retrieve all items that were sold in stores in the month of April 2000 and returned and re-purchased by the customer through the catalog channel in the same month or in any of the six following months, between April and October of 2000. Calculate the total net profit from store sales, net loss from store returns, and net profit from catalog sales for these items. Group this information by item and store, and then sort the results by item ID, item description, store ID, and store name. Finally, limit the results to the top 100 records."
+    },
+    {
+        "role": "system",
+        "content": "Here are the 3 critical rules for the interactions you must abide:\n<rules>1.do not  Wrap the generated SQL code within SQL code markdown format. Also, do not include the SQL keyword in the beginning of the response.\n2. If I don't tell you to find a limited set of results, limit to 100.\n3. Only use tables and columns from the list provided, where each table name can be found within <tableName> and columns within <columns></rules>"
+    }
+]

@@ -1,1 +1,0 @@
-Binder Error: Table "s" does not have a column named "store_sk"

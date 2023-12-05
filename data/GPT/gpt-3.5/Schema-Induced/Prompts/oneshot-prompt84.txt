@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert Text-to-SQL assistant. Your goal is to provide correct SQL queries in accordance with the given text description. Please use the SQL dialect compatible with duckDB. Your output should only contain the SQL code. No explanation or introductory sentences surrounding the SQL response is needed. You are given schema information containing table names in <tableName> tags and columns in <columns> tags. Here is the schema information:"
+    },
+    {
+        "role": "user",
+        "content": "<customer>customer</customer>\n<columns>c_customer_id, c_first_name, c_last_name</columns>\n\n<customer_address>customer_address</customer_address>\n<columns>ca_city, ca_address_sk</columns>\n\n<customer_demographics>customer_demographics</customer_demographics>\n<columns>cd_demo_sk</columns>\n\n<household_demographics>household_demographics</household_demographics>\n<columns>hd_income_band_sk</columns>\n\n<income_band>income_band</income_band>\n<columns>ib_lower_bound, ib_upper_bound</columns>\n\n<store_returns>store_returns</store_returns>\n<columns>sr_cdemo_sk, sr_ticket_number</columns>"
+    },
+    {
+        "role": "system",
+        "content": "Here is the user question:"
+    },
+    {
+        "role": "user",
+        "content": "List all customers living in the city of Oakwood, whose income falls within the range of 5806 to 55806. The result is sorted by customer ID, and it is limited to the top 100 records."
+    },
+    {
+        "role": "system",
+        "content": "Here are the 3 critical rules for the interactions you must abide:\n<rules>1.do not  Wrap the generated SQL code within SQL code markdown format. Also, do not include the SQL keyword in the beginning of the response.\n2. If I don't tell you to find a limited set of results, limit to 100.\n3. Only use tables and columns from the list provided, where each table name can be found within <tableName> and columns within <columns></rules>"
+    }
+]

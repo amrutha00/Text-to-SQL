@@ -1,4 +1,0 @@
-Binder Error: Referenced column "city" not found in FROM clause!
-Candidate bindings: "customer.c_login"
-LINE 6:     city = 'Oakwood'
-            ^

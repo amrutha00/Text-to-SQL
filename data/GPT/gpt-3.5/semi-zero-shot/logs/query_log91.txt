@@ -1,1 +1,0 @@
-Binder Error: Table "cs" does not have a column named "CS_BUY_POTENTIAL"

@@ -1,0 +1,10 @@
+With the TPC-DS dataset as a reference, using the table and field names from the TPC-DS benchmark, convert natural language directive provided as input into an SQL query in the Netezza dialect?
+Input: This SQL query aims to identify customers who have made both store and web sales in consecutive years, specifically focusing on the year 1999 and the subsequent year, 2000. The query begins by creating a temporary table called 'year_total,' which calculates the standard deviation of net paid sales for customers. It does this for two types of sales: 's' (store sales) and 'w' (web sales). These calculations are performed by joining the 'customer,' 'store_sales,' 'web_sales,' and 'date_dim' tables.
+
+The first part of the query deals with 'store_sales.' It retrieves data where the customer ID, first name, last name, and year match the customer's details and the year 1999 or 2000. It calculates the standard deviation of net paid sales ('year_total') for each customer for the specified years. This process is repeated for 'web_sales,' with similar conditions.
+
+The query then proceeds to select customers who meet certain conditions:
+
+Customers who have positive sales for both 'store' ('s') and 'web' ('w') sales in both 1999 and 2000.
+The increase in 'web' sales from 1999 to 2000 exceeds the increase in 'store' sales during the same period.
+After filtering the results based on these criteria, the query orders the output by customer first name, customer ID, and customer last name. The 'LIMIT' clause ensures that only the top 100 results are displayed.

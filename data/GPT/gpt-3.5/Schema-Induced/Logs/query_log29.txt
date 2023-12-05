@@ -1,0 +1,1 @@
+Binder Error: Table "store_sales" does not have a column named "i_item_sk"

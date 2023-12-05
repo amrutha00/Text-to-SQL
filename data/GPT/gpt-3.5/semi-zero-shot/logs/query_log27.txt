@@ -1,4 +1,0 @@
-Binder Error: Referenced column "c_marital_status" not found in FROM clause!
-Candidate bindings: "store.s_state"
-LINE 22:     (c_marital_status = 'D') AND
-              ^

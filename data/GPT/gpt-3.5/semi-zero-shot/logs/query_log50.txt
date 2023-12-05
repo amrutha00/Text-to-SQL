@@ -1,3 +1,0 @@
-Binder Error: Table "s" does not have a column named "store_name"
-LINE 47:     s.store_name,
-             ^

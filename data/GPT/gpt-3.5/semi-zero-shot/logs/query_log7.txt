@@ -1,2 +1,0 @@
-Binder Error: Referenced column "ws_store_sk" not found in FROM clause!
-Candidate bindings: "s.s_store_sk", "s.s_store_id", "web_sales.ws_item_sk"

@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert Text-to-SQL assistant. Your goal is to provide correct SQL queries in accordance with the given text description. Please use the SQL dialect compatible with duckDB. Your output should only contain the SQL code. No explanation or introductory sentences surrounding the SQL response is needed. You are given schema information containing table names in <tableName> tags and columns in <columns> tags. Here is the schema information:"
+    },
+    {
+        "role": "user",
+        "content": "<tableName>item</tableName>\n<columns>i_item_sk, i_item_id, i_rec_start_date, i_rec_end_date, i_item_desc, i_current_price, i_wholesale_cost, i_brand_id, i_brand, i_class_id, i_class, i_category_id, i_category, i_manufact_id, i_manufact, i_size, i_formulation, i_color, i_units, i_container, i_manager_id, i_product_name</columns>\n<tableName>item</tableName>\n<columns>i_manufact</columns>\n<tableName>item</tableName>\n<columns>i_category</columns>\n<tableName>item</tableName>\n<columns>i_color</columns>\n<tableName>item</tableName>\n<columns>i_units</columns>\n<tableName>item</tableName>\n<columns>i_size</columns>\n<tableName>warehouse</tableName>\n<columns>w_warehouse_sk, w_warehouse_id, w_warehouse_name, w_warehouse_sq_ft, w_street_number, w_street_name, w_street_type, w_suite_number, w_city, w_county, w_state, w_zip, w_country, w_gmt_offset</columns>"
+    },
+    {
+        "role": "system",
+        "content": "Here is the user question:"
+    },
+    {
+        "role": "user",
+        "content": "We are retrieving a list of distinct product names. These products are associated with specific combinations of color, units, size, and category. The query filters these products based on the manufacturer ID, which falls within the range of 748 to 788. To be included in the results, the count of items matching the specified criteria must be greater than zero. Additionally, the results are ordered by the product name, and the maximum number of results is limited to 100.\n\n\n\n\n"
+    },
+    {
+        "role": "system",
+        "content": "Here are the 3 critical rules for the interactions you must abide:\n<rules>1.do not  Wrap the generated SQL code within SQL code markdown format. Also, do not include the SQL keyword in the beginning of the response.\n2. If I don't tell you to find a limited set of results, limit to 100.\n3. Only use tables and columns from the list provided, where each table name can be found within <tableName> and columns within <columns></rules>"
+    }
+]

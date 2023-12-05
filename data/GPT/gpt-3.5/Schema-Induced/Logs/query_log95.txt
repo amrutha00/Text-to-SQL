@@ -1,0 +1,2 @@
+Catalog Error: Table with name ws_wh does not exist!
+Did you mean "pg_am"?

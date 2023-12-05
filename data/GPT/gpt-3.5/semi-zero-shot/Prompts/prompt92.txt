@@ -1,0 +1,2 @@
+With the TPC-DS dataset as a reference, using the table and field names from the TPC-DS benchmark, convert natural language directive provided as input into an SQL query in the Netezza dialect?
+Input: Compute the total discount on web sales of items from a manufacturer with ID 320 over a 90-day period starting from '2002-02-26'. This calculation includes sales where the discount amount exceeded 30% over the average discount of items from that manufacturer during the same period. The results are sorted by the excess discount amount and limited to the top 100 records.

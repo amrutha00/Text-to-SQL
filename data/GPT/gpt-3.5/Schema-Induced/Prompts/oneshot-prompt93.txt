@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert Text-to-SQL assistant. Your goal is to provide correct SQL queries in accordance with the given text description. Please use the SQL dialect compatible with duckDB. Your output should only contain the SQL code. No explanation or introductory sentences surrounding the SQL response is needed. You are given schema information containing table names in <tableName> tags and columns in <columns> tags. Here is the schema information:"
+    },
+    {
+        "role": "user",
+        "content": "<tableName>store_sales</tableName>\n<columns>ss_customer_sk, ss_quantity, ss_sales_price, ss_item_sk, ss_ticket_number</columns>\n<tableName>store_returns</tableName>\n<columns>sr_return_quantity, sr_item_sk, sr_ticket_number, sr_reason_sk, sr_returned_date_sk, sr_customer_sk</columns>\n<tableName>reason</tableName>\n<columns>r_reason_sk, r_reason_desc</columns>"
+    },
+    {
+        "role": "system",
+        "content": "Here is the user question:"
+    },
+    {
+        "role": "user",
+        "content": "For a given merchandise return reason, this query retrieves the customer IDs (ss_customer_sk) and calculates the total sales (sumsales) after deducting the cost of returned items. It does so by joining the store_sales and store_returns tables on matching item IDs and ticket numbers, and then further filtering by the reason description 'duplicate purchase' from the reason table. The resulting sales are grouped by customer ID (ss_customer_sk), ordered first by the sum of sales (sumsales) and then by customer ID (ss_customer_sk), and limited to the top 100 results."
+    },
+    {
+        "role": "system",
+        "content": "Here are the 3 critical rules for the interactions you must abide:\n<rules>1.do not  Wrap the generated SQL code within SQL code markdown format. Also, do not include the SQL keyword in the beginning of the response.\n2. If I don't tell you to find a limited set of results, limit to 100.\n3. Only use tables and columns from the list provided, where each table name can be found within <tableName> and columns within <columns></rules>"
+    }
+]

@@ -1,6 +1,0 @@
-Binder Error: Table "store_sales" does not have a column named "i_class"
-LINE 8: ...    item.i_item_desc,
-    item.i_category,
-    item.i_class,
-    item.i_curren...
-                                                  ^

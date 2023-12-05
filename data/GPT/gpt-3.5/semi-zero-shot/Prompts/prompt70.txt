@@ -1,0 +1,10 @@
+With the TPC-DS dataset as a reference, using the table and field names from the TPC-DS benchmark, convert natural language directive provided as input into an SQL query in the Netezza dialect?
+Input: Compute the total net profit (ss_net_profit) for store sales, grouped by state and county, and establish a hierarchical ranking (lochierarchy) within each state-county combination. Additionally, rank the states by their net profit in descending order and calculate the rank of each state within its parent state (rank_within_parent). This analysis is based on store sales data, date information for a specific year, and store details. We are considering data from December 1213 to November 1214. The result includes a maximum of 100 records.
+
+To accomplish this, we begin by selecting the relevant data from the store_sales, date_dim, and store tables. We filter the data to include only records for the specified year. Then, we group the results by the state and county, creating a hierarchical structure using the ROLLUP function. Within each state-county combination, we calculate the total net profit (total_sum) and assign aliases to the columns accordingly.
+
+To determine the rank of states by net profit, we use the RANK() window function partitioned by the state and ordered by the total net profit in descending order. We also calculate the rank of each state within its parent state when the county grouping is zero.
+
+Finally, we apply sorting to the results. We first order by lochierarchy in descending order, then by state when lochierarchy is zero, and finally by rank_within_parent. We limit the output to the top 100 records.
+
+In summary, this SQL query provides a detailed analysis of store sales net profit, hierarchical rankings, and state-wise profitability for a specific year, helping to identify the top-performing states.

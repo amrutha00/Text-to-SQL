@@ -1,2 +1,0 @@
-Binder Error: Referenced table "sr" not found!
-Candidate tables: "sr2"

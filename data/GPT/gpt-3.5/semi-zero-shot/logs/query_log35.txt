@@ -1,1 +1,0 @@
-Binder Error: Table "c" does not have a column named "c_first_sales_date_id"

@@ -1,2 +1,0 @@
-Binder Error: Referenced column "s_store_sk" not found in FROM clause!
-Candidate bindings: "store_sales.ss_store_sk"

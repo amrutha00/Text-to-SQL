@@ -1,4 +1,0 @@
-Invalid Input Error: Attempting to execute an unsuccessful or closed pending query result
-Error: Binder Error: Table "s" does not have a column named "sale_date"
-LINE 9:     s.sale_date >= '2014-12-01'
-            ^

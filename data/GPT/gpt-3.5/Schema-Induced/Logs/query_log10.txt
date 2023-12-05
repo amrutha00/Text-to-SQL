@@ -1,0 +1,3 @@
+Parser Error: syntax error at or near "<"
+LINE 23:         d_year = <given_year> AND
+                          ^

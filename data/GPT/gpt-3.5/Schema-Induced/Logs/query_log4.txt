@@ -1,0 +1,4 @@
+Binder Error: Referenced column "c_customer_id" not found in FROM clause!
+Candidate bindings: "sales_2000.c_customer_sk", "sales_1999.c_customer_sk"
+LINE 23: SELECT sales_2000.c_customer_sk, c_customer_id, c_birth_country
+                                          ^

@@ -1,4 +1,0 @@
-Binder Error: Referenced column "specific_year" not found in FROM clause!
-Candidate bindings: "date_dim.d_year"
-LINE 13:     date_dim.d_year = specific_year
-                               ^

@@ -1,0 +1,2 @@
+With the TPC-DS dataset as a reference, using the table and field names from the TPC-DS benchmark, convert natural language directive provided as input into an SQL query in the Netezza dialect?
+Input: List all the states where, during the month of March 2002, there were at least 10 customers who purchased items with a price at least 20% higher than the average price of items in the same category. The results are ordered by the number of customers in ascending order, and only the top 100 states are displayed.

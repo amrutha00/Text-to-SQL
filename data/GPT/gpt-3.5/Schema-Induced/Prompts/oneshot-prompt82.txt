@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert Text-to-SQL assistant. Your goal is to provide correct SQL queries in accordance with the given text description. Please use the SQL dialect compatible with duckDB. Your output should only contain the SQL code. No explanation or introductory sentences surrounding the SQL response is needed. You are given schema information containing table names in <tableName> tags and columns in <columns> tags. Here is the schema information:"
+    },
+    {
+        "role": "user",
+        "content": "<tableName>item</tableName>\n<columns>i_item_id, i_item_desc, i_current_price</columns>\n<tableName>inventory</tableName>\n<columns>inv_item_sk, inv_date_sk, inv_quantity_on_hand</columns>\n<tableName>date_dim</tableName>\n<columns>d_date_sk</columns>\n<tableName>store_sales</tableName>\n<columns>ss_item_sk</columns>"
+    },
+    {
+        "role": "system",
+        "content": "Here is the user question:"
+    },
+    {
+        "role": "user",
+        "content": "List all items and their corresponding item descriptions and current prices that were sold through the store channel. These items are from specific manufacturers (manufacturers with IDs 639, 169, 138, and 339) and fall within a price range of $17 to $47 (i.e., $17 + $30). Additionally, these items must have had a quantity between 100 and 500 on hand during a 60-day period starting from July 9, 1999. The results should be grouped by item ID, item description, and current price, and sorted by item ID, with a limit of 100 results."
+    },
+    {
+        "role": "system",
+        "content": "Here are the 3 critical rules for the interactions you must abide:\n<rules>1.do not  Wrap the generated SQL code within SQL code markdown format. Also, do not include the SQL keyword in the beginning of the response.\n2. If I don't tell you to find a limited set of results, limit to 100.\n3. Only use tables and columns from the list provided, where each table name can be found within <tableName> and columns within <columns></rules>"
+    }
+]

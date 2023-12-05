@@ -1,3 +1,0 @@
-Binder Error: GROUP BY clause cannot contain aggregates!
-LINE 35:                 WHEN COUNT(*) > 2972190 THEN 1
-                              ^

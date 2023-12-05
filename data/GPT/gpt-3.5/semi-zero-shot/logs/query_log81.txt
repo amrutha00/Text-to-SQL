@@ -1,3 +1,0 @@
-Binder Error: Table "cd" does not have a column named "customer_id"
-LINE 23:     cd.customer_id = cr.customer_id
-             ^

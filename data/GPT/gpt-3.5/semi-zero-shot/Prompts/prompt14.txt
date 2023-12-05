@@ -1,0 +1,4 @@
+With the TPC-DS dataset as a reference, using the table and field names from the TPC-DS benchmark, convert natural language directive provided as input into an SQL query in the Netezza dialect?
+Input: Iteration 1: In the first part of this query, it starts by identifying items within the same brand, class, and category that were sold in all three sales channels over two consecutive years, specifically from 2000 to 2002. It calculates the average sales (quantity multiplied by list price) across all sales in these three years (referred to as average sales). Subsequently, it calculates the total sales and the total number of sales rolled up for each channel, brand, class, and category. Only the sales from cross-channel sales that exceeded the average sale are considered.
+
+Iteration 2: In the second part of the query, it compares December store sales from the previous year (2001) to the current year (2002).

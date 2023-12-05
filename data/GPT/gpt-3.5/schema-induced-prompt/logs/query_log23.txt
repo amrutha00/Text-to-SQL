@@ -1,1 +1,0 @@
-Parser Error: ORDER BY is not implemented for window functions!

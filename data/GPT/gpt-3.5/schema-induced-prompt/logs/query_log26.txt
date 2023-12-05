@@ -1,4 +1,0 @@
-Binder Error: Referenced table "d" not found!
-Candidate tables: "i", "p", "cd", "cs"
-LINE 15:       AND d.d_year = 2001
-                   ^

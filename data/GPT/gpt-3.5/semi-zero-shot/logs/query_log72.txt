@@ -1,3 +1,0 @@
-Binder Error: Macro function 'date_add(date, interval)' requires 2 positional arguments, but 3 positional arguments were provided.
-LINE 21:     AND date_dim.d_date < DATE_ADD('day', 5, date_dim.d_date)
-                                   ^

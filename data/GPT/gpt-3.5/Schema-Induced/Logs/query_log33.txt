@@ -1,0 +1,4 @@
+Binder Error: Referenced column "ss_addr_sk" not found in FROM clause!
+Candidate bindings: "customer_address.ca_address_sk"
+LINE 15: JOIN customer_address ON ss_addr_sk = ca_address_sk
+                                  ^

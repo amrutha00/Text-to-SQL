@@ -1,1 +1,0 @@
-Binder Error: Table "tw" does not have a column named "time_id"

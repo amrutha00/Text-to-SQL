@@ -1,3 +1,0 @@
-Parser Error: syntax error at or near "<"
-LINE 21:    s.d_month_seq = <specific_month_sequence>
-                            ^

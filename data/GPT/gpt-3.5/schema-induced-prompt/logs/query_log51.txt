@@ -1,2 +1,0 @@
-Binder Error: Referenced column "start_date_sk" not found in FROM clause!
-Candidate bindings: "dd.d_date_sk"

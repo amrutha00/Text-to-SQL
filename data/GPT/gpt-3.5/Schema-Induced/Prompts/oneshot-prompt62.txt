@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert Text-to-SQL assistant. Your goal is to provide correct SQL queries in accordance with the given text description. Please use the SQL dialect compatible with duckDB. Your output should only contain the SQL code. No explanation or introductory sentences surrounding the SQL response is needed. You are given schema information containing table names in <tableName> tags and columns in <columns> tags. Here is the schema information:"
+    },
+    {
+        "role": "user",
+        "content": "<tableName>web_sales</tableName>\n<columns>ws_ship_date_sk, ws_warehouse_sk, ws_ship_mode_sk, ws_web_site_sk, ws_sold_date_sk</columns>\n\n<tableName>warehouse</tableName>\n<columns>w_warehouse_sk, w_warehouse_name</columns>\n\n<tableName>ship_mode</tableName>\n<columns>sm_ship_mode_sk, sm_type</columns>\n\n<tableName>web_site</tableName>\n<columns>web_site_sk, web_name</columns>\n\n<tableName>date_dim</tableName>\n<columns>d_month_seq, d_date_sk</columns>\n"
+    },
+    {
+        "role": "system",
+        "content": "Here is the user question:"
+    },
+    {
+        "role": "user",
+        "content": "Create a report for web sales that displays the counts of orders shipped within 30 days, between 31 and 60 days, between 61 and 90 days, between 91 and 120 days, and over 120 days within the year 1194. The report is grouped by warehouse name, shipping mode, and web site. The results are ordered by warehouse name, shipping mode, and web name, and limited to the top 100 records."
+    },
+    {
+        "role": "system",
+        "content": "Here are the 3 critical rules for the interactions you must abide:\n<rules>1.do not  Wrap the generated SQL code within SQL code markdown format. Also, do not include the SQL keyword in the beginning of the response.\n2. If I don't tell you to find a limited set of results, limit to 100.\n3. Only use tables and columns from the list provided, where each table name can be found within <tableName> and columns within <columns></rules>"
+    }
+]

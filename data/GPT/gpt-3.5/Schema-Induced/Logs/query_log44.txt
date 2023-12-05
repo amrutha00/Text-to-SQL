@@ -1,0 +1,3 @@
+Parser Error: syntax error at or near "UNION"
+LINE 23: UNION ALL
+         ^

@@ -1,3 +1,0 @@
-Binder Error: Table "c" does not have a column named "c_last_review_date"
-LINE 45:     c.c_last_review_date
-             ^

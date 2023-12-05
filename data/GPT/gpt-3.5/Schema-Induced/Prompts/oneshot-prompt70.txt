@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert Text-to-SQL assistant. Your goal is to provide correct SQL queries in accordance with the given text description. Please use the SQL dialect compatible with duckDB. Your output should only contain the SQL code. No explanation or introductory sentences surrounding the SQL response is needed. You are given schema information containing table names in <tableName> tags and columns in <columns> tags. Here is the schema information:"
+    },
+    {
+        "role": "user",
+        "content": "<tableName>store_sales</tableName>\n<columns>ss_sold_date_sk, ss_sold_time_sk, ss_item_sk, ss_customer_sk, ss_cdemo_sk, ss_hdemo_sk, ss_addr_sk, ss_store_sk, ss_promo_sk, ss_ticket_number, ss_quantity, ss_wholesale_cost, ss_list_price, ss_sales_price, ss_ext_discount_amt, ss_ext_sales_price, ss_ext_wholesale_cost, ss_ext_list_price, ss_ext_tax, ss_coupon_amt, ss_net_paid, ss_net_paid_inc_tax, ss_net_profit</columns>\n\n<tableName>date_dim</tableName>\n<columns>d_date_sk, d_month_seq, d_date_id, d_date</columns>\n\n<tableName>store</tableName>\n<columns>s_store_sk, s_store_id, s_rec_start_date, s_rec_end_date, s_closed_date_sk, s_store_name, s_number_employees, s_floor_space, s_hours, s_manager, s_market_id, s_geography_class, s_market_desc, s_market_manager, s_division_id, s_division_name, s_company_id, s_company_name, s_street_number, s_street_name, s_street_type, s_suite_number, s_city, s_county, s_state, s_zip, s_country, s_gmt_offset, s_tax_percentage>\n"
+    },
+    {
+        "role": "system",
+        "content": "Here is the user question:"
+    },
+    {
+        "role": "user",
+        "content": "Compute the total net profit (ss_net_profit) for store sales, grouped by state and county, and establish a hierarchical ranking (lochierarchy) within each state-county combination. Additionally, rank the states by their net profit in descending order and calculate the rank of each state within its parent state (rank_within_parent). This analysis is based on store sales data, date information for a specific year, and store details. We are considering data from December 1213 to November 1214. The result includes a maximum of 100 records.\n\nTo accomplish this, we begin by selecting the relevant data from the store_sales, date_dim, and store tables. We filter the data to include only records for the specified year. Then, we group the results by the state and county, creating a hierarchical structure using the ROLLUP function. Within each state-county combination, we calculate the total net profit (total_sum) and assign aliases to the columns accordingly.\n\nTo determine the rank of states by net profit, we use the RANK() window function partitioned by the state and ordered by the total net profit in descending order. We also calculate the rank of each state within its parent state when the county grouping is zero.\n\nFinally, we apply sorting to the results. We first order by lochierarchy in descending order, then by state when lochierarchy is zero, and finally by rank_within_parent. We limit the output to the top 100 records.\n\nIn summary, this SQL query provides a detailed analysis of store sales net profit, hierarchical rankings, and state-wise profitability for a specific year, helping to identify the top-performing states.\n\n\n\n\n\n"
+    },
+    {
+        "role": "system",
+        "content": "Here are the 3 critical rules for the interactions you must abide:\n<rules>1.do not  Wrap the generated SQL code within SQL code markdown format. Also, do not include the SQL keyword in the beginning of the response.\n2. If I don't tell you to find a limited set of results, limit to 100.\n3. Only use tables and columns from the list provided, where each table name can be found within <tableName> and columns within <columns></rules>"
+    }
+]

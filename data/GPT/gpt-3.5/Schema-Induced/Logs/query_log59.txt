@@ -1,0 +1,3 @@
+Binder Error: Values list "sales_current_year" does not have a column named "ss_store_sk"
+LINE 26:         ON ss.ss_store_sk = sales_current_year.ss_store_sk 
+                                     ^
