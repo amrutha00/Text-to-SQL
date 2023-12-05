@@ -46,7 +46,7 @@ jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
 
 ## Detailed steps 
 
-1. Due to licensing requirements, we do not provide TPC-DS source code to generate queries or dataset publicly.
+Due to licensing requirements, we do not provide TPC-DS source code to generate queries or dataset publicly.
 One can raise a request to [TPC-DS committee](https://www.tpc.org/tpc_documents_current_versions/current_specifications5.asp) and get these tools.  
 Download TPC-DS dsdqgen tool after accepting their licensing terms. The tool is filled with errors, and we are open to providing the patch on-request. 
 Note: If you are a core developer of the project, you can raise a request by emailing primary author. 
@@ -74,7 +74,7 @@ We split the execution of SQL generation using LLM and executing the generated S
 We have two different scripts created depending on the choice of the model. 
 This is because OpenAI GPT3.5 and GPT4 are required to be accessed via end-point while the SQLCoder-34B and SQLize are local host models and requires to be accessed locally. 
 
-For GPT3.5 models. 
+For GPT3.5 models: 
 1. Generate SQL using scripts provided in `data/GPT/gpt-3.5/semi-zero-shot/scripts/gpt-query-gen.py` for semi-zero-shot prompting and using `data/GPT/gpt-3.5/schema-induced/scripts/gpt-query-gen.py` for schema-induced prompting.
 2. Execute the generated SQL on DuckDB using the scripts provided in `data/GPT/gpt-3.5/semi-zero-shot/scripts/zeroshot-execution.py` for generated semi-zero-shot prompting and `data/GPT/gpt-3.5/semi-zero-shot/scripts/schema-induced-execution.py` for schema-induced prompting.
 
@@ -86,7 +86,7 @@ For GPT4 models:
 For SQLCoder-34B and SQLize models, a lot of manual intervension is required to extract the SQL query from the LLM response. Please follow the steps detailed below. 
 
 ### SQLCoder-34B steps: 
-If you plan to test and generate SQL for the proposed dataset using the [SQLCoder-34B](https://github.com/defog-ai/sqlcoder) baseline, please follow the steps detailed in the data/sqlcoder/sqlcoder.ipynb notebook. 
+If you plan to test and generate SQL for the proposed dataset using the [SQLCoder-34B](https://github.com/defog-ai/sqlcoder) baseline, please follow the steps detailed in the [Colab](https://colab.research.google.com/drive/1aAWvQn5FxzouqJqe8I7In5PHRTgQllD5?usp=sharing) notebook. 
 
 ### SQLize-7B steps: 
 If you plan to test SQLize with pretrained model, download the models from here: [Google drive](https://drive.google.com/drive/folders/1vfuYucYCIBtTxcuPO89xsH0vVVFyUUQx?usp=sharing). 
