@@ -92,16 +92,18 @@ If you plan to test and generate SQL for the proposed dataset using the [SQLCode
 If you plan to test SQLize with pretrained model, download the models from here: [Google drive](https://drive.google.com/drive/folders/1vfuYucYCIBtTxcuPO89xsH0vVVFyUUQx?usp=sharing). 
 Copy the models to this location of the repository 
 ```
-mv ~/Downloads/models.zip /workspace/data/cs598-tpcds/
-cd /workspace/data/cs598-tpcds/
+mv ~/Downloads/models.zip /workspace/data/cs598-tpcds/data/sqlize/
+cd /workspace/data/cs598-tpcds/data/sqlize
 unzip models.zip
 ```
 
-Once the models are downloaded (~15GB), please follow the steps discussed in <TO ADD>
+Once the models are downloaded (~15GB), please follow the steps discussed in `data/sqlize/fine-tuning/inference.ipynb` notebook. 
 
 ### SQLize Training and Fine-tuning
-Please follow the notebook described below for the purpose. 
-
+1. Download the `spider_wikisql_dataset.json` dataset from [Google drive](). Copy the downloaded file to `data/dataset-spider/spider_wikisql_dataset.json`
+2. Pretraining with DAPT and PEFT can be executed by following the `data/sqlize/pre-training/pre_training.ipynb` notebook.
+3. After pretraining (takes about 9hr to complete), we move to finetuning using SFT by following the `data/sqlize/fine-tuning/fine-tuning.ipynb` notebook. For this step, the proposed dataset is augmented with 10 different NLQs. This updated dataset is available in `data/sqlize/fine-tuning/dataset` folder. 
+4. To perform inference, follow the steps described in `data/sqlize/fine-tuning/inference.ipynb` notebook. 
 
 # Dataset keyword and complexity analysis 
 
