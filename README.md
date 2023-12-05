@@ -38,7 +38,7 @@ jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
 
 
 ### Software requirements:
-1. The codebase has been tested with NVIDIA NGC [Pytorch:23.09 containers](nvcr.io/nvidia/pytorch:23.09-py3). 
+1. The codebase has been tested with NVIDIA NGC [Pytorch:23.09 containers](https://nvcr.io/nvidia/pytorch:23.09-py3). 
 2. Install necessary packages to install DuckDB by following steps discussed in [DuckDB Install](https://duckdb.org/#quickinstall)
 3. We also require OpenAI API keys to access their models. Since we will be using GPT3.5 and GPT4 models in our evaluation, you must register with OpenAI and have available credits of atleast $10 to start.
 4. Install all additional libraries for python in requirement.txt  
