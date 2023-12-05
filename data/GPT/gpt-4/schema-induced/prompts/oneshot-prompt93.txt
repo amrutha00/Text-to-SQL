@@ -5,7 +5,7 @@
     },
     {
         "role": "user",
-        "content": "<tableName>store_sales</tableName>\n<columns>ss_customer_sk, ss_quantity, ss_sales_price, ss_item_sk, ss_ticket_number</columns>\n<tableName>store_returns</tableName>\n<columns>sr_return_quantity, sr_item_sk, sr_ticket_number, sr_reason_sk, sr_returned_date_sk, sr_customer_sk</columns>\n<tableName>reason</tableName>\n<columns>r_reason_sk, r_reason_desc</columns>"
+        "content": "<tableName>store_sales</tableName>\n<columns>ss_sold_date_sk,  ss_sold_time_sk,  ss_item_sk,  ss_customer_sk,  ss_cdemo_sk,  ss_hdemo_sk,  ss_addr_sk,  ss_store_sk,  ss_promo_sk,  ss_ticket_number,  ss_quantity,  ss_wholesale_cost,  ss_list_price,  ss_sales_price,  ss_ext_discount_amt,  ss_ext_sales_price,  ss_ext_wholesale_cost,  ss_ext_list_price,  ss_ext_tax,  ss_coupon_amt,  ss_net_paid,  ss_net_paid_inc_tax,  ss_net_profit</columns>\n<tableName>store_returns</tableName>\n<columns>sr_returned_date_sk,  sr_return_time_sk,  sr_item_sk,  sr_customer_sk,  sr_cdemo_sk,  sr_hdemo_sk,  sr_addr_sk,  sr_store_sk,  sr_reason_sk,  sr_ticket_number,  sr_return_quantity,  sr_return_amt,  sr_return_tax,  sr_return_amt_inc_tax,  sr_fee,  sr_return_ship_cost,  sr_refunded_cash,  sr_reversed_charge,  sr_store_credit,  sr_net_loss</columns>\n<tableName>reason</tableName>\n<columns>r_reason_sk,  r_reason_id,  r_reason_desc</columns>\n"
     },
     {
         "role": "system",

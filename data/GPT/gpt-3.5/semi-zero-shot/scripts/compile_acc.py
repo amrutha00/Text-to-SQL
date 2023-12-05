@@ -1,5 +1,5 @@
 import json
-
+import os
 res = {
     'error_dict' : {
                 'bind_error' : [],
@@ -24,7 +24,7 @@ res = {
 
 
 for i in range(1,100):
-    path = f"../logs/query-output-log{i}.txt"
+    path = os.path.abspath(f"../logs/query-output-log{i}.txt")
     with open(path,'r') as f:
         content = f.read()
         #print(content)
@@ -51,6 +51,6 @@ res['acc_metrics']['compilation_acc'] = round(1 - (res['error_dict']['parse_erro
 res['acc_metrics']['execution_acc'] = round(res['success']['success_count']/99,5)
 
 
-with open('../results.json','w') as f:
+with open(os.path.abspath('../results.json'),'w') as f:
     json.dump(res, f, indent=3)
    

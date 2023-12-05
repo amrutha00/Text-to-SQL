@@ -1,0 +1,12 @@
+<tableName>store_sales</tableName>
+<columns>ss_sold_date_sk,  ss_sold_time_sk,  ss_item_sk,  ss_customer_sk,  ss_cdemo_sk,  ss_hdemo_sk,  ss_addr_sk,  ss_store_sk,  ss_promo_sk,  ss_ticket_number,  ss_quantity,  ss_wholesale_cost,  ss_list_price,  ss_sales_price,  ss_ext_discount_amt,  ss_ext_sales_price,  ss_ext_wholesale_cost,  ss_ext_list_price,  ss_ext_tax,  ss_coupon_amt,  ss_net_paid,  ss_net_paid_inc_tax,  ss_net_profit</columns>
+<tableName>store_returns</tableName>
+<columns>sr_returned_date_sk,  sr_return_time_sk,  sr_item_sk,  sr_customer_sk,  sr_cdemo_sk,  sr_hdemo_sk,  sr_addr_sk,  sr_store_sk,  sr_reason_sk,  sr_ticket_number,  sr_return_quantity,  sr_return_amt,  sr_return_tax,  sr_return_amt_inc_tax,  sr_fee,  sr_return_ship_cost,  sr_refunded_cash,  sr_reversed_charge,  sr_store_credit,  sr_net_loss</columns>
+<tableName>store</tableName>
+<columns>s_store_sk,  s_store_id,  s_rec_start_date,  s_rec_end_date,  s_closed_date_sk,  s_store_name,  s_number_employees,  s_floor_space,  s_hours,  s_manager,  s_market_id,  s_geography_class,  s_market_desc,  s_market_manager,  s_division_id,  s_division_name,  s_company_id,  s_company_name,  s_street_number,  s_street_name,  s_street_type,  s_suite_number,  s_city,  s_county,  s_state,  s_zip,  s_country,  s_gmt_offset,  s_tax_percentage</columns>
+<tableName>item</tableName>
+<columns>i_item_sk,  i_item_id,  i_rec_start_date,  i_rec_end_date,  i_item_desc,  i_current_price,  i_wholesale_cost,  i_brand_id,  i_brand,  i_class_id,  i_class,  i_category_id,  i_category,  i_manufact_id,  i_manufact,  i_size,  i_formulation,  i_color,  i_units,  i_container,  i_manager_id,  i_product_name</columns>
+<tableName>customer</tableName>
+<columns>c_customer_sk,  c_customer_id,  c_current_cdemo_sk,  c_current_hdemo_sk,  c_current_addr_sk,  c_first_shipto_date_sk,  c_first_sales_date_sk,  c_salutation,  c_first_name,  c_last_name,  c_preferred_cust_flag,  c_birth_day,  c_birth_month,  c_birth_year,  c_birth_country,  c_login,  c_email_address,  c_last_review_date_sk</columns>
+<tableName>customer_address</tableName>
+<columns>ca_address_sk,  ca_address_id,  ca_street_number,  ca_street_name,  ca_street_type,  ca_suite_number,  ca_city,  ca_county,  ca_state,  ca_zip,  ca_country,  ca_gmt_offset,  ca_location_type</columns>

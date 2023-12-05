@@ -7,21 +7,32 @@ messages = [
     {"role": "system", "content": "Here are the 3 critical rules for the interactions you must abide:\n<rules>1.do not  Wrap the generated SQL code within SQL code markdown format. Also, do not include the SQL keyword in the beginning of the response.\n2. If I don't tell you to find a limited set of results, limit to 100.\n3. Only use tables and columns from the list provided, where each table name can be found within <tableName> and columns within <columns></rules>"},
 ]
 '''
+<<<<<<< Updated upstream
 '''
 schema_info : ./data/GPT/tpcds-schema/
 user_query: ./data/dataset/NLQ/
 '''
+=======
+
+
+>>>>>>> Stashed changes
 import os
 import json
-
-output_directory = "../prompts" #"./data/gpt3/oneshot-schema/prompts/"
+output_directory = os.path.abspath("../prompts")
+#output_directory = "/data/GPT/gpt-3.5/schema-induced/prompts" 
 
 if not os.path.exists(output_directory):
+   
     os.makedirs(output_directory)
 
 for i in range(1, 100):
+<<<<<<< Updated upstream
     schema_file_path = f"../../../tpcds-schema/query_{i}.txt"
     user_query_path = f"../../../../dataset/NLQ/query{i}.txt"
+=======
+    schema_file_path = os.path.abspath(f"../schema/query_{i}.txt")
+    user_query_path = os.path.abspath(f"../../../../dataset/NLQ/query{i}.txt")
+>>>>>>> Stashed changes
     output_file_path = f"{output_directory}/oneshot-prompt{i}.txt"
 
     with open(schema_file_path, 'r') as schema_file, open(user_query_path, 'r') as query_file:

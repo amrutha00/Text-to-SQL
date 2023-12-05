@@ -31,9 +31,15 @@ def llm(model,message):
 def main():
    
     for i in range(1,100):
+<<<<<<< Updated upstream
         prompt_path = f"../prompts/oneshot-prompt{i}.txt"
         response_time_path = f"../llm-gen-time/schema-induced-gen-time{i}.txt"
         query_path = f"../queries/schema-induced-query{i}.sql"
+=======
+        prompt_path = os.path.abspath(f"../prompts/oneshot-prompt{i}.txt")
+        response_time_path = os.path.abspath(f"../llm-gen-time/schema-induced-gen-time{i}.txt")
+        query_path = os.path.abspath(f"../queries/schema-induced-query{i}.sql")
+>>>>>>> Stashed changes
 
         with open(prompt_path,"r") as f:
             prompt = f.read()
