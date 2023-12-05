@@ -37,6 +37,7 @@ def main():
 
         with open(prompt_path,"r") as f:
             prompt = f.read()
+        print(prompt)
         prompt = json.loads(prompt)
         
         time_taken, query = llm("gpt-4",prompt)
