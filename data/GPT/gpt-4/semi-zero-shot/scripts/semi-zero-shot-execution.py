@@ -11,11 +11,7 @@ db_populate = db_con.execute(f"import database '{dir_path}';")
 db_info = db_con.execute("select * from information_schema.tables;")
 db_populated = len(db_info.fetchall())
 if db_populated > 0: 
-<<<<<<< Updated upstream
-    zeroshot_path = "/workspace/data/cs598-tpcds/data/GPT/"
-=======
-    zeroshot_path = "/data/GPT/"
->>>>>>> Stashed changes
+    zeroshot_path = os.path.abspath("../../../")
     gpt_model = os.path.join(zeroshot_path,"gpt-4/semi-zero-shot")
     output_dir = os.path.join(gpt_model,"results")
     log_dir =  os.path.join(gpt_model,"logs")

@@ -22,13 +22,8 @@ if not os.path.exists(output_directory):
 
 
 for i in range(1, 100):
-<<<<<<< Updated upstream
-    schema_file_path = f"../../../tpcds-schema/query_{i}.txt"
-    user_query_path = f"../../../../dataset/NLQ/query{i}.txt"
-=======
     schema_file_path = os.path.abspath(f"../schema/query_{i}.txt")
     user_query_path = os.path.abspath(f"../../../../dataset/NLQ/query{i}.txt")
->>>>>>> Stashed changes
     output_file_path = f"{output_directory}/oneshot-prompt{i}.txt"
 
     with open(schema_file_path, 'r') as schema_file, open(user_query_path, 'r') as query_file:
