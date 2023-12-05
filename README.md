@@ -86,7 +86,7 @@ For GPT4 models:
 For SQLCoder-34B and SQLize models, a lot of manual intervension is required to extract the SQL query from the LLM response. Please follow the steps detailed below. 
 
 ### SQLCoder-34B steps: 
-If you plan to test and generate SQL for the proposed dataset using the [SQLCoder-34B](https://github.com/defog-ai/sqlcoder) baseline, please follow the steps detailed in the [Colab](https://colab.research.google.com/drive/1aAWvQn5FxzouqJqe8I7In5PHRTgQllD5?usp=sharing) notebook. 
+If you plan to test and generate SQL for the proposed dataset using the [SQLCoder-34B](https://github.com/defog-ai/sqlcoder) baseline, please follow the steps detailed in the [Colab](https://colab.research.google.com/drive/1aAWvQn5FxzouqJqe8I7In5PHRTgQllD5?usp=sharing) notebook or following `data/sqlcoder/defog_sqlcoder_colab.ipynb` 
 
 ### SQLize-7B steps: 
 If you plan to test SQLize with pretrained model, download the models from here: [Google drive](https://drive.google.com/drive/folders/1vfuYucYCIBtTxcuPO89xsH0vVVFyUUQx?usp=sharing). 
