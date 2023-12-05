@@ -32,7 +32,7 @@ def main():
    
     for i in range(1,2):
         prompt_path = f"../prompts/oneshot-prompt{i}.txt"
-        response_time_path = f"../ll-gen-time/schema-induced-gen-time{i}.txt"
+        response_time_path = f"../llm-gen-time/schema-induced-gen-time{i}.txt"
         query_path = f"../queries/schema-induced-query{i}.sql"
 
         with open(prompt_path,"r") as f:
