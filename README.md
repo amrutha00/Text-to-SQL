@@ -21,54 +21,43 @@ git clone https://github.com/Bhagyashreet20/cs598-tpcds.git
 cd cs598-tpcds
 ```
 
+If you want to use the TPCDS dataset in your experiments, you can find the dataset in `data/dataset` folder. Please note port 8888 is mapped for jupyter notebook and if you plan to use it, we highly recommend starting the juypter nodebook server inside the container using the below command line: 
+```
+jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
+```
+
+
 ## Minimum hardware and software requirements
 
-Minimum Hardware requirements: 
-```
-16 core x86 CPU
-256GB RAM
-NVIDIA Ampere generation or above GPU card.
-512GB of diskspace
-```
+### Minimum Hardware requirements: 
 
-Software requirements:
-The codebase has been tested with NVIDIA NGC [Pytorch:23.09 containers](nvcr.io/nvidia/pytorch:23.09-py3). 
-Install necessary packages to install DuckDB by following steps discussed in [DuckDB Install](https://duckdb.org/#quickinstall)
-We also require OpenAI API keys to access their models. 
-Since we will be using GPT3.5 and GPT4 models in our evaluation, you must register with OpenAI and have available credits of atleast $10 to start. 
+- 16 core x86 CPU
+- 256GB RAM
+- NVIDIA Ampere generation or above GPU card with atleast 24GB memory.
+- 512GB of diskspace
 
 
-## Downloads
-1. Download TPC-DS Text-to-SQL dataset from here: [Google drive](ADD LINK)
-You need to copy the downloaded dataset in this location of the repository.
-```
-mv ~/Downloads/tpcds_dataset.tar.gz /workspace/data/cs598-tpcds/data/tpcds/NLQ/
-cd /workspace/data/cs598-tpcds/data/tpcds/NLQ/
-tar xvzf <>
-```
+### Software requirements:
+1. The codebase has been tested with NVIDIA NGC [Pytorch:23.09 containers](nvcr.io/nvidia/pytorch:23.09-py3). 
+2. Install necessary packages to install DuckDB by following steps discussed in [DuckDB Install](https://duckdb.org/#quickinstall)
+3. We also require OpenAI API keys to access their models. Since we will be using GPT3.5 and GPT4 models in our evaluation, you must register with OpenAI and have available credits of atleast $10 to start.
+4. Install all additional libraries for python in requirement.txt  
 
-2. Due to licensing requirements, we do not provide TPC-DS source code to generate queries or dataset publicly.
+
+## Detailed steps 
+
+1. Due to licensing requirements, we do not provide TPC-DS source code to generate queries or dataset publicly.
 One can raise a request to [TPC-DS committee](https://www.tpc.org/tpc_documents_current_versions/current_specifications5.asp) and get these tools.  
 Download TPC-DS dsdqgen tool after accepting their licensing terms. The tool is filled with errors, and we are open to providing the patch on-request. 
 Note: If you are a core developer of the project, you can raise a request by emailing primary author. 
 
-We are providing generated golden queries only for SF100 dataset in this folder: 
-We expect the user generates SF100 dataset using the following commands. (This should take close to 1hr on Gen4 SSD).
+We are providing generated golden queries only for SF100 dataset in this folder: `data/dataset/SQL`. We expect the user to generate SF100 dataset using the following commands. (This should take close to 1hr on a Gen4 SSD).
 ```
 python data/duckdb/gen_sf_data.py
 ```
 On successful generation, you should be able to see the dataset stored in parquet format in `data/tpcds/tpcds_sf100`.
 If successful generation fails, then it can be either you ran out of memory or disk space or you are using older version of duckdb. 
 
-3. If you plan to test [SQLCoder-34B](https://github.com/defog-ai/sqlcoder), execute data/sqlcoder/sqlcoder.ipynb script.
-
-4. If you plan to train or test SQLize, download the models from here: [Google drive](ADD LINK). 
-Copy the models to this location of the repository 
-```
-mv ~/Downloads/tpcds_models.tar.gz ./models/
-cd ./models
-tar xvzf <>
-```
 
 # End-to-end evaluation
 
@@ -94,17 +83,24 @@ For GPT4 models:
 2. Execute the generated SQL on DuckDB using:
 
 
-For SQLCoder-34B and SQLize models, a lot of manual intervension is required to extract the SQL query from the LLM response. 
-1. Generate SQL using: 
-2. Manually extract the generated SQL queries and update the sql scripts.
-2. Execute the generated SQL on DuckDB using:i
+For SQLCoder-34B and SQLize models, a lot of manual intervension is required to extract the SQL query from the LLM response. Please follow the steps detailed below. 
 
+### SQLCoder-34B steps: 
+If you plan to test and generate SQL for the proposed dataset using the [SQLCoder-34B](https://github.com/defog-ai/sqlcoder) baseline, please follow the steps detailed in the data/sqlcoder/sqlcoder.ipynb notebook. 
 
+### SQLize-7B steps: 
+If you plan to test SQLize with pretrained model, download the models from here: [Google drive](https://drive.google.com/drive/folders/1vfuYucYCIBtTxcuPO89xsH0vVVFyUUQx?usp=sharing). 
+Copy the models to this location of the repository 
+```
+mv ~/Downloads/models.zip /workspace/data/cs598-tpcds/
+cd /workspace/data/cs598-tpcds/
+unzip models.zip
+```
 
-# SQLize Training and Fine-tuning
+Once the models are downloaded (~15GB), please follow the steps discussed in <TO ADD>
+
+### SQLize Training and Fine-tuning
 Please follow the notebook described below for the purpose. 
-
-
 
 
 # Dataset keyword and complexity analysis 

@@ -1,0 +1,6 @@
+Query query_22 executed in 0.47 seconds
+Query query_37 executed in 0.01 seconds
+Query query_95 executed in 0.01 seconds
+Query query_22 executed in 0.35 seconds
+Query query_37 executed in 0.01 seconds
+Query query_95 executed in 0.01 seconds
