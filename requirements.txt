@@ -1,0 +1,13 @@
+duckdb
+openai
+sqlparse
+transformers
+torch
+transformers
+bitsandbytes
+accelerate
+peft
+trl
+datasets
+matplotlib
+pandas
