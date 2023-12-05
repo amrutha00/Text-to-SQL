@@ -1,0 +1,4 @@
+Catalog Error: Table with name your_sales_table does not exist!
+Did you mean "store_sales"?
+LINE 7:     your_sales_table
+            ^

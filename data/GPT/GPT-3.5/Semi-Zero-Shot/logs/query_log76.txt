@@ -1,0 +1,1 @@
+Binder Error: Table "d" does not have a column named "year"

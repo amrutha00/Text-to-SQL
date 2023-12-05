@@ -1,0 +1,3 @@
+Parser Error: syntax error at or near "<"
+LINE 18:     AND d_year BETWEEN <StartYear> AND <EndYear>
+                                ^

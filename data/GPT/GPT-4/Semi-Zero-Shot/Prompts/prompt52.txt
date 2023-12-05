@@ -1,0 +1,2 @@
+With the TPC-DS dataset as a reference, using the table and field names from the TPC-DS benchmark, convert natural language directive provided as input into an SQL query in the Netezza dialect?
+Input: This query retrieves the total extended sales price for all items of a specific brand in the year 2002 and the month of December. It groups the results by year, brand, and brand ID, then orders them by year in descending order of extended price and brand ID, limiting the output to the top 100 results.

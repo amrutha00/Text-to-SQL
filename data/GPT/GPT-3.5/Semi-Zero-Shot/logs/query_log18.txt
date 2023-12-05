@@ -1,0 +1,2 @@
+Binder Error: Referenced column "WS_BUYER_ID" not found in FROM clause!
+Candidate bindings: "WEB_SALES.ws_net_paid"

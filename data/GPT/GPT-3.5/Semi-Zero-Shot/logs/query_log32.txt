@@ -1,0 +1,5 @@
+Invalid Input Error: Attempting to execute an unsuccessful or closed pending query result
+Error: Binder Error: Referenced column "s_year" not found in FROM clause!
+Candidate bindings: "store_sales.ss_ext_tax"
+LINE 11:     s_year = 2000
+             ^

@@ -1,0 +1,6 @@
+Binder Error: Table "i" does not have a column named "i_item_manufacturer_id"
+LINE 10: AND i.i_item_manufacturer_id IN (856, 707, 1000, 747)
+GROUP BY i.i_item_id, i.i_item_desc, i.i_current_price
+ORDER BY i.i_item_id
+LIMIT 100;...
+             ^

@@ -1,0 +1,3 @@
+Binder Error: Table "s" does not have a column named "ws_warehouse_sk"
+LINE 14:     warehouse AS w ON s.ws_warehouse_sk = w.w_warehouse_sk
+                               ^

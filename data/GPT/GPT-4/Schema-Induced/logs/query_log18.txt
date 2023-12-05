@@ -1,0 +1,17 @@
+Catalog Error: Scalar Function with name from_unixtime does not exist!
+Did you mean "from_hex"?
+LINE 24:     MONTHNAME(FROM_UNIXTIME(c.c_birth_day, c.c_birth_month, c.c_birth_year)) IN ('January', 'February', 'March')
+    AND cd.cd_gender IN ('Male', 'Female')
+    AND cd.cd_marital_status = 'Married'
+GROUP BY
+    i.i_item_id,
+    ca.ca_country,
+    ca.ca_state,
+    ca.ca_county
+ORDER BY
+    ca.ca_country,
+    ca.ca_state,
+    ca.ca_county,
+    i.i_item_id
+LIMIT 100;...
+                       ^

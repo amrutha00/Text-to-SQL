@@ -1,0 +1,3 @@
+Parser Error: syntax error at or near "WITH"
+LINE 23:     i.i_item_id, s.s_state WITH ROLLUP
+                                    ^

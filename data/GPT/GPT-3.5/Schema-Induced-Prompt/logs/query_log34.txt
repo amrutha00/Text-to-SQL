@@ -1,0 +1,3 @@
+Parser Error: syntax error at or near "buy"
+LINE 7: WHERE hd.hd_buy_potential = [specific buy potential criteria]
+                                              ^

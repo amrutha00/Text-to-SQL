@@ -1,0 +1,2 @@
+With the TPC-DS dataset as a reference, using the table and field names from the TPC-DS benchmark, convert natural language directive provided as input into an SQL query in the Netezza dialect?
+Input: Calculate the net profit for stores located in 400 metropolitan areas with more than 10 preferred customers during the second quarter (Q2) of the year 1998. The results are aggregated by store name and sorted in ascending order by store name. The query returns the top 100 results.

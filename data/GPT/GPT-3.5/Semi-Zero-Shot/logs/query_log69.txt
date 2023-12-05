@@ -1,0 +1,3 @@
+Binder Error: Table "c" does not have a column named "c_state"
+LINE 17:     c.c_state IN ('TX', 'VA', 'MI')
+             ^

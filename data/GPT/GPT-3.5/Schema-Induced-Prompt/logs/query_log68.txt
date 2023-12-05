@@ -1,0 +1,5 @@
+Binder Error: Table "customer" does not have a column named "c_dep_count"
+LINE 18: ...c_last_name,
+    sum(ss_ext_sales_price) AS extended_sales_price,
+    sum(ss_e...
+                                                   ^

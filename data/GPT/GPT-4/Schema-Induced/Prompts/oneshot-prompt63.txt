@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert Text-to-SQL assistant. Your goal is to provide correct SQL queries in accordance with the given text description. Please use the SQL dialect compatible with duckDB. Your output should only contain the SQL code. No explanation or introductory sentences surrounding the SQL response is needed. You are given schema information containing table names in <tableName> tags and columns in <columns> tags. Here is the schema information:"
+    },
+    {
+        "role": "user",
+        "content": "<tableName>item</tableName>\n<columns>i_item_sk, i_manager_id</columns>\n<tableName>store_sales</tableName>\n<columns>ss_item_sk, ss_sold_date_sk, ss_store_sk, ss_sales_price</columns>\n<tableName>date_dim</tableName>\n<columns>d_date_sk, d_month_seq</columns>"
+    },
+    {
+        "role": "system",
+        "content": "Here is the user question:"
+    },
+    {
+        "role": "user",
+        "content": "To accomplish the task of calculating the monthly sales of items within specific categories, classes, and brands sold in stores for a given year, and to group the results by store manager, the SQL query first selects the necessary data. It sums the sales prices of items and calculates the average monthly sales for each store manager. It partitions the data by manager and month. The query considers only months within the range of a specific year.\n\nThe specific categories, classes, and brands of items to be included in the calculation are filtered as follows:\n\nCategories: Books, Children, Electronics for one set of conditions, and Women, Music, Men for the other set.\nClasses: personal, portable, reference, self-help for the first set, and accessories, classical, fragrances, pants for the second set.\nBrands: scholaramalgamalg #14, scholaramalgamalg #7, exportiunivamalg #9, scholaramalgamalg #9 for the first set, and amalgimporto #1, edu packscholar #1, exportiimporto #1, importoamalg #1 for the second set.\nThe query then groups the data by store manager and month of the year (d_moy) and calculates the sum of sales (sum_sales) and the average monthly sales (avg_monthly_sales). It uses a case statement to filter out results where the average monthly sales are greater than 0, and the relative difference between sum_sales and avg_monthly_sales is greater than 10%.\n\nFinally, the results are ordered by store manager (i_manager_id), average monthly sales (avg_monthly_sales), and sum of sales (sum_sales), and the query limits the output to the top 100 results."
+    },
+    {
+        "role": "system",
+        "content": "Here are the 3 critical rules for the interactions you must abide:\n<rules>1.do not  Wrap the generated SQL code within SQL code markdown format. Also, do not include the SQL keyword in the beginning of the response.\n2. If I don't tell you to find a limited set of results, limit to 100.\n3. Only use tables and columns from the list provided, where each table name can be found within <tableName> and columns within <columns></rules>"
+    }
+]

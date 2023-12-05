@@ -1,0 +1,2 @@
+With the TPC-DS dataset as a reference, using the table and field names from the TPC-DS benchmark, convert natural language directive provided as input into an SQL query in the Netezza dialect?
+Input: Calculate the total count of customers who have made purchases on the same day through three different channels: in-store, via the catalog, and on the web. Specifically, this query considers customers who made purchases in stores and online (catalog and web) during the time period from month 1184 to month 1195.

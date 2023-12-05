@@ -1,0 +1,24 @@
+Binder Error: No function matches the given name and argument types 'date_part(VARCHAR, INTEGER)'. You might need to add explicit type casts.
+	Candidate functions:
+	date_part(VARCHAR, DATE) -> BIGINT
+	date_part(VARCHAR, TIMESTAMP) -> BIGINT
+	date_part(VARCHAR, TIME) -> BIGINT
+	date_part(VARCHAR, INTERVAL) -> BIGINT
+	date_part(VARCHAR[], DATE) -> STRUCT()
+	date_part(VARCHAR[], TIMESTAMP) -> STRUCT()
+	date_part(VARCHAR[], TIME) -> STRUCT()
+	date_part(VARCHAR[], INTERVAL) -> STRUCT()
+	date_part(VARCHAR, TIMESTAMP WITH TIME ZONE) -> BIGINT
+	date_part(VARCHAR[], TIMESTAMP WITH TIME ZONE) -> STRUCT()
+
+LINE 18:   EXTRACT(YEAR FROM d_sold_date.d_date_sk) = 1224 AND EXTRACT(YEAR FROM d_ship_date.d_date_sk) = 1224
+GROUP BY 
+  w_warehouse_name,
+  sm_type,
+  cc_name
+ORDER BY 
+  SUBSTRING(w_warehouse_name, 1, 20),
+  sm_type,
+  cc_name 
+LIMIT 100;...
+           ^

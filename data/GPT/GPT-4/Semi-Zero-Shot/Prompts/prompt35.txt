@@ -1,0 +1,11 @@
+With the TPC-DS dataset as a reference, using the table and field names from the TPC-DS benchmark, convert natural language directive provided as input into an SQL query in the Netezza dialect?
+Input: For the groups of customers living in the same state, sharing the same gender and marital status, who made purchases from stores and either the catalog or the web during the year 2001 (excluding the first three quarters), the query provides the following information:
+
+The state in which these customers reside.
+The gender and marital status they have in common.
+The count of customers who fall into these categories.
+Additionally, it calculates various statistics related to customer dependents:
+
+The minimum, maximum, and average number of dependents each customer has.
+The count of distinct values for the number of customer dependents.
+The query repeats the "count of customers" for different scenarios, simulating a reporting tool, and then sorts the results by the state, gender, marital status, dependent count, employed dependent count, and dependents in college count. Finally, it limits the results to the top 100 records.

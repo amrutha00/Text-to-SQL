@@ -1,0 +1,9 @@
+Binder Error: Referenced column "ss_sold_date" not found in FROM clause!
+Candidate bindings: "store_sales.ss_sold_date_sk"
+LINE 20:     ss_sold_date >= '2000-08-19' AND ss_sold_date <= '2000-09-01'
+GROUP BY 
+    sales_channel, specific_method
+ORDER BY 
+    sales_channel, specific_method
+LIMIT 100;...
+             ^

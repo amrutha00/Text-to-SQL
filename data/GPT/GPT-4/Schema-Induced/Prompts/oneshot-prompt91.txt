@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert Text-to-SQL assistant. Your goal is to provide correct SQL queries in accordance with the given text description. Please use the SQL dialect compatible with duckDB. Your output should only contain the SQL code. No explanation or introductory sentences surrounding the SQL response is needed. You are given schema information containing table names in <tableName> tags and columns in <columns> tags. Here is the schema information:"
+    },
+    {
+        "role": "user",
+        "content": "<tableName>call_center</tableName>\n<columns>cc_call_center_id, cc_name, cc_manager</columns>\n\n<tableName>catalog_returns</tableName>\n<columns>cr_net_loss</columns>\n\n<tableName>date_dim</tableName>\n<columns>d_year, d_moy</columns>\n\n<tableName>customer</tableName>\n<columns>c_current_cdemo_sk, c_current_hdemo_sk, c_current_addr_sk</columns>\n\n<tableName>household_demographics</tableName>\n<columns>hd_buy_potential</columns>\n\n<tableName>customer_demographics</tableName>\n<columns>cd_marital_status, cd_education_status</columns>"
+    },
+    {
+        "role": "system",
+        "content": "Here is the user question:"
+    },
+    {
+        "role": "user",
+        "content": "We are tasked with retrieving specific information regarding catalog sales returns, focusing on call centers and their respective managers. Specifically, we want to know the total returns from catalog sales for a particular month, which is November 2001 in this case.\n\nTo narrow down the data, we are interested in male customers with an 'unknown' education status or female customers with 'advanced degrees.' Additionally, we are considering customers with a specified buy potential falling within the range of 1001 to 5000%.\n\nFurthermore, we are looking at data from a particular time zone with a GMT offset of -6. For each call center, we will gather information such as Call Center ID, Call Center Name, Manager, and the total Returns Loss.\n\nThe final result will be sorted in descending order based on the sum of net losses, with the call centers listed according to their performance in terms of returns, making it easy to identify the most successful ones."
+    },
+    {
+        "role": "system",
+        "content": "Here are the 3 critical rules for the interactions you must abide:\n<rules>1.do not  Wrap the generated SQL code within SQL code markdown format. Also, do not include the SQL keyword in the beginning of the response.\n2. If I don't tell you to find a limited set of results, limit to 100.\n3. Only use tables and columns from the list provided, where each table name can be found within <tableName> and columns within <columns></rules>"
+    }
+]

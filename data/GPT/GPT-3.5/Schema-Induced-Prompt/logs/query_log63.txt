@@ -1,0 +1,2 @@
+Binder Error: Referenced column "column1" not found in FROM clause!
+Candidate bindings: "item.i_color"

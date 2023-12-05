@@ -1,0 +1,4 @@
+Binder Error: column "c_last_name" must appear in the GROUP BY clause or must be part of an aggregate function.
+Either add it to the GROUP BY list, or use "ANY_VALUE(c_last_name)" if the exact value of "c_last_name" is not important.
+LINE 27:     customer.c_last_name, 
+             ^

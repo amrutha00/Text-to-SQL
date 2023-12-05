@@ -1,0 +1,18 @@
+Binder Error: No function matches the given name and argument types 'year(INTEGER)'. You might need to add explicit type casts.
+	Candidate functions:
+	year(DATE) -> BIGINT
+	year(TIMESTAMP) -> BIGINT
+	year(INTERVAL) -> BIGINT
+	year(TIMESTAMP WITH TIME ZONE) -> BIGINT
+
+LINE 15:     YEAR(catalog_sales.cs_sold_date_sk) = 2000
+GROUP BY 
+    ss_item_sk
+HAVING 
+    SUM(ss_quantity) > 0
+    AND SUM(cs_quantity) > 0
+    AND (SUM(ss_sales_price) / NULLIF(SUM(cs_sales_price), 0)) >= 2
+ORDER BY 
+    ratio DESC
+LIMIT 100;...
+             ^

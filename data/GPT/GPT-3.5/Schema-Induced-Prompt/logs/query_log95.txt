@@ -1,0 +1,3 @@
+Parser Error: syntax error at or near ";"
+LINE 49: LIMIT 100;
+                  ^

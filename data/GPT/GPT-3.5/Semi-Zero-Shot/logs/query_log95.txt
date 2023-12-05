@@ -1,0 +1,13 @@
+Binder Error: Table "c" does not have a column named "c_state"
+LINE 16:     c.c_state = 'NC' -- Customers residing in North Carolina
+    AND ws.ws_web_site = 'pri' -- Orders from the "pri" website
+    AND dd.d_date BETWEEN [start_date] AND [end_date] -- Replace [start_date] and [end_date] with the specific 60-day period
+GROUP BY
+    ws.ws_order_number
+HAVING
+    COUNT(DISTINCT w.w_warehouse_sk) > 1 -- Orders associated with more than one warehouse
+ORDER BY
+    web_sales_count DESC
+LIMIT 100; -- Limit to 100 results
+...
+             ^

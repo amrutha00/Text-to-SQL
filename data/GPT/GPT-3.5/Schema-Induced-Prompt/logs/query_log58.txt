@@ -1,0 +1,1 @@
+Binder Error: column ss.ss_ext_sales_price must appear in the GROUP BY clause or be used in an aggregate function

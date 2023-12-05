@@ -1,0 +1,2 @@
+Binder Error: Referenced column "Year" not found in FROM clause!
+Candidate bindings: "date_dim.d_year", "date_dim.d_fy_year"

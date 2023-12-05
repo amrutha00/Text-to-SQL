@@ -1,0 +1,1 @@
+Binder Error: Values list "si" does not have a column named "i_item_sk"

@@ -1,0 +1,3 @@
+Parser Error: syntax error at or near "WITH"
+LINE 8: WITH InventoryChange AS (
+        ^

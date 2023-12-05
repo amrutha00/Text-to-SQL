@@ -1,0 +1,15 @@
+With the TPC-DS dataset as a reference, using the table and field names from the TPC-DS benchmark, convert natural language directive provided as input into an SQL query in the Netezza dialect?
+Input: Compute the web and catalog sales and profits for each warehouse, broken down by month, for the year 1998 and within the 8-hour time period from 48821 to 48821+28800. The report includes details about each warehouse, such as the warehouse name, square footage, city, county, state, and country. Additionally, it specifies the shipping carriers 'GREAT EASTERN' and 'LATVIAN'. The data is aggregated and ordered by warehouse name, and the results are limited to the top 100 rows. For each month, the report provides the following information:
+
+January sales and net profit
+February sales and net profit
+March sales and net profit
+April sales and net profit
+May sales and net profit
+June sales and net profit
+July sales and net profit
+August sales and net profit
+September sales and net profit
+October sales and net profit
+November sales and net profit
+December sales and net profit.

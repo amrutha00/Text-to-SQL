@@ -1,0 +1,1 @@
+Binder Error: Table "os" does not have a column named "os_sold_date_sk"

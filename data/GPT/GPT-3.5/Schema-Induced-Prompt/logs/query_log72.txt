@@ -1,0 +1,3 @@
+Binder Error: Table "hd" does not have a column named "hd_marital_status"
+LINE 30:     AND hd.hd_marital_status = 'W'
+                 ^

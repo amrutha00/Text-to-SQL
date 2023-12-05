@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert Text-to-SQL assistant. Your goal is to provide correct SQL queries in accordance with the given text description. Please use the SQL dialect compatible with duckDB. Your output should only contain the SQL code. No explanation or introductory sentences surrounding the SQL response is needed. You are given schema information containing table names in <tableName> tags and columns in <columns> tags. Here is the schema information:"
+    },
+    {
+        "role": "user",
+        "content": "<tableName>store_sales</tableName>\n<columns>ss_sold_date_sk, ss_sold_time_sk, ss_item_sk, ss_customer_sk, ss_cdemo_sk, ss_hdemo_sk, ss_addr_sk, ss_store_sk, ss_promo_sk, ss_ticket_number, ss_quantity, ss_wholesale_cost, ss_list_price, ss_sales_price, ss_ext_discount_amt, ss_ext_sales_price, ss_ext_wholesale_cost, ss_ext_list_price, ss_ext_tax, ss_coupon_amt, ss_net_paid, ss_net_paid_inc_tax, ss_net_profit</columns>\n"
+    },
+    {
+        "role": "system",
+        "content": "Here is the user question:"
+    },
+    {
+        "role": "user",
+        "content": "Calculate the average list price, number of non-empty list prices, and number of distinct list prices for six different sales buckets within the store sales channel. Each sales bucket is defined by a specific range of items and information about list price, coupon amount, and wholesale cost. The first bucket (B1) includes items with a quantity between 0 and 5, where the list price is between $131 and $141, the coupon amount is between $16,798 and $17,798, and the wholesale cost is between $25 and $45. The second bucket (B2) covers items with a quantity between 6 and 10, with list prices between $145 and $155, coupon amounts between $14,792 and $15,792, and wholesale costs between $46 and $66. The third bucket (B3) pertains to items with a quantity between 11 and 15, having list prices between $150 and $160, coupon amounts between $6,600 and $7,600, and wholesale costs between $9 and $29. The fourth bucket (B4) encompasses items with a quantity between 16 and 20, where list prices range from $91 to $101, coupon amounts are between $13,493 and $14,493, and wholesale costs are within $36 to $56. The fifth bucket (B5) involves items with a quantity between 21 and 25, where list prices are between $0 and $10, coupon amounts range from $7,629 to $8,629, and wholesale costs are between $6 and $26. The sixth and final bucket (B6) covers items with a quantity between 26 and 30, with list prices between $89 and $99, coupon amounts between $15,257 and $16,257, and wholesale costs between $31 and $51. The result is limited to the top 100 records."
+    },
+    {
+        "role": "system",
+        "content": "Here are the 3 critical rules for the interactions you must abide:\n<rules>1.do not  Wrap the generated SQL code within SQL code markdown format. Also, do not include the SQL keyword in the beginning of the response.\n2. If I don't tell you to find a limited set of results, limit to 100.\n3. Only use tables and columns from the list provided, where each table name can be found within <tableName> and columns within <columns></rules>"
+    }
+]

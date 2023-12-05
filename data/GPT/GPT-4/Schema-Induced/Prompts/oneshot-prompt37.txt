@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert Text-to-SQL assistant. Your goal is to provide correct SQL queries in accordance with the given text description. Please use the SQL dialect compatible with duckDB. Your output should only contain the SQL code. No explanation or introductory sentences surrounding the SQL response is needed. You are given schema information containing table names in <tableName> tags and columns in <columns> tags. Here is the schema information:"
+    },
+    {
+        "role": "user",
+        "content": "<tableName>item</tableName>\n<columns>i_item_id, i_item_desc, i_current_price</columns>\n<tableName>inventory</tableName>\n<columns>inv_date_sk, inv_item_sk, inv_warehouse_sk, inv_quantity_on_hand</columns>\n<tableName>date_dim</tableName>\n<columns>d_date_sk</columns>\n<tableName>catalog_sales</tableName>\n<columns>cs_item_sk</columns>"
+    },
+    {
+        "role": "system",
+        "content": "Here is the user question:"
+    },
+    {
+        "role": "user",
+        "content": "List all items (i_item_id), item descriptions (i_item_desc), and current prices (i_current_price) that were sold through the catalog channel. These items are from specific manufacturers (manufacturer IDs 856, 707, 1000, and 747) and have a current price between $45 and $75 (a $30 price range). Additionally, these items had a consistent quantity on hand between 100 and 500 during a 60-day period, specifically from February 21, 1999, to 60 days later. The results are grouped by item ID (i_item_id), item description (i_item_desc), and current price (i_current_price) and ordered by item ID (i_item_id). A maximum of 100 rows are displayed."
+    },
+    {
+        "role": "system",
+        "content": "Here are the 3 critical rules for the interactions you must abide:\n<rules>1.do not  Wrap the generated SQL code within SQL code markdown format. Also, do not include the SQL keyword in the beginning of the response.\n2. If I don't tell you to find a limited set of results, limit to 100.\n3. Only use tables and columns from the list provided, where each table name can be found within <tableName> and columns within <columns></rules>"
+    }
+]

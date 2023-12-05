@@ -1,0 +1,4 @@
+Binder Error: Referenced column "specified_year" not found in FROM clause!
+Candidate bindings: "d.d_year"
+LINE 9: WHERE d.d_year = specified_year
+                         ^

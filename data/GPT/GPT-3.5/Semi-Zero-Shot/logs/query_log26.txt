@@ -1,0 +1,1 @@
+Binder Error: Table "web_sales" does not have a column named "ws_bill_c_customer_sk"

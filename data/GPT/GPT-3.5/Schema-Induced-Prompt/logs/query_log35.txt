@@ -1,0 +1,7 @@
+Binder Error: column "cd_dep_count" must appear in the GROUP BY clause or must be part of an aggregate function.
+Either add it to the GROUP BY list, or use "ANY_VALUE(cd_dep_count)" if the exact value of "cd_dep_count" is not important.
+LINE 30: ...T 
+    ca_state AS state, 
+    cd_gender AS gender, 
+    cd_marital_status AS ...
+                                                   ^

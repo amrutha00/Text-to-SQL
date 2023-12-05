@@ -1,0 +1,2 @@
+Catalog Error: Table with name orders does not exist!
+Did you mean "store"?

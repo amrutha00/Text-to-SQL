@@ -1,0 +1,1 @@
+Binder Error: Table "s" does not have a column named "s_customer_sk"

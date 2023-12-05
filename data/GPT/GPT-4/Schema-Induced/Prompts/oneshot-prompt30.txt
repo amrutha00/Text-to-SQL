@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert Text-to-SQL assistant. Your goal is to provide correct SQL queries in accordance with the given text description. Please use the SQL dialect compatible with duckDB. Your output should only contain the SQL code. No explanation or introductory sentences surrounding the SQL response is needed. You are given schema information containing table names in <tableName> tags and columns in <columns> tags. Here is the schema information:"
+    },
+    {
+        "role": "user",
+        "content": "<tableName>customer_total_return</tableName>\n<columns>ctr_customer_sk, ctr_state, ctr_total_return</columns>\n<tableName>web_returns</tableName>\n<columns>wr_returned_date_sk, wr_returned_time_sk, wr_item_sk, wr_refunded_customer_sk, wr_refunded_cdemo_sk, wr_refunded_hdemo_sk, wr_refunded_addr_sk, wr_returning_customer_sk, wr_returning_cdemo_sk, wr_returning_hdemo_sk, wr_returning_addr_sk, wr_web_page_sk, wr_reason_sk, wr_order_number, wr_return_quantity, wr_return_amt, wr_return_tax, wr_return_amt_inc_tax, wr_fee, wr_return_ship_cost, wr_refunded_cash, wr_reversed_charge, wr_account_credit, wr_net_loss</columns>\n<tableName>date_dim</tableName>\n<columns>d_date_sk, d_year</columns>\n<tableName>customer_address</tableName>\n<columns>ca_address_sk, ca_state</columns>\n<tableName>customer</tableName>\n<columns>c_customer_id, c_salutation, c_first_name, c_last_name, c_preferred_cust_flag, c_birth_day, c_birth_month, c_birth_year, c_birth_country, c_login, c_email_address, c_last_review_date_sk</columns>"
+    },
+    {
+        "role": "system",
+        "content": "Here is the user question:"
+    },
+    {
+        "role": "user",
+        "content": "Find customers and their detailed customer data who have returned items purchased on the web in the state of Indiana in the year 2002. Include customers' IDs, salutations, first names, last names, preferred customer flags, birth dates, birth months, birth years, birth countries, login information, email addresses, last review dates, and the total amount they've returned. The total amount returned by each customer must be 20% higher than the average return amount of customers in the same state and time period.\n\nThe results should be ordered by customer data, specifically by customer ID, salutation, first name, last name, preferred customer flag, birth day, birth month, birth year, birth country, login, email address, last review date, and the total return amount. Finally, limit the output to the top 100 records.\n\n\n\n\n"
+    },
+    {
+        "role": "system",
+        "content": "Here are the 3 critical rules for the interactions you must abide:\n<rules>1.do not  Wrap the generated SQL code within SQL code markdown format. Also, do not include the SQL keyword in the beginning of the response.\n2. If I don't tell you to find a limited set of results, limit to 100.\n3. Only use tables and columns from the list provided, where each table name can be found within <tableName> and columns within <columns></rules>"
+    }
+]

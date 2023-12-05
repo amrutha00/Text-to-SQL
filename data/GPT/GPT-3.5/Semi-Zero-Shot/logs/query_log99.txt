@@ -1,0 +1,2 @@
+Catalog Error: Table with name order_date does not exist!
+Did you mean "store_sales"?

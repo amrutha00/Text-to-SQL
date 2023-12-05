@@ -1,0 +1,7 @@
+Binder Error: Referenced column "day" not found in FROM clause!
+Candidate bindings: "d.d_qoy", "d.d_moy", "d.d_date", "d.d_year"
+LINE 11:   AND DATEDIFF(day, cs.cs_sold_date_sk, cs.cs_ship_date_sk) <= 30 -- Shipped within 30 days
+GROUP BY warehouse_name, shipping_mode, call_center_name
+ORDER BY warehouse_name, shipping_mode, call_center_name
+LIMIT 100;...
+                        ^

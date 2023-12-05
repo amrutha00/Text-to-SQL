@@ -1,0 +1,2 @@
+Catalog Error: Table with name product does not exist!
+Did you mean "pg_proc"?

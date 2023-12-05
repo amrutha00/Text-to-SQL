@@ -1,0 +1,3 @@
+Parser Error: syntax error at or near ")"
+LINE 8: ...price) OVER (PARTITION BY s_store_sk, i_brand, i_category, DATE_TRUNC('month', d_date))) / AVG(ss_ext_sales_price) OVER (PARTITION BY s_store_sk, i_brand, i_category, DATE_TRUNC('month', d_date))) AS deviation,
+                                                  ^

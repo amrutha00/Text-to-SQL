@@ -1,0 +1,1 @@
+Parser Error: aggregate function calls cannot contain window function calls

@@ -1,0 +1,3 @@
+Parser Error: syntax error at or near "100"
+LINE 1: SELECT TOP 100
+                   ^

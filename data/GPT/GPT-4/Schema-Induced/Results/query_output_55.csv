@@ -1,0 +1,35 @@
+i_brand_id,i_brand,sum(ss_ext_sales_price)
+2002001,importoimporto #1,643641.03
+2001002,amalgimporto #2,539269.51
+9012005,edu packscholar #2,496182.06
+2002002,importoimporto #2,403906.27
+8013007,exportimaxi #7,323752.36
+5002002,importoscholar #2,303993.61
+10016017,corpamalgamalg #17,279480.91
+6013007,exportibrand #7,277873.48
+6011003,edu packnameless #6,266810.87
+6002005,importoscholar #2,266337.95
+6014004,edu packbrand #4,264391.64
+1003002,exportiamalg #2,262300.38
+1004001,edu packamalg #1,261406.25
+5001002,amalgscholar #2,258244.47
+4004002,edu packedu pack #2,258001.62
+3003001,exportiexporti #1,256945.72
+4004001,edu packedu pack #1,251388.79
+2003001,exportiimporto #1,249197.64
+7008008,namelessbrand #8,247980.15
+2002001,edu packimporto #2,247157.27
+7016009,brandmaxi #6,236169.91
+7011001,amalgnameless #1,235493.14
+10014011,edu packamalgamalg #11,235275.72
+7001010,amalgbrand #10,231961.59
+1004002,edu packamalg #2,230007.37
+3004001,edu packexporti #1,229951.23
+10015003,scholaramalgamalg #3,227032.99
+10011014,amalgimporto #2,223292.95
+8016003,corpmaxi #3,222206.00
+3004002,edu packexporti #2,219244.51
+9002009,importomaxi #9,209908.95
+1002001,importoamalg #1,207259.27
+9007003,brandmaxi #3,204338.97
+4001002,amalgedu pack #2,152421.14

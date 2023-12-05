@@ -1,0 +1,9 @@
+With the TPC-DS dataset as a reference, using the table and field names from the TPC-DS benchmark, convert natural language directive provided as input into an SQL query in the Netezza dialect?
+Input: Generate counts of promotional sales and total sales, and their ratio from the web channel for a particular item category and month to customers in a given time zone. Specifically, we are looking at sales data from December 1214 to November 1215. We first create two temporary tables: ssci and csci. The ssci table contains customer and item information for store sales, while the csci table contains customer and item information for catalog sales, both within the specified date range.
+
+Next, we calculate three sums based on different conditions:
+
+store_only: The count of sales where the customer exists in the ssci table but not in the csci table.
+catalog_only: The count of sales where the customer exists in the csci table but not in the ssci table.
+store_and_catalog: The count of sales where the customer exists in both the ssci and csci tables.
+We then perform a full outer join between the ssci and csci tables using the customer and item as the join keys. Finally, we limit the result to 100 rows. This query provides insights into the sales performance of promotional and total sales in the web channel, categorized by customer and item, for the specified time period and customer time zone.

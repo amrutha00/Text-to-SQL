@@ -1,0 +1,2 @@
+Binder Error: Referenced column "sale_date" not found in FROM clause!
+Candidate bindings: "store_sales.ss_sold_date_sk"

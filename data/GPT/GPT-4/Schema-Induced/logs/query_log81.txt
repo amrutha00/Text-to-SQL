@@ -1,0 +1,2 @@
+Catalog Error: Table with name customer_total_return does not exist!
+Did you mean "store_returns"?

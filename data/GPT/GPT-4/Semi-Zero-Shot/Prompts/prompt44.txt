@@ -1,0 +1,2 @@
+With the TPC-DS dataset as a reference, using the table and field names from the TPC-DS benchmark, convert natural language directive provided as input into an SQL query in the Netezza dialect?
+Input: List the best and worst performing products, determined by their net profit, at Store 146. The top-performing products are ranked in ascending order, while the worst-performing products are ranked in descending order. We have limited the results to the top 100 products based on their net profit.

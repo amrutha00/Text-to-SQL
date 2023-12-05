@@ -1,0 +1,3 @@
+Binder Error: Table "d" does not have a column named "d_month"
+LINE 14:     AND d.d_month = 11
+                 ^

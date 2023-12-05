@@ -1,0 +1,14 @@
+Parser Error: syntax error at or near "<"
+LINE 9:     JOIN <tableName>customer_address</tableName> AS ca ON c.c_current_addr_sk = ca.ca_address_sk
+    JOIN store AS s ON (ca.ca_city = s.s_city AND ca.ca_state = s.s_state)
+WHERE
+    i.i_category = 'Women'
+    AND i.i_class = 'maternity'
+    AND dd.d_year = 1998
+    AND dd.d_month_seq >= (SELECT d_month_seq FROM date_dim WHERE d_year = 1998 AND d_month_name = 'May')
+    AND dd.d_month_seq <= (SELECT d_month_seq + 2 FROM date_dim WHERE d_year = 1998 AND d_month_name = 'May')
+GROUP BY
+    revenue_segment
+ORDER BY
+    revenue_segment;...
+                 ^
