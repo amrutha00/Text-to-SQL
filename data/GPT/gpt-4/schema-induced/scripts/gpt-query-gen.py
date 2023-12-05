@@ -1,10 +1,8 @@
 import os
-from dotenv import load_dotenv
 import openai
 import time
 import json
 
-load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def llm(model,message):
@@ -32,7 +30,7 @@ def llm(model,message):
 
 def main():
    
-    for i in range(1,100):
+    for i in range(1,2):
         prompt_path = f"../prompts/oneshot-prompt{i}.txt"
         response_time_path = f"../ll-gen-time/schema-induced-gen-time{i}.txt"
         query_path = f"../queries/schema-induced-query{i}.sql"
@@ -42,7 +40,6 @@ def main():
         prompt = json.loads(prompt)
         
         time_taken, query = llm("gpt-4",prompt)
-        
         with open(response_time_path,"w") as f:
             f.write(str(time_taken))
         with open(query_path,"w") as f:
