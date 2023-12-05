@@ -1,0 +1,4 @@
+<tableName>store_sales</tableName>
+<columns>ss_sold_date_sk,  ss_sold_time_sk,  ss_item_sk,  ss_customer_sk,  ss_cdemo_sk,  ss_hdemo_sk,  ss_addr_sk,  ss_store_sk,  ss_promo_sk,  ss_ticket_number,  ss_quantity,  ss_wholesale_cost,  ss_list_price,  ss_sales_price,  ss_ext_discount_amt,  ss_ext_sales_price,  ss_ext_wholesale_cost,  ss_ext_list_price,  ss_ext_tax,  ss_coupon_amt,  ss_net_paid,  ss_net_paid_inc_tax,  ss_net_profit</columns>
+<tableName>item</tableName>
+<columns>i_item_sk,  i_item_id,  i_rec_start_date,  i_rec_end_date,  i_item_desc,  i_current_price,  i_wholesale_cost,  i_brand_id,  i_brand,  i_class_id,  i_class,  i_category_id,  i_category,  i_manufact_id,  i_manufact,  i_size,  i_formulation,  i_color,  i_units,  i_container,  i_manager_id,  i_product_name</columns>
