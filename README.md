@@ -1,4 +1,4 @@
-# The State of the Text-to-SQL LLM models: Insights From TPC-DS Benchmarks 
+# The State of the Text-to-SQL LLM models: Insights From TPC-DS Benchmark  
 
 This repository contains the artifacts of the research work titled, "The State of the Text-to-SQL LLM models: Insights From TPC-DS Benchmarks". The work is done as part of Fall 2023 UIUC CS598 course project taught by Prof Daniel Kang.
 
@@ -75,12 +75,12 @@ We have two different scripts created depending on the choice of the model.
 This is because OpenAI GPT3.5 and GPT4 are required to be accessed via end-point while the SQLCoder-34B and SQLize are local host models and requires to be accessed locally. 
 
 For GPT3.5 models. 
-1. Generate SQL using: 
-2. Execute the generated SQL on DuckDB using:
+1. Generate SQL using scripts provided in `data/GPT/gpt-3.5/semi-zero-shot/scripts/gpt-query-gen.py` for semi-zero-shot prompting and using `data/GPT/gpt-3.5/schema-induced/scripts/gpt-query-gen.py` for schema-induced prompting.
+2. Execute the generated SQL on DuckDB using the scripts provided in `data/GPT/gpt-3.5/semi-zero-shot/scripts/zeroshot-execution.py` for generated semi-zero-shot prompting and `data/GPT/gpt-3.5/semi-zero-shot/scripts/schema-induced-execution.py` for schema-induced prompting.
 
 For GPT4 models: 
-1. Generate SQL using: 
-2. Execute the generated SQL on DuckDB using:
+1. Generate SQL using scripts provided in `data/GPT/gpt-4/semi-zero-shot/scripts/gpt-query-gen.py` for semi-zero-shot prompting and using `data/GPT/gpt-4/schema-induced/scripts/gpt-query-gen.py` for schema-induced prompting.
+2. Execute the generated SQL on DuckDB using the scripts provided in `data/GPT/gpt-4/semi-zero-shot/scripts/zeroshot-execution.py` for generated semi-zero-shot prompting and `data/GPT/gpt-4/semi-zero-shot/scripts/schema-induced-execution.py` for schema-induced prompting.
 
 
 For SQLCoder-34B and SQLize models, a lot of manual intervension is required to extract the SQL query from the LLM response. Please follow the steps detailed below. 
