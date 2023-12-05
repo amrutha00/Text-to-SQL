@@ -1,0 +1,1 @@
+SELECT count(*) FROM exhibition WHERE YEAR  >=  2005

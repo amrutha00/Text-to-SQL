@@ -1,0 +1,1 @@
+SELECT building FROM Faculty GROUP BY building ORDER BY count(*) DESC LIMIT 1

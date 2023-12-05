@@ -1,0 +1,1 @@
+SELECT country ,  count(*) FROM people GROUP BY country

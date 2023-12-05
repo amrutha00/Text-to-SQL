@@ -1,0 +1,1 @@
+SELECT sum(Rating_in_percent) ,  OWNER FROM channel GROUP BY OWNER

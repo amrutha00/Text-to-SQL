@@ -1,0 +1,1 @@
+SELECT name ,  damage_millions_USD FROM storm ORDER BY max_speed DESC

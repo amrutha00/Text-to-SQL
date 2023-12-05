@@ -1,0 +1,1 @@
+Show all locations and the number of gas stations in each location ordered by the count.

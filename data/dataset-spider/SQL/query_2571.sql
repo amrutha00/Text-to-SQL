@@ -1,0 +1,1 @@
+SELECT Case_burden FROM county_public_safety ORDER BY Population DESC

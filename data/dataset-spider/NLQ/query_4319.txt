@@ -1,0 +1,1 @@
+Retrieve the average age of members of the club "Tennis Club".

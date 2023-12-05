@@ -1,0 +1,1 @@
+Show the dates of transactions if the share count is bigger than 100 or the amount is bigger than 1000.

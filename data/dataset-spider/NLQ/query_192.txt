@@ -1,0 +1,1 @@
+For each station, find its latitude and the minimum duration of trips that ended at the station.

@@ -1,0 +1,1 @@
+How many heads of the departments are older than 56 ?

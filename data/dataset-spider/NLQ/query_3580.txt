@@ -1,0 +1,1 @@
+Give me a list of the names of all songs ordered by their resolution.

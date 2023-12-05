@@ -1,0 +1,1 @@
+SELECT Investor FROM entrepreneur GROUP BY Investor HAVING COUNT(*)  >=  2

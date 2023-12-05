@@ -1,0 +1,1 @@
+Show the different statuses and the numbers of roller coasters for each status.

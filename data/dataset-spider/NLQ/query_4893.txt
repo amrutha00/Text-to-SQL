@@ -1,0 +1,1 @@
+List the locations of schools that do not have any player.

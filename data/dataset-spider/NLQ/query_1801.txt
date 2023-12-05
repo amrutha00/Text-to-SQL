@@ -1,0 +1,1 @@
+Find the names and total checking and savings balances of accounts whose savings balance is higher than the average savings balance.

@@ -1,0 +1,1 @@
+What are project ids of projects that have 2 or more corresponding documents?

@@ -1,0 +1,1 @@
+List the first and last name of the students who do not have any food type allergy.

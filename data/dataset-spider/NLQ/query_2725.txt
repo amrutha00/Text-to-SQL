@@ -1,0 +1,1 @@
+What are the region names affected by the storm with a number of deaths of least 10?

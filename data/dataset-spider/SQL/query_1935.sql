@@ -1,0 +1,1 @@
+SELECT name ,  openning_year ,  capacity FROM cinema

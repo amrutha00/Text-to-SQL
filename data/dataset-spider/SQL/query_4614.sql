@@ -1,0 +1,1 @@
+SELECT TYPE ,  COUNT(*) FROM artwork GROUP BY TYPE

@@ -1,0 +1,1 @@
+SELECT company ,  main_industry FROM company WHERE headquarters != 'USA'

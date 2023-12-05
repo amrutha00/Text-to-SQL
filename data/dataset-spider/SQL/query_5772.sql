@@ -1,0 +1,1 @@
+SELECT email_address ,  phone_number FROM customers ORDER BY email_address ,  phone_number

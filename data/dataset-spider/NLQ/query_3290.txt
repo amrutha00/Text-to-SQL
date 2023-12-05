@@ -1,0 +1,1 @@
+How many professors who are from either Accounting or Biology department?

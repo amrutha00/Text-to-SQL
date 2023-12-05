@@ -1,0 +1,1 @@
+SELECT Grape ,  Appelation FROM WINE

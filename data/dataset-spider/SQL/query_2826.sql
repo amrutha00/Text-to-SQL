@@ -1,0 +1,1 @@
+SELECT ResName , Rating FROM Restaurant ORDER BY Rating DESC LIMIT 1;

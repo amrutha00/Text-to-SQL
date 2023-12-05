@@ -1,0 +1,1 @@
+display the employee id and salary of all employees who report to Payam (first name).

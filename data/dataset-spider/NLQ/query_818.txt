@@ -1,0 +1,1 @@
+Find the names of all artists that have "a" in their names.

@@ -1,0 +1,1 @@
+Give the different hometowns of gymnasts that have a total point score of above 57.5.

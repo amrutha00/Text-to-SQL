@@ -1,0 +1,1 @@
+Count the number of customers who do not have an account.

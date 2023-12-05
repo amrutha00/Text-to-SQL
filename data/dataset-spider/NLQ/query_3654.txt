@@ -1,0 +1,1 @@
+How many players born in USA are right-handed batters? That is, have the batter value 'R'.

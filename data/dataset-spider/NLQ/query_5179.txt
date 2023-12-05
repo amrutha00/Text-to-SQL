@@ -1,0 +1,1 @@
+Find all the stage positions of the musicians with first name "Solveig"

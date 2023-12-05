@@ -1,0 +1,1 @@
+SELECT DISTINCT TYPE FROM institution

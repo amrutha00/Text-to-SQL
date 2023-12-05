@@ -1,0 +1,1 @@
+SELECT document_id ,  count(DISTINCT employee_id) FROM Circulation_History GROUP BY document_id;

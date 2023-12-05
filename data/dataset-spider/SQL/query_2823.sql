@@ -1,0 +1,1 @@
+SELECT Rating FROM Restaurant WHERE ResName = "Subway";

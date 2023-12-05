@@ -1,0 +1,1 @@
+List the names of all genres in alphabetical oder, together with its ratings.

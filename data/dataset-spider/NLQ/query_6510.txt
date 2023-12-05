@@ -1,0 +1,1 @@
+Find the number of scientists who are not assigned to any project.

@@ -1,0 +1,1 @@
+What are the first names of all students that are not enrolled in courses?

@@ -1,0 +1,1 @@
+Tell me the distinct block codes where some rooms are available.

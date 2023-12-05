@@ -1,0 +1,1 @@
+Count the number of colors that are not used in any products.

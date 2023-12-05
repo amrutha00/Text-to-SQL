@@ -1,0 +1,1 @@
+What is the first name, last name, and phone of the customer with card 4560596484842.

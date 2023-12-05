@@ -1,0 +1,1 @@
+What are the guest first name, start date, and end date of each apartment booking?

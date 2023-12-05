@@ -1,0 +1,1 @@
+What is the id and name of the enzyme with most number of medicines that can interact as 'activator'?

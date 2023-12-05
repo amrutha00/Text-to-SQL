@@ -1,0 +1,1 @@
+Find the average rating star for each movie that are not reviewed by Brittany Harris.

@@ -1,0 +1,1 @@
+Find the payment method that is used the most often in all the invoices. Give me its code.

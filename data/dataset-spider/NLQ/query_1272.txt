@@ -1,0 +1,1 @@
+Which apartments have bookings with both status codes "Provisional" and "Confirmed"? Give me the apartment numbers.

@@ -1,0 +1,1 @@
+What is the total number of routes for each country and airline in that country?

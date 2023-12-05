@@ -1,0 +1,1 @@
+SELECT Police_force ,  COUNT(*) FROM county_public_safety GROUP BY Police_force

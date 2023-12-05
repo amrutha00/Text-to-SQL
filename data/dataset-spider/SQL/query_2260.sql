@@ -1,0 +1,1 @@
+SELECT Name FROM technician WHERE technician_id NOT IN (SELECT technician_id FROM repair_assignment)

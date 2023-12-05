@@ -1,0 +1,1 @@
+SELECT Lname FROM FACULTY WHERE Building  =  "Barton" ORDER BY Lname

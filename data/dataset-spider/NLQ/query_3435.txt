@@ -1,0 +1,1 @@
+What are the salaries and manager ids for employees who have managers?

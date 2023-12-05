@@ -1,0 +1,1 @@
+What are the apartment number and the room count of each apartment?

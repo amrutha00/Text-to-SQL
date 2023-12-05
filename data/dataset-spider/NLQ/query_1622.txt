@@ -1,0 +1,1 @@
+Show all product names and the number of customers having an order on each product.

@@ -1,0 +1,1 @@
+display the average salary of employees for each department who gets a commission percentage.

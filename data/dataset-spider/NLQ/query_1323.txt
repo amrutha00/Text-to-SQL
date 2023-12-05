@@ -1,0 +1,1 @@
+Find the buildings which have rooms with capacity more than 50.

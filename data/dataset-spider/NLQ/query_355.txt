@@ -1,0 +1,1 @@
+Return the minimum, average and maximum distances traveled across all aircrafts.

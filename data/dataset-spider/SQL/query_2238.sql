@@ -1,0 +1,1 @@
+SELECT Team ,  Starting_Year FROM technician

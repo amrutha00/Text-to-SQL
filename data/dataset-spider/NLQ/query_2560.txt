@@ -1,0 +1,1 @@
+What are the crime rates of counties that contain cities that have white percentages of over 90?

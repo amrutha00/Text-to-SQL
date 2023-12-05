@@ -1,0 +1,1 @@
+Return the name and country corresponding to the artist who has had the most exhibitions.

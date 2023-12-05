@@ -1,0 +1,1 @@
+SELECT avg(International_Passengers) FROM airport

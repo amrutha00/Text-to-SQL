@@ -1,0 +1,1 @@
+What are the student ids of students who don't have any allergies?

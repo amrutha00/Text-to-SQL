@@ -1,0 +1,1 @@
+SELECT name FROM church ORDER BY open_date DESC

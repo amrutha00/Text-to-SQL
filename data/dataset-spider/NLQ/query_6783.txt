@@ -1,0 +1,1 @@
+How many faculty members participate in each activity? Return the activity names and the number of faculty members.

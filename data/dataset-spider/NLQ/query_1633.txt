@@ -1,0 +1,1 @@
+Show the opening year in whcih at least two churches opened.

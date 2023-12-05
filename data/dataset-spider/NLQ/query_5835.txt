@@ -1,0 +1,1 @@
+Show the result of the submission with the highest score.

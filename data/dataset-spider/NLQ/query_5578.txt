@@ -1,0 +1,1 @@
+How many products have their color described as 'white' or have a characteristic with the name 'hot'?

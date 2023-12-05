@@ -1,0 +1,1 @@
+SELECT director FROM movie WHERE YEAR  =  1999 OR YEAR  =  2000

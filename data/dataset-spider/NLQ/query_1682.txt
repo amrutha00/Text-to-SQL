@@ -1,0 +1,1 @@
+Show all artist names who didn't have an exhibition in 2004.

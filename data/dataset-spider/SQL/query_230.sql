@@ -1,0 +1,1 @@
+SELECT Title FROM book WHERE Book_ID NOT IN (SELECT Book_ID FROM publication)

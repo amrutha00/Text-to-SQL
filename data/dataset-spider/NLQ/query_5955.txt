@@ -1,0 +1,1 @@
+Which tourist attractions are visited at least twice? Give me their names and ids.

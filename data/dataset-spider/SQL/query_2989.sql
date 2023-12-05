@@ -1,0 +1,1 @@
+SELECT payment_date FROM payment ORDER BY payment_date ASC LIMIT 1

@@ -1,0 +1,1 @@
+Return the hometown that is most common among gymnasts.

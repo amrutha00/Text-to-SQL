@@ -1,0 +1,1 @@
+SELECT built_year FROM ship GROUP BY built_year ORDER BY count(*) DESC LIMIT 1

@@ -1,0 +1,1 @@
+Count the number of tourists who did not visit any place.

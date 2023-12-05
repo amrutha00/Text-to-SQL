@@ -1,0 +1,1 @@
+SELECT count(DISTINCT source_system_code) FROM CMI_cross_references

@@ -1,0 +1,1 @@
+Show the names of people and the number of times they have been on the affirmative side of debates.

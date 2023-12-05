@@ -1,0 +1,1 @@
+Return the average transaction amount, as well as the total amount of all transactions.

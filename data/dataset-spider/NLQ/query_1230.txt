@@ -1,0 +1,1 @@
+Which apartments have bookings with status code "Confirmed"? Return their apartment numbers.

@@ -1,0 +1,1 @@
+SELECT rID FROM Reviewer WHERE name  =  "Daniel Lewis"

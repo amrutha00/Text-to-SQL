@@ -1,0 +1,1 @@
+Show the host names for parties with number of hosts greater than 20.

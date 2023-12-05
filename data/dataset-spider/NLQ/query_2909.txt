@@ -1,0 +1,1 @@
+Find the first names of all the authors who have written a paper with title containing the word "Functional".

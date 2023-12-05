@@ -1,0 +1,1 @@
+Find the number of employees whose title is IT Staff from each city?

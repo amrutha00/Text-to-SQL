@@ -1,0 +1,1 @@
+What are the ids of all products that were either ordered more than 3 times or have a cumulative amount purchased of above 80000?

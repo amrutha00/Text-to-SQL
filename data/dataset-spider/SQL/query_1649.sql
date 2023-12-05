@@ -1,0 +1,1 @@
+SELECT COUNT (DISTINCT church_id) FROM wedding WHERE YEAR  =  2016

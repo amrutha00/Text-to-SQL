@@ -1,0 +1,1 @@
+SELECT head_id ,  name FROM head WHERE name LIKE '%Ha%'

@@ -1,0 +1,1 @@
+List all budget type codes and descriptions.

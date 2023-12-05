@@ -1,0 +1,1 @@
+SELECT count(*) ,  account_id FROM Financial_transactions

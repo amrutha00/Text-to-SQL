@@ -1,0 +1,1 @@
+SELECT major ,  avg(age) ,  min(age) ,  max(age) FROM Student GROUP BY major

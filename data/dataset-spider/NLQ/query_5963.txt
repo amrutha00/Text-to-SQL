@@ -1,0 +1,1 @@
+Find the names of the tourist attractions that is either accessible by bus or at address 254 Ottilie Junction.

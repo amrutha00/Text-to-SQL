@@ -1,0 +1,1 @@
+SELECT DISTINCT start_station_name FROM trip WHERE duration  <  100

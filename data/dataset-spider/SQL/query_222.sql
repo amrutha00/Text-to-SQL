@@ -1,0 +1,1 @@
+SELECT Publication_Date FROM publication ORDER BY Price ASC LIMIT 3

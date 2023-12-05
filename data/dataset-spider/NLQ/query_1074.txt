@@ -1,0 +1,1 @@
+For each player, what are their name, season, and country that they belong to?

@@ -1,0 +1,1 @@
+What are the names of customers with credit score less than the average credit score across customers?

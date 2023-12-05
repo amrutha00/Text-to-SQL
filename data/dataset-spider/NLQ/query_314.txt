@@ -1,0 +1,1 @@
+Find the names and publication dates of all catalogs that have catalog level number greater than 5.

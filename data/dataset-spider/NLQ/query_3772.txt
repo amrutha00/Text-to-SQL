@@ -1,0 +1,1 @@
+Return the description for the courses named "database".

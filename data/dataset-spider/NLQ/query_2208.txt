@@ -1,0 +1,1 @@
+What are the drivers' first, last names and id who had more than 8 pit stops or participated in more than 5 race results?

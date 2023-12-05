@@ -1,0 +1,1 @@
+For each city, what is the highest latitude for its stations?

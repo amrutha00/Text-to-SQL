@@ -1,0 +1,1 @@
+What are the names and salaries of instructors who advise students in the Math department?

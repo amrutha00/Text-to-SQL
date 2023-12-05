@@ -1,0 +1,1 @@
+For each building, show the name of the building and the number of institutions in it.

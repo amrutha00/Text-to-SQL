@@ -1,0 +1,1 @@
+Find the purchase time, age and address of each member, and show the results in the order of purchase time.

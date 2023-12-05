@@ -1,0 +1,1 @@
+SELECT count(*) FROM Customers_cards WHERE card_type_code  =  "Debit"

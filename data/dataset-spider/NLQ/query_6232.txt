@@ -1,0 +1,1 @@
+Return the rank for which there are the fewest captains.

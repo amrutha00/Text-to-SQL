@@ -1,0 +1,1 @@
+SELECT StuID FROM Sportsinfo WHERE onscholarship  =  'Y'

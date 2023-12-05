@@ -1,0 +1,1 @@
+For each country and airline name, how many routes are there?

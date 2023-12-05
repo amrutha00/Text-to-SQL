@@ -1,0 +1,1 @@
+SELECT count(*) FROM products WHERE product_category_code  =  "Spices" AND typical_buying_price  >  1000

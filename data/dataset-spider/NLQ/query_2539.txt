@@ -1,0 +1,1 @@
+What are the minimum and maximum crime rate of counties?

@@ -1,0 +1,1 @@
+SELECT school_code FROM department WHERE dept_name  =  "Accounting"

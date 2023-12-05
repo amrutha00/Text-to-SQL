@@ -1,0 +1,1 @@
+Return the maximum support rate, minimum consider rate, and minimum oppose rate across all candidates?

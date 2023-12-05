@@ -1,0 +1,1 @@
+What are the positions of players whose average number of points scored by that position is larger than 20?

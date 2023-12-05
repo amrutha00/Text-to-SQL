@@ -1,0 +1,1 @@
+SELECT count(*) FROM professor WHERE prof_high_degree  =  'Ph.D.'

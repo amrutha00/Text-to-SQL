@@ -1,0 +1,1 @@
+What are the invoice dates, order ids, and order details for all invoices?

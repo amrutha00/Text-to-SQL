@@ -1,0 +1,1 @@
+Find the city that hosted some events in the most recent year. What is the id of this city?

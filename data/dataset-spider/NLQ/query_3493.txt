@@ -1,0 +1,1 @@
+what are the employee ids and job titles for employees in department 80?

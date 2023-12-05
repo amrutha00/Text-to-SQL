@@ -1,0 +1,1 @@
+How many days had both mean humidity above 50 and mean visibility above 8?

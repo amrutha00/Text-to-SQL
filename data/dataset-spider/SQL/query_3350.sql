@@ -1,0 +1,1 @@
+SELECT count(*) FROM club_rank WHERE Total  <  10

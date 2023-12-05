@@ -1,0 +1,1 @@
+Find the number of distinct courses that have enrolled students.

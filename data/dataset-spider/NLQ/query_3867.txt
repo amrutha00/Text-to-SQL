@@ -1,0 +1,1 @@
+Which claim incurred the most number of settlements? List the claim id, the date the claim was made, and the number.

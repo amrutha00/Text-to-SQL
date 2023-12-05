@@ -1,0 +1,1 @@
+List the id, country, city and name of the airports ordered alphabetically by the name.

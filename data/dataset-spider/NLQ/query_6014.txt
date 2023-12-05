@@ -1,0 +1,1 @@
+Show all student IDs with the number of sports and total number of games played

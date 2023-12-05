@@ -1,0 +1,1 @@
+How many airlines operate out of each country in descending order?

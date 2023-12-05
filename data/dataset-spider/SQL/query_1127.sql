@@ -1,0 +1,1 @@
+SELECT DISTINCT Range FROM mountain ORDER BY Prominence DESC LIMIT 3

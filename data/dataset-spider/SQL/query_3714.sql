@@ -1,0 +1,1 @@
+SELECT id ,  color ,  name FROM photos

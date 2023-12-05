@@ -1,0 +1,1 @@
+Return the gender and name of artist who produced the song with the lowest resolution.

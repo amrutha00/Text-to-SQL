@@ -1,0 +1,1 @@
+What are all the employee ids and the names of the countries in which they work?

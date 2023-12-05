@@ -1,0 +1,1 @@
+List the main industry with highest total market value and its number of companies.

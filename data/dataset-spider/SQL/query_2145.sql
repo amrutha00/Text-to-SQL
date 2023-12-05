@@ -1,0 +1,1 @@
+SELECT service_id ,  event_details FROM EVENTS

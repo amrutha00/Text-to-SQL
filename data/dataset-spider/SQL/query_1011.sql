@@ -1,0 +1,1 @@
+SELECT count(*) FROM university WHERE LOCATION LIKE "%NY%"

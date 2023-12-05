@@ -1,0 +1,1 @@
+Show the years, book titles, and publishers for all books, in descending order by year.

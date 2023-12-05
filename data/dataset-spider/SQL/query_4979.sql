@@ -1,0 +1,1 @@
+SELECT cName FROM College WHERE enr  >  18000 ORDER BY cName

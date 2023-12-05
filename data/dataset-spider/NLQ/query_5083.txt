@@ -1,0 +1,1 @@
+List the names of shops that have no devices in stock.

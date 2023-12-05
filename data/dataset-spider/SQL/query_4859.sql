@@ -1,0 +1,1 @@
+SELECT count(*) FROM customers WHERE customer_id NOT IN ( SELECT customer_id FROM customer_events )

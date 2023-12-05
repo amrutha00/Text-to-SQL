@@ -1,0 +1,1 @@
+For each user, find their name and the number of reviews written by them.

@@ -1,0 +1,1 @@
+give me names of all compatible browsers and accelerators in the descending order of compatible year

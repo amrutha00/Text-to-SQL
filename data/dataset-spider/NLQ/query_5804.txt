@@ -1,0 +1,1 @@
+Return the last name of the staff member who handled the complaint with the earliest date raised.

@@ -1,0 +1,1 @@
+For each election cycle, report the number of voting records.

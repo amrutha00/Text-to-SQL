@@ -1,0 +1,1 @@
+Show the description of transaction type with code "PUR".

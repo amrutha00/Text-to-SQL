@@ -1,0 +1,1 @@
+What is the average fastest lap speed for races held after 2004, for each race, ordered by year?

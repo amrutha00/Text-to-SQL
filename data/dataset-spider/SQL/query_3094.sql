@@ -1,0 +1,1 @@
+SELECT cell_mobile_number ,  email_address FROM STUDENTS

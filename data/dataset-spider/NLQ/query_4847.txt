@@ -1,0 +1,1 @@
+What is the maximum number that a certain service is provided? List the service id, details and number.

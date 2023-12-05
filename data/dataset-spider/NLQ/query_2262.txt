@@ -1,0 +1,1 @@
+Show the starting years shared by technicians from team "CLE" and "CWS".

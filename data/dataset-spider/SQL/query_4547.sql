@@ -1,0 +1,1 @@
+SELECT name FROM Companies ORDER BY Market_Value_billion DESC

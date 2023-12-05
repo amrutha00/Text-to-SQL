@@ -1,0 +1,1 @@
+What are the titles and directors of all movies that have a rating higher than the average James Cameron film rating?

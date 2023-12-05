@@ -1,0 +1,1 @@
+SELECT count(*) FROM driver WHERE home_city  =  'Hartford' OR age  <  40

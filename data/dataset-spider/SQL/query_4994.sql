@@ -1,0 +1,1 @@
+SELECT cName ,  state ,  min(enr) FROM college GROUP BY state

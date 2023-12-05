@@ -1,0 +1,1 @@
+What are the employee ids of the employees whose role name is "Human Resource" or "Manager"?

@@ -1,0 +1,1 @@
+What are the names of customers with accounts, and how many checking accounts do each of them have?

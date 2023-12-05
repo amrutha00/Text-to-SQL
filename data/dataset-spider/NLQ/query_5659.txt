@@ -1,0 +1,1 @@
+Show the product type codes which have at least two products.

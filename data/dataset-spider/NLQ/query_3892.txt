@@ -1,0 +1,1 @@
+Give me the payment Id, the date and the amount for all the payments processed with Visa.

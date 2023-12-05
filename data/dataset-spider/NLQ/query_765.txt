@@ -1,0 +1,1 @@
+Return the different classes of races.

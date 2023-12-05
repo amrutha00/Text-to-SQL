@@ -1,0 +1,1 @@
+SELECT name FROM camera_lens WHERE name LIKE "%Digital%"

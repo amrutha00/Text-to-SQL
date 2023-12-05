@@ -1,0 +1,1 @@
+What are the locations of all the gas stations ordered by opening year?

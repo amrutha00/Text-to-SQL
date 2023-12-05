@@ -1,0 +1,1 @@
+What are the purchase details of transactions with amount bigger than 10000?

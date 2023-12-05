@@ -1,0 +1,1 @@
+SELECT date_of_notes FROM Assessment_Notes

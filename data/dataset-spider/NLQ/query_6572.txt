@@ -1,0 +1,1 @@
+What are the average prices and cases of wines produced in the year of 2009 and made of Zinfandel grape?

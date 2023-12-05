@@ -1,0 +1,1 @@
+Find the id of instructors who taught a class in Fall 2009 but not in Spring 2010.

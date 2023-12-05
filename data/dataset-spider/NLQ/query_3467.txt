@@ -1,0 +1,1 @@
+What is all the job history info done by employees earning a salary greater than or equal to 12000?

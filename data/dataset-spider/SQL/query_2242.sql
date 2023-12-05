@@ -1,0 +1,1 @@
+SELECT Name FROM technician WHERE Age  =  36 OR Age  =  37

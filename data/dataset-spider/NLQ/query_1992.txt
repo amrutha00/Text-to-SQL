@@ -1,0 +1,1 @@
+Show the names of phones that have total number of stocks bigger than 2000, in descending order of the total number of stocks.

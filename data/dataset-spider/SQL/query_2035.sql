@@ -1,0 +1,1 @@
+SELECT LOCATION FROM gas_station ORDER BY open_year

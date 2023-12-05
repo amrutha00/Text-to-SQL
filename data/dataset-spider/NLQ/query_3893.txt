@@ -1,0 +1,1 @@
+List the details of the customers who do not have any policies.

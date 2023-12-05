@@ -1,0 +1,1 @@
+Show each state and the number of addresses in each state.

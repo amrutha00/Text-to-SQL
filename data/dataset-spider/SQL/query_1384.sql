@@ -1,0 +1,1 @@
+SELECT * FROM instructor ORDER BY salary

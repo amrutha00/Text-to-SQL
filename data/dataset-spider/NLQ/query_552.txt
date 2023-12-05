@@ -1,0 +1,1 @@
+List every album's title.

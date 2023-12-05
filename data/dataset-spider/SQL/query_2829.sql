@@ -1,0 +1,1 @@
+SELECT Fname , Lname FROM Student WHERE Major  =  600;

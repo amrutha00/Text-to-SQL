@@ -1,0 +1,1 @@
+Return the apartment number and the number of rooms for each apartment.

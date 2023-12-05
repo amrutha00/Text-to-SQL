@@ -1,0 +1,1 @@
+SELECT Fname ,  Lname ,  Age FROM Student WHERE Sex  =  'F'

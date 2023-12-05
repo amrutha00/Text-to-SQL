@@ -1,0 +1,1 @@
+Which trip started from the station with the largest dock count? Give me the trip id.

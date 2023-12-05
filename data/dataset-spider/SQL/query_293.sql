@@ -1,0 +1,1 @@
+SELECT name ,  followers FROM user_profiles ORDER BY followers DESC

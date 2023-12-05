@@ -1,0 +1,1 @@
+SELECT max(capacity) ,  avg(capacity) ,  building FROM classroom GROUP BY building

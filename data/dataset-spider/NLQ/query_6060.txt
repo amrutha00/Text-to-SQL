@@ -1,0 +1,1 @@
+What is the average amount of items ordered in each order?

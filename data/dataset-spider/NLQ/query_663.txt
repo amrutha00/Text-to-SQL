@@ -1,0 +1,1 @@
+Show the id, name of each editor and the number of journal committees they are on.

@@ -1,0 +1,1 @@
+What are the job ids corresponding to jobs with average salary above 8000?

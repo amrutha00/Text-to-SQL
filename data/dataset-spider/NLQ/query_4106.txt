@@ -1,0 +1,1 @@
+Show the headquarters that have both companies in banking industry and companies in oil and gas industry.

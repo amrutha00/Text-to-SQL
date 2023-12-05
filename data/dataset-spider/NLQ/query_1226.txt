@@ -1,0 +1,1 @@
+Find the booking start date and end date for the apartments that have more than two bedrooms.

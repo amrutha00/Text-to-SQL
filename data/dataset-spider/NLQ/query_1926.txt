@@ -1,0 +1,1 @@
+Show institution names along with the number of proteins for each institution.

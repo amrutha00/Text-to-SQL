@@ -1,0 +1,1 @@
+How many players have more than 1000 hours of training?

@@ -1,0 +1,1 @@
+SELECT account_id ,  count(*) FROM Financial_transactions GROUP BY account_id

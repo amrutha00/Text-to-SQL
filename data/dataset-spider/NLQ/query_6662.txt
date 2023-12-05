@@ -1,0 +1,1 @@
+What are the email addresses and date of births for all customers who have a first name of Carole?

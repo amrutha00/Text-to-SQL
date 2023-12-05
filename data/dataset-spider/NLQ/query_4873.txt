@@ -1,0 +1,1 @@
+How many different positions of players are there?

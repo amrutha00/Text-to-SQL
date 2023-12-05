@@ -1,0 +1,1 @@
+SELECT id ,  market_share FROM browser WHERE name  =  'Safari'

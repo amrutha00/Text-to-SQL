@@ -1,0 +1,1 @@
+SELECT count(*) FROM addresses WHERE state_province_county  =  "Colorado"

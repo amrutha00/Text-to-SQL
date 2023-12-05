@@ -1,0 +1,1 @@
+Show all movie titles, years, and directors, ordered by budget.

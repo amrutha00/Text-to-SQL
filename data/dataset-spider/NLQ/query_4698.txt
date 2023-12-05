@@ -1,0 +1,1 @@
+Find the last names of faculties who are members of computer science department.

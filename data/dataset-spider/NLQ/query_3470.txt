@@ -1,0 +1,1 @@
+What is the full name ( first name and last name ) for those employees who gets more salary than the employee whose id is 163?

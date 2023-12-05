@@ -1,0 +1,1 @@
+SELECT count(*) FROM Church WHERE Open_Date  <  1850

@@ -1,0 +1,1 @@
+Find products with max page size as "A4" or pages per minute color smaller than 5.

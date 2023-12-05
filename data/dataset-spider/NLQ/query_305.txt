@@ -1,0 +1,1 @@
+What are the attribute data types with more than 3 attribute definitions?

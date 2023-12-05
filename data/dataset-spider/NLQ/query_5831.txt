@@ -1,0 +1,1 @@
+Show the colleges that have both authors with submission score larger than 90 and authors with submission score smaller than 80.

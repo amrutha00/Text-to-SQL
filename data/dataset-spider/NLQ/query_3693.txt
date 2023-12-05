@@ -1,0 +1,1 @@
+Find the number of games taken place in city Atlanta in 2000.

@@ -1,0 +1,1 @@
+What is the average minimum and price of the rooms for each different decor.

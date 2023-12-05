@@ -1,0 +1,1 @@
+What are ids of the faculty members who not only participate in an activity but also advise a student.

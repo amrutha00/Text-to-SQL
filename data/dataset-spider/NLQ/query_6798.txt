@@ -1,0 +1,1 @@
+Find the first names of professors who are not playing Canoeing or Kayaking.

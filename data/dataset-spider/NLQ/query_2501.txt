@@ -1,0 +1,1 @@
+What are the names and years of the movies that has the top 3 highest rating star?

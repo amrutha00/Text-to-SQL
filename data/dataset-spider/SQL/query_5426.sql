@@ -1,0 +1,1 @@
+SELECT name FROM member WHERE member_id NOT IN (SELECT member_id FROM membership_register_branch)

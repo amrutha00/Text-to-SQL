@@ -1,0 +1,1 @@
+List the hardware model name and company name for all the phones that were launched in year 2002 or have RAM size greater than 32.

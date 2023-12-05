@@ -1,0 +1,1 @@
+SELECT DISTINCT instrument FROM Instruments

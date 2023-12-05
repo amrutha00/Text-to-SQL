@@ -1,0 +1,1 @@
+For each college, return the college name and the count of authors with submissions from that college.

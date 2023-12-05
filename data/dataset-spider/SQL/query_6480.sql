@@ -1,0 +1,1 @@
+SELECT name FROM projects ORDER BY hours DESC LIMIT 1

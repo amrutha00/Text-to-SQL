@@ -1,0 +1,1 @@
+What are the name and active date of the customers whose contact channel code is email?

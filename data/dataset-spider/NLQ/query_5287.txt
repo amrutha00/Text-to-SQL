@@ -1,0 +1,1 @@
+Find the number of manufactures that are based in Tokyo or Beijing.

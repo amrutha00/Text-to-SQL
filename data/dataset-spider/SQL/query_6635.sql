@@ -1,0 +1,1 @@
+SELECT date_left_staff FROM Staff WHERE first_name = "Janessa" AND last_name = "Sawayn";

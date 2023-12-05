@@ -1,0 +1,1 @@
+For each director, what are the titles and ratings for all the movies they reviewed?

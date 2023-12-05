@@ -1,0 +1,1 @@
+SELECT project_id ,  project_details FROM Projects

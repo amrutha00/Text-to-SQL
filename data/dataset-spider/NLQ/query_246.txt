@@ -1,0 +1,1 @@
+Return the duration of the actor with the greatest age.

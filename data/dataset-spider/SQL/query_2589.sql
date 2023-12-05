@@ -1,0 +1,1 @@
+SELECT sum(beds) FROM Rooms WHERE bedtype  =  'King';

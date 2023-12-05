@@ -1,0 +1,1 @@
+SELECT product_type_code ,  product_name FROM products WHERE product_price  >  1000 OR product_price  <  500

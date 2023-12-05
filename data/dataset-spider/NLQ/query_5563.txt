@@ -1,0 +1,1 @@
+List all characteristics of product named "sesame" with type code "Grade".

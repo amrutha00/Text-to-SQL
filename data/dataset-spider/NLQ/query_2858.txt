@@ -1,0 +1,1 @@
+List the state names and the number of customers living in each state.

@@ -1,0 +1,1 @@
+Find the addresses and author IDs of the course authors that teach at least two courses.

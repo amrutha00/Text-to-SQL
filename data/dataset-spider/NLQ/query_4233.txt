@@ -1,0 +1,1 @@
+Show the location name and code with the least documents.

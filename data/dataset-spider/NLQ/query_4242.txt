@@ -1,0 +1,1 @@
+Which employees do not authorize destruction for any document? Give me their employee ids.

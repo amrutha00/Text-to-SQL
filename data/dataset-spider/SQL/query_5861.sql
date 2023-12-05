@@ -1,0 +1,1 @@
+SELECT lot_details ,  investor_id FROM LOTS

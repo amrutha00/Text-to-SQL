@@ -1,0 +1,1 @@
+SELECT brand ,  name FROM camera_lens ORDER BY max_aperture DESC

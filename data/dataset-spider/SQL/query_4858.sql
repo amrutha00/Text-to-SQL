@@ -1,0 +1,1 @@
+SELECT customer_event_id ,  date_moved_in ,  property_id FROM customer_events

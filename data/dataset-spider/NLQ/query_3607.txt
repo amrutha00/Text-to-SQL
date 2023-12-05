@@ -1,0 +1,1 @@
+What are the names and number of works for all artists who have sung at least one song in English?

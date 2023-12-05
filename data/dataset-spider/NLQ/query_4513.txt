@@ -1,0 +1,1 @@
+Return the type code of the document named "David CV".

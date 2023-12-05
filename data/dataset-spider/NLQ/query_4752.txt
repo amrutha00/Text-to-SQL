@@ -1,0 +1,1 @@
+Return the names and ids of all products whose price is between 600 and 700.

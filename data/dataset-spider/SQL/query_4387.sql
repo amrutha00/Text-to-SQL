@@ -1,0 +1,1 @@
+SELECT staff_details FROM Research_Staff ORDER BY staff_details ASC

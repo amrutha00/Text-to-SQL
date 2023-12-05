@@ -1,0 +1,1 @@
+SELECT title FROM Movie WHERE director = 'James Cameron' AND YEAR  >  2000

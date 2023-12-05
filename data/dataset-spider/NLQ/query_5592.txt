@@ -1,0 +1,1 @@
+Return the color description that is most common across all products.

@@ -1,0 +1,1 @@
+For each player, show the team and the location of school they belong to.

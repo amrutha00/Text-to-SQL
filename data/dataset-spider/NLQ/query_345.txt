@@ -1,0 +1,1 @@
+How many aircrafts exist in the database?

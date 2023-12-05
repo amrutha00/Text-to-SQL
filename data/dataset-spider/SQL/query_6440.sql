@@ -1,0 +1,1 @@
+SELECT count(*) FROM Ref_budget_codes

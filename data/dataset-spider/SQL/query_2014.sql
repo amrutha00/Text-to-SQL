@@ -1,0 +1,1 @@
+SELECT station_id ,  LOCATION ,  manager_name FROM gas_station ORDER BY open_year

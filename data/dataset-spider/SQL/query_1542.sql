@@ -1,0 +1,1 @@
+SELECT claim_status_description FROM claims_processing_stages WHERE claim_status_name  =  "Open"

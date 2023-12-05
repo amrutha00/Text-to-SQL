@@ -1,0 +1,1 @@
+Show the average and maximum damage for all storms with max speed higher than 1000.

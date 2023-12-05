@@ -1,0 +1,1 @@
+SELECT Name FROM artwork ORDER BY Name ASC

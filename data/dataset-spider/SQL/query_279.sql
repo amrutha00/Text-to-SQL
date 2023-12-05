@@ -1,0 +1,1 @@
+SELECT count(*) FROM follows GROUP BY f1

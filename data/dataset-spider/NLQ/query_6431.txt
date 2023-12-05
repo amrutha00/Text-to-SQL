@@ -1,0 +1,1 @@
+Return the type name, type description, and date of creation for each document.

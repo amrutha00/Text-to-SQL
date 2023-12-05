@@ -1,0 +1,1 @@
+Tell me the number of orders with "Second time" as order detail.

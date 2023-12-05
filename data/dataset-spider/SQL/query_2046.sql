@@ -1,0 +1,1 @@
+SELECT minister ,  took_office ,  left_office FROM party ORDER BY left_office

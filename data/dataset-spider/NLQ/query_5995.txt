@@ -1,0 +1,1 @@
+What are the first names for all students who are from the major numbered 600?

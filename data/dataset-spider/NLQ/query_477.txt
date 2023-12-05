@@ -1,0 +1,1 @@
+What are the student ids for students over 20 years old?

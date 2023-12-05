@@ -1,0 +1,1 @@
+What are the names and account balances for customers who have taken a total amount of more than 5000 in loans?

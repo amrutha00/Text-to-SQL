@@ -1,0 +1,1 @@
+What is the cmi cross reference id that is related to at least one council tax entry? List the cross reference id and source system code.

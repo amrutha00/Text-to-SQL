@@ -1,0 +1,1 @@
+How many female students (sex is F) whose age is below 25?

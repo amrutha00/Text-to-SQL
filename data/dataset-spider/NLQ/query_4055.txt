@@ -1,0 +1,1 @@
+Report the first name and last name of all the teachers.

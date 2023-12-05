@@ -1,0 +1,1 @@
+SELECT complaint_status_code FROM complaints GROUP BY complaint_status_code HAVING count(*)  >  3

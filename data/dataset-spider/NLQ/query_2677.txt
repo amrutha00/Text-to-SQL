@@ -1,0 +1,1 @@
+Show the nations that have both hosts older than 45 and hosts younger than 35.

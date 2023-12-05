@@ -1,0 +1,1 @@
+Find the number and averaged salary of all instructors who are in the department with the highest budget.

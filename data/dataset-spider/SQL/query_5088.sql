@@ -1,0 +1,1 @@
+SELECT Carrier FROM device WHERE Device_ID NOT IN (SELECT Device_ID FROM stock)

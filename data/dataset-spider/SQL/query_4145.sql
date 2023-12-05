@@ -1,0 +1,1 @@
+SELECT Studio FROM film GROUP BY Studio HAVING COUNT(*)  >=  2

@@ -1,0 +1,1 @@
+SELECT Fname FROM FACULTY WHERE Rank  =  "Professor" ORDER BY Fname

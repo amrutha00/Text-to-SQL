@@ -1,0 +1,1 @@
+In which buildings are there at least ten professors?

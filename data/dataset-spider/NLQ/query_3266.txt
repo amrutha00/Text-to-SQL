@@ -1,0 +1,1 @@
+What is the first, last name, gpa of the youngest one among students whose GPA is above 3?

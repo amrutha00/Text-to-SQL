@@ -1,0 +1,1 @@
+SELECT count(*) FROM artist WHERE age  >  46 AND year_join  >  1990

@@ -1,0 +1,1 @@
+Show the names and locations of institutions that are founded after 1990 and have the type "Private".

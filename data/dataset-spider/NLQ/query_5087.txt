@@ -1,0 +1,1 @@
+List the carriers of devices that have no devices in stock.

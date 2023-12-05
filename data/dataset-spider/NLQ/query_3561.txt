@@ -1,0 +1,1 @@
+What is the average song duration for the songs that are in mp3 format and whose resolution below 800?

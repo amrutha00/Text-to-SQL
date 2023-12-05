@@ -1,0 +1,1 @@
+SELECT city_code FROM student GROUP BY city_code ORDER BY count(*) DESC LIMIT 1

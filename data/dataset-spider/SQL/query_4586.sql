@@ -1,0 +1,1 @@
+SELECT Product_Name ,  Product_Type_Code FROM Products

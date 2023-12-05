@@ -1,0 +1,1 @@
+Find the average age and experience working length of journalists working on different role type.

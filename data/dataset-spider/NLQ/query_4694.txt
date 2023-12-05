@@ -1,0 +1,1 @@
+Find the full names of faculties who are members of department with department number 520.

@@ -1,0 +1,1 @@
+SELECT location_code FROM Ref_locations WHERE location_name  =  "Canada"

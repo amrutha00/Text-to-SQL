@@ -1,0 +1,1 @@
+Show all date and share count of transactions.

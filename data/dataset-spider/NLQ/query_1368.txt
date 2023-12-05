@@ -1,0 +1,1 @@
+What are the ids of instructors who taught in the Fall of 2009 but not in the Spring of 2010?

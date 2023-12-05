@@ -1,0 +1,1 @@
+SELECT MIN(salary) ,  department_id FROM employees GROUP BY department_id

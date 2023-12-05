@@ -1,0 +1,1 @@
+Find the name of the person who has friends with age above 40 and under age 30?

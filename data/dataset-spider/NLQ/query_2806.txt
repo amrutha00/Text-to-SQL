@@ -1,0 +1,1 @@
+Show the names of journalists from "England" or "Wales".

@@ -1,0 +1,1 @@
+Return the descriptions and names of the courses that have more than two students enrolled in.

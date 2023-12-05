@@ -1,0 +1,1 @@
+Show the different nationalities and the number of journalists of each nationality.

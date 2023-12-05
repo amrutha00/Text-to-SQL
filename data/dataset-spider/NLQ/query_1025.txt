@@ -1,0 +1,1 @@
+Which model has the least amount of RAM? List the model name and the amount of RAM.

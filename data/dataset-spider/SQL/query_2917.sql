@@ -1,0 +1,1 @@
+SELECT lname FROM authors WHERE fname  =  "Amal"

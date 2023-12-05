@@ -1,0 +1,1 @@
+SELECT customer_name ,  customer_id FROM customers WHERE customer_address LIKE "%TN%"

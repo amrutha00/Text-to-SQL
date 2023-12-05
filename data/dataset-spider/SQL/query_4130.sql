@@ -1,0 +1,1 @@
+SELECT Country FROM market ORDER BY Number_cities DESC

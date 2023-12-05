@@ -1,0 +1,1 @@
+Return the lot details and investor ids.

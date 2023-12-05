@@ -1,0 +1,1 @@
+Show the member name and hometown who registered a branch in 2016.

@@ -1,0 +1,1 @@
+Find the number of routes that have destination John F Kennedy International Airport.

@@ -1,0 +1,1 @@
+List the names and phone numbers of all the distinct suppliers who supply red jeans.

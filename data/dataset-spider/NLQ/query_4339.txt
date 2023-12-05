@@ -1,0 +1,1 @@
+List the project details of the projects which did not hire any staff for a researcher role.

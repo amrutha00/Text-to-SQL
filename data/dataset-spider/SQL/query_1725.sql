@@ -1,0 +1,1 @@
+SELECT Player_name FROM player ORDER BY Votes DESC LIMIT 1

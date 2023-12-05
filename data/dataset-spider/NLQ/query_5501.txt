@@ -1,0 +1,1 @@
+For each advisor, report the total number of students advised by him or her.

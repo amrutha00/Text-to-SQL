@@ -1,0 +1,1 @@
+Show the draft pick numbers and draft classes of players whose positions are defenders.

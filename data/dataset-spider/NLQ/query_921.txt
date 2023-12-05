@@ -1,0 +1,1 @@
+Which customers do not have a first notification of loss record? Give me the customer names.

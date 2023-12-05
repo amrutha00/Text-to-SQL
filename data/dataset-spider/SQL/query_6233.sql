@@ -1,0 +1,1 @@
+SELECT CLASS FROM captain GROUP BY CLASS HAVING count(*)  >  2

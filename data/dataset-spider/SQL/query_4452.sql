@@ -1,0 +1,1 @@
+SELECT name FROM PersonFriend GROUP BY name HAVING count(*)  =  1

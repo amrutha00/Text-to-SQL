@@ -1,0 +1,1 @@
+SELECT Industry ,  COUNT(*) FROM Companies GROUP BY Industry

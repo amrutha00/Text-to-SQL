@@ -1,0 +1,1 @@
+How many distinct incident type codes are there?

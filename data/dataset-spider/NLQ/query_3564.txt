@@ -1,0 +1,1 @@
+What is the average rating of songs for each language?

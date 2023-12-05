@@ -1,0 +1,1 @@
+Find the id for the trips that lasted at least as long as the average duration of trips in zip code 94103.

@@ -1,0 +1,1 @@
+SELECT FacID FROM Faculty_participates_in INTERSECT SELECT advisor FROM Student

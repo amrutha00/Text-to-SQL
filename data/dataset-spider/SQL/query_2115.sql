@@ -1,0 +1,1 @@
+SELECT document_id FROM Documents WHERE document_status_code = "done" AND document_type_code = "Paper";

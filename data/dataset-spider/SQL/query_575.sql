@@ -1,0 +1,1 @@
+SELECT company FROM customers WHERE first_name = "Eduardo" AND last_name = "Martins";

@@ -1,0 +1,1 @@
+Show name and salary for all employees sorted by salary.

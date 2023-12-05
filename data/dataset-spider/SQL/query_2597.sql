@@ -1,0 +1,1 @@
+SELECT bedType ,  avg(basePrice) FROM Rooms GROUP BY bedType;

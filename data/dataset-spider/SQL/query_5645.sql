@@ -1,0 +1,1 @@
+SELECT Builder ,  COUNT(*) FROM railway GROUP BY Builder

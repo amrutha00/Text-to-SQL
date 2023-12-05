@@ -1,0 +1,1 @@
+SELECT transaction_type_description FROM Ref_Transaction_Types WHERE transaction_type_code	  =  "PUR"

@@ -1,0 +1,1 @@
+SELECT invoice_number ,  count(*) FROM Financial_transactions GROUP BY invoice_number

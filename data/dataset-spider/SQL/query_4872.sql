@@ -1,0 +1,1 @@
+SELECT Team FROM player ORDER BY Team ASC

@@ -1,0 +1,1 @@
+SELECT date_of_enrolment ,  date_of_completion FROM Student_Course_Enrolment

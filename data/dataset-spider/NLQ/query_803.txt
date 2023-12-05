@@ -1,0 +1,1 @@
+Find the address and staff number of the shops that do not have any happy hour.

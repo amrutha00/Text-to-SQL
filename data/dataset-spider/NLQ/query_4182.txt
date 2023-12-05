@@ -1,0 +1,1 @@
+How many locations are listed in the database?

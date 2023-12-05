@@ -1,0 +1,1 @@
+SELECT institution ,  LOCATION FROM institution WHERE founded  >  1990 AND TYPE  =  'Private'

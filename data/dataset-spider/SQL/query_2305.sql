@@ -1,0 +1,1 @@
+SELECT Date FROM perpetrator ORDER BY Killed DESC

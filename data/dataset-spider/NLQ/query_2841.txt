@@ -1,0 +1,1 @@
+At which restaurant did the students spend the least amount of time? List restaurant and the time students spent on in total.

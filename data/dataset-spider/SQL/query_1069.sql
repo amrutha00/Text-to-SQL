@@ -1,0 +1,1 @@
+SELECT Player ,  Years_Played FROM player

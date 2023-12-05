@@ -1,0 +1,1 @@
+Find all the rooms that have a price higher than 160 and can accommodate more than 2 people. Report room names and ids.

@@ -1,0 +1,1 @@
+SELECT StuID FROM Has_allergy GROUP BY StuID HAVING count(*)  >=  2

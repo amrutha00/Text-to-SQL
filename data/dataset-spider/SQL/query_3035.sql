@@ -1,0 +1,1 @@
+SELECT sum(acc_bal) FROM customer WHERE state  =  'Utah' OR state  =  'Texas'

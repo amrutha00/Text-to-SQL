@@ -1,0 +1,1 @@
+What is the average total number of passengers of airports that are associated with aircraft "Robinson R-22"?

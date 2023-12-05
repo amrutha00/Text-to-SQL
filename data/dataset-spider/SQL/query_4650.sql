@@ -1,0 +1,1 @@
+SELECT max(gradepoint) ,  min(gradepoint) FROM GRADECONVERSION

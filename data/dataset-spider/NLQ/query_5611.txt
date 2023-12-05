@@ -1,0 +1,1 @@
+Which country has both stadiums with capacity greater than 60000 and stadiums with capacity less than 50000?

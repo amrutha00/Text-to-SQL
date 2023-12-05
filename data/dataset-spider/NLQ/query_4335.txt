@@ -1,0 +1,1 @@
+Find out the send dates of the documents with the grant amount of more than 5000 were granted by organisation type described

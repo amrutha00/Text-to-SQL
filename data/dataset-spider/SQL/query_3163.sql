@@ -1,0 +1,1 @@
+SELECT origin ,  count(*) FROM train GROUP BY origin

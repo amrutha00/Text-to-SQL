@@ -1,0 +1,1 @@
+SELECT min(age) ,  avg(age) ,  max(age) FROM Student

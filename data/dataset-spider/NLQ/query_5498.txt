@@ -1,0 +1,1 @@
+What are the distinct last names of the students who have president votes but do not have 2192 as the advisor?

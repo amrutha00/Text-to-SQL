@@ -1,0 +1,1 @@
+Find the id and local authority of the station whose maximum precipitation is higher than 50.

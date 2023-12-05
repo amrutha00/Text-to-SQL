@@ -1,0 +1,1 @@
+SELECT open_year FROM branch GROUP BY open_year HAVING count(*)  >=  2

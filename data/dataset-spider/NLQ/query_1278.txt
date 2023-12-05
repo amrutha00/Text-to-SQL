@@ -1,0 +1,1 @@
+What are the maximum, minimum and average home games each stadium held?

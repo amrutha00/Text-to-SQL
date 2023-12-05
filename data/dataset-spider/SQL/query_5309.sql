@@ -1,0 +1,1 @@
+SELECT name ,  max(revenue) ,  Headquarter FROM manufacturers GROUP BY Headquarter

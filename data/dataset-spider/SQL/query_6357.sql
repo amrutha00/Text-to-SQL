@@ -1,0 +1,1 @@
+SELECT home_city FROM driver EXCEPT SELECT home_city FROM driver WHERE age  >  40

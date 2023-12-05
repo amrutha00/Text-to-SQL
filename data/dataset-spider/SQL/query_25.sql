@@ -1,0 +1,1 @@
+SELECT avg(Working_Horses) FROM farm WHERE Total_Horses  >  5000

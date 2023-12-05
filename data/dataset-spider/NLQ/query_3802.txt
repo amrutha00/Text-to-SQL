@@ -1,0 +1,1 @@
+For each distinct test result, find the number of students who got the result.

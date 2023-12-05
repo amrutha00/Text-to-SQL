@@ -1,0 +1,1 @@
+SELECT building ,  count(*) FROM Faculty GROUP BY building

@@ -1,0 +1,1 @@
+Return the codes of the document types that do not have a total access count of over 10000.

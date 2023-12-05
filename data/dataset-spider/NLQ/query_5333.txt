@@ -1,0 +1,1 @@
+Compute the average price of all products with manufacturer code equal to 2.

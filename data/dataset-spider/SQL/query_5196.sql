@@ -1,0 +1,1 @@
+SELECT label FROM albums GROUP BY label ORDER BY count(*) DESC LIMIT 1

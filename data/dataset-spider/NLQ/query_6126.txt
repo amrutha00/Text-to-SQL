@@ -1,0 +1,1 @@
+Find the total amount of products ordered before 2018-03-17 07:13:53.

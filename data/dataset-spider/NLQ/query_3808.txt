@@ -1,0 +1,1 @@
+What are the personal name, family name, and author ID of the course author who teaches the most courses?

@@ -1,0 +1,1 @@
+Return the names and classes of ships that do not have a captain?

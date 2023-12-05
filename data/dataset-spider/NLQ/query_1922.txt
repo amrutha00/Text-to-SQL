@@ -1,0 +1,1 @@
+Show the names of buildings except for those having an institution founded in 2003.

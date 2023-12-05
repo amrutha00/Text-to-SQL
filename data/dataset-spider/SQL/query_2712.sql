@@ -1,0 +1,1 @@
+SELECT region_name FROM region WHERE region_id NOT IN (SELECT region_id FROM affected_region)

@@ -1,0 +1,1 @@
+List the distinct ranges of the mountains with the top 3 prominence.

@@ -1,0 +1,1 @@
+display all the information for all employees who have the letters D or S in their first name and also arrange the result in descending order by salary.

@@ -1,0 +1,1 @@
+SELECT account_id ,  account_details FROM Accounts

@@ -1,0 +1,1 @@
+SELECT formats FROM files GROUP BY formats ORDER BY COUNT (*) DESC LIMIT 1

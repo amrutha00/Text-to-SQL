@@ -1,0 +1,1 @@
+Show different publishers together with the number of publications they have.

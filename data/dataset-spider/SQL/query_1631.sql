@@ -1,0 +1,1 @@
+SELECT name ,  open_date ,  organized_by FROM Church

@@ -1,0 +1,1 @@
+For the problem with id 10, return the ids and dates of its problem logs.

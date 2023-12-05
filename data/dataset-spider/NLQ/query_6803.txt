@@ -1,0 +1,1 @@
+Which students participate in both Canoeing and Kayaking as their activities? Tell me their student ids.

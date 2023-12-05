@@ -1,0 +1,1 @@
+Find the number of patients who are not using the medication of Procrastin-X.

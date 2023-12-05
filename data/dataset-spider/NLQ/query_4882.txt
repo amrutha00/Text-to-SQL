@@ -1,0 +1,1 @@
+Which schools have more than 1 player? Give me the school locations.

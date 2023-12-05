@@ -1,0 +1,1 @@
+SELECT count(*) ,  city_code FROM student GROUP BY city_code HAVING count(*)  >  1

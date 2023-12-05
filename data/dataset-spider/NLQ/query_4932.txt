@@ -1,0 +1,1 @@
+What are the products with the maximum page size A4 that also have a pages per minute color smaller than 5?

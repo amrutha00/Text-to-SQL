@@ -1,0 +1,1 @@
+How many tasks does each project have? List the task count and the project detail.

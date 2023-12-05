@@ -1,0 +1,1 @@
+Find the names of the regions which were affected by the storm that killed the greatest number of people.

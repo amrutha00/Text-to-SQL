@@ -1,0 +1,1 @@
+What is the placement date of the order whose invoice number is 10?

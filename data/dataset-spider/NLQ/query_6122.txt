@@ -1,0 +1,1 @@
+Find the customer name and date of the orders that have the status "Delivered".

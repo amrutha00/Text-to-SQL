@@ -1,0 +1,1 @@
+Find the names of all instructors in the Art department who have taught some course and the course_id.

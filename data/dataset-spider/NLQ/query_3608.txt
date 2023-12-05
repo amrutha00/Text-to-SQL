@@ -1,0 +1,1 @@
+Find the name and country of origin for all artists who have release at least one song of resolution above 900.

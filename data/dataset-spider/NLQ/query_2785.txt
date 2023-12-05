@@ -1,0 +1,1 @@
+Show the 3 counties with the smallest population.

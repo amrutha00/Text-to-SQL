@@ -1,0 +1,1 @@
+Show the countries that have mountains with height more than 5600 stories and mountains with height less than 5200.

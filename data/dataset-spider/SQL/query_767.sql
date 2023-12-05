@@ -1,0 +1,1 @@
+SELECT name ,  CLASS ,  date FROM race

@@ -1,0 +1,1 @@
+Return the average price of products that have each category code.

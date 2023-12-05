@@ -1,0 +1,1 @@
+SELECT TYPE ,  count(*) ,  sum(enrollment) FROM institution GROUP BY TYPE

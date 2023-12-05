@@ -1,0 +1,1 @@
+Find papers whose second author has last name "Turon" and is affiliated with an institution in the country "USA".

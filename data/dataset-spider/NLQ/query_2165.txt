@@ -1,0 +1,1 @@
+What are the different driver ids and nationalities of all drivers who had a laptime of more than 100000 milliseconds?

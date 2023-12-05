@@ -1,0 +1,1 @@
+Show distinct first and last names for all customers with an account.

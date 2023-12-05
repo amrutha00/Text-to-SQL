@@ -1,0 +1,1 @@
+Show all student IDs with more than total 10 hours per week on all sports played.

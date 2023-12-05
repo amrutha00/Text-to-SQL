@@ -1,0 +1,1 @@
+SELECT count(*) ,  rank FROM captain WHERE age  <  50 GROUP BY rank

@@ -1,0 +1,1 @@
+SELECT name FROM captain WHERE rank  =  'Midshipman' OR rank  =  'Lieutenant'

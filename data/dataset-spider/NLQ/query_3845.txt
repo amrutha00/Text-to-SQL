@@ -1,0 +1,1 @@
+How many students did not have any course enrollment?

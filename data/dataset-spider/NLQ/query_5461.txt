@@ -1,0 +1,1 @@
+What are the maximum and minimum age of students with major 600?

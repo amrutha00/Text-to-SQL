@@ -1,0 +1,1 @@
+What are the names of all cities with more than one airport and how many airports do they have?

@@ -1,0 +1,1 @@
+Find the first name and age of students who are living in the dorms that do not have amenity TV Lounge.

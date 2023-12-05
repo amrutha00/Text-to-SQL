@@ -1,0 +1,1 @@
+SELECT count(*) FROM camera_lens WHERE focal_length_mm  >  15

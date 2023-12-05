@@ -1,0 +1,1 @@
+For each trip, return its ending station's installation date.

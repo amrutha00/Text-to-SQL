@@ -1,0 +1,1 @@
+Which rank has the smallest number of faculty members?

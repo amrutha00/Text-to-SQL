@@ -1,0 +1,1 @@
+Find the id and star rating of each hotel and sort them in increasing order of price.

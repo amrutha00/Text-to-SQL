@@ -1,0 +1,1 @@
+What is the maximum and minimum grade point of students who live in NYC?

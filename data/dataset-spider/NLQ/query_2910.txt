@@ -1,0 +1,1 @@
+Who has written a paper that has the word "Functional" in its title? Return the first names of the authors.

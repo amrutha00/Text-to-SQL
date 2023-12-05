@@ -1,0 +1,1 @@
+What is the id, genre, and name of the artist for every English song ordered by ascending rating?

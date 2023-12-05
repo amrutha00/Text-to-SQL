@@ -1,0 +1,1 @@
+SELECT start_station_name ,  end_station_name FROM trip ORDER BY id LIMIT 3

@@ -1,0 +1,1 @@
+What are the name of rooms booked by customers whose first name has "ROY" in part?

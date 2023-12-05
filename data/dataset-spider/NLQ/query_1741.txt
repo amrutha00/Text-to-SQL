@@ -1,0 +1,1 @@
+List the total points of gymnasts in descending order of floor exercise points.

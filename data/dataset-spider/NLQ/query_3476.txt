@@ -1,0 +1,1 @@
+Find the employee id for all employees who earn more than the average salary.

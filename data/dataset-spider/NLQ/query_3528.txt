@@ -1,0 +1,1 @@
+display the full name (first and last name), and salary of those employees who working in any department located in London.

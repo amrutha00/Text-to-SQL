@@ -1,0 +1,1 @@
+List the hardware model name for the phons that were produced by "Nokia Corporation" but whose screen mode type is not Text.

@@ -1,0 +1,1 @@
+SELECT DISTINCT firstname ,  lastname FROM teachers

@@ -1,0 +1,1 @@
+Sort all the industries in descending order of the count of companies in each industry

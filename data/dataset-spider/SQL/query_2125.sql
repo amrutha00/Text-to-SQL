@@ -1,0 +1,1 @@
+SELECT count(*) FROM Draft_Copies WHERE document_id = 2;

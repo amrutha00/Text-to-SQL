@@ -1,0 +1,1 @@
+What is the name and country of origin for each artist who has released a song with a resolution higher than 900?

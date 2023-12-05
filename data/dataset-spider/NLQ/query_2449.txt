@@ -1,0 +1,1 @@
+What is the total number of ratings that has more than 3 stars?

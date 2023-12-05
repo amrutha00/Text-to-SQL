@@ -1,0 +1,1 @@
+SELECT avg(revenue) ,  max(revenue) ,  sum(revenue) FROM manufacturers

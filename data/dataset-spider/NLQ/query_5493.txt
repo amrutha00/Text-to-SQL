@@ -1,0 +1,1 @@
+Find the average age of female (sex is F) students who have secretary votes in the spring election cycle.

@@ -1,0 +1,1 @@
+Count the products that have the color description "white" or have the characteristic name "hot".

@@ -1,0 +1,1 @@
+SELECT state FROM bank GROUP BY state ORDER BY sum(no_of_customers) DESC LIMIT 1

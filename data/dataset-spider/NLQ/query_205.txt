@@ -1,0 +1,1 @@
+What are the different ids and names of the stations that have had more than 12 bikes available?

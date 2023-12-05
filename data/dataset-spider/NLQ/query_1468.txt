@@ -1,0 +1,1 @@
+What are the names of the instructors in the Comp. Sci. department who earn more than 80000?

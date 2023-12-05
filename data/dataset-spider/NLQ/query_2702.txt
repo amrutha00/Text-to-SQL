@@ -1,0 +1,1 @@
+What are the names, dates active, and number of deaths for storms that had 1 or more death?

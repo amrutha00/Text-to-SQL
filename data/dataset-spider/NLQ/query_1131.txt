@@ -1,0 +1,1 @@
+Show the names of climbers and the heights of mountains they climb.

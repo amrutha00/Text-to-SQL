@@ -1,0 +1,1 @@
+For each zip code, select all those that have an average mean visiblity below 10.

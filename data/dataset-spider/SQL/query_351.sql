@@ -1,0 +1,1 @@
+SELECT count(*) FROM Aircraft WHERE distance BETWEEN 1000 AND 5000

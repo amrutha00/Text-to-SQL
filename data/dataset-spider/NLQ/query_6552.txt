@@ -1,0 +1,1 @@
+What are the wines that have prices lower than 50 and have appelations in Monterey county?

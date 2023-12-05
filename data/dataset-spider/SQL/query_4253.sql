@@ -1,0 +1,1 @@
+SELECT clubname FROM club

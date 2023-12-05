@@ -1,0 +1,1 @@
+List the names of buildings with at least 200 feet of height and with at least 20 floors.

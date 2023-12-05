@@ -1,0 +1,1 @@
+Find the name and position of physicians who prescribe some medication whose brand is X?

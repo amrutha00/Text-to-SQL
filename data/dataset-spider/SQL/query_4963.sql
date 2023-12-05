@@ -1,0 +1,1 @@
+SELECT count(*) FROM tryout WHERE decision  =  'yes'

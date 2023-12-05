@@ -1,0 +1,1 @@
+SELECT name ,  LOCATION ,  number_of_platforms FROM station

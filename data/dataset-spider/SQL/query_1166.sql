@@ -1,0 +1,1 @@
+SELECT Birth_Place FROM people GROUP BY Birth_Place HAVING COUNT(*)  >=  2

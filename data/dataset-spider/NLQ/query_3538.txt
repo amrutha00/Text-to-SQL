@@ -1,0 +1,1 @@
+List the name and country of origin for all singers who have produced songs with rating above 9.

@@ -1,0 +1,1 @@
+What are the average, minimum, and maximum ticket prices for exhibitions that happened prior to 2009?

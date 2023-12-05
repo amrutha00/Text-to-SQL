@@ -1,0 +1,1 @@
+SELECT document_status_description FROM Ref_Document_Status WHERE document_status_code = "working";

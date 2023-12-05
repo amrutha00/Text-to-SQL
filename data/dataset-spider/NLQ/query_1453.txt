@@ -1,0 +1,1 @@
+Find the name of students who didn't take any course from Biology department.

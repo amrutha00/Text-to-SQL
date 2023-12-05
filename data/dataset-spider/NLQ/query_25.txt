@@ -1,0 +1,1 @@
+What is the average number of working horses of farms with more than 5000 total number of horses?

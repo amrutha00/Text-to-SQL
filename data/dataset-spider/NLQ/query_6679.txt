@@ -1,0 +1,1 @@
+What is maximum, minimum and average amount of outstanding of customer?

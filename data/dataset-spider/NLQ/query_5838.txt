@@ -1,0 +1,1 @@
+How many workshops did each author submit to? Return the author name and the number of workshops.

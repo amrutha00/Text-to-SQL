@@ -1,0 +1,1 @@
+Which skill is used in fixing the most number of faults? List the skill id and description.

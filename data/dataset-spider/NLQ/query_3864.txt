@@ -1,0 +1,1 @@
+Return the claim start date for the claims whose claimed amount is no more than the average

@@ -1,0 +1,1 @@
+Find the names of instructors who didn't each any courses in any Spring semester.

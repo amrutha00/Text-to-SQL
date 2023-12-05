@@ -1,0 +1,1 @@
+Find the first name and gpa of the students whose gpa is lower than the average gpa of all students.

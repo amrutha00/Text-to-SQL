@@ -1,0 +1,1 @@
+List the titles of the papers whose authors are from the institution "Indiana University".

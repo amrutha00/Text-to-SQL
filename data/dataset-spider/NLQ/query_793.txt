@@ -1,0 +1,1 @@
+Find the ids and names of members who are under age 30 or with black membership card.

@@ -1,0 +1,1 @@
+Give me the name and year of opening of the manufacturers that have either less than 10 factories or more than 10 shops.

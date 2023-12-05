@@ -1,0 +1,1 @@
+Show the names of aircrafts that are associated with both an airport named "London Heathrow" and an airport named "London Gatwick"

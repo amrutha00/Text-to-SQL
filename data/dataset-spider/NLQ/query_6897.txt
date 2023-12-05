@@ -1,0 +1,1 @@
+What are the distinct customers who have orders with status "On Road"? Give me the customer details?

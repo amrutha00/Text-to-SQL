@@ -1,0 +1,1 @@
+SELECT Famous_Title FROM artist WHERE Artist  =  "Triumfall"

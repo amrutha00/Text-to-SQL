@@ -1,0 +1,1 @@
+What are the ids, full names, and salaries for employees making more than average and who work in a department with employees who have the letter J in their first name?

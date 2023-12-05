@@ -1,0 +1,1 @@
+Show the countries that have both managers of age above 50 and managers of age below 46.

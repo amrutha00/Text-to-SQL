@@ -1,0 +1,1 @@
+SELECT name FROM projects WHERE hours  >  (SELECT avg(hours) FROM projects)

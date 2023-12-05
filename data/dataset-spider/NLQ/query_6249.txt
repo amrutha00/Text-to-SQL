@@ -1,0 +1,1 @@
+Group by ships by flag, and return number of ships that have each flag.

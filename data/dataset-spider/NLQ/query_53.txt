@@ -1,0 +1,1 @@
+Find the official names of cities with population bigger than 1500 or smaller than 500.

@@ -1,0 +1,1 @@
+Show the average population of all counties.

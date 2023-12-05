@@ -1,0 +1,1 @@
+SELECT avg(price_in_euros) ,  min(price_in_euros) FROM catalog_contents

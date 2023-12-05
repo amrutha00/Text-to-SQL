@@ -1,0 +1,1 @@
+SELECT name FROM airports WHERE elevation BETWEEN -50 AND 50

@@ -1,0 +1,1 @@
+SELECT Product_Name FROM PRODUCTS ORDER BY Product_Price DESC LIMIT 1

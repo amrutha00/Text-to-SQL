@@ -1,0 +1,1 @@
+What are total salaries and department id for each department that has more than 2 employees?

@@ -1,0 +1,1 @@
+Find the name of product that is produced by both companies Creative Labs and Sony.

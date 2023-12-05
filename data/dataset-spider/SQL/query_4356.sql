@@ -1,0 +1,1 @@
+SELECT date_from FROM Project_Staff ORDER BY date_from ASC LIMIT 1

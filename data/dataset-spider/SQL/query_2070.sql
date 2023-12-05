@@ -1,0 +1,1 @@
+SELECT count(*) FROM party_events

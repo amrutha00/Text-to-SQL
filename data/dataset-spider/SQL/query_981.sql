@@ -1,0 +1,1 @@
+SELECT school ,  LOCATION FROM university WHERE affiliation  =  'Public'

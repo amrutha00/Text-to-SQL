@@ -1,0 +1,1 @@
+SELECT classroom FROM list GROUP BY classroom ORDER BY count(*) DESC LIMIT 1

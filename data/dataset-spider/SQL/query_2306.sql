@@ -1,0 +1,1 @@
+SELECT Injured FROM perpetrator ORDER BY Injured ASC

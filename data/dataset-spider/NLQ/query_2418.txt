@@ -1,0 +1,1 @@
+For each sex, what is the name and sex of the candidate with the oppose rate for their sex?

@@ -1,0 +1,1 @@
+What are the ids, names, dates of opening, and other details for accounts corresponding to the customer with the first name "Meaghan"?

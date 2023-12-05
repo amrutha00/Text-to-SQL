@@ -1,0 +1,1 @@
+What is the highest, lowest, and average student GPA for every department?

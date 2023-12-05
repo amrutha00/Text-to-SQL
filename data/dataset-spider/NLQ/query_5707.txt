@@ -1,0 +1,1 @@
+Find the last name of students who is either female (sex is F) and living in the city of code BAL or male (sex is M) and in age of below 20.

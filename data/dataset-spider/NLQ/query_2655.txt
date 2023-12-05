@@ -1,0 +1,1 @@
+List all information about customer master index, and sort them by details in descending order.

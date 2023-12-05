@@ -1,0 +1,1 @@
+Who has friends that are older than the average age? Print their friends and their ages as well

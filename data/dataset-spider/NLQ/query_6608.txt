@@ -1,0 +1,1 @@
+Show all locations which don't have a train station with at least 15 platforms.

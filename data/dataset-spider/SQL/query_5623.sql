@@ -1,0 +1,1 @@
+SELECT name FROM stadium WHERE id NOT IN (SELECT stadium_id FROM event)

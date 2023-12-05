@@ -1,0 +1,1 @@
+What are the names and hours spent practicing of every student who received a yes at tryouts?

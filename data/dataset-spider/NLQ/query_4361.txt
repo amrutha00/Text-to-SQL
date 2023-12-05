@@ -1,0 +1,1 @@
+Which organisation hired the most number of research staff? List the organisation id, type and detail.

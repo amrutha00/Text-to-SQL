@@ -1,0 +1,1 @@
+SELECT Team FROM technician GROUP BY Team ORDER BY COUNT(*) DESC LIMIT 1

@@ -1,0 +1,1 @@
+SELECT premises_type ,  count(*) FROM premises GROUP BY premises_type

@@ -1,0 +1,1 @@
+How many instructors are in the department with the highest budget, and what is their average salary?

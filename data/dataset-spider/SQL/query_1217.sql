@@ -1,0 +1,1 @@
+SELECT guest_first_name ,  guest_last_name FROM Guests

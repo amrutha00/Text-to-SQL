@@ -1,0 +1,1 @@
+SELECT phone_number FROM customers UNION SELECT phone_number FROM staff

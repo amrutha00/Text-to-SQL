@@ -1,0 +1,1 @@
+SELECT Name FROM technician WHERE Team != "NYY"

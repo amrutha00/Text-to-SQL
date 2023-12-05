@@ -1,0 +1,1 @@
+What zip codes have a station with a max temperature greater than or equal to 80 and when did it reach that temperature?

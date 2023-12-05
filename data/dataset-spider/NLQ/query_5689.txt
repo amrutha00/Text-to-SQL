@@ -1,0 +1,1 @@
+Find the average and total capacity of dorms for the students with gender X.

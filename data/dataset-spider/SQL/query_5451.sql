@@ -1,0 +1,1 @@
+SELECT max(Age) FROM STUDENT

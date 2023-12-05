@@ -1,0 +1,1 @@
+Return the ids of documents that do not have expenses.

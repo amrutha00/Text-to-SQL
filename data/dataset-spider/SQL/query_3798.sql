@@ -1,0 +1,1 @@
+SELECT * FROM Course_Authors_and_Tutors ORDER BY personal_name

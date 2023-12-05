@@ -1,0 +1,1 @@
+Find the number of different departments in each school whose number of different departments is less than 5.

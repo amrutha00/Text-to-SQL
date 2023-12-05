@@ -1,0 +1,1 @@
+SELECT job_title FROM jobs WHERE min_salary  >  9000

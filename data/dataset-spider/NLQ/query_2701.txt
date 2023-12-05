@@ -1,0 +1,1 @@
+List name, dates active, and number of deaths for all storms with at least 1 death.

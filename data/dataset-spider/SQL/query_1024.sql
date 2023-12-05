@@ -1,0 +1,1 @@
+SELECT Model_name FROM chip_model WHERE Launch_year BETWEEN 2002 AND 2004;

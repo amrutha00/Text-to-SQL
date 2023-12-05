@@ -1,0 +1,1 @@
+List all the distinct stations from which a trip of duration below 100 started.

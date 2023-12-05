@@ -1,0 +1,1 @@
+List all the username and passwords of users with the most popular role.

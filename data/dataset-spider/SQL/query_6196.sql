@@ -1,0 +1,1 @@
+SELECT Issue_Date FROM volume ORDER BY Weeks_on_Top ASC LIMIT 1

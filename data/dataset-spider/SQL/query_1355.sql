@@ -1,0 +1,1 @@
+SELECT dept_name FROM instructor WHERE name LIKE '%Soisalon%'

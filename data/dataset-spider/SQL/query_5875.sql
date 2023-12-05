@@ -1,0 +1,1 @@
+SELECT investor_id ,  COUNT(*) FROM TRANSACTIONS GROUP BY investor_id

@@ -1,0 +1,1 @@
+What are the maximum duration and resolution of songs grouped and ordered by languages?

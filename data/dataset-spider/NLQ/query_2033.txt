@@ -1,0 +1,1 @@
+What is the name of the manager with the most gas stations that opened after 2000?

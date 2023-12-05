@@ -1,0 +1,1 @@
+Find the name and hours of project that has the most number of scientists.

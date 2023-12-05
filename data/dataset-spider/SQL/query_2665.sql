@@ -1,0 +1,1 @@
+SELECT Party_Theme ,  LOCATION FROM party

@@ -1,0 +1,1 @@
+What are the full names and department ids for the lowest paid employees across all departments.

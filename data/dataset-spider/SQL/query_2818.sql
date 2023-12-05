@@ -1,0 +1,1 @@
+SELECT avg(Event_Attendance) ,  max(Event_Attendance) FROM event

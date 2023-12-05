@@ -1,0 +1,1 @@
+SELECT meter_200 ,  meter_300 FROM swimmer WHERE nationality  =  'Australia'

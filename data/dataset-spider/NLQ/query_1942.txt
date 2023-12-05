@@ -1,0 +1,1 @@
+Show each location and the number of cinemas there.

@@ -1,0 +1,1 @@
+What are the shortest duration and lowest rating of songs grouped by genre and ordered by genre?

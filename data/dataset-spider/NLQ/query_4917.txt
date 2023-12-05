@@ -1,0 +1,1 @@
+Find the names of all stores in Khanewal District.

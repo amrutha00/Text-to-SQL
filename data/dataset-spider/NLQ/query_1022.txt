@@ -1,0 +1,1 @@
+List names of all teams in the basketball competition, ordered by all home scores in descending order.

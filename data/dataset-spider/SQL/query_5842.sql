@@ -1,0 +1,1 @@
+SELECT Date ,  Venue FROM workshop ORDER BY Venue

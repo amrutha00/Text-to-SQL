@@ -1,0 +1,1 @@
+SELECT creation FROM department GROUP BY creation ORDER BY count(*) DESC LIMIT 1

@@ -1,0 +1,1 @@
+How many distinct locations of perpetrators are there?

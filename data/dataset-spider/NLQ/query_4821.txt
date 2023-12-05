@@ -1,0 +1,1 @@
+What is the average total number of passengers for all airports that the aircraft "Robinson R-22" visits?

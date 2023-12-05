@@ -1,0 +1,1 @@
+SELECT count(*) FROM Ref_colors WHERE color_code NOT IN ( SELECT color_code FROM products )

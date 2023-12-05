@@ -1,0 +1,1 @@
+What are the birth places that are shared by at least two people?

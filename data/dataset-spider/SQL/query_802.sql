@@ -1,0 +1,1 @@
+SELECT shop_id ,  address FROM shop WHERE score  <  (SELECT avg(score) FROM shop)

@@ -1,0 +1,1 @@
+SELECT class_code FROM CLASS WHERE class_room  =  'KLR209'

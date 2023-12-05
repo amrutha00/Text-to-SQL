@@ -1,0 +1,1 @@
+Return the day Number and stored date for all the documents.

@@ -1,0 +1,1 @@
+Return the name, location, and seating of the track that was opened in the most recent year.

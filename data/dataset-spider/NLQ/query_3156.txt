@@ -1,0 +1,1 @@
+How many engineers did each staff contact? List both the contact staff name and number of engineers contacted.

@@ -1,0 +1,1 @@
+Show all the activity names and the number of faculty involved in each activity.

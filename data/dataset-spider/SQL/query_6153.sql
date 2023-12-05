@@ -1,0 +1,1 @@
+SELECT distinct(Famous_Release_date) FROM artist

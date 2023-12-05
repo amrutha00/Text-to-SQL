@@ -1,0 +1,1 @@
+SELECT name ,  TYPE ,  flag FROM ship ORDER BY built_year DESC LIMIT 1

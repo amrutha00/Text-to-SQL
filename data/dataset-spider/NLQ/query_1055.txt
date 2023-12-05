@@ -1,0 +1,1 @@
+Show the country name and capital of all countries.

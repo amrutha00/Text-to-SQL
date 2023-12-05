@@ -1,0 +1,1 @@
+Show the manager name for gas stations belonging to the ExxonMobil company.

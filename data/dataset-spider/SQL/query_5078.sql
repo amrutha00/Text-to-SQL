@@ -1,0 +1,1 @@
+SELECT Software_Platform ,  COUNT(*) FROM device GROUP BY Software_Platform

@@ -1,0 +1,1 @@
+What are the invoice dates for customers with the first name Astrid and the last name Gruber?

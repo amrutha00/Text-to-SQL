@@ -1,0 +1,1 @@
+For each year, return the year and the average number of attendance at home games.

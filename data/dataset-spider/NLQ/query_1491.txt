@@ -1,0 +1,1 @@
+Find the names of all instructors whose salary is greater than the salary of all instructors in the Biology department.

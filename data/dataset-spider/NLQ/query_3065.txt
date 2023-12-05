@@ -1,0 +1,1 @@
+Find the name and account balance of the customers who have loans with a total amount of more than 5000.

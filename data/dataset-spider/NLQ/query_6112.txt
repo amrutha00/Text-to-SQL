@@ -1,0 +1,1 @@
+What is the payment method of the customer that has purchased the least quantity of items?

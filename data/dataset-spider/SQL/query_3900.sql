@@ -1,0 +1,1 @@
+SELECT name FROM department GROUP BY departmentID ORDER BY count(departmentID) DESC LIMIT 1;

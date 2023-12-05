@@ -1,0 +1,1 @@
+Find the names of Japanese constructors that have once earned more than 5 points?

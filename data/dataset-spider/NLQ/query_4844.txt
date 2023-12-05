@@ -1,0 +1,1 @@
+How many residents does each property have? List property id and resident count.

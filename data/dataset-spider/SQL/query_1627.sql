@@ -1,0 +1,1 @@
+SELECT order_id ,  sum(product_quantity) FROM Order_items GROUP BY order_id

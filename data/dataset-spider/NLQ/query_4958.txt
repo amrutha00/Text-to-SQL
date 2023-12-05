@@ -1,0 +1,1 @@
+What are the names and number of hours spent training for each player who trains for less than 1500 hours?

@@ -1,0 +1,1 @@
+SELECT Name FROM company WHERE Industry  =  "Banking" OR Industry  =  "Retailing"

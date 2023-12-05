@@ -1,0 +1,1 @@
+SELECT count(*) FROM Faculty AS T1 JOIN Faculty_participates_in AS T2 ON T1.facID  =  T2.facID WHERE T1.fname  =  "Mark" AND T1.lname  =  "Giuliano"

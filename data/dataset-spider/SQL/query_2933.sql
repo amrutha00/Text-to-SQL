@@ -1,0 +1,1 @@
+SELECT phone ,  postal_code FROM address WHERE address  =  '1031 Daugavpils Parkway'

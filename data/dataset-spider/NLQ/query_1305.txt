@@ -1,0 +1,1 @@
+List all of the ids for left-footed players with a height between 180cm and 190cm.

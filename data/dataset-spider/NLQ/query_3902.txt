@@ -1,0 +1,1 @@
+Tell me the employee id of the head of the department with the least employees.

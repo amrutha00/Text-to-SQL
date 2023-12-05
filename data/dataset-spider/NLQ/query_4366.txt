@@ -1,0 +1,1 @@
+What is the type of the document whose description starts with the word 'Initial'?

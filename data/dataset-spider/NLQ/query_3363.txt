@@ -1,0 +1,1 @@
+For each position, what is the average number of points for players in that position?

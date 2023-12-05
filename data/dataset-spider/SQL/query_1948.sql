@@ -1,0 +1,1 @@
+SELECT DISTINCT directed_by FROM film

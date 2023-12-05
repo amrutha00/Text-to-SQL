@@ -1,0 +1,1 @@
+Show the distinct fate of missions that involve ships with nationality "United States"

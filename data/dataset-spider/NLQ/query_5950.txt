@@ -1,0 +1,1 @@
+Show different ways to get to attractions and the number of attractions that can be accessed in the corresponding way.

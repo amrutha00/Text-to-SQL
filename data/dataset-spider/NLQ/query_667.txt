@@ -1,0 +1,1 @@
+What is the average sales of the journals that have an editor whose work type is 'Photo'?

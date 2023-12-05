@@ -1,0 +1,1 @@
+SELECT count(DISTINCT bedType) FROM Rooms;

@@ -1,0 +1,1 @@
+SELECT mascot FROM school WHERE enrollment  >  (SELECT avg(enrollment) FROM school)

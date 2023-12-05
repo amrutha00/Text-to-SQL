@@ -1,0 +1,1 @@
+SELECT name ,  Assets_billion FROM Companies ORDER BY name ASC

@@ -1,0 +1,1 @@
+Which nations have both hosts of age above 45 and hosts of age below 35?

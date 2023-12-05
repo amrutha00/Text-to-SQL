@@ -1,0 +1,1 @@
+What is the maximum total amount paid by a customer? List the customer id and amount.

@@ -1,0 +1,1 @@
+Show the document name and the document date for all documents on project with details 'Graph Database project'.

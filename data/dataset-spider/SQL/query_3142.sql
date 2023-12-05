@@ -1,0 +1,1 @@
+SELECT asset_id ,  asset_details ,  asset_make ,  asset_model FROM Assets

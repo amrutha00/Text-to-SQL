@@ -1,0 +1,1 @@
+List the type of bed and name of all traditional rooms.

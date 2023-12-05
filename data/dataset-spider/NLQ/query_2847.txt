@@ -1,0 +1,1 @@
+Show the details of all trucks in the order of their license number.

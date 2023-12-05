@@ -1,0 +1,1 @@
+SELECT Date ,  Name ,  venue FROM event ORDER BY Event_Attendance DESC

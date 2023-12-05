@@ -1,0 +1,1 @@
+SELECT product_id ,  product_name FROM products WHERE product_price  <  600 OR product_price  >  900

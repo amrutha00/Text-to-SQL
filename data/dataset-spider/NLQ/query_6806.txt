@@ -1,0 +1,1 @@
+Find the name, city, country, and altitude (or elevation) of the airports in the city of New York.

@@ -1,0 +1,1 @@
+SELECT count(*) FROM head WHERE age  >  56

@@ -1,0 +1,1 @@
+Find the states where have the colleges whose enrollments are less than the largest size.

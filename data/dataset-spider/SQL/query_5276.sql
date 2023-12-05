@@ -1,0 +1,1 @@
+SELECT headquarter FROM manufacturers WHERE founder  =  'James'

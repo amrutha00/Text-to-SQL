@@ -1,0 +1,1 @@
+What are the names and ids of artists with 3 or more albums, listed in alphabetical order?

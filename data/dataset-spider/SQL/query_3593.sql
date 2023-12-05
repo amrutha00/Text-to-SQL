@@ -1,0 +1,1 @@
+SELECT song_name FROM song WHERE genre_is  =  "modern" OR languages  =  "english"

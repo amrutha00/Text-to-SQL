@@ -1,0 +1,1 @@
+Return the average and minimum age of captains in each class.

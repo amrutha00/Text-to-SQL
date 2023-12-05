@@ -1,0 +1,1 @@
+SELECT Winery FROM WINE GROUP BY Winery HAVING count(*)  >=  4

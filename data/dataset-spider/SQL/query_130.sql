@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM station WHERE city  =  "Mountain View"

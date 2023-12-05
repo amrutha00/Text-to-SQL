@@ -1,0 +1,1 @@
+SELECT roomName FROM Rooms ORDER BY maxOccupancy DESC LIMIT 1;

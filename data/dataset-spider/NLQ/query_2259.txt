@@ -1,0 +1,1 @@
+What are the names of the technicians  and how many machines are they assigned to repair?

@@ -1,0 +1,1 @@
+Show the publishers that have publications with price higher than 10000000 and publications with price lower than 5000000.

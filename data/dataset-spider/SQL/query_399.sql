@@ -1,0 +1,1 @@
+SELECT flno ,  distance FROM Flight ORDER BY price DESC LIMIT 1

@@ -1,0 +1,1 @@
+SELECT count(*) FROM instruments WHERE instrument  =  "drums"

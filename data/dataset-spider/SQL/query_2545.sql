@@ -1,0 +1,1 @@
+SELECT Hispanic FROM city WHERE Black  >  10

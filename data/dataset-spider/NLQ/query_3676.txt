@@ -1,0 +1,1 @@
+How many games in 1885 postseason resulted in ties (that is, the value of "ties" is '1')?

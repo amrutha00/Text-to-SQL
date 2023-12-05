@@ -1,0 +1,1 @@
+What are the distinct salaries of all instructors who earned less than the maximum salary?

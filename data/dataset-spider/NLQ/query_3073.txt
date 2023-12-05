@@ -1,0 +1,1 @@
+Find the name and credit score of the customers who have some loans.

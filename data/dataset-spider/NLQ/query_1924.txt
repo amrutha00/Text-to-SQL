@@ -1,0 +1,1 @@
+Show the names and heights of buildings with at least two institutions founded after 1880.

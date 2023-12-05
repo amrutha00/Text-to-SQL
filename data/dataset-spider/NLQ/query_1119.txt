@@ -1,0 +1,1 @@
+How many distinct countries are the climbers from?

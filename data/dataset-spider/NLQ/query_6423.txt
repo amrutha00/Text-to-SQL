@@ -1,0 +1,1 @@
+What are the codes corresponding to document types for which there are less than 3 documents?

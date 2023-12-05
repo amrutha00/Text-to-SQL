@@ -1,0 +1,1 @@
+Which physicians are affiliated with both Surgery and Psychiatry departments? Tell me their names.

@@ -1,0 +1,1 @@
+List the weight of the body builders who have snatch score higher than 140 or have the height greater than 200.

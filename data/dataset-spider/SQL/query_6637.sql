@@ -1,0 +1,1 @@
+SELECT count(*) FROM Staff WHERE first_name = "Ludie";

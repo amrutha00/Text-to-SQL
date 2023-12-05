@@ -1,0 +1,1 @@
+Show the addresses and phones of all the buildings managed by "Brenden".

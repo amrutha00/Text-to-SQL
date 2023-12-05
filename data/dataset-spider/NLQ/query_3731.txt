@@ -1,0 +1,1 @@
+List all channel names ordered by their rating in percent from big to small.

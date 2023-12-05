@@ -1,0 +1,1 @@
+List the document ids of documents with the status done and type Paper, which not shipped by the shipping agent named USPS.

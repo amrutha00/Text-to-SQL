@@ -1,0 +1,1 @@
+SELECT Carrier FROM device ORDER BY Carrier ASC

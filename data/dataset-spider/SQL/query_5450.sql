@@ -1,0 +1,1 @@
+SELECT count(DISTINCT President_Vote) FROM VOTING_RECORD

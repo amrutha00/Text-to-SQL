@@ -1,0 +1,1 @@
+SELECT publisher ,  count(*) FROM book_club GROUP BY publisher

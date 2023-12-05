@@ -1,0 +1,1 @@
+Find the id of the candidate who got the lowest oppose rate.

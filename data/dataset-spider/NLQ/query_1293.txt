@@ -1,0 +1,1 @@
+For each injury accident, find the date of the game and the name of the injured player in the game, and sort the results in descending order of game season.

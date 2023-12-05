@@ -1,0 +1,1 @@
+Show all storm names except for those with at least two affected regions.

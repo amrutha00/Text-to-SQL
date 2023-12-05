@@ -1,0 +1,1 @@
+SELECT name FROM web_client_accelerator WHERE name LIKE "%Opera%"

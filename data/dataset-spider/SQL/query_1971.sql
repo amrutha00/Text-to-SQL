@@ -1,0 +1,1 @@
+SELECT avg(amount_due) FROM payments

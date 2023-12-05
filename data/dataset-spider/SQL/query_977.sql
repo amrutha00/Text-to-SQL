@@ -1,0 +1,1 @@
+SELECT trade_name ,  count(*) FROM medicine GROUP BY trade_name

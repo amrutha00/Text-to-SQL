@@ -1,0 +1,1 @@
+How much amount in total were claimed in the most recently created document?

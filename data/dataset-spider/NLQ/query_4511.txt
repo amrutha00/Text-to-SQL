@@ -1,0 +1,1 @@
+Return the structure description of the document that has been accessed the fewest number of times.

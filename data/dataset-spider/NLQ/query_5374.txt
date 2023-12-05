@@ -1,0 +1,1 @@
+Find the ids of the problems reported after 1978-06-26.

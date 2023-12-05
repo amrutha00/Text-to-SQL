@@ -1,0 +1,1 @@
+Give me the detail and opening hour for each museum.

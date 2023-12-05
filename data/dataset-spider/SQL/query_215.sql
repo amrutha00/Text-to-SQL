@@ -1,0 +1,1 @@
+SELECT Writer FROM book ORDER BY Writer ASC

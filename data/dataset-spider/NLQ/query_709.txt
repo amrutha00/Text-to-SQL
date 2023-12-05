@@ -1,0 +1,1 @@
+Count the number of customer cards of the type Debit.

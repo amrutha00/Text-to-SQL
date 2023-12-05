@@ -1,0 +1,1 @@
+SELECT gname ,  gtype FROM Video_games ORDER BY gname

@@ -1,0 +1,1 @@
+Can you return all detailed info of jobs which was done by any of the employees who is presently earning a salary on and above 12000?

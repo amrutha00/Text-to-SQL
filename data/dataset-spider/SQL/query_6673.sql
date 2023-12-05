@@ -1,0 +1,1 @@
+SELECT customer_status_code , count(*) FROM Customers GROUP BY customer_status_code;

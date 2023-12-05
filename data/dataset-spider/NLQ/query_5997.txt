@@ -1,0 +1,1 @@
+What are the average, minimum, and max ages for each of the different majors?

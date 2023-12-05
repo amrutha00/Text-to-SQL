@@ -1,0 +1,1 @@
+List the council tax ids and their related cmi cross references of all the parking fines.

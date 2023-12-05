@@ -1,0 +1,1 @@
+Please show the themes of competitions with host cities having populations larger than 1000.

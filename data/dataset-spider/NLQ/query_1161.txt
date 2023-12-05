@@ -1,0 +1,1 @@
+What are the heights of body builders with total score smaller than 315?

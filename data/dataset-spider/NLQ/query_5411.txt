@@ -1,0 +1,1 @@
+Show minimum and maximum amount of memberships for all branches opened in 2011 or located at city London.

@@ -1,0 +1,1 @@
+Show the first and last name of all the faculty members who participated in some activity, together with the number of activities they participated in.

@@ -1,0 +1,1 @@
+Find the file format that is used by the most files.

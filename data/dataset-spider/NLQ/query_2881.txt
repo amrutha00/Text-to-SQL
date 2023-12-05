@@ -1,0 +1,1 @@
+Find the first and last name of the author(s) who wrote the paper "Nameless, Painless".

@@ -1,0 +1,1 @@
+SELECT Writer FROM book GROUP BY Writer HAVING COUNT(*)  >  1

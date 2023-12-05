@@ -1,0 +1,1 @@
+SELECT CLASS FROM race GROUP BY CLASS HAVING count(*)  >=  2

@@ -1,0 +1,1 @@
+Find the room number of the rooms which can sit 50 to 100 students and their buildings.

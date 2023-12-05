@@ -1,0 +1,1 @@
+Show the party with drivers from Hartford and drivers older than 40.

@@ -1,0 +1,1 @@
+Find the captain rank that has some captains in both Cutter and Armed schooner classes.

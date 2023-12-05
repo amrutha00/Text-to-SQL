@@ -1,0 +1,1 @@
+Find the number of projects which each scientist is working on and scientist's name.

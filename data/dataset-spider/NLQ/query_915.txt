@@ -1,0 +1,1 @@
+List all the policy types used by the customer enrolled in the most policies.

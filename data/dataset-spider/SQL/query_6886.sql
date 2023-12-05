@@ -1,0 +1,1 @@
+SELECT order_id FROM orders ORDER BY date_order_placed DESC LIMIT 1

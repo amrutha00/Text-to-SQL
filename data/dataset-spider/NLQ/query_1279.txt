@@ -1,0 +1,1 @@
+What is the average attendance of stadiums with capacity percentage higher than 100%?

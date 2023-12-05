@@ -1,0 +1,1 @@
+Find the types and details for all premises and order by the premise type.

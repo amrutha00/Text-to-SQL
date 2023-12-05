@@ -1,0 +1,1 @@
+SELECT flno FROM Flight ORDER BY distance ASC LIMIT 3

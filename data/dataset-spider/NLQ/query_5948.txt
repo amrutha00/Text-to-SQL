@@ -1,0 +1,1 @@
+Show the description and code of the attraction type most tourist attractions belong to.

@@ -1,0 +1,1 @@
+How many students are over 18 and do not have allergy to food type or animal type?

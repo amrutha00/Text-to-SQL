@@ -1,0 +1,1 @@
+SELECT FacID FROM Faculty EXCEPT SELECT advisor FROM Student

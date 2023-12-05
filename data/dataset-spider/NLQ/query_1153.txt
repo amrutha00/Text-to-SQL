@@ -1,0 +1,1 @@
+List the snatch score and clean jerk score of body builders in ascending order of snatch score.

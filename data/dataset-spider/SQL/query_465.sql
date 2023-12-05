@@ -1,0 +1,1 @@
+SELECT count(DISTINCT advisor) FROM Student

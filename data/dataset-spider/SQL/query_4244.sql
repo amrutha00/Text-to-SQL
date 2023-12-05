@@ -1,0 +1,1 @@
+SELECT DISTINCT Destruction_Authorised_by_Employee_ID FROM Documents_to_be_destroyed

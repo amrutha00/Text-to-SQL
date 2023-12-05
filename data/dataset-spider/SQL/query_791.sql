@@ -1,0 +1,1 @@
+SELECT count(*) ,  address FROM member GROUP BY address

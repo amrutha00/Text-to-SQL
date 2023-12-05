@@ -1,0 +1,1 @@
+SELECT match_id FROM MATCH WHERE competition = "1994 FIFA World Cup qualification"

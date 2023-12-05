@@ -1,0 +1,1 @@
+Give the name and building of the departments with greater than average budget.

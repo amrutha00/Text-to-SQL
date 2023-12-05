@@ -1,0 +1,1 @@
+Which assets have 2 parts and have less than 2 fault logs? List the asset id and detail.

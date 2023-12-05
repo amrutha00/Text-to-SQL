@@ -1,0 +1,1 @@
+SELECT cust_name ,  acc_bal FROM customer WHERE cust_name LIKE '%a%'

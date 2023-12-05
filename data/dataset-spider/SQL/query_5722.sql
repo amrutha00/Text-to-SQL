@@ -1,0 +1,1 @@
+SELECT count(*) ,  sum(student_capacity) ,  gender FROM dorm GROUP BY gender

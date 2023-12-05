@@ -1,0 +1,1 @@
+How many invoices were billed from Chicago, IL?

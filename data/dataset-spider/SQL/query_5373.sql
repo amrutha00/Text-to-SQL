@@ -1,0 +1,1 @@
+SELECT problem_id FROM problems WHERE date_problem_reported > "1978-06-26"

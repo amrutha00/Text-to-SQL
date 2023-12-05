@@ -1,0 +1,1 @@
+Show the id and star rating of each hotel, ordered by its price from low to high.

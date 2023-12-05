@@ -1,0 +1,1 @@
+Show the guest first names, start dates, and end dates of all the apartment bookings.

@@ -1,0 +1,1 @@
+SELECT avg(credit_score) FROM customer WHERE cust_id IN (SELECT cust_id FROM loan)

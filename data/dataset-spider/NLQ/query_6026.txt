@@ -1,0 +1,1 @@
+Show student ids who are female and play football.

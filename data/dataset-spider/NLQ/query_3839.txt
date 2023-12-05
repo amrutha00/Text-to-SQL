@@ -1,0 +1,1 @@
+Find the student ID and personal name of the student with at least two enrollments.

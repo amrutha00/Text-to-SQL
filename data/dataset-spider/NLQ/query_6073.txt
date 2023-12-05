@@ -1,0 +1,1 @@
+Return the the details of all products.

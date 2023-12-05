@@ -1,0 +1,1 @@
+What are the lot details of lots associated with transactions with share count smaller than 50?

@@ -1,0 +1,1 @@
+Which tourist attraction is associated with the photo "game1"? Return its name.

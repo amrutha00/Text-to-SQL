@@ -1,0 +1,1 @@
+SELECT eid ,  name FROM Employee ORDER BY salary DESC LIMIT 1

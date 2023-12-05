@@ -1,0 +1,1 @@
+What is the name corresponding to the accoung with the lowest sum of checking and savings balances?

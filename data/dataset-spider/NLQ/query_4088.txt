@@ -1,0 +1,1 @@
+For each classroom, show the classroom number and find how many students are using it.

@@ -1,0 +1,1 @@
+what are the average and maximum attendances of all events?

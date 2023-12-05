@@ -1,0 +1,1 @@
+What are the average score and average staff number of all shops?

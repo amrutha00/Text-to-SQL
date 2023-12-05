@@ -1,0 +1,1 @@
+SELECT country FROM airlines GROUP BY country ORDER BY count(*) DESC LIMIT 1

@@ -1,0 +1,1 @@
+SELECT customer_id ,  count(*) FROM Accounts GROUP BY customer_id

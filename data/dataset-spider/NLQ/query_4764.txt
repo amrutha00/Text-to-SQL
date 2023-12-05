@@ -1,0 +1,1 @@
+List the name and phone number of all suppliers in the alphabetical order of their addresses.

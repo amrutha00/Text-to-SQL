@@ -1,0 +1,1 @@
+SELECT Total FROM body_builder ORDER BY Total ASC

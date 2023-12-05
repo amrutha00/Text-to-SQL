@@ -1,0 +1,1 @@
+SELECT sum(maxOccupancy) FROM Rooms WHERE decor  =  'modern';

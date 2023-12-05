@@ -1,0 +1,1 @@
+What are the visit date and details of the visitor whose detail is 'Vincent'?

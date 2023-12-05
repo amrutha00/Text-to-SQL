@@ -1,0 +1,1 @@
+Which delegates are from counties with population smaller than 100000?

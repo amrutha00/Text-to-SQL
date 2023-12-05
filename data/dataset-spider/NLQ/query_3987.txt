@@ -1,0 +1,1 @@
+Find the name of physicians who are affiliated with both Surgery and Psychiatry departments.

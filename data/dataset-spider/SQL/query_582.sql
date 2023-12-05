@@ -1,0 +1,1 @@
+SELECT country FROM customers WHERE first_name = "Roberto" AND last_name = "Almeida";

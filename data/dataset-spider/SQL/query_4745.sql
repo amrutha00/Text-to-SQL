@@ -1,0 +1,1 @@
+SELECT department_id FROM staff_department_assignments GROUP BY department_id ORDER BY count(*) LIMIT 1

@@ -1,0 +1,1 @@
+SELECT avg(salary) ,  max(salary) FROM Employee

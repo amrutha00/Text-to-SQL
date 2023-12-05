@@ -1,0 +1,1 @@
+Find the name of dorms which have TV Lounge but no Study Room as amenity.

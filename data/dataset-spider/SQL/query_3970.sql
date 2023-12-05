@@ -1,0 +1,1 @@
+SELECT name ,  cost FROM procedures ORDER BY cost DESC

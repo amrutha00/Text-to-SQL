@@ -1,0 +1,1 @@
+Show the names and total passengers for all train stations not in London.

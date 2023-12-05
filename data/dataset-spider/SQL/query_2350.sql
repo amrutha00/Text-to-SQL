@@ -1,0 +1,1 @@
+SELECT campus FROM degrees GROUP BY campus ORDER BY sum(degrees) DESC LIMIT 1

@@ -1,0 +1,1 @@
+Show the name, open date, and organizer for all churches.

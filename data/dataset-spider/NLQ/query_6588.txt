@@ -1,0 +1,1 @@
+Find the top 3 wineries with the greatest number of wines made of white color grapes.

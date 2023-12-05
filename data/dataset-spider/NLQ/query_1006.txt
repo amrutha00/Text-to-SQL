@@ -1,0 +1,1 @@
+Find the schools that were either founded after 1850 or public.

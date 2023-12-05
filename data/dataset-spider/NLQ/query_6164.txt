@@ -1,0 +1,1 @@
+How many distinct artists do the volumes associate to?

@@ -1,0 +1,1 @@
+Show all the distinct president votes made on 08/30/2015.

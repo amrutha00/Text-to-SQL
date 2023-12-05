@@ -1,0 +1,1 @@
+SELECT customer_details FROM customers ORDER BY customer_details

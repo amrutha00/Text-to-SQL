@@ -1,0 +1,1 @@
+What are the ids of the students who attended courses in the statistics department in order of attendance date.

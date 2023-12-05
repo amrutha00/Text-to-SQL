@@ -1,0 +1,1 @@
+SELECT document_type_code ,  document_type_name ,  document_type_description FROM Ref_document_types

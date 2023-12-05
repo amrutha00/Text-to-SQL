@@ -1,0 +1,1 @@
+Return the description and unit of measurement for products in the 'Herbs' category.

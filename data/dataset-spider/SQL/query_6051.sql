@@ -1,0 +1,1 @@
+SELECT T2.lname ,  T2.fname FROM SportsInfo AS T1 JOIN Student AS T2 ON T1.StuID  =  T2.StuID WHERE T1.SportName  =  "Football" OR T1.SportName  =  "Lacrosse"

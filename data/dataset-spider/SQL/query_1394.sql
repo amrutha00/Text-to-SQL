@@ -1,0 +1,1 @@
+SELECT count(*) ,  building FROM classroom WHERE capacity  >  50 GROUP BY building

@@ -1,0 +1,1 @@
+How many assets can each parts be used in? List the part name and the number.

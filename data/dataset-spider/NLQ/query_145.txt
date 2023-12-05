@@ -1,0 +1,1 @@
+What are the names and ids of all stations that have more than 14 bikes available on average or had bikes installed in December?

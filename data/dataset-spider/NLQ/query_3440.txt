@@ -1,0 +1,1 @@
+display those employees who joined after 7th September, 1987.

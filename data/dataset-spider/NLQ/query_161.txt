@@ -1,0 +1,1 @@
+Which days had a minimum dew point smaller than any day in zip code 94107, and in which zip codes were those measurements taken?

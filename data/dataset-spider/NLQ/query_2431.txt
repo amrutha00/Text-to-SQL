@@ -1,0 +1,1 @@
+find the name of people whose height is lower than the average.

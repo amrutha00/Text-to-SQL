@@ -1,0 +1,1 @@
+Show the apartment type codes and the corresponding number of apartments sorted by the number of apartments in ascending order.

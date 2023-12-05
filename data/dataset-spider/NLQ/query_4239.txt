@@ -1,0 +1,1 @@
+Show the employee ids and the number of documents destroyed by each employee.

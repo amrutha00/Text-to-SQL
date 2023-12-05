@@ -1,0 +1,1 @@
+Count the number of students the teacher LORIA ONDERSMA teaches.

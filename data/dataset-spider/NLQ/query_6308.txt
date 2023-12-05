@@ -1,0 +1,1 @@
+Which cities have served as host cities more than once? Return me their GDP and population.

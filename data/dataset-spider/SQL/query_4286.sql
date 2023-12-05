@@ -1,0 +1,1 @@
+SELECT clublocation FROM club WHERE clubname  =  "Tennis Club"

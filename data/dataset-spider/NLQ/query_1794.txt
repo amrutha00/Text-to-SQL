@@ -1,0 +1,1 @@
+What are the names of accounts with checking balances greater than the average checking balance and savings balances below the average savings balance?

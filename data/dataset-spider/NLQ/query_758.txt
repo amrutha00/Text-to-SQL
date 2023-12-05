@@ -1,0 +1,1 @@
+Show the name, location, open year for all tracks with a seating higher than the average.

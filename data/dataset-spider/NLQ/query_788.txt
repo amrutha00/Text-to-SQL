@@ -1,0 +1,1 @@
+Find the locations where have both tracks with more than 90000 seats and tracks with less than 70000 seats.

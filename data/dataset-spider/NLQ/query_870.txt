@@ -1,0 +1,1 @@
+Please show the employee first names and ids of employees who serve at least 10 customers.

@@ -1,0 +1,1 @@
+What is the name, account type, and account balance corresponding to the customer with the highest credit score?

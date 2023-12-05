@@ -1,0 +1,1 @@
+What are the name and os of web client accelerators that do not work with only a 'Broadband' type connection?

@@ -1,0 +1,1 @@
+SELECT name ,  member_id FROM member WHERE Membership_card  =  'Black' OR age  <  30

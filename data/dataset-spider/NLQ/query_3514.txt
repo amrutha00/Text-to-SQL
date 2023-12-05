@@ -1,0 +1,1 @@
+display all the information of those employees who did not have any job in the past.

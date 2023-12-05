@@ -1,0 +1,1 @@
+What are the ids and trade names of the medicine that can interact with at least 3 enzymes?

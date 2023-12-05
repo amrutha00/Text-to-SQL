@@ -1,0 +1,1 @@
+Return each apartment type code with the number of apartments having that apartment type, in ascending order of the number of apartments.

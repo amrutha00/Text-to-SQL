@@ -1,0 +1,1 @@
+SELECT Planned_Delivery_Date ,  Actual_Delivery_Date FROM BOOKINGS

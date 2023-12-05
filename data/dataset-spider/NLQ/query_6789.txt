@@ -1,0 +1,1 @@
+What are the ids of the students who are not involved in any activity

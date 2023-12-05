@@ -1,0 +1,1 @@
+SELECT Date_Claim_Made ,  Date_Claim_Settled FROM Settlements

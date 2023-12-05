@@ -1,0 +1,1 @@
+Find the id and city of the student address with the highest average monthly rental.

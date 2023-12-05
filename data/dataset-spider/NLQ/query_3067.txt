@@ -1,0 +1,1 @@
+Find the name of bank branch that provided the greatest total amount of loans.

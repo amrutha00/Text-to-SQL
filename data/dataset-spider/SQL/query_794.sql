@@ -1,0 +1,1 @@
+SELECT Time_of_purchase ,  age ,  address FROM member ORDER BY Time_of_purchase

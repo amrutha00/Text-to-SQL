@@ -1,0 +1,1 @@
+For each classroom, show the classroom number and count the number of distinct grades that use the room.

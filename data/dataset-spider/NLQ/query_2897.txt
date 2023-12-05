@@ -1,0 +1,1 @@
+Find the titles of papers whose first author is affiliated with an institution in the country "Japan" and has last name "Ohori"?

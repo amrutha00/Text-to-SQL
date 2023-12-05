@@ -1,0 +1,1 @@
+Show the ministers and the time they took and left office, listed by the time they left office.

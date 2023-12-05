@@ -1,0 +1,1 @@
+SELECT Tourist_Details FROM VISITORS

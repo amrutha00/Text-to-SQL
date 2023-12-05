@@ -1,0 +1,1 @@
+Show the height of the mountain climbed by the climber with the maximum points.

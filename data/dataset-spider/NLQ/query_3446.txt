@@ -1,0 +1,1 @@
+display the emails of the employees who have no commission percentage and salary within the range 7000 to 12000 and works in that department which number is 50.

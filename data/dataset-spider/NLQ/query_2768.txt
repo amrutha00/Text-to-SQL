@@ -1,0 +1,1 @@
+For each delegate, find the names of the party they are part of.

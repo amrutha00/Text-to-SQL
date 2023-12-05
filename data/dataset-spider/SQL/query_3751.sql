@@ -1,0 +1,1 @@
+SELECT count(DISTINCT program_id) FROM broadcast WHERE time_of_day  =  'Night'

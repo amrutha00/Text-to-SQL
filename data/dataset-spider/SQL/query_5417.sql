@@ -1,0 +1,1 @@
+SELECT card_number ,  name ,  hometown FROM member ORDER BY LEVEL DESC

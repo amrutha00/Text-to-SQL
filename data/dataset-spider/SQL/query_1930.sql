@@ -1,0 +1,1 @@
+SELECT count(*) FROM institution WHERE institution_id NOT IN (SELECT institution_id FROM protein)

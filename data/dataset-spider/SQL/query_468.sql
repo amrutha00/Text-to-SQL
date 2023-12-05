@@ -1,0 +1,1 @@
+SELECT DISTINCT city_code FROM Student

@@ -1,0 +1,1 @@
+What are the names and ages of every person who is a friend of both Dan and Alice?

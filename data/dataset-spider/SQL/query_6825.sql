@@ -1,0 +1,1 @@
+SELECT count(DISTINCT city) FROM airports WHERE country  =  'Greenland'

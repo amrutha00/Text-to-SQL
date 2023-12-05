@@ -1,0 +1,1 @@
+Check the invoices record and compute the average quantities ordered with the payment method "MasterCard".

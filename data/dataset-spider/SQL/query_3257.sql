@@ -1,0 +1,1 @@
+SELECT dept_name FROM department ORDER BY dept_name

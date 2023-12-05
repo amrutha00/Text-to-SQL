@@ -1,0 +1,1 @@
+Find the name of customers who have loans of both Mortgages and Auto.

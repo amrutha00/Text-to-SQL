@@ -1,0 +1,1 @@
+Which student's age is older than 18 and is majoring in 600? List each student's first and last name.

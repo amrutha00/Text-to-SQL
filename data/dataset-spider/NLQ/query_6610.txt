@@ -1,0 +1,1 @@
+Show the name, time, and service for all trains.

@@ -1,0 +1,1 @@
+SELECT average_attendance FROM stadium WHERE capacity_percentage  >  100

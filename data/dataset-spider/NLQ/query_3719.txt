@@ -1,0 +1,1 @@
+What are the id and name of the mountains that have at least 2 photos?

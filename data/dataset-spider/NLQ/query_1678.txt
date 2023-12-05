@@ -1,0 +1,1 @@
+Show theme and year for all exhibitions in an descending order of ticket price.

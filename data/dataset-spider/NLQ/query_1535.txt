@@ -1,0 +1,1 @@
+Which customers have an insurance policy with the type code "Deputy" or "Uniform"? Return the customer details.

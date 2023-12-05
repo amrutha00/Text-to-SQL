@@ -1,0 +1,1 @@
+Show the ids of all employees who have either destroyed a document or made an authorization to do this.

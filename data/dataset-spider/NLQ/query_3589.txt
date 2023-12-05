@@ -1,0 +1,1 @@
+What is the name of the artist, for each language, that has the most songs with a higher resolution than 500?

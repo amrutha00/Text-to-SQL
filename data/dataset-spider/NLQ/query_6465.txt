@@ -1,0 +1,1 @@
+Count the number of documents that do not have expenses.

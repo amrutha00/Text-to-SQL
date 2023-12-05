@@ -1,0 +1,1 @@
+Show the transaction type descriptions and dates if the share count is smaller than 10.

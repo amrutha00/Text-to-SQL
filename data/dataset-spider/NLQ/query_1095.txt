@@ -1,0 +1,1 @@
+Return all players sorted by college in ascending alphabetical order.

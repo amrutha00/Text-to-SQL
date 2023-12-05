@@ -1,0 +1,1 @@
+What is the number of players who have points less than 30 for each position?

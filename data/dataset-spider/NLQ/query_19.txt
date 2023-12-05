@@ -1,0 +1,1 @@
+List the total number of horses on farms in ascending order.

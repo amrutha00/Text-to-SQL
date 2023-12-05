@@ -1,0 +1,1 @@
+SELECT Investor_details FROM INVESTORS

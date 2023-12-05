@@ -1,0 +1,1 @@
+SELECT Name FROM  people WHERE Age  =  35 OR Age  =  36

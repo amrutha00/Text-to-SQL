@@ -1,0 +1,1 @@
+SELECT country FROM stadium GROUP BY country HAVING count(*)  <=  3

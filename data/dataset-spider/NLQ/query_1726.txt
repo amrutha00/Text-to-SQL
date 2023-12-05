@@ -1,0 +1,1 @@
+Show different occupations along with the number of players in each occupation.

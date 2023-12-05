@@ -1,0 +1,1 @@
+Find the type code of the most frequently used policy.

@@ -1,0 +1,1 @@
+SELECT max(monthly_rental) ,  min(monthly_rental) FROM Student_Addresses

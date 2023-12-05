@@ -1,0 +1,1 @@
+Return the maximum number of points for climbers from the United Kingdom.

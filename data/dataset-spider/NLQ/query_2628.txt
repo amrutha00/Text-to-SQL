@@ -1,0 +1,1 @@
+What is the average base price of rooms, for each bed type?

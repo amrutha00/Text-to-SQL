@@ -1,0 +1,1 @@
+How many accounts does the customer with first name Art and last name Turcotte have?

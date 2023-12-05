@@ -1,0 +1,1 @@
+Show the id, the account name, and other account details for all accounts by the customer with first name 'Meaghan'.

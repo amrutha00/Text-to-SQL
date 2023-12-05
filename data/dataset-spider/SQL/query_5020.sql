@@ -1,0 +1,1 @@
+SELECT cName FROM  tryout WHERE decision  =  'yes' AND pPos  =  'goalie'

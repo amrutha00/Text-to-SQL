@@ -1,0 +1,1 @@
+SELECT DISTINCT characteristic_name FROM CHARACTERISTICS

@@ -1,0 +1,1 @@
+SELECT name FROM Employee WHERE salary  >  (SELECT avg(salary) FROM Employee)

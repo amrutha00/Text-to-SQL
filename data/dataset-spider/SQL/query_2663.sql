@@ -1,0 +1,1 @@
+SELECT Party_Theme FROM party ORDER BY Number_of_hosts ASC

@@ -1,0 +1,1 @@
+SELECT Name FROM journalist WHERE Nationality  =  "England" OR Nationality  =  "Wales"

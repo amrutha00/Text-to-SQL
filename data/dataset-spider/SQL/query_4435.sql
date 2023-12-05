@@ -1,0 +1,1 @@
+SELECT name ,  job FROM Person ORDER BY name

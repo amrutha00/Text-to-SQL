@@ -1,0 +1,1 @@
+Show all member names who are not in charge of any event.

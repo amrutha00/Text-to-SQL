@@ -1,0 +1,1 @@
+Find the campus fee of "San Jose State University" in year 2000.

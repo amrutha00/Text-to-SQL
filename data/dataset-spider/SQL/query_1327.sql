@@ -1,0 +1,1 @@
+SELECT dept_name ,  building FROM department WHERE budget  >  (SELECT avg(budget) FROM department)

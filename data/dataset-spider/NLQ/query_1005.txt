@@ -1,0 +1,1 @@
+Count the number of universities that do not participate in the baketball match.

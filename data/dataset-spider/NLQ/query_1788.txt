@@ -1,0 +1,1 @@
+What are the customer id and name corresponding to accounts with a checking balance less than the largest checking balance?

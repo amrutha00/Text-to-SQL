@@ -1,0 +1,1 @@
+Which players won awards in both 1960 and 1961? Return their first names and last names.

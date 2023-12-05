@@ -1,0 +1,1 @@
+SELECT count(*) FROM member WHERE Membership_card  =  'Black'

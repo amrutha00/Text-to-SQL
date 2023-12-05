@@ -1,0 +1,1 @@
+What are the task details, task ids, and project ids for the progrects that are detailed as 'omnis' or have at least 3 outcomes?

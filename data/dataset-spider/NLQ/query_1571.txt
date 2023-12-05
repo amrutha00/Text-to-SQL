@@ -1,0 +1,1 @@
+What are the the full names and ids for all customers, and how many accounts does each have?

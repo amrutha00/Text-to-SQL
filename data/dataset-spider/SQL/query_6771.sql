@@ -1,0 +1,1 @@
+SELECT count(DISTINCT FacID) FROM Faculty_participates_in

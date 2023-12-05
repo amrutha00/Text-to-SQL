@@ -1,0 +1,1 @@
+Which problems are reported before 1978-06-26? Give me the ids of the problems.

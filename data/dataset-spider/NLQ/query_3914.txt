@@ -1,0 +1,1 @@
+Which physicians have never taken any appointment? Find their names.

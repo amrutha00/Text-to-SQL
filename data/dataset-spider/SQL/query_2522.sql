@@ -1,0 +1,1 @@
+SELECT rID FROM Rating EXCEPT SELECT rID FROM Rating WHERE stars  =  4

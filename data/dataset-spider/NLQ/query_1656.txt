@@ -1,0 +1,1 @@
+Show all artist names and the year joined who are not from United States.

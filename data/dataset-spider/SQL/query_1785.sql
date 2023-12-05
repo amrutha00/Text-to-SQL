@@ -1,0 +1,1 @@
+SELECT count(*) FROM savings WHERE balance  >  (SELECT avg(balance) FROM savings)

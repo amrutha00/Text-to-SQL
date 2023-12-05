@@ -1,0 +1,1 @@
+What is the flight number and its distance for the one with the maximum price?

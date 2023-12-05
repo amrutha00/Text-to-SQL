@@ -1,0 +1,1 @@
+Retrieve the open and close dates of all the policies associated with the customer whose name contains "Diana"

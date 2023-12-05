@@ -1,0 +1,1 @@
+Which employees do not destroy any document? Find their employee ids.

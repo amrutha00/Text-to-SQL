@@ -1,0 +1,1 @@
+SELECT name ,  year_join FROM artist WHERE country != 'United States'

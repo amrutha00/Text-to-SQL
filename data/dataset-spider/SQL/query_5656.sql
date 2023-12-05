@@ -1,0 +1,1 @@
+SELECT state_province_county ,  count(*) FROM addresses GROUP BY state_province_county

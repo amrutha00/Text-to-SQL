@@ -1,0 +1,1 @@
+SELECT id ,  duration FROM trip ORDER BY duration DESC LIMIT 3

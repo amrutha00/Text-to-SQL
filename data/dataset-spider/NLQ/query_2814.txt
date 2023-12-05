@@ -1,0 +1,1 @@
+Show the names of journalists and the names of the events they reported in ascending order

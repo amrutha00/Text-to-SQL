@@ -1,0 +1,1 @@
+Show the names of counties that have at least two delegates.

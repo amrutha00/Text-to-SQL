@@ -1,0 +1,1 @@
+Find the last name of the individuals that have been contact individuals of an organization.

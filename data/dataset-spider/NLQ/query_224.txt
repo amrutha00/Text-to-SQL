@@ -1,0 +1,1 @@
+Show writers who have published a book with price more than 4000000.

@@ -1,0 +1,1 @@
+What is the total revenue of all companies whose main office is at Tokyo or Taiwan?

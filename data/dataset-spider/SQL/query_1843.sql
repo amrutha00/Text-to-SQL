@@ -1,0 +1,1 @@
+SELECT Operating_system ,  count(*) FROM web_client_accelerator GROUP BY Operating_system

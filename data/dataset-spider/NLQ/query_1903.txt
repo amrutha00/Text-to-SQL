@@ -1,0 +1,1 @@
+Show each school name, its budgeted amount, and invested amount in year 2002 or after.

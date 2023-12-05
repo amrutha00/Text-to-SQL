@@ -1,0 +1,1 @@
+What is the first name, GPA, and phone number of the students with the top 5 GPAs?

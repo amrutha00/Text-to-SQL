@@ -1,0 +1,1 @@
+Find the number of male (sex is 'M') students who have some food type allery.

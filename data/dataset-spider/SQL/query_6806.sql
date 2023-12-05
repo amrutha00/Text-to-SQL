@@ -1,0 +1,1 @@
+SELECT name ,  city ,  country ,  elevation FROM airports WHERE city  =  'New York'

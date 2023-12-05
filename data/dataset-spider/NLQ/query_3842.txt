@@ -1,0 +1,1 @@
+What are the student IDs and middle names of the students enrolled in at most two courses?

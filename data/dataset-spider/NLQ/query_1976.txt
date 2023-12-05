@@ -1,0 +1,1 @@
+What are the coupon amount of the coupons owned by both good and bad customers?

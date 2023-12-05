@@ -1,0 +1,1 @@
+SELECT rank ,  sex ,  count(*) FROM Faculty GROUP BY rank ,  sex

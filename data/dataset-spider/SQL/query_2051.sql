@@ -1,0 +1,1 @@
+SELECT minister FROM party WHERE party_name != 'Progress Party'

@@ -1,0 +1,1 @@
+What are the grapes, appelations, and wines with scores above 93, sorted by Name?

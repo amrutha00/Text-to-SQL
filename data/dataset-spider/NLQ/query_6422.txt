@@ -1,0 +1,1 @@
+Show the document type code with fewer than 3 documents.

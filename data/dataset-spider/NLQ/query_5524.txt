@@ -1,0 +1,1 @@
+Return the names and typical buying prices for all products.

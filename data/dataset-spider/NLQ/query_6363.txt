@@ -1,0 +1,1 @@
+Show the type of school and the number of buses for each type.

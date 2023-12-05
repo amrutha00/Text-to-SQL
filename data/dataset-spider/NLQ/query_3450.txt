@@ -1,0 +1,1 @@
+display those departments where more than ten employees work who got a commission percentage.

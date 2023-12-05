@@ -1,0 +1,1 @@
+Find the id of the courses that do not have any prerequisite?

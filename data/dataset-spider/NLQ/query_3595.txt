@@ -1,0 +1,1 @@
+What are the names of all songs that are in mp3 format and have a resolution lower than 1000?

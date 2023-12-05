@@ -1,0 +1,1 @@
+Give the city that the student whose family name is Kim lives in.

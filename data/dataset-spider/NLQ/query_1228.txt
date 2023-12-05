@@ -1,0 +1,1 @@
+Tell me the booking status code for the apartment with number "Suite 634".

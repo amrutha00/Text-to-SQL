@@ -1,0 +1,1 @@
+Find the names of the campus which has more faculties in 2002 than every campus in Orange county.

@@ -1,0 +1,1 @@
+What is the maximum, minimum, and average amount of money outsanding for all customers?

@@ -1,0 +1,1 @@
+List all the distinct president votes and the vice president votes.

@@ -1,0 +1,1 @@
+SELECT text FROM tweets ORDER BY createdate

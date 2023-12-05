@@ -1,0 +1,1 @@
+SELECT gdp FROM city ORDER BY Regional_Population DESC LIMIT 1

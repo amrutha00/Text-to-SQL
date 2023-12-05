@@ -1,0 +1,1 @@
+Which customer made the largest amount of claim in a single claim? Return the customer details.

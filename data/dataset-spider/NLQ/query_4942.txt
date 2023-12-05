@@ -1,0 +1,1 @@
+What is the total population for all the districts that have an area larger tahn the average city area?

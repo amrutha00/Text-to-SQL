@@ -1,0 +1,1 @@
+Show the parties that have both representatives in New York state and representatives in Pennsylvania state.

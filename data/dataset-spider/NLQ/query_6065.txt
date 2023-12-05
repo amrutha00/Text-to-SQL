@@ -1,0 +1,1 @@
+What are the dates when customers with ids between 10 and 20 became customers?

@@ -1,0 +1,1 @@
+SELECT date FROM weather WHERE mean_sea_level_pressure_inches BETWEEN 30.3 AND 31

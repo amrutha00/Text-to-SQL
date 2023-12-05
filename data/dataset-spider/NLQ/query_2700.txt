@@ -1,0 +1,1 @@
+Count the number of storms in which at least 1 person died.

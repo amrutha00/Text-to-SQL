@@ -1,0 +1,1 @@
+SELECT count(*) ,  country FROM airports GROUP BY country ORDER BY count(*) DESC

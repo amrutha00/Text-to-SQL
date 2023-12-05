@@ -1,0 +1,1 @@
+For each end station id, what is its name, latitude, and minimum duration for trips ended there?

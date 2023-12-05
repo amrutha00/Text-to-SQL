@@ -1,0 +1,1 @@
+Return the names and locations of shops, ordered by name in alphabetical order.

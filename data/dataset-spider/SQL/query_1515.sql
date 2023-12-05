@@ -1,0 +1,1 @@
+SELECT policy_type_code FROM policies GROUP BY policy_type_code HAVING count(*)  >  2

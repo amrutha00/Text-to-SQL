@@ -1,0 +1,1 @@
+SELECT avg(age) ,  max(age) ,  sex FROM student GROUP BY sex

@@ -1,0 +1,1 @@
+Find the ids of the departments where any manager is managing 4 or more employees.

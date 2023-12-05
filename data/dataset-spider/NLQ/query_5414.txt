@@ -1,0 +1,1 @@
+For each city, how many branches opened before 2010?

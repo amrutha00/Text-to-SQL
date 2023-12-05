@@ -1,0 +1,1 @@
+SELECT Birth_Place ,  COUNT(*) FROM people GROUP BY Birth_Place

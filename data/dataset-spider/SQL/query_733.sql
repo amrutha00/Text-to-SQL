@@ -1,0 +1,1 @@
+SELECT count(DISTINCT card_type_code) FROM Customers_Cards

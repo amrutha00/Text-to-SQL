@@ -1,0 +1,1 @@
+Show the booking status code and the corresponding number of bookings.

@@ -1,0 +1,1 @@
+SELECT avg(enrollment) ,  max(enrollment) ,  min(enrollment) FROM school

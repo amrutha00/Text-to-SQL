@@ -1,0 +1,1 @@
+Find the names of all directors whose movies are rated by Sarah Martinez.

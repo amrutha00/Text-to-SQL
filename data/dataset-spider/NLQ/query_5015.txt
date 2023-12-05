@@ -1,0 +1,1 @@
+What is the maximum training hours for the students whose training hours is greater than 1000 in different positions?

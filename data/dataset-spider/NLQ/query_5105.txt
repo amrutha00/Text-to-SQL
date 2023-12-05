@@ -1,0 +1,1 @@
+What are the distinct payment method codes in all the invoices?

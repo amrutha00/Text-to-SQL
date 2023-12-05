@@ -1,0 +1,1 @@
+Show all artist name, age, and country ordered by the yeared they joined.

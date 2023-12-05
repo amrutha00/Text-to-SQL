@@ -1,0 +1,1 @@
+Which apartments have type code "Flat"? Give me their apartment numbers.

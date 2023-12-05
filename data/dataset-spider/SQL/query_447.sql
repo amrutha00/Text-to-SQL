@@ -1,0 +1,1 @@
+SELECT allergy ,  allergytype FROM Allergy_type

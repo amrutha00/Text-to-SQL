@@ -1,0 +1,1 @@
+SELECT aid FROM Aircraft WHERE distance  >  1000

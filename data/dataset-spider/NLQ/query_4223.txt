@@ -1,0 +1,1 @@
+Show the location code, the starting date and ending data in that location for all the documents.

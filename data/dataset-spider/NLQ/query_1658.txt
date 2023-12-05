@@ -1,0 +1,1 @@
+How many artists are above age 46 and joined after 1990?

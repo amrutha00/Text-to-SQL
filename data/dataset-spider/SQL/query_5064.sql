@@ -1,0 +1,1 @@
+SELECT count(DISTINCT Software_Platform) FROM device

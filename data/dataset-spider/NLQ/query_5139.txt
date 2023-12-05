@@ -1,0 +1,1 @@
+What are the product names with average product price smaller than 1000000?

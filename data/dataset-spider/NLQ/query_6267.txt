@@ -1,0 +1,1 @@
+Find the name of the ships that are steered by both a captain with Midshipman rank and a captain with Lieutenant rank.

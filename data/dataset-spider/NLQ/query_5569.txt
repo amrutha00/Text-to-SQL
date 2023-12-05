@@ -1,0 +1,1 @@
+Find the name of the products that have the color description "red" and have the characteristic name "fast".

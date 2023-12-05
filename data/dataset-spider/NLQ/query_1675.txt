@@ -1,0 +1,1 @@
+Return the names of artists and the themes of their exhibitions that had a ticket price higher than average.

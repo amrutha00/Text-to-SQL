@@ -1,0 +1,1 @@
+Find all the policy types that are used by more than 2 customers.

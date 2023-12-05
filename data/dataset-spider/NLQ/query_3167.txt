@@ -1,0 +1,1 @@
+Give me the maximum low temperature and average precipitation at the Amersham station.

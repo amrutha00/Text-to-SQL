@@ -1,0 +1,1 @@
+What are the different years for all competitions that are not of type equal to tournament?

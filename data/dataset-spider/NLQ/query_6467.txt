@@ -1,0 +1,1 @@
+Give the dates of creation for documents that have both budget type codes 'GV' and 'SF'.

@@ -1,0 +1,1 @@
+Find the average number of factories for the manufacturers that have more than 20 shops.

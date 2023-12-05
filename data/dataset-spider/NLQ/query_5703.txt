@@ -1,0 +1,1 @@
+Find the name of dorms which have both TV Lounge and Study Room as amenities.

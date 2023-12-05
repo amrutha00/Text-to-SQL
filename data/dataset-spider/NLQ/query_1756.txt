@@ -1,0 +1,1 @@
+Return the total points of the gymnast with the lowest age.

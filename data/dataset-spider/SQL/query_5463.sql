@@ -1,0 +1,1 @@
+SELECT Advisor FROM STUDENT WHERE city_code  =  "BAL"

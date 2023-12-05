@@ -1,0 +1,1 @@
+SELECT Country FROM member GROUP BY Country HAVING COUNT(*)  >  2

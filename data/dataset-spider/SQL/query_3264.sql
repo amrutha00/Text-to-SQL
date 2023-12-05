@@ -1,0 +1,1 @@
+SELECT emp_fname ,  emp_lname FROM employee ORDER BY emp_dob LIMIT 1

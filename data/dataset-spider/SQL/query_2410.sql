@@ -1,0 +1,1 @@
+SELECT avg(height) ,  avg(weight) FROM people WHERE sex  =  'M'

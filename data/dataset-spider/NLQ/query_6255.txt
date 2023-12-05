@@ -1,0 +1,1 @@
+Find the ship type that are used by both ships with Panama and Malta flags.

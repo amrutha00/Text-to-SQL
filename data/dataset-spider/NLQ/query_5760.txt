@@ -1,0 +1,1 @@
+What is the name and capacity of the dorm with the fewest amount of amenities?

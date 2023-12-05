@@ -1,0 +1,1 @@
+SELECT Publisher FROM publication ORDER BY Price DESC LIMIT 1

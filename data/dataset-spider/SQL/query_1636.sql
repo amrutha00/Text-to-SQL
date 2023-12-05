@@ -1,0 +1,1 @@
+SELECT name ,  open_date FROM church ORDER BY open_date DESC LIMIT 3

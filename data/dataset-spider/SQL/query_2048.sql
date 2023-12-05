@@ -1,0 +1,1 @@
+SELECT minister FROM party WHERE took_office  >  1961 OR took_office  <  1959

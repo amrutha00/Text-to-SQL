@@ -1,0 +1,1 @@
+SELECT sum(faculty) FROM faculty WHERE YEAR  =  2002

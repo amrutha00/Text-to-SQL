@@ -1,0 +1,1 @@
+What is the latitude, longitude, and city of the station from which the trip with smallest duration started?

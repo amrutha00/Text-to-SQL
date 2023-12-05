@@ -1,0 +1,1 @@
+Show the detail of vehicle with id 1.

@@ -1,0 +1,1 @@
+SELECT customer_phone FROM available_policies WHERE policy_type_code  =  "Life Insurance"

@@ -1,0 +1,1 @@
+What are the teams of the players, sorted in ascending alphabetical order?

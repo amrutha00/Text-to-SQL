@@ -1,0 +1,1 @@
+SELECT Duration FROM actor ORDER BY Age DESC LIMIT 1

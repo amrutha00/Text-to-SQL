@@ -1,0 +1,1 @@
+List all customer status codes and the number of customers having each status code.

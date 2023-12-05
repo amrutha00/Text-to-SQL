@@ -1,0 +1,1 @@
+SELECT DISTINCT Nominee FROM musical WHERE Award != "Tony Award"

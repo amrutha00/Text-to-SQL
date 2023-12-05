@@ -1,0 +1,1 @@
+Show all student IDs who have at least two allergies.

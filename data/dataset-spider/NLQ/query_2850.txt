@@ -1,0 +1,1 @@
+List the names and emails of customers who payed by Visa card.

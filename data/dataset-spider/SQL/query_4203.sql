@@ -1,0 +1,1 @@
+SELECT employee_name FROM Employees WHERE role_code  =  "HR"

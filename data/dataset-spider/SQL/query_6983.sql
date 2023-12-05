@@ -1,0 +1,1 @@
+SELECT title ,  YEAR ,  director FROM movie ORDER BY budget_million

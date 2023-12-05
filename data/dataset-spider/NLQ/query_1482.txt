@@ -1,0 +1,1 @@
+What are the ids of courses offered in Fall of 2009 but not in Spring of 2010?

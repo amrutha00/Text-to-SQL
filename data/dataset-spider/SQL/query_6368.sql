@@ -1,0 +1,1 @@
+SELECT vehicle_flight_number ,  date ,  pilot FROM flight ORDER BY altitude ASC

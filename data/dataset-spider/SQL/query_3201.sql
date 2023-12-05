@@ -1,0 +1,1 @@
+SELECT count(*) ,  crs_code FROM CLASS GROUP BY crs_code

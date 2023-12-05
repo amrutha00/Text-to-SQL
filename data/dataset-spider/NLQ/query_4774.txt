@@ -1,0 +1,1 @@
+What are the average amount purchased and value purchased for the supplier who supplies the most products.

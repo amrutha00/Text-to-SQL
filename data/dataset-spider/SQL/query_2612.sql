@@ -1,0 +1,1 @@
+SELECT bedType ,  count(*) FROM Rooms GROUP BY bedType;

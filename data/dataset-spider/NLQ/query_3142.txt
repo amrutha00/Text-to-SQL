@@ -1,0 +1,1 @@
+List the asset id, details, make and model for every asset.

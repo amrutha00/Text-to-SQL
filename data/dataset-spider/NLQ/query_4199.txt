@@ -1,0 +1,1 @@
+Show the name, role code, and date of birth for the employee with name 'Armani'.

@@ -1,0 +1,1 @@
+display the department name, city, and state province for each department.

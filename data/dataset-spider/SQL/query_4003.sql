@@ -1,0 +1,1 @@
+SELECT TYPE ,  Nationality FROM ship

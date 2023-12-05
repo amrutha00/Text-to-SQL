@@ -1,0 +1,1 @@
+Return the name of the team and the acc during the regular season for the school that was founded the earliest.

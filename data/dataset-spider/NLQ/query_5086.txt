@@ -1,0 +1,1 @@
+Which locations contains both shops that opened after the year 2012 and shops that opened before 2008?

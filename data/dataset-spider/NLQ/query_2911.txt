@@ -1,0 +1,1 @@
+Find the last names of all the authors that have written a paper with title containing the word "Monadic".

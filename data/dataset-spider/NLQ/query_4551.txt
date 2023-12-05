@@ -1,0 +1,1 @@
+List the name and assets of each company in ascending order of company name.

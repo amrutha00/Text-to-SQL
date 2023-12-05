@@ -1,0 +1,1 @@
+Show the name and phone for customers with a mailshot with outcome code 'No Response'.

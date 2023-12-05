@@ -1,0 +1,1 @@
+SELECT count(*) ,  POSITION FROM player WHERE points  <  30 GROUP BY POSITION

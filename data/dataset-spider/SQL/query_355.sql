@@ -1,0 +1,1 @@
+SELECT min(distance) ,  avg(distance) ,  max(distance) FROM Aircraft

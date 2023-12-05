@@ -1,0 +1,1 @@
+Which player has the most all star game experiences? Give me the first name, last name and id of the player, as well as the number of times the player participated in all star game.

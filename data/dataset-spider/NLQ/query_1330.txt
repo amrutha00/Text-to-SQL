@@ -1,0 +1,1 @@
+What are the room numbers and corresponding buildings for classrooms which can seat between 50 to 100 students?

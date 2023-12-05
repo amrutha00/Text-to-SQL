@@ -1,0 +1,1 @@
+Count the number of accounts corresponding to each customer id.

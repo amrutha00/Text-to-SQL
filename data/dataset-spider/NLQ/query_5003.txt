@@ -1,0 +1,1 @@
+Find the name and hours of the students whose tryout decision is yes.

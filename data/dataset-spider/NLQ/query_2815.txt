@@ -1,0 +1,1 @@
+Show the names of journalists and the number of events they reported.

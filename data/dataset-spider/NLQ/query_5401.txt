@@ -1,0 +1,1 @@
+How many branches where have more than average number of memberships are there?

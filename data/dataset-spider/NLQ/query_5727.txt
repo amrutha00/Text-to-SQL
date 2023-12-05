@@ -1,0 +1,1 @@
+Find the number and average age of students living in each city.

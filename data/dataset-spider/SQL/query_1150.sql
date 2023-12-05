@@ -1,0 +1,1 @@
+SELECT Name FROM mountain WHERE Height  >  5000 OR Prominence  >  1000

@@ -1,0 +1,1 @@
+SELECT sum(gamesplayed) FROM Sportsinfo

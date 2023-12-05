@@ -1,0 +1,1 @@
+List lesson id of all lessons taught by staff with first name as Janessa, last name as Sawayn and nickname containing letter 's'.

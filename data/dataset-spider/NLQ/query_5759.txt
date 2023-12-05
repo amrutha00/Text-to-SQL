@@ -1,0 +1,1 @@
+Find the name and capacity of the dorm with least number of amenities.

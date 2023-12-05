@@ -1,0 +1,1 @@
+SELECT Lieutenant_Governor ,  Comptroller FROM party WHERE Party  =  "Democratic"

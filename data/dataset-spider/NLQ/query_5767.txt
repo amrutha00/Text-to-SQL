@@ -1,0 +1,1 @@
+Find the name of amenities of the dorm where the student with last name Smith is living in.

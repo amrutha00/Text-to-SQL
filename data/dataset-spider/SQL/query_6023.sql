@@ -1,0 +1,1 @@
+SELECT StuID FROM Student EXCEPT SELECT StuID FROM Sportsinfo

@@ -1,0 +1,1 @@
+Which cities have higher temperature in Feb than in Jun or have once served as host cities?

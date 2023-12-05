@@ -1,0 +1,1 @@
+Tell me the first and last name of the student who has the most activities.

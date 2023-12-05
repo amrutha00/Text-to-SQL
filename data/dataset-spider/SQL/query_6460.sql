@@ -1,0 +1,1 @@
+SELECT document_id FROM Documents WHERE document_type_code  =  "CV" EXCEPT SELECT document_id FROM Documents_with_expenses

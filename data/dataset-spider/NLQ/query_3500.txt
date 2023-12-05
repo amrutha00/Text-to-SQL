@@ -1,0 +1,1 @@
+display the employee name ( first name and last name ) and hire date for all employees in the same department as Clara.

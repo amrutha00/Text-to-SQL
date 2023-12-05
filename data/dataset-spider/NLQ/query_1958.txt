@@ -1,0 +1,1 @@
+In which locations are there more than one movie theater with capacity above 300?

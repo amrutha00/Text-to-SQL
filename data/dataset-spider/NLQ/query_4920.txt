@@ -1,0 +1,1 @@
+What are the names of all the stores in the largest district by population?

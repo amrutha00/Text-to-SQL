@@ -1,0 +1,1 @@
+Find the names of bank branches that have provided a loan to any customer whose credit score is below 100.

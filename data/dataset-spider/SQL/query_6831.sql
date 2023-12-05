@@ -1,0 +1,1 @@
+SELECT name ,  city ,  country FROM airports ORDER BY elevation LIMIT 1

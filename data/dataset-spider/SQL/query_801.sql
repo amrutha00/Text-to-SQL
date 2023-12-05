@@ -1,0 +1,1 @@
+SELECT avg(num_of_staff) ,  avg(score) FROM shop

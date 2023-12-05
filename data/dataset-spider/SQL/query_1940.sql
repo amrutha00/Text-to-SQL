@@ -1,0 +1,1 @@
+SELECT name ,  LOCATION FROM cinema ORDER BY capacity DESC LIMIT 1

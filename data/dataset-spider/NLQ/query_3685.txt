@@ -1,0 +1,1 @@
+List all the salary values players received in 2010 and 2001.

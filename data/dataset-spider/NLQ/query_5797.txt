@@ -1,0 +1,1 @@
+Which complaint status has more than 3 records on file?

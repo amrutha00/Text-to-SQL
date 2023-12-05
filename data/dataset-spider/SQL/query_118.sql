@@ -1,0 +1,1 @@
+SELECT avg(lat) ,  avg(long) FROM station WHERE city  =  "San Jose"

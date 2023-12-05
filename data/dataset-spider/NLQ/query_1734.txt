@@ -1,0 +1,1 @@
+Show the residences that have both a player of gender "M" and a player of gender "F".

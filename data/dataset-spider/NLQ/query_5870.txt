@@ -1,0 +1,1 @@
+Show the average share count of transactions each each investor, ordered by average share count.

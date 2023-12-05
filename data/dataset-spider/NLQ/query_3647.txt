@@ -1,0 +1,1 @@
+Show me the number of parks the state of NY has.

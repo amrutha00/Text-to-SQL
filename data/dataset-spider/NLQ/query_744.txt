@@ -1,0 +1,1 @@
+What is the transaction type that has processed the greatest total amount in transactions?

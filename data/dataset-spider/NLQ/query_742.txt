@@ -1,0 +1,1 @@
+Show the transaction type and the number of transactions.

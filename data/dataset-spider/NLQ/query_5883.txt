@@ -1,0 +1,1 @@
+What are the dates of transactions with at least 100 share count or amount bigger than 100?

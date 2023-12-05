@@ -1,0 +1,1 @@
+Which catalog contents has price above 700 dollars? Show their catalog entry names and capacities.

@@ -1,0 +1,1 @@
+Show different parties of people along with the number of people in each party.

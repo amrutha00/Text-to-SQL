@@ -1,0 +1,1 @@
+SELECT count(*) FROM region AS t1 JOIN party AS t2 ON t1.region_id  =  t2.region_id JOIN party_events AS t3 ON t2.party_id  =  t3.party_id WHERE t1.region_name  =  "United Kingdom" AND t3.Event_Name  =  "Annaual Meeting"

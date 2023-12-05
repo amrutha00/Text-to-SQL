@@ -1,0 +1,1 @@
+What are the total amount of money in the invoices billed from Chicago, Illinois?

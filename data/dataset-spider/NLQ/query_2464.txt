@@ -1,0 +1,1 @@
+For the oldest movie listed, what is its average rating and title?

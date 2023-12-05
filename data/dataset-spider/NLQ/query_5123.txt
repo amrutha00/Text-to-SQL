@@ -1,0 +1,1 @@
+What are the states or counties of the address of the stores with marketing region code "CA"?

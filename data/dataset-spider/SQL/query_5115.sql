@@ -1,0 +1,1 @@
+SELECT Customer_Phone FROM PERFORMERS WHERE Customer_Name  =  "Ashley"

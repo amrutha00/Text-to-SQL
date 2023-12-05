@@ -1,0 +1,1 @@
+For each product which has problems, what are the number of problems and the product id?

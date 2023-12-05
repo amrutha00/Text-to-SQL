@@ -1,0 +1,1 @@
+SELECT Name FROM member WHERE Country  =  "United States" OR Country  =  "Canada"

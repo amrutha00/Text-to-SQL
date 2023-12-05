@@ -1,0 +1,1 @@
+SELECT name FROM races WHERE TIME > "12:00:00" OR TIME < "09:00:00"

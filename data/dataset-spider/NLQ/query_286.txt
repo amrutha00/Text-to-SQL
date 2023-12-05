@@ -1,0 +1,1 @@
+Find the names of the users whose number of followers is greater than that of the user named "Tyler Swift".

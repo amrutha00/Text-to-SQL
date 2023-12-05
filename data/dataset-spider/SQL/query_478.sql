@@ -1,0 +1,1 @@
+SELECT city_code FROM Student WHERE LName  =  "Kim"

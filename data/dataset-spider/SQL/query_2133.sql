@@ -1,0 +1,1 @@
+SELECT Dependent_name FROM dependent WHERE relationship  =  'Spouse'

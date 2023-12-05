@@ -1,0 +1,1 @@
+Show different tourist attractions' names, ids, and the corresponding number of visits.

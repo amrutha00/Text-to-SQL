@@ -1,0 +1,1 @@
+SELECT avg(Quantity) FROM stock

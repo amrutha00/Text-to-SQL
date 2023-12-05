@@ -1,0 +1,1 @@
+Show total hours per week and number of games played for student David Shieber.

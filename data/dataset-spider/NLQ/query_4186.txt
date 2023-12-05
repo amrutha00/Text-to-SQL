@@ -1,0 +1,1 @@
+Give me the name and description of the location with code x.

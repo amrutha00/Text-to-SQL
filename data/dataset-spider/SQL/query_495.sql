@@ -1,0 +1,1 @@
+SELECT age ,  count(*) FROM Student GROUP BY age

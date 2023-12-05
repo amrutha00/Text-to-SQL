@@ -1,0 +1,1 @@
+Find how many school locations have the word 'NY'.

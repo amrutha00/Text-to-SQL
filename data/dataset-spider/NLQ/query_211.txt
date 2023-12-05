@@ -1,0 +1,1 @@
+How many trips stated from  a station in Mountain View and ended at one in Palo Alto?

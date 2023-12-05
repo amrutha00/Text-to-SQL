@@ -1,0 +1,1 @@
+SELECT state_province_county ,  country FROM addresses WHERE zip_postcode LIKE "4%"

@@ -1,0 +1,1 @@
+Which attraction type does the most tourist attractions belong to? Tell me its  attraction type description and code.

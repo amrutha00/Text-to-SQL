@@ -1,0 +1,1 @@
+What are the distinct first names, last names, and phone numbers for customers with accounts?

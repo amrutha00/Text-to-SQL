@@ -1,0 +1,1 @@
+Find the title of course that is provided by both Statistics and Psychology departments.

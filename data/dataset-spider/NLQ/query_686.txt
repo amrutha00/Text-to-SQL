@@ -1,0 +1,1 @@
+Show the first names and last names of customers without any account.

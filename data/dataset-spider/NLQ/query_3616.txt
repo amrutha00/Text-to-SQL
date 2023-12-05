@@ -1,0 +1,1 @@
+What is ids of the songs whose resolution is higher than the resolution of any songs with rating lower than 8?

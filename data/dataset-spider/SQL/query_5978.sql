@@ -1,0 +1,1 @@
+SELECT gname FROM Video_games WHERE gtype  =  "Collectible card game"

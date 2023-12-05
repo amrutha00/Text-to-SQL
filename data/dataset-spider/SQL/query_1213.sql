@@ -1,0 +1,1 @@
+SELECT avg(room_count) FROM Apartments WHERE apt_type_code  =  "Studio"

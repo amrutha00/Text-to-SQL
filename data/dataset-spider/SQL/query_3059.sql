@@ -1,0 +1,1 @@
+SELECT sum(acc_bal) ,  state FROM customer WHERE credit_score  >  100 GROUP BY state

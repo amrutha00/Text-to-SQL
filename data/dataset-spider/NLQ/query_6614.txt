@@ -1,0 +1,1 @@
+show the train name and station name for each train.

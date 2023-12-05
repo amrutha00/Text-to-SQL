@@ -1,0 +1,1 @@
+For each staff id, what is the description of the role that is involved with the most number of projects?

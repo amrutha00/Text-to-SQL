@@ -1,0 +1,1 @@
+Find all the zip codes in which the max dew point have never reached 70.

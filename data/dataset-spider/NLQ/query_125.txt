@@ -1,0 +1,1 @@
+For each zip code, what is the average mean temperature for all dates that start with '8'?

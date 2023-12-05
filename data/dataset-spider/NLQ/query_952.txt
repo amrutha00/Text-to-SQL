@@ -1,0 +1,1 @@
+What are the ids, names and FDA approval status of medicines in descending order of the number of enzymes that it can interact with.

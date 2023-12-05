@@ -1,0 +1,1 @@
+How many lessons taken by customer with first name as Rylan and last name as Goodwin were completed?

@@ -1,0 +1,1 @@
+List the distinct carriers of phones with memories bigger than 32.

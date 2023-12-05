@@ -1,0 +1,1 @@
+What are the states with colleges that have enrollments less than the some other college?

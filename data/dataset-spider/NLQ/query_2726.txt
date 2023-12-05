@@ -1,0 +1,1 @@
+Return the names of the regions affected by storms that had a death count of at least 10.

@@ -1,0 +1,1 @@
+SELECT DISTINCT detention_type_code FROM Detention

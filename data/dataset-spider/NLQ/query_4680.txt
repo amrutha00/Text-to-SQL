@@ -1,0 +1,1 @@
+What are the first and last names of the instructors who teach the top 3 number of courses?

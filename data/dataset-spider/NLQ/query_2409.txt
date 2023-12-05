@@ -1,0 +1,1 @@
+Find the average height and weight for all males (sex is M).

@@ -1,0 +1,1 @@
+For each reviewer id, what is the title and rating for the movie with the smallest rating?

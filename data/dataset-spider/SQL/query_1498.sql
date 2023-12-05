@@ -1,0 +1,1 @@
+SELECT Party FROM people ORDER BY Age ASC LIMIT 1

@@ -1,0 +1,1 @@
+What are the names and descriptions of the products that are of 'Cutlery' type and have daily hire cost lower than 20?

@@ -1,0 +1,1 @@
+List all the possible ways to get to attractions, together with the number of attractions accessible by these methods.

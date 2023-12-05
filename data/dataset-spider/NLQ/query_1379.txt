@@ -1,0 +1,1 @@
+List the names and buildings of all departments sorted by the budget from large to small.

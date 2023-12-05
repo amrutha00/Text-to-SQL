@@ -1,0 +1,1 @@
+What is the average and maximum number of hours students who made the team practiced?

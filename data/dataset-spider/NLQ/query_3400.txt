@@ -1,0 +1,1 @@
+what is the average number of factories and maximum number of shops for manufacturers that opened before 1990.

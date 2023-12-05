@@ -1,0 +1,1 @@
+SELECT Investor ,  COUNT(*) FROM entrepreneur GROUP BY Investor

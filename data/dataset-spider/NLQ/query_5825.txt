@@ -1,0 +1,1 @@
+What is the author of the submission with the highest score?

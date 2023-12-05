@@ -1,0 +1,1 @@
+Give me the descriptions of the service types that cost more than 100.

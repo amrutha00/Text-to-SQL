@@ -1,0 +1,1 @@
+SELECT Competition_type ,  COUNT(*) FROM competition GROUP BY Competition_type

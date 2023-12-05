@@ -1,0 +1,1 @@
+Find the salaries of all distinct instructors that are less than the largest salary.

@@ -1,0 +1,1 @@
+What are the names of the different customers who have taken out a loan, ordered by the total amount that they have taken?

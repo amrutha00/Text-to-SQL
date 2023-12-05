@@ -1,0 +1,1 @@
+Show the order ids and the number of items in each order.

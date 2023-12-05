@@ -1,0 +1,1 @@
+What are the total purchases for members rated at level 6?

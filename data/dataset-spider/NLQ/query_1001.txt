@@ -1,0 +1,1 @@
+Return the total and minimum enrollments across all schools.

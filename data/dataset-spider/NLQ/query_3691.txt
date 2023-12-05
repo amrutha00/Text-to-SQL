@@ -1,0 +1,1 @@
+Count the number of games taken place in park "Columbia Park" in 1907.

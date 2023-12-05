@@ -1,0 +1,1 @@
+Find the name of the company that produces both furnitures with less than 6 components and furnitures with more than 10 components.

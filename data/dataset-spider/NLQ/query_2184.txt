@@ -1,0 +1,1 @@
+Find all the forenames of distinct drivers who was in position 1 as standing and won?

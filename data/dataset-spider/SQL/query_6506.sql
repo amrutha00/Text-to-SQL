@@ -1,0 +1,1 @@
+SELECT Name FROM Projects WHERE Code NOT IN (SELECT Project FROM AssignedTo)

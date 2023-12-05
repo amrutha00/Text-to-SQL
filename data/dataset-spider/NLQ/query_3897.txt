@@ -1,0 +1,1 @@
+Find the total claimed amount of all the claims.

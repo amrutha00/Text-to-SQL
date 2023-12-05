@@ -1,0 +1,1 @@
+SELECT count(*) FROM postseason WHERE YEAR  =  1885 AND ties  =  1;

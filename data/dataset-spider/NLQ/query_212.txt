@@ -1,0 +1,1 @@
+What is the average latitude and longitude of the starting points of all trips?

@@ -1,0 +1,1 @@
+SELECT name FROM physician WHERE POSITION LIKE '%senior%'

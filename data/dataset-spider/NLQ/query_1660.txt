@@ -1,0 +1,1 @@
+What is the average and minimum age of all artists from United States.

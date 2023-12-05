@@ -1,0 +1,1 @@
+SELECT College FROM match_season GROUP BY College ORDER BY count(*) DESC LIMIT 3

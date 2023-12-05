@@ -1,0 +1,1 @@
+Find the name and nationality of the swimmer who has won (i.e., has a result of "win") more than 1 time.

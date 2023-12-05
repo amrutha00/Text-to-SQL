@@ -1,0 +1,1 @@
+SELECT max(Market_Value_in_Billion) ,  min(Market_Value_in_Billion) FROM company

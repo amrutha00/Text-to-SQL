@@ -1,0 +1,1 @@
+Find the detail of products whose detail contains the word "Latte" or the word "Americano"

@@ -1,0 +1,1 @@
+What is the name of the bank branch that has lended the largest total amount in loans, specifically to customers with credit scores below 100?

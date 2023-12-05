@@ -1,0 +1,1 @@
+SELECT Name ,  LOCATION FROM wrestler

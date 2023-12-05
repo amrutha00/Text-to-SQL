@@ -1,0 +1,1 @@
+Find the name, account type, and account balance of the customer who has the highest credit score.

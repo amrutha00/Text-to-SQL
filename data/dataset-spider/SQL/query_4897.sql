@@ -1,0 +1,1 @@
+SELECT Nickname FROM school_details WHERE Division != "Division 1"

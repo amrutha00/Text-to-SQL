@@ -1,0 +1,1 @@
+Count the number of documents with the type code BK that correspond to each product id.

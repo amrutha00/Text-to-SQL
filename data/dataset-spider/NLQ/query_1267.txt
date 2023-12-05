@@ -1,0 +1,1 @@
+Show each gender code and the corresponding count of guests sorted by the count in descending order.

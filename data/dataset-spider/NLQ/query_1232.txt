@@ -1,0 +1,1 @@
+What is the average room count of the apartments whose booking status code is "Provisional"?

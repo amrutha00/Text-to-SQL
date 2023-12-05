@@ -1,0 +1,1 @@
+Find the name and description of the role with code "MG".

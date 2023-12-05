@@ -1,0 +1,1 @@
+SELECT country FROM stadium EXCEPT SELECT country FROM stadium WHERE opening_year  >  2006

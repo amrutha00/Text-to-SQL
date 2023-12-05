@@ -1,0 +1,1 @@
+Which organizations are not a parent organization of others? List the organization id.

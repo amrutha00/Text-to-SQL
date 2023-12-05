@@ -1,0 +1,1 @@
+Find the name of rooms booked by some customers whose first name contains ROY.

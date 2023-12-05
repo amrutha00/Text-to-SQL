@@ -1,0 +1,1 @@
+Show the album names, ids and the number of tracks for each album.

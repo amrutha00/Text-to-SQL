@@ -1,0 +1,1 @@
+What is all the information of all the products that have a price between 60 and 120?

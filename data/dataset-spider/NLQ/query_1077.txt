@@ -1,0 +1,1 @@
+What are the distinct positions of the players from a country whose capital is Dublin?

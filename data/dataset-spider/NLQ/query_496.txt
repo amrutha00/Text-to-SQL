@@ -1,0 +1,1 @@
+Show the average age for male and female students.

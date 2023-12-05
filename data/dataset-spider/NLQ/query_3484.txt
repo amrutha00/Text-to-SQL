@@ -1,0 +1,1 @@
+display all the information about the department Marketing.

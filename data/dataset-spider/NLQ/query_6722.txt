@@ -1,0 +1,1 @@
+Show the rank, first name, and last name for all the faculty.

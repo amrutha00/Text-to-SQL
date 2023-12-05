@@ -1,0 +1,1 @@
+SELECT Party ,  COUNT(*) FROM people GROUP BY Party

@@ -1,0 +1,1 @@
+Find the first names and degree of all professors who are teaching some class in Computer Info. Systems department.

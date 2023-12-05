@@ -1,0 +1,1 @@
+SELECT TIME ,  train_number FROM train WHERE destination  =  'Chennai' ORDER BY TIME

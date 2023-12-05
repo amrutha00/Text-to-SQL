@@ -1,0 +1,1 @@
+What are the names of wines that are more expensive then all wines made in the year 2006?

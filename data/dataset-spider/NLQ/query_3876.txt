@@ -1,0 +1,1 @@
+Find the the customer details and id for the customers who had more than one policy.

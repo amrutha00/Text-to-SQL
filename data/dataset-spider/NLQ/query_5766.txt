@@ -1,0 +1,1 @@
+What is the first name and age of every student who lives in a dorm with a TV Lounge?

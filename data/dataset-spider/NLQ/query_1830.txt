@@ -1,0 +1,1 @@
+What is the maximum, minimum and average market share of the listed browsers?

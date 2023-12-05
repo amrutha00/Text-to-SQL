@@ -1,0 +1,1 @@
+SELECT count(DISTINCT roomtype) FROM room

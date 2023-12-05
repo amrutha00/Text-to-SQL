@@ -1,0 +1,1 @@
+For each user, return the name and the average rating of reviews given by them.

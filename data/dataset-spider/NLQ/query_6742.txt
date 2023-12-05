@@ -1,0 +1,1 @@
+For each faculty rank, show the number of faculty members who have it.

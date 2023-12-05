@@ -1,0 +1,1 @@
+SELECT region_code ,  region_name FROM region ORDER BY region_code

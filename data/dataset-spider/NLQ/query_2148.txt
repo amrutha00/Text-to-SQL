@@ -1,0 +1,1 @@
+Which service id and type has the least number of participants?

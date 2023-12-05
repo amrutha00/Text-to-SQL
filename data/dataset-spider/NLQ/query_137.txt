@@ -1,0 +1,1 @@
+What is the id of the bike that traveled the most in 94002?

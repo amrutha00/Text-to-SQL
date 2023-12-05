@@ -1,0 +1,1 @@
+Give the distinct department ids of departments in which a manager is in charge of 4 or more employees?

@@ -1,0 +1,1 @@
+What is the average and maximum number of total passengers for train stations in London or Glasgow?

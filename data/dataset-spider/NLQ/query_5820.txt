@@ -1,0 +1,1 @@
+For each submission, show the author and their affiliated college.

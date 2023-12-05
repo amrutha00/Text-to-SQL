@@ -1,0 +1,1 @@
+Give the country id and corresponding count of cities in each country.

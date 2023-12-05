@@ -1,0 +1,1 @@
+Which claims had exactly one settlement? For each, tell me the the date the claim was made, the date it was settled and the amount settled.

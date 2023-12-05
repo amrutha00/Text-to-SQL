@@ -1,0 +1,1 @@
+SELECT count(*) FROM Faculty WHERE Rank  =  "Professor" AND building  =  "NEB"

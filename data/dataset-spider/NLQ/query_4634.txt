@@ -1,0 +1,1 @@
+Show the shipping charge and customer id for customer orders with order status Cancelled or Paid.

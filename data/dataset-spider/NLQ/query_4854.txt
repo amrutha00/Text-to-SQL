@@ -1,0 +1,1 @@
+How many different status codes of things are there?

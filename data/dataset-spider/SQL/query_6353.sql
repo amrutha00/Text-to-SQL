@@ -1,0 +1,1 @@
+SELECT DISTINCT home_city FROM driver

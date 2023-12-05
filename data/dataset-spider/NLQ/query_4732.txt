@@ -1,0 +1,1 @@
+Give me the product type, name and price for all the products supplied by supplier id 3.

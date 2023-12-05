@@ -1,0 +1,1 @@
+SELECT country FROM competition EXCEPT SELECT country FROM competition WHERE competition_type  =  'Friendly'

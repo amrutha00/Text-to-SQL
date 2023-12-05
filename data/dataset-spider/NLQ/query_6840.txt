@@ -1,0 +1,1 @@
+Find the number of different airports which are the destinations of the American Airlines.

@@ -1,0 +1,1 @@
+Find the entry name of the catalog with the highest price (in USD).

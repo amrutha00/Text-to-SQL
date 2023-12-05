@@ -1,0 +1,1 @@
+List the company name and rank for all companies in the decreasing order of their sales.

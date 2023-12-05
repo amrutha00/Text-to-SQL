@@ -1,0 +1,1 @@
+SELECT avg(Injured) FROM perpetrator

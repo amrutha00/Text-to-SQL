@@ -1,0 +1,1 @@
+find all dependent names who have a spouse relation with some employee.

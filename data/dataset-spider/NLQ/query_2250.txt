@@ -1,0 +1,1 @@
+Show the team that have at least two technicians.

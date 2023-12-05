@@ -1,0 +1,1 @@
+SELECT * FROM Student_Addresses ORDER BY monthly_rental DESC

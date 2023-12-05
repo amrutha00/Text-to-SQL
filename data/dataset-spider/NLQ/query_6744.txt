@@ -1,0 +1,1 @@
+Show all the ranks and the number of male and female faculty for each rank.

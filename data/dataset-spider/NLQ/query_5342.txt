@@ -1,0 +1,1 @@
+What are the average prices of products, grouped by manufacturer code?

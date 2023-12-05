@@ -1,0 +1,1 @@
+SELECT company ,  main_industry FROM company WHERE company_id NOT IN (SELECT company_id FROM station_company)

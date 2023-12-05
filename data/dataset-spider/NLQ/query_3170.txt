@@ -1,0 +1,1 @@
+Find the id and local authority of the station with has the highest average high temperature.

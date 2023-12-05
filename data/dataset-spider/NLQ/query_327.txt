@@ -1,0 +1,1 @@
+Which catalog content has the smallest capacity? Return the catalog entry name.

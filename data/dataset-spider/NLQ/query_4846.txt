@@ -1,0 +1,1 @@
+How many services has each resident requested? List the resident id, details, and the count in descending order of the count.

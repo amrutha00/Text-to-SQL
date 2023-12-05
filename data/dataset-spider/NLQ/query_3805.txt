@@ -1,0 +1,1 @@
+Find the addresses of the course authors who teach the course with name "operating system" or "data structure".

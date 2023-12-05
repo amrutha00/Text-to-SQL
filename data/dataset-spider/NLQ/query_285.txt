@@ -1,0 +1,1 @@
+Find the name and email of the users who have more than 1000 followers.

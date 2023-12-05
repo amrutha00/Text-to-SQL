@@ -1,0 +1,1 @@
+what are the order id and customer id of the oldest order?

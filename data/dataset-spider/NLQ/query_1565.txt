@@ -1,0 +1,1 @@
+What are the customer ids for customers who do not have an account?

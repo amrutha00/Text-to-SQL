@@ -1,0 +1,1 @@
+Find the distinct names of all wines that have prices higher than some wines from John Anthony winery.

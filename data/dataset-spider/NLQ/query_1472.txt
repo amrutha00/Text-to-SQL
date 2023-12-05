@@ -1,0 +1,1 @@
+What are the names of Art instructors who have taught a course, and the corresponding course id?

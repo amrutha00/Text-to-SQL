@@ -1,0 +1,1 @@
+Show the studios that have produced films with director "Nicholas Meyer" and "Walter Hill".

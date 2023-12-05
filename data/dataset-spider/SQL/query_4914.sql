@@ -1,0 +1,1 @@
+SELECT sum(city_population) FROM district ORDER BY city_area DESC LIMIT 3

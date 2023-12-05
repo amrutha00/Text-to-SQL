@@ -1,0 +1,1 @@
+What is the maximum level of managers in countries that are not "Australia"?

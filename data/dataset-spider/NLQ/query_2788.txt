@@ -1,0 +1,1 @@
+Which counties have two or more delegates? Give me the county names.

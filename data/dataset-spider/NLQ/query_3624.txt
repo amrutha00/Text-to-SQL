@@ -1,0 +1,1 @@
+List the duration, file size and format of songs whose genre is pop, ordered by title?

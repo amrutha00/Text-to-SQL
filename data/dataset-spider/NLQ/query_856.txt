@@ -1,0 +1,1 @@
+Find all invoice dates corresponding to customers with first name Astrid and last name Gruber.

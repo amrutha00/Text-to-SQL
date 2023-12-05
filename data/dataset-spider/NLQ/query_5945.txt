@@ -1,0 +1,1 @@
+What are the details and star ratings of the three hotels with the lowest price ranges?

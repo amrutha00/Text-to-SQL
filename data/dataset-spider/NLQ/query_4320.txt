@@ -1,0 +1,1 @@
+Compute the average age of the members in the club "Tennis Club".

@@ -1,0 +1,1 @@
+SELECT eid FROM Employee EXCEPT SELECT eid FROM Certificate

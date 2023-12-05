@@ -1,0 +1,1 @@
+SELECT DISTINCT payment_type_code FROM payments

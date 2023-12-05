@@ -1,0 +1,1 @@
+Find the number of albums by the artist "Metallica".

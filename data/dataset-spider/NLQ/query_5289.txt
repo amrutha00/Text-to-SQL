@@ -1,0 +1,1 @@
+Find the founder of the company whose name begins with the letter 'S'.

@@ -1,0 +1,1 @@
+SELECT gtype ,  count(*) FROM Video_games GROUP BY gtype

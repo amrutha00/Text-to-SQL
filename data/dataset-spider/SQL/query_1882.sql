@@ -1,0 +1,1 @@
+SELECT COUNT (DISTINCT team) FROM elimination

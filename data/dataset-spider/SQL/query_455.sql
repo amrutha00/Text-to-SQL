@@ -1,0 +1,1 @@
+SELECT allergytype ,  count(*) FROM Allergy_type GROUP BY allergytype

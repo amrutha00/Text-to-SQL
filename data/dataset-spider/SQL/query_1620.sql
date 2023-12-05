@@ -1,0 +1,1 @@
+SELECT product_id ,  count(DISTINCT order_id) FROM Order_items GROUP BY product_id

@@ -1,0 +1,1 @@
+Find the the name of the customers who have a loan with amount more than 3000.

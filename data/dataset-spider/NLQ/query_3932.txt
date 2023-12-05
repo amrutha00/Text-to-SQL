@@ -1,0 +1,1 @@
+Which physicians are in charge of more than one patient? Give me their names.

@@ -1,0 +1,1 @@
+Give me a list of cities whose temperature in Mar is lower than that in Dec and which have never been host cities.

@@ -1,0 +1,1 @@
+Show year where a track with a seating at least 5000 opened and a track with seating no more than 4000 opened.

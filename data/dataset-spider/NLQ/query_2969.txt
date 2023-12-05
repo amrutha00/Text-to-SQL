@@ -1,0 +1,1 @@
+What is the film title and inventory id of the item in the inventory which was rented most frequently?

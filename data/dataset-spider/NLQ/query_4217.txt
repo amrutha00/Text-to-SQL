@@ -1,0 +1,1 @@
+Show the employee ids for all employees with role name "Human Resource" or "Manager".

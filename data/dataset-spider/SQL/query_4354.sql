@@ -1,0 +1,1 @@
+SELECT role_description FROM Staff_Roles WHERE role_code  =  'researcher'

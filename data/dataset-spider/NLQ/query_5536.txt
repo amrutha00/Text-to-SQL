@@ -1,0 +1,1 @@
+How many products are in the 'Spices' category and have a typical price of over 1000?

@@ -1,0 +1,1 @@
+What are the average price and score of wines grouped by appelation?

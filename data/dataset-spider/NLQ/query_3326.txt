@@ -1,0 +1,1 @@
+What is the last name of the student who got a grade A in the class with code 10018.

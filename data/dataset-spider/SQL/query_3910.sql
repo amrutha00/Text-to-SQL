@@ -1,0 +1,1 @@
+SELECT appointmentid FROM appointment ORDER BY START DESC LIMIT 1

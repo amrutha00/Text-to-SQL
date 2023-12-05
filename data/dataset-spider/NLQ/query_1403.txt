@@ -1,0 +1,1 @@
+Find the number of courses provided in each semester and year.

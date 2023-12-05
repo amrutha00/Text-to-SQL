@@ -1,0 +1,1 @@
+Show the race class and number of races in each class.

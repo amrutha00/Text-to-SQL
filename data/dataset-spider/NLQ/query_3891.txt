@@ -1,0 +1,1 @@
+Which Payments were processed with Visa? List the payment Id, the date and the amount.

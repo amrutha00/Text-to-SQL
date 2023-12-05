@@ -1,0 +1,1 @@
+SELECT count(*) FROM customer_orders WHERE order_details  =  "Second time"

@@ -1,0 +1,1 @@
+What is the minimum, maximum, and average market value for every company?

@@ -1,0 +1,1 @@
+What is the average price range of hotels for each each star rating code?

@@ -1,0 +1,1 @@
+SELECT count(*) FROM classroom WHERE building  =  'Lamberton'

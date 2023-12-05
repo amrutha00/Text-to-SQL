@@ -1,0 +1,1 @@
+SELECT avg(Number_of_hosts) FROM party

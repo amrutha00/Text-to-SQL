@@ -1,0 +1,1 @@
+SELECT role_description FROM ROLES WHERE role_code = "ED";

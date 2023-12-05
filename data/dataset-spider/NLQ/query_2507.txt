@@ -1,0 +1,1 @@
+Find the title and score of the movie with the lowest rating among all movies directed by each director.

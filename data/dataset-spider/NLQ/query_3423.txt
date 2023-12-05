@@ -1,0 +1,1 @@
+Return the phone numbers of employees with salaries between 8000 and 12000.

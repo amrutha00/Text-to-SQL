@@ -1,0 +1,1 @@
+For each classroom report the grade that is taught in it. Report just the classroom number and the grade number.

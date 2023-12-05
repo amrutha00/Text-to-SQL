@@ -1,0 +1,1 @@
+SELECT product FROM product WHERE product LIKE "%Scanner%"

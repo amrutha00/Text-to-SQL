@@ -1,0 +1,1 @@
+How many drama workshop groups are there in each city? Return both the city and the count.

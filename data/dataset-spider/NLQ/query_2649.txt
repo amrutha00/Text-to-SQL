@@ -1,0 +1,1 @@
+How many business rates are related to each cmi cross reference? List cross reference id, master customer id and the n

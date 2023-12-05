@@ -1,0 +1,1 @@
+For each party, return its theme and the name of its host.

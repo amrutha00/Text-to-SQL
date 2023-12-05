@@ -1,0 +1,1 @@
+SELECT title FROM course WHERE course_id NOT IN (SELECT course_id FROM prereq)

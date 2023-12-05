@@ -1,0 +1,1 @@
+What is the average bike availablility for stations not in Palo Alto?

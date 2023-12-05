@@ -1,0 +1,1 @@
+What are the ids of the stations in San Francisco that normally have more than 10 bikes available?

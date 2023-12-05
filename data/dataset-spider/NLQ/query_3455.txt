@@ -1,0 +1,1 @@
+What is the average salary of employees who have a commission percentage that is not null?

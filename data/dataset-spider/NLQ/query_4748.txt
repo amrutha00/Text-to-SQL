@@ -1,0 +1,1 @@
+Find the product type whose average price is higher than the average price of all products.

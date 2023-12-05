@@ -1,0 +1,1 @@
+SELECT first_name FROM Teachers WHERE email_address LIKE '%man%'

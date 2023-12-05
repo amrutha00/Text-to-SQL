@@ -1,0 +1,1 @@
+Find the number of accounts with a savings balance that is higher than the average savings balance.

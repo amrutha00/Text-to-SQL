@@ -1,0 +1,1 @@
+SELECT address_content FROM addresses WHERE city  =  "East Julianaside" AND state_province_county  =  "Texas" UNION SELECT address_content FROM addresses WHERE city  =  "Gleasonmouth" AND state_province_county  =  "Arizona"

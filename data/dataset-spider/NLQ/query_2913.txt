@@ -1,0 +1,1 @@
+Retrieve the title of the paper that has the largest number of authors.

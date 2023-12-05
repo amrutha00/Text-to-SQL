@@ -1,0 +1,1 @@
+List the name of actors whose age is not 20.

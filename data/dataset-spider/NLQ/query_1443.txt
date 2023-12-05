@@ -1,0 +1,1 @@
+Find the id of instructors who didn't teach any courses?

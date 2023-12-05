@@ -1,0 +1,1 @@
+SELECT name ,  operating_system FROM web_client_accelerator WHERE CONNECTION != 'Broadband'

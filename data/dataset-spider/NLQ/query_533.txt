@@ -1,0 +1,1 @@
+What are the distinct first names and cities of the students who have allergy either to milk or to cat?

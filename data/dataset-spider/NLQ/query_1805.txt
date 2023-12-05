@@ -1,0 +1,1 @@
+Find the number of checking accounts for each account name.

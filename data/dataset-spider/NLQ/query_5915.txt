@@ -1,0 +1,1 @@
+Give me the star rating descriptions of the hotels that cost more than 10000.

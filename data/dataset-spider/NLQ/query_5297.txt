@@ -1,0 +1,1 @@
+Find the name, headquarter and founder of the manufacturer that has the highest revenue.

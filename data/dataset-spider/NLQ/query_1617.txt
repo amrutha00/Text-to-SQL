@@ -1,0 +1,1 @@
+What are the different product names, and what is the sum of quantity ordered for each product?

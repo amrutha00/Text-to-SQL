@@ -1,0 +1,1 @@
+SELECT Player_name ,  residence FROM player WHERE Occupation != "Researcher"

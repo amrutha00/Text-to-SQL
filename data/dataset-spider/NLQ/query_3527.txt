@@ -1,0 +1,1 @@
+What are the department names and how many employees work in each of them?

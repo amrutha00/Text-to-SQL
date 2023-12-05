@@ -1,0 +1,1 @@
+Find the number of rooms with more than 50 capacity for each building.

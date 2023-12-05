@@ -1,0 +1,1 @@
+Which staff members are assigned to the problem with id 1? Give me their first and last names.

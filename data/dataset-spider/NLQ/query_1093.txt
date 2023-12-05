@@ -1,0 +1,1 @@
+Show the country names and the corresponding number of players.

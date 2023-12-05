@@ -1,0 +1,1 @@
+SELECT Title ,  Issues FROM book

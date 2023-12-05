@@ -1,0 +1,1 @@
+What is the name and rank of every company ordered by descending number of sales?

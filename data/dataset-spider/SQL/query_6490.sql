@@ -1,0 +1,1 @@
+SELECT name FROM projects WHERE hours BETWEEN 100 AND 300

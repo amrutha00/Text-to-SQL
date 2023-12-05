@@ -1,0 +1,1 @@
+Give all information regarding instructors, in order of salary from least to greatest.

@@ -1,0 +1,1 @@
+Show the names of journalists and the dates of the events they reported.

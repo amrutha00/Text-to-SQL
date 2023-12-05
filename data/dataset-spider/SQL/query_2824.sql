@@ -1,0 +1,1 @@
+SELECT ResTypeName FROM Restaurant_Type;

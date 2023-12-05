@@ -1,0 +1,1 @@
+Which third party companies have at least 2 maintenance engineers or have at least 2 maintenance contracts? List the company id and name.

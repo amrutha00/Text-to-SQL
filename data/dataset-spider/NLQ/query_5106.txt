@@ -1,0 +1,1 @@
+Show me the distinct payment method codes from the invoice record.

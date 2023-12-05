@@ -1,0 +1,1 @@
+What is the total number of purchases for members with level 6?

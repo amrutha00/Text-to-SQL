@@ -1,0 +1,1 @@
+SELECT bname FROM bank WHERE state  =  'New York'

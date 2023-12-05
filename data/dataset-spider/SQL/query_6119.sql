@@ -1,0 +1,1 @@
+SELECT count(DISTINCT customer_id) FROM customer_orders WHERE order_status  =  "Cancelled"

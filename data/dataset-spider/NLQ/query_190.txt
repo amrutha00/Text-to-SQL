@@ -1,0 +1,1 @@
+For each station, return its longitude and the average duration of trips that started from the station.

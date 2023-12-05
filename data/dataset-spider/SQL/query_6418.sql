@@ -1,0 +1,1 @@
+SELECT document_type_code ,  count(*) FROM Documents GROUP BY document_type_code

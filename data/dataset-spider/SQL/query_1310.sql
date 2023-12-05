@@ -1,0 +1,1 @@
+SELECT Date ,  LOCATION FROM performance

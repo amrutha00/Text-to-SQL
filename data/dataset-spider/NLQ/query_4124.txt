@@ -1,0 +1,1 @@
+Return the maximum and minimum number of cities across all markets.

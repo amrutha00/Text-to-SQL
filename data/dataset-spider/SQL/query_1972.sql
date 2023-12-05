@@ -1,0 +1,1 @@
+SELECT max(booked_count) ,  min(booked_count) ,  avg(booked_count) FROM products_booked

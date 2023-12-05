@@ -1,0 +1,1 @@
+Find the claim that has the largest total settlement amount. Return the effective date of the claim.

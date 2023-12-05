@@ -1,0 +1,1 @@
+SELECT avg(enrollment) FROM university WHERE founded  <  1850

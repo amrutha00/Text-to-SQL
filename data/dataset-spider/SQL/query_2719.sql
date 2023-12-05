@@ -1,0 +1,1 @@
+SELECT name FROM storm WHERE storm_id NOT IN (SELECT storm_id FROM affected_region)

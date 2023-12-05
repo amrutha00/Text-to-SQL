@@ -1,0 +1,1 @@
+SELECT Lifespan FROM representative WHERE State  =  "New York" OR State  =  "Indiana"

@@ -1,0 +1,1 @@
+Show id, first and last names for all customers with at least two cards.

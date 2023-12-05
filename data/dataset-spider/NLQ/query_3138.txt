@@ -1,0 +1,1 @@
+How many engineer visits are required at most for a single fault log? List the number and the log entry id.

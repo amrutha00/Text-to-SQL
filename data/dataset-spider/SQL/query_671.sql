@@ -1,0 +1,1 @@
+SELECT account_id ,  customer_id ,  account_name FROM Accounts

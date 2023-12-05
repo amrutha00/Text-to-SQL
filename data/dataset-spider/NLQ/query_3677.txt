@@ -1,0 +1,1 @@
+Find the number of tied games (the value of "ties" is '1') in 1885 postseason.

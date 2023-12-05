@@ -1,0 +1,1 @@
+SELECT advisor ,  count(*) FROM Student GROUP BY advisor

@@ -1,0 +1,1 @@
+SELECT avg(Years_working) FROM journalist

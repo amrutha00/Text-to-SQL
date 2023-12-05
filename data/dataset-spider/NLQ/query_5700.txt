@@ -1,0 +1,1 @@
+What are the names and types of the dorms that have a capacity greater than 300 or less than 100?

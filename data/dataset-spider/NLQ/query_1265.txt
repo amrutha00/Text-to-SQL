@@ -1,0 +1,1 @@
+Show each apartment type code, and the maximum and minimum number of rooms for each type.

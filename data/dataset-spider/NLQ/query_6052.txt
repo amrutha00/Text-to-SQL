@@ -1,0 +1,1 @@
+Find the first name and age of the students who are playing both Football and Lacrosse.

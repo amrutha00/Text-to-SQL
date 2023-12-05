@@ -1,0 +1,1 @@
+Return the name and number of reservations made for each of the rooms.

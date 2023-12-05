@@ -1,0 +1,1 @@
+SELECT location_code FROM Document_locations GROUP BY location_code HAVING count(*)  >=  3

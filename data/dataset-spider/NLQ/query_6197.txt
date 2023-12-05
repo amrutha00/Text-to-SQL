@@ -1,0 +1,1 @@
+Return the issue date of the volume that has spent the fewest weeks on top.

@@ -1,0 +1,1 @@
+SELECT count(*) FROM participants WHERE participant_type_code  =  'Organizer'

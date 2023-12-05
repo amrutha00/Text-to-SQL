@@ -1,0 +1,1 @@
+What are the theme and year for all exhibitions that have a ticket price under 15?

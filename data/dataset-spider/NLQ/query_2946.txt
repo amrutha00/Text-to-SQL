@@ -1,0 +1,1 @@
+What are the payment dates for any payments that have an amount greater than 10 or were handled by a staff member with the first name Elsa?

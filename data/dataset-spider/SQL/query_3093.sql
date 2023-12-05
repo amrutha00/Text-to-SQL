@@ -1,0 +1,1 @@
+SELECT detention_summary FROM Detention

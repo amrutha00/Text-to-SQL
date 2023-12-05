@@ -1,0 +1,1 @@
+SELECT TYPE FROM institution WHERE founded  >  1990 AND enrollment  >=  1000

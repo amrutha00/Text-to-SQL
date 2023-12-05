@@ -1,0 +1,1 @@
+Show the name and population of the country that has the highest roller coaster.

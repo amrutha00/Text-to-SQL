@@ -1,0 +1,1 @@
+SELECT project_id FROM Documents GROUP BY project_id HAVING count(*)  >=  2

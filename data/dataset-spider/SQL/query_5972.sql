@@ -1,0 +1,1 @@
+SELECT count(DISTINCT gtype) FROM Video_games

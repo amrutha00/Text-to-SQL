@@ -1,0 +1,1 @@
+SELECT product_id FROM products_booked GROUP BY product_id HAVING count(*)  =  3

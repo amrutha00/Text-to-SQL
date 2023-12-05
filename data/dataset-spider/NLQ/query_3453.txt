@@ -1,0 +1,1 @@
+What are department ids for departments with managers managing more than 3 employees?

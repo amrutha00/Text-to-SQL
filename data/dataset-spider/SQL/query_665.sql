@@ -1,0 +1,1 @@
+SELECT Name FROM editor WHERE editor_id NOT IN (SELECT editor_id FROM journal_committee)

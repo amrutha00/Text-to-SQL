@@ -1,0 +1,1 @@
+How many transaction does each account have? Show the number and account id.

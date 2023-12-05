@@ -1,0 +1,1 @@
+SELECT distinct(UnitPrice) FROM TRACK

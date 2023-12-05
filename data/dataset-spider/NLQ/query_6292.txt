@@ -1,0 +1,1 @@
+Which cities have lower temperature in March than in July and have been once host cities?

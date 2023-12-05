@@ -1,0 +1,1 @@
+SELECT gender FROM staff GROUP BY gender ORDER BY count(*) DESC LIMIT 1

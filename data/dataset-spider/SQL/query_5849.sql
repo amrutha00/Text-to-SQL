@@ -1,0 +1,1 @@
+SELECT date_of_transaction ,  share_count FROM TRANSACTIONS

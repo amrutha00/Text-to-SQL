@@ -1,0 +1,1 @@
+List the name of the phone model launched in year 2002 and with the highest RAM size.

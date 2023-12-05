@@ -1,0 +1,1 @@
+What are the emails and phone numbers of all customers, sorted by email address and phone number?

@@ -1,0 +1,1 @@
+Show the description of the transaction type that occurs most frequently.

@@ -1,0 +1,1 @@
+SELECT sum(city_population) FROM district WHERE city_area  >  (SELECT avg(city_area) FROM district)

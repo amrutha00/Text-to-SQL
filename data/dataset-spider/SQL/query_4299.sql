@@ -1,0 +1,1 @@
+SELECT count(DISTINCT t2.position) FROM club AS t1 JOIN member_of_club AS t2 ON t1.clubid  =  t2.clubid WHERE t1.clubname  =  "Bootup Baltimore"

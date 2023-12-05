@@ -1,0 +1,1 @@
+SELECT avg(Snatch) FROM body_builder

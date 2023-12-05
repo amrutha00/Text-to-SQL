@@ -1,0 +1,1 @@
+What are the ids of all songs that have higher resolution of the average resolution in the modern genre?

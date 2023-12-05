@@ -1,0 +1,1 @@
+SELECT other_account_details FROM Accounts WHERE account_name  =  "338"

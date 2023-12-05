@@ -1,0 +1,1 @@
+What are the first names of customers who have not rented any films after '2005-08-23 02:06:01'?

@@ -1,0 +1,1 @@
+Find the stories of the building with the largest height.

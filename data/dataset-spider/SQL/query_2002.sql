@@ -1,0 +1,1 @@
+SELECT min(market_value) ,  max(market_value) ,  avg(market_value) FROM company

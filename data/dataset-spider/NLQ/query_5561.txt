@@ -1,0 +1,1 @@
+List all the characteristic names and data types of product "cumin".

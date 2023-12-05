@@ -1,0 +1,1 @@
+Find the names and descriptions of courses that belong to the subject named "Computer Science".

@@ -1,0 +1,1 @@
+Show the names of customers who have both an order in completed status and an order in part status.

@@ -1,0 +1,1 @@
+Find the average credit score of the customers who do not have any loan.

@@ -1,0 +1,1 @@
+What are the maximum and minimum budget of the departments?

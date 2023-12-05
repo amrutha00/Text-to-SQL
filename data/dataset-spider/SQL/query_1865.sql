@@ -1,0 +1,1 @@
+SELECT Team ,  COUNT(*) FROM elimination GROUP BY Team

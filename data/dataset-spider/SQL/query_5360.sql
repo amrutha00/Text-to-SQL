@@ -1,0 +1,1 @@
+SELECT problem_log_id ,  log_entry_description FROM problem_log

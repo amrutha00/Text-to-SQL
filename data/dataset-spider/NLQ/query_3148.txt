@@ -1,0 +1,1 @@
+Which fault log included the most number of faulty parts? List the fault log id, description and record time.

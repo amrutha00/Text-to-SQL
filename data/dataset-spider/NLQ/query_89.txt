@@ -1,0 +1,1 @@
+What are the ids of the students who registered for course 301?

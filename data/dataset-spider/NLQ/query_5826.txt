@@ -1,0 +1,1 @@
+Find the author who achieved the highest score in a submission.

@@ -1,0 +1,1 @@
+What are all the fault descriptions and the fault status of all the faults recoreded in the logs?

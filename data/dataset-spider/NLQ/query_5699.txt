@@ -1,0 +1,1 @@
+Find the name and gender type of the dorms whose capacity is greater than 300 or less than 100.

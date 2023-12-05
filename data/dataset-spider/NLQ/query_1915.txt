@@ -1,0 +1,1 @@
+Show the number of buildings with a height above the average or a number of floors above the average.

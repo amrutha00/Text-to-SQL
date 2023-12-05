@@ -1,0 +1,1 @@
+What is the organisation type and id of the organisation which has the most number of research staff?

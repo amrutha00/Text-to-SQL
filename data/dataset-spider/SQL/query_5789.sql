@@ -1,0 +1,1 @@
+SELECT product_name ,  product_category_code FROM products ORDER BY product_price DESC LIMIT 1

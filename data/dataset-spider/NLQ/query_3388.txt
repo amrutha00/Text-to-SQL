@@ -1,0 +1,1 @@
+Find the countries that have never participated in any competition with Friendly type.

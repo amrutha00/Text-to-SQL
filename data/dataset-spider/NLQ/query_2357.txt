@@ -1,0 +1,1 @@
+report the total number of degrees granted between 1998 and 2002.

@@ -1,0 +1,1 @@
+SELECT count(*) FROM county_public_safety

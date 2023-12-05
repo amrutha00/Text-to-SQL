@@ -1,0 +1,1 @@
+SELECT name FROM stadium WHERE capacity  <  (SELECT avg(capacity) FROM stadium)

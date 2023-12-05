@@ -1,0 +1,1 @@
+SELECT avg(age) ,  sex FROM Student GROUP BY sex

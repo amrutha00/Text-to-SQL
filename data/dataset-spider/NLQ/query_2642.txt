@@ -1,0 +1,1 @@
+What are the names of rooms whose reservation frequency exceeds 60 times?

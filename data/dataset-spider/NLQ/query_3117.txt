@@ -1,0 +1,1 @@
+What are the id and zip code of the address with the highest monthly rental?

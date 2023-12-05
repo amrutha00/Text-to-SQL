@@ -1,0 +1,1 @@
+Find the first name and last name and department id for those employees who earn such amount of salary which is the smallest salary of any of the departments.

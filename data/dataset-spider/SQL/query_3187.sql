@@ -1,0 +1,1 @@
+SELECT crs_credit ,  crs_description FROM course WHERE crs_code  =  'CIS-220'

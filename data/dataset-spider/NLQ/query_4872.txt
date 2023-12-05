@@ -1,0 +1,1 @@
+Find the team of each player and sort them in ascending alphabetical order.

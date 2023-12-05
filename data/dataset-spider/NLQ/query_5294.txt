@@ -1,0 +1,1 @@
+Return the total revenue of companies with headquarters in Tokyo or Taiwan.

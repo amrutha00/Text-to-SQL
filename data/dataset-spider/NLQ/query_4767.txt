@@ -1,0 +1,1 @@
+Return the phone numbers for all customers and suppliers.

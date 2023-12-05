@@ -1,0 +1,1 @@
+Count the number of artists who are older than 46 and joined after 1990.

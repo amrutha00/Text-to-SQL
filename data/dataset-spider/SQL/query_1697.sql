@@ -1,0 +1,1 @@
+SELECT count(DISTINCT i_id) FROM review

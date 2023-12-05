@@ -1,0 +1,1 @@
+SELECT founded FROM university ORDER BY enrollment DESC LIMIT 1

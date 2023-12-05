@@ -1,0 +1,1 @@
+SELECT DISTINCT YEAR FROM competition WHERE Competition_type != "Tournament"

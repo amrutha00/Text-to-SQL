@@ -1,0 +1,1 @@
+SELECT count(DISTINCT school_id) FROM basketball_match

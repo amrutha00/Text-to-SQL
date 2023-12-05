@@ -1,0 +1,1 @@
+SELECT Residence FROM player GROUP BY Residence HAVING COUNT(*)  >=  2

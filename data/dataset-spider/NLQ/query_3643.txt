@@ -1,0 +1,1 @@
+Find the id and rank of the team that has the highest average attendance rate in 2014.

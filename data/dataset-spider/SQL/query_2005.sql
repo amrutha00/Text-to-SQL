@@ -1,0 +1,1 @@
+SELECT DISTINCT main_industry FROM company

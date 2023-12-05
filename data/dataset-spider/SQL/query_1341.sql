@@ -1,0 +1,1 @@
+SELECT count(DISTINCT course_id) FROM course WHERE dept_name  =  'Physics'

@@ -1,0 +1,1 @@
+Find the names of all procedures such that the cost is less than 5000 and physician John Wen was trained in.

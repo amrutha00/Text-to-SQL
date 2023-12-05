@@ -1,0 +1,1 @@
+What is the id, forname and surname of the driver who had the first position in terms of laptime at least twice?

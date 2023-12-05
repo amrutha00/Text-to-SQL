@@ -1,0 +1,1 @@
+Show the customer ids and firstname without a credit card.

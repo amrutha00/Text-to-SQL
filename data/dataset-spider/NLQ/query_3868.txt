@@ -1,0 +1,1 @@
+Find the claim id and claim date of the claim that incurred the most settlement count. Also tell me the count.

@@ -1,0 +1,1 @@
+SELECT FacID FROM Faculty EXCEPT SELECT FacID FROM Faculty_participates_in

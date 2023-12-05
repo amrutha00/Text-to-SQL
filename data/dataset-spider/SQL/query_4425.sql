@@ -1,0 +1,1 @@
+SELECT avg(age) ,  job FROM Person WHERE gender  =  'male' GROUP BY job

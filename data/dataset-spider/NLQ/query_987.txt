@@ -1,0 +1,1 @@
+Count the number of schools that have had basketball matches.

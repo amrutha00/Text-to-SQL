@@ -1,0 +1,1 @@
+SELECT fname FROM authors WHERE lname  =  "Ueno"

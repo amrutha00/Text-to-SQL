@@ -1,0 +1,1 @@
+Find the last names of faculties in building Barton in alphabetic order.

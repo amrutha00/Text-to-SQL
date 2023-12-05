@@ -1,0 +1,1 @@
+List the names of the employees who authorized the destruction of documents and the employees who destroyed the corresponding documents.

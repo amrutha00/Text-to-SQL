@@ -1,0 +1,1 @@
+Return the average money requested across all entrepreneurs.

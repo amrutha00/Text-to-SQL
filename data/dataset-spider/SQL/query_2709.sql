@@ -1,0 +1,1 @@
+SELECT count(DISTINCT region_id) FROM affected_region

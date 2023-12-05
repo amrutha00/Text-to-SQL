@@ -1,0 +1,1 @@
+For each fourth-grade classroom, show the classroom number and the total number of students using it.

@@ -1,0 +1,1 @@
+SELECT store_id FROM customer GROUP BY store_id ORDER BY count(*) DESC LIMIT 1

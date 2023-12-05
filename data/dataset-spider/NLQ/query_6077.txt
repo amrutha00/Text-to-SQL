@@ -1,0 +1,1 @@
+Which product's detail contains the word "Latte" or "Americano"? Return the full detail.

@@ -1,0 +1,1 @@
+What are the first, middle, and last names of all individuals, ordered by last name?

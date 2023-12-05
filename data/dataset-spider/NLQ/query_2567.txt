@@ -1,0 +1,1 @@
+Show the police force shared by counties with location on the east and west.

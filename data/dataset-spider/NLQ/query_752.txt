@@ -1,0 +1,1 @@
+Show names and seatings, ordered by seating for all tracks opened after 2000.

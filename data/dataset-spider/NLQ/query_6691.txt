@@ -1,0 +1,1 @@
+How much in total does customer with first name as Carole and last name as Bernhard paid?

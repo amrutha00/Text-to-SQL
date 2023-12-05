@@ -1,0 +1,1 @@
+For each grade, return the grade number, the number of classrooms used for the grade, and the total number of students enrolled in the grade.

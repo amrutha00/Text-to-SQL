@@ -1,0 +1,1 @@
+SELECT title FROM songs WHERE title LIKE '% the %'

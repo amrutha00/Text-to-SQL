@@ -1,0 +1,1 @@
+Which customer had at least 2 policies but did not file any claims? List the customer details and id.

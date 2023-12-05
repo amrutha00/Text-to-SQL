@@ -1,0 +1,1 @@
+List the types of competition that have at most five competitions of that type.

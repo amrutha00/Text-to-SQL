@@ -1,0 +1,1 @@
+SELECT job_id FROM employees GROUP BY job_id HAVING AVG(salary) > 8000

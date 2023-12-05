@@ -1,0 +1,1 @@
+SELECT building_short_name FROM Apartment_Buildings WHERE building_manager	 =  "Emma"

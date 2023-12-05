@@ -1,0 +1,1 @@
+Show names for all employees with salary more than the average.

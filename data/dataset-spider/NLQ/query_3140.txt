@@ -1,0 +1,1 @@
+How many fault status codes are recorded in the fault log parts table?

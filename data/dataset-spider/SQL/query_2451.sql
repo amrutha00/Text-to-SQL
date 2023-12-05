@@ -1,0 +1,1 @@
+SELECT max(stars) ,  min(stars) FROM Rating

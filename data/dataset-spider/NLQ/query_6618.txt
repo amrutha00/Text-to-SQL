@@ -1,0 +1,1 @@
+Show all locations with only 1 station.

@@ -1,0 +1,1 @@
+What are id and name of the products whose price is lower than 600 or higher than 900?

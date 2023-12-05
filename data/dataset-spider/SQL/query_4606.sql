@@ -1,0 +1,1 @@
+SELECT avg(Num_of_Audience) FROM festival_detail

@@ -1,0 +1,1 @@
+SELECT product_category_code ,  typical_buying_price FROM products WHERE product_name  =  "cumin"

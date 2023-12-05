@@ -1,0 +1,1 @@
+SELECT sum(t2.order_quantity) FROM customer_orders AS t1 JOIN order_items AS t2 ON t1.order_id  =  t2.order_id WHERE t1.order_date  <  "2018-03-17 07:13:53"

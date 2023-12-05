@@ -1,0 +1,1 @@
+Find the list of documents that are both in the most three popular type and have the most three popular structure.

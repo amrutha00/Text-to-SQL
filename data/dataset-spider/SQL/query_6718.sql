@@ -1,0 +1,1 @@
+SELECT DISTINCT rank FROM Faculty

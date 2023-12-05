@@ -1,0 +1,1 @@
+Compute the total order quantities of the product "photo".

@@ -1,0 +1,1 @@
+SELECT payment_method_code ,  party_phone FROM parties WHERE party_email  =  "enrico09@example.com"

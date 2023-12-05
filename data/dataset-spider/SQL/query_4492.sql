@@ -1,0 +1,1 @@
+SELECT Leader_Name ,  College_Location FROM college

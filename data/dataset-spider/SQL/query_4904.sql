@@ -1,0 +1,1 @@
+SELECT max_page_size FROM product GROUP BY max_page_size HAVING count(*)  >  3

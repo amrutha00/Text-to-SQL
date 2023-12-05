@@ -1,0 +1,1 @@
+What is the id and name of the browser that is compatible with the most web accelerators?

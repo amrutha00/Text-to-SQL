@@ -1,0 +1,1 @@
+SELECT count(DISTINCT language_id) FROM film

@@ -1,0 +1,1 @@
+How many rooms in each building have a capacity of over 50?

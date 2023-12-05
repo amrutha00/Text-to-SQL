@@ -1,0 +1,1 @@
+What is the minimum, mean, and maximum age across all students?

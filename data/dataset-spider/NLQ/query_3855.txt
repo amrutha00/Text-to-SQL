@@ -1,0 +1,1 @@
+List the method, date and amount of all the payments, in ascending order of date.

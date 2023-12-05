@@ -1,0 +1,1 @@
+What are the countries that have both mountains that are higher than 5600 and lower than 5200?

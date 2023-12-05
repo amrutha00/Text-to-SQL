@@ -1,0 +1,1 @@
+Show the names of phones that are on market with number of shops greater than 50.

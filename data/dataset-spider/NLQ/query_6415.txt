@@ -1,0 +1,1 @@
+Return the id of the project that has the fewest corresponding documents.

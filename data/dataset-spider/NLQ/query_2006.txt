@@ -1,0 +1,1 @@
+List all headquarters and the number of companies in each headquarter.

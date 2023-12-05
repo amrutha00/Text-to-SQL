@@ -1,0 +1,1 @@
+SELECT catalog_entry_name FROM catalog_contents ORDER BY capacity ASC LIMIT 1

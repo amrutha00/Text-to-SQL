@@ -1,0 +1,1 @@
+Find the number of scientists involved for the projects that require more than 300 hours.

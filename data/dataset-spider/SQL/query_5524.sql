@@ -1,0 +1,1 @@
+SELECT product_name ,  typical_buying_price FROM products

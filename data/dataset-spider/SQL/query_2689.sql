@@ -1,0 +1,1 @@
+SELECT Name FROM HOST WHERE Host_ID NOT IN (SELECT Host_ID FROM party_host)

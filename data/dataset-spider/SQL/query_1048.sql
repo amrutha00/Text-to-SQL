@@ -1,0 +1,1 @@
+SELECT count(*) FROM chip_model WHERE wifi  =  'No'

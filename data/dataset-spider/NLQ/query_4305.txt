@@ -1,0 +1,1 @@
+Find the names of all the clubs that have at least a member from the city with city code "BAL".

@@ -1,0 +1,1 @@
+Find the names and average salaries of all departments whose average salary is greater than 42000.

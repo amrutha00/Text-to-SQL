@@ -1,0 +1,1 @@
+How many faculty members are at the university that gave the least number of degrees in 2001?

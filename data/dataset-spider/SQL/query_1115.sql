@@ -1,0 +1,1 @@
+SELECT Name FROM climber WHERE Country != "Switzerland"

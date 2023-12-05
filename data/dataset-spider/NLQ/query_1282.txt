@@ -1,0 +1,1 @@
+What are the ids, scores, and dates of the games which caused at least two injury accidents?

@@ -1,0 +1,1 @@
+SELECT name FROM people WHERE people_id NOT IN (SELECT people_id FROM candidate)

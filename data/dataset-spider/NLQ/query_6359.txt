@@ -1,0 +1,1 @@
+Show the types of schools that have two schools.

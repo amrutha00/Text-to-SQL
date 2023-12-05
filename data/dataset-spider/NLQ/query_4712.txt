@@ -1,0 +1,1 @@
+What are the product id and product type of the cheapest product?

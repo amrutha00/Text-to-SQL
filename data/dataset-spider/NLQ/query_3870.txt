@@ -1,0 +1,1 @@
+Find the claim id and the number of settlements made for the claim with the most recent settlement date.

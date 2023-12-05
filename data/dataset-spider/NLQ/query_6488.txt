@@ -1,0 +1,1 @@
+Find the total hours of the projects that scientists named Michael Rogers or Carol Smith are assigned to.

@@ -1,0 +1,1 @@
+Find the name and partition id for users who tweeted less than twice.

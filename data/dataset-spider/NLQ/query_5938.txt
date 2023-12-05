@@ -1,0 +1,1 @@
+Show the average price of hotels for different pet policy.

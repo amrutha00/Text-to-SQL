@@ -1,0 +1,1 @@
+SELECT flag FROM ship GROUP BY flag ORDER BY count(*) DESC LIMIT 1

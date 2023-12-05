@@ -1,0 +1,1 @@
+For directors who had more than one movie, return the titles and produced years of all movies directed by them.

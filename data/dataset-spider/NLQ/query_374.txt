@@ -1,0 +1,1 @@
+Show the id and name of the employee with maximum salary.

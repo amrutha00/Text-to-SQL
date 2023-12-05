@@ -1,0 +1,1 @@
+What are the names and budgets of departments with budgets greater than the average?

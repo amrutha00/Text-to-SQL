@@ -1,0 +1,1 @@
+Show the name of each county along with the corresponding number of delegates from that county.

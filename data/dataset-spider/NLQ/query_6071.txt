@@ -1,0 +1,1 @@
+Return all the distinct payment methods used by customers.

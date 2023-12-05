@@ -1,0 +1,1 @@
+What are the names of the different bank branches, and what are their total loan amounts?

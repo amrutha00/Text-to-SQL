@@ -1,0 +1,1 @@
+Show different carriers of phones together with the number of phones with each carrier.

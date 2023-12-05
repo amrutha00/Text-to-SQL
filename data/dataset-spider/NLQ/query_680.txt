@@ -1,0 +1,1 @@
+Show the customer id and number of accounts with most accounts.

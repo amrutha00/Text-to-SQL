@@ -1,0 +1,1 @@
+Find the zip code in which the average mean visibility is lower than 10.

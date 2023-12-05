@@ -1,0 +1,1 @@
+List the date of perpetrators in descending order of the number of people killed.

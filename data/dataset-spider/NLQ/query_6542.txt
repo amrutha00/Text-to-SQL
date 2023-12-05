@@ -1,0 +1,1 @@
+Give me the average prices of wines that are produced by appelations in Sonoma County.

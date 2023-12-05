@@ -1,0 +1,1 @@
+Return the ids and details corresponding to projects for which there are more than two documents.

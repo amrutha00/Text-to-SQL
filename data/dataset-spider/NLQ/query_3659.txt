@@ -1,0 +1,1 @@
+For each team, return the team name, id and the maximum salary among the team.

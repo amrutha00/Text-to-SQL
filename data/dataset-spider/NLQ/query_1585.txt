@@ -1,0 +1,1 @@
+Return the average, minimum, maximum, and total transaction amounts.

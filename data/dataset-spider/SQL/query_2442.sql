@@ -1,0 +1,1 @@
+SELECT director FROM Movie WHERE title  = 'Avatar'

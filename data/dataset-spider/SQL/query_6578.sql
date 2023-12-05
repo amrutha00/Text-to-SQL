@@ -1,0 +1,1 @@
+SELECT avg(Price) ,  avg(Score) ,  Appelation FROM WINE GROUP BY Appelation

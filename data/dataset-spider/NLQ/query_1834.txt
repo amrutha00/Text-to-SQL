@@ -1,0 +1,1 @@
+What are the ids and names of the web accelerators that are compatible with two or more browsers?

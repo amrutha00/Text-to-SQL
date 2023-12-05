@@ -1,0 +1,1 @@
+What destination has the fewest number of flights?

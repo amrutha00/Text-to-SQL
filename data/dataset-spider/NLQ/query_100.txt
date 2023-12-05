@@ -1,0 +1,1 @@
+What are the id of students who registered courses or attended courses?

@@ -1,0 +1,1 @@
+SELECT document_status_code FROM Ref_Document_Status;

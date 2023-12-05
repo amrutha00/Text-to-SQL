@@ -1,0 +1,1 @@
+Show name, opening year, and capacity for each cinema.

@@ -1,0 +1,1 @@
+display job Title, the difference between minimum and maximum salaries for those jobs which max salary within the range 12000 to 18000.

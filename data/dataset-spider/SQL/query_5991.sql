@@ -1,0 +1,1 @@
+SELECT StuID FROM Student WHERE city_code  =  "CHI"

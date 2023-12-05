@@ -1,0 +1,1 @@
+SELECT major ,  count(*) FROM Student GROUP BY major

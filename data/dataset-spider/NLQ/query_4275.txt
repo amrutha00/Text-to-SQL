@@ -1,0 +1,1 @@
+Find all members of "Bootup Baltimore" whose major is "600". Show the first name and last name.

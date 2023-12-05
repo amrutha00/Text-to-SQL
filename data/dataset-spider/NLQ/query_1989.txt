@@ -1,0 +1,1 @@
+Show the names of phones and the districts of markets they are on, in ascending order of the ranking of the market.

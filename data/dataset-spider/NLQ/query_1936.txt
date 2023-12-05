@@ -1,0 +1,1 @@
+Show the cinema name and location for cinemas with capacity above average.

@@ -1,0 +1,1 @@
+SELECT name FROM instructor WHERE dept_name  =  'Statistics' ORDER BY salary LIMIT 1

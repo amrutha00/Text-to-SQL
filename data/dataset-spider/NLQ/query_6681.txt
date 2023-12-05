@@ -1,0 +1,1 @@
+List the first name and last name of customers have the amount of outstanding between 1000 and 3000.

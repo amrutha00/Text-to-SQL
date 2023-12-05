@@ -1,0 +1,1 @@
+SELECT account_id ,  date_account_opened ,  account_name ,  other_account_details FROM Accounts

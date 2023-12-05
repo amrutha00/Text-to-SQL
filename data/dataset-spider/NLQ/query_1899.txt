@@ -1,0 +1,1 @@
+Show the names of all the donors except those whose donation amount less than 9.

@@ -1,0 +1,1 @@
+Give the maximum price and score for wines produced in the appelation St. Helena.

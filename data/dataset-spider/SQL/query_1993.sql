@@ -1,0 +1,1 @@
+SELECT Name FROM phone WHERE Phone_id NOT IN (SELECT Phone_ID FROM phone_market)

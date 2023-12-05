@@ -1,0 +1,1 @@
+find the program owners that have some programs in both morning and night time.

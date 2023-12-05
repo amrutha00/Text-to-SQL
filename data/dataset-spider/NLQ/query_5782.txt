@@ -1,0 +1,1 @@
+Return the phone number of the customer who filed the complaint that was raised most recently.

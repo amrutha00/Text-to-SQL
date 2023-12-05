@@ -1,0 +1,1 @@
+Find the number of students whose city code is NYC and who have class senator votes in the spring election cycle.

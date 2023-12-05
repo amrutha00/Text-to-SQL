@@ -1,0 +1,1 @@
+SELECT count(*) FROM people WHERE people_id NOT IN (SELECT People_ID FROM body_builder)

@@ -1,0 +1,1 @@
+Find the states of the colleges that have students in the tryout who played in striker position.

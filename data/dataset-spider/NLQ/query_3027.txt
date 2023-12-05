@@ -1,0 +1,1 @@
+Find the number of different cities which banks are located at.

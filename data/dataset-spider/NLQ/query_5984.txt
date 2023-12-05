@@ -1,0 +1,1 @@
+Show all video game types and the number of video games in each type.

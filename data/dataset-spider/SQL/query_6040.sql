@@ -1,0 +1,1 @@
+SELECT gameid ,  sum(hours_played) FROM Plays_games GROUP BY gameid

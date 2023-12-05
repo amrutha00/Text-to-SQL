@@ -1,0 +1,1 @@
+SELECT decor ,  count(*) FROM Rooms WHERE bedType = "King" GROUP BY decor;

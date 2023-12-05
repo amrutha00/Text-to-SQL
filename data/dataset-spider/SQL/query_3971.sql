@@ -1,0 +1,1 @@
+SELECT name FROM procedures ORDER BY cost LIMIT 3

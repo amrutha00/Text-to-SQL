@@ -1,0 +1,1 @@
+Find the first name of student who is taking classes from accounting and Computer Info. Systems departments

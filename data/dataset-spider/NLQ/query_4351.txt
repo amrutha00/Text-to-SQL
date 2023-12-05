@@ -1,0 +1,1 @@
+How many staff does each project has? List the project id and the number in an ascending order.

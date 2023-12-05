@@ -1,0 +1,1 @@
+SELECT DISTINCT product_color FROM Products

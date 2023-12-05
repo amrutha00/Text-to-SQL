@@ -1,0 +1,1 @@
+What are the ages of the gymnasts, ordered descending by their total points?

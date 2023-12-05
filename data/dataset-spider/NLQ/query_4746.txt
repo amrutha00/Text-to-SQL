@@ -1,0 +1,1 @@
+For each product type, return the maximum and minimum price.

@@ -1,0 +1,1 @@
+SELECT document_id , count(*) FROM Draft_Copies GROUP BY document_id HAVING count(*)  >  1;

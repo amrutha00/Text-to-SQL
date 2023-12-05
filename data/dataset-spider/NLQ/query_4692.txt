@@ -1,0 +1,1 @@
+Find the distinct student first names of all students that have grade point at least 3.8 in one course.

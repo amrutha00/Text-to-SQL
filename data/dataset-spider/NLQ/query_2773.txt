@@ -1,0 +1,1 @@
+Return all the committees that have delegates from Democratic party.

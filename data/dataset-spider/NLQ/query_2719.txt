@@ -1,0 +1,1 @@
+Show the name of storms which don't have affected region in record.

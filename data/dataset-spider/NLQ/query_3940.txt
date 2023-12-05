@@ -1,0 +1,1 @@
+Find the number of distinct room types available.

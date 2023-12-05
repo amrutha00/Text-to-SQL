@@ -1,0 +1,1 @@
+What is the list of school locations sorted in ascending order of school enrollment?

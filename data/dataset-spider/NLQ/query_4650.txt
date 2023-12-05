@@ -1,0 +1,1 @@
+Find the max and min grade point for all letter grade.

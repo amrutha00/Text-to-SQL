@@ -1,0 +1,1 @@
+SELECT count(*) ,  time_of_day FROM broadcast GROUP BY time_of_day

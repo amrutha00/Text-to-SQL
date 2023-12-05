@@ -1,0 +1,1 @@
+Show all destinations and the number of flights to each destination.

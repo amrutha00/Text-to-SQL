@@ -1,0 +1,1 @@
+What are the average access counts of documents that have the functional area description "Acknowledgement"?

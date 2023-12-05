@@ -1,0 +1,1 @@
+SELECT count(*) FROM Student WHERE age  =  18

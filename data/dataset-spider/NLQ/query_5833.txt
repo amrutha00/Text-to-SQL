@@ -1,0 +1,1 @@
+Show the authors of submissions and the acceptance results of their submissions.

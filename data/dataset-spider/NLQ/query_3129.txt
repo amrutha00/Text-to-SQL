@@ -1,0 +1,1 @@
+How many assets does each third party company supply? List the count and the company id.

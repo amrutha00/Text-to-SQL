@@ -1,0 +1,1 @@
+What are the highest and lowest prices of products, grouped by and alphabetically ordered by product type?

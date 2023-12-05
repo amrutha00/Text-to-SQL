@@ -1,0 +1,1 @@
+Find the number of students for the cities where have more than one student.

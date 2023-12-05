@@ -1,0 +1,1 @@
+Find the number of dorms and total capacity for each gender.

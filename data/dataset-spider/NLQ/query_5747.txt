@@ -1,0 +1,1 @@
+Find the total number of students living in the male dorm (with gender M).

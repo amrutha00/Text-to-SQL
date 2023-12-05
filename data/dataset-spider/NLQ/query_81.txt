@@ -1,0 +1,1 @@
+For every student who is registered for some course, how many courses are they registered for?

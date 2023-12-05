@@ -1,0 +1,1 @@
+Find the total number of students enrolled in the colleges that were founded after the year of 1850 for each affiliation type.

@@ -1,0 +1,1 @@
+List the publication dates of publications with 3 lowest prices.

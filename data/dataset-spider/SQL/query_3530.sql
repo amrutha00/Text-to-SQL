@@ -1,0 +1,1 @@
+SELECT song_name ,  releasedate FROM song ORDER BY releasedate DESC LIMIT 1

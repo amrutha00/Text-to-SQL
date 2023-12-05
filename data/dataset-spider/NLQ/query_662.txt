@@ -1,0 +1,1 @@
+Show the names of editors that are on the committee of journals with sales bigger than 3000.

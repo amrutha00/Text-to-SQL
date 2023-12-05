@@ -1,0 +1,1 @@
+Find the state, account type, and credit score of the customer whose number of loan is 0.

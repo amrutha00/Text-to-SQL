@@ -1,0 +1,1 @@
+Find all students taught by OTHA MOYER. Output the first and last names of the students.

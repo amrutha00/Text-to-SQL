@@ -1,0 +1,1 @@
+SELECT city FROM branch EXCEPT SELECT city FROM branch WHERE membership_amount  >  100

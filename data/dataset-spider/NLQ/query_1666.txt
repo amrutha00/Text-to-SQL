@@ -1,0 +1,1 @@
+Show theme and year for all exhibitions with ticket prices lower than 15.

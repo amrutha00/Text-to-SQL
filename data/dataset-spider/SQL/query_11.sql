@@ -1,0 +1,1 @@
+SELECT count(DISTINCT temporary_acting) FROM management

@@ -1,0 +1,1 @@
+What are the first names of all students who live in the dorm with the most amenities?

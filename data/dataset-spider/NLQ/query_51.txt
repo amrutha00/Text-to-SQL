@@ -1,0 +1,1 @@
+Show the status shared by cities with population bigger than 1500 and smaller than 500.

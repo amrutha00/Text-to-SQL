@@ -1,0 +1,1 @@
+List the name and the number of enrolled student for each course.

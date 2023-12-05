@@ -1,0 +1,1 @@
+SELECT Speed FROM roller_coaster ORDER BY LENGTH DESC LIMIT 1

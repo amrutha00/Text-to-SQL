@@ -1,0 +1,1 @@
+What are the full names and hire dates for employees in the same department as someone with the first name Clara, not including Clara?

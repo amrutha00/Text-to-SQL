@@ -1,0 +1,1 @@
+Show the number of cities in counties that have a population more than 20000.

@@ -1,0 +1,1 @@
+SELECT LOCATION ,  count(*) FROM gas_station GROUP BY LOCATION ORDER BY count(*)

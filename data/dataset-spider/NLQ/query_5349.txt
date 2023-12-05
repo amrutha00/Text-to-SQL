@@ -1,0 +1,1 @@
+Select the name of each manufacturer along with the name and price of its most expensive product.

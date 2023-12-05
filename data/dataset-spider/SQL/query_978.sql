@@ -1,0 +1,1 @@
+SELECT school ,  nickname FROM university ORDER BY founded

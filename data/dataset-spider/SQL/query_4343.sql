@@ -1,0 +1,1 @@
+SELECT date_from ,  date_to FROM Project_Staff WHERE role_code  =  'researcher'

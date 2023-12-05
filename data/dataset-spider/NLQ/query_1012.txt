@@ -1,0 +1,1 @@
+Find the team names of the universities whose enrollments are smaller than the average enrollment size.

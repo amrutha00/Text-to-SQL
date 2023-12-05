@@ -1,0 +1,1 @@
+Show the names of people, and dates and venues of debates they are on the affirmative side.

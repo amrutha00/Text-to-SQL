@@ -1,0 +1,1 @@
+What are the name and assets of each company, sorted in ascending order of company name?

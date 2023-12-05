@@ -1,0 +1,1 @@
+Show the company name and the main industry for all companies whose headquarters are not from USA.

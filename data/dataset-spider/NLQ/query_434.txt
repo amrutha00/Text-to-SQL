@@ -1,0 +1,1 @@
+Show the name and distance of the aircrafts with more than 5000 distance and which at least 5 people have its certificate.

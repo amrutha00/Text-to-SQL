@@ -1,0 +1,1 @@
+Find the names of all instructors in Comp. Sci. department with salary > 80000.

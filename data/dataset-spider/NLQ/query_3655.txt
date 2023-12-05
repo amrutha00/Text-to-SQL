@@ -1,0 +1,1 @@
+Count the number of players who were born in USA and have bats information 'R'.

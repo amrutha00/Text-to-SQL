@@ -1,0 +1,1 @@
+find the number of players whose points are lower than 30 in each position.

@@ -1,0 +1,1 @@
+Find the distinct majors of students who have treasurer votes.

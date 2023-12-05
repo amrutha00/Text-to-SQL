@@ -1,0 +1,1 @@
+SELECT product_name ,  product_id FROM products WHERE product_price BETWEEN 600 AND 700

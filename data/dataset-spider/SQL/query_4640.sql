@@ -1,0 +1,1 @@
+SELECT CName FROM COURSE WHERE Credits  =  1

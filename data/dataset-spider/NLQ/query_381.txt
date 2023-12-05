@@ -1,0 +1,1 @@
+What is the id and salary of the employee named Mark Young?

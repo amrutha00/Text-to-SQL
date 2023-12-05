@@ -1,0 +1,1 @@
+SELECT country ,  count(*) FROM airlines GROUP BY country ORDER BY count(*) DESC

@@ -1,0 +1,1 @@
+SELECT max(share_count) FROM TRANSACTIONS WHERE amount_of_transaction  <  10000

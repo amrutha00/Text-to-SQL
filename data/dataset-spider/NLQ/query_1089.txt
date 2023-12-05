@@ -1,0 +1,1 @@
+Show the players and years played for players from team "Columbus Crew".

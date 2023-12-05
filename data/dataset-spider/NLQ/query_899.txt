@@ -1,0 +1,1 @@
+Find the phone numbers of customers using the most common policy type among the available policies.

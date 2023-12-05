@@ -1,0 +1,1 @@
+Find the name and salary of instructors who are advisors of the students from the Math department.

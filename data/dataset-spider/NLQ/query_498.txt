@@ -1,0 +1,1 @@
+Show all cities and corresponding number of students.

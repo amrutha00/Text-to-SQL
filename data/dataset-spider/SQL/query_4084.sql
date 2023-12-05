@@ -1,0 +1,1 @@
+SELECT classroom ,  count(DISTINCT grade) FROM list GROUP BY classroom

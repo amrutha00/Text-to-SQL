@@ -1,0 +1,1 @@
+Find the average age of the members in the club "Bootup Baltimore".

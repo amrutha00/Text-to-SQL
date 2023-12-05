@@ -1,0 +1,1 @@
+What are the different ids and stop durations of all the drivers whose stop lasted longer than the driver in the race with the id 841?

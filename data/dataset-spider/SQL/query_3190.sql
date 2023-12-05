@@ -1,0 +1,1 @@
+SELECT count(DISTINCT dept_address) FROM department WHERE school_code  =  'BUS'

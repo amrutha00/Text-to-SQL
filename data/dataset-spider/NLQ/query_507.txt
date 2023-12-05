@@ -1,0 +1,1 @@
+What are the students ids of students who have more than one allergy?

@@ -1,0 +1,1 @@
+How many courses have more than 2 credits?

@@ -1,0 +1,1 @@
+SELECT Headquarters ,  Industry FROM company

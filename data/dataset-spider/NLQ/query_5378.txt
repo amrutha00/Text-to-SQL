@@ -1,0 +1,1 @@
+For each product with some problems, list the count of problems and the product id.

@@ -1,0 +1,1 @@
+SELECT location_name ,  location_description FROM Ref_locations WHERE location_code  =  "x"

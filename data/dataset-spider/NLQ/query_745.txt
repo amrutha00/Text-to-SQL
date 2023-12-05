@@ -1,0 +1,1 @@
+Return the type of transaction with the highest total amount.

@@ -1,0 +1,1 @@
+SELECT clubdesc FROM club WHERE clubname  =  "Tennis Club"

@@ -1,0 +1,1 @@
+SELECT Official_Name FROM city WHERE Population  >  1500 OR Population  <  500

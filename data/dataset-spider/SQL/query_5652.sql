@@ -1,0 +1,1 @@
+SELECT Working_year_starts FROM manager ORDER BY LEVEL DESC

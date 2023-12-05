@@ -1,0 +1,1 @@
+SELECT count(*) ,  affiliation FROM university WHERE enrollment  >  20000 GROUP BY affiliation

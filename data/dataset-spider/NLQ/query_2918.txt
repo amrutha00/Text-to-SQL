@@ -1,0 +1,1 @@
+Which authors have first name "Amal"? List their last names.

@@ -1,0 +1,1 @@
+SELECT Country ,  COUNT(*) FROM member GROUP BY Country

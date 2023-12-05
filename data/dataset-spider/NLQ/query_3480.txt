@@ -1,0 +1,1 @@
+find the name of all departments that do actually have one or more employees assigned to them.

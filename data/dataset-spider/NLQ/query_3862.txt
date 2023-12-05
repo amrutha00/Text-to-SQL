@@ -1,0 +1,1 @@
+Give me the claim date, settlement date for all the claims whose claimed amount is larger than the average.

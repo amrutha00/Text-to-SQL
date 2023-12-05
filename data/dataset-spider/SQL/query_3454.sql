@@ -1,0 +1,1 @@
+SELECT department_id ,  AVG(salary) FROM employees WHERE commission_pct != "null" GROUP BY department_id

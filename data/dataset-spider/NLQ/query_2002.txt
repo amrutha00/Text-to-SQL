@@ -1,0 +1,1 @@
+Show minimum, maximum, and average market value for all companies.

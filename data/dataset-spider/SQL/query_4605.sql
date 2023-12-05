@@ -1,0 +1,1 @@
+SELECT Festival_Name FROM festival_detail WHERE YEAR  =  2007

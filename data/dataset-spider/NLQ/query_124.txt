@@ -1,0 +1,1 @@
+For each zip code, return the average mean temperature of August there.

@@ -1,0 +1,1 @@
+What are the department ids for which more than 10 employees had a commission?

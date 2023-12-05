@@ -1,0 +1,1 @@
+SELECT College FROM match_season GROUP BY College HAVING count(*)  >=  2 ORDER BY College DESC

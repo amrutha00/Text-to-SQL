@@ -1,0 +1,1 @@
+SELECT date ,  cloud_cover FROM weather ORDER BY cloud_cover DESC LIMIT 5

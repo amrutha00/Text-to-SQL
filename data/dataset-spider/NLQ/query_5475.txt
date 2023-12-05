@@ -1,0 +1,1 @@
+Find the distinct first names of the students who have class senator votes.

@@ -1,0 +1,1 @@
+Show all advisors and corresponding number of students.

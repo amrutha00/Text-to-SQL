@@ -1,0 +1,1 @@
+SELECT Weight FROM people ORDER BY Height ASC LIMIT 1

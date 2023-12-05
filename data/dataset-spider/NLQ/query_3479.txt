@@ -1,0 +1,1 @@
+What are the employee ids of employees who report to Payam, and what are their salaries?

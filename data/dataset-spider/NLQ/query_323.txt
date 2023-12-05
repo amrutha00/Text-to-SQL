@@ -1,0 +1,1 @@
+Give me the average and minimum price (in Euro) of the products.

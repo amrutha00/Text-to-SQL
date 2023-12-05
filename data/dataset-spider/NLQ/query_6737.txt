@@ -1,0 +1,1 @@
+How many faculty members does each building have? List the result with the name of the building.

@@ -1,0 +1,1 @@
+Find the name of scientists who are assigned to some project.

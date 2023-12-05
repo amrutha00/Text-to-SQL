@@ -1,0 +1,1 @@
+What is highest rating for the most recent movie and when was it released?

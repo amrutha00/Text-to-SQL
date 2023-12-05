@@ -1,0 +1,1 @@
+SELECT Country_name ,  Capital FROM country

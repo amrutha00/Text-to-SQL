@@ -1,0 +1,1 @@
+SELECT city FROM station GROUP BY city ORDER BY max(lat) DESC

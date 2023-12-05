@@ -1,0 +1,1 @@
+What is the average price of the products for each category?

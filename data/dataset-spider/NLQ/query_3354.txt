@@ -1,0 +1,1 @@
+List all club names in descending alphabetical order.

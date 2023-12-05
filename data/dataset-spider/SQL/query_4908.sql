@@ -1,0 +1,1 @@
+SELECT district_name FROM district WHERE city_area  >  10 OR City_Population  >  100000

@@ -1,0 +1,1 @@
+display job title and average salary of employees.

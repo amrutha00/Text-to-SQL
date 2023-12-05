@@ -1,0 +1,1 @@
+How many rooms have not had any reservation yet?

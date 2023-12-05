@@ -1,0 +1,1 @@
+List the hardware model name and company name for the phone whose screen mode type is "Graphics."

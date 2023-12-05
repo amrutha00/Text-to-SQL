@@ -1,0 +1,1 @@
+Find the titles of items whose rating is higher than the average review rating of all items.

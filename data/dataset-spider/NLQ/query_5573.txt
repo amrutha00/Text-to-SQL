@@ -1,0 +1,1 @@
+List the all the distinct names of the products with the characteristic name 'warm'.

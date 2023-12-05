@@ -1,0 +1,1 @@
+SELECT count(*) FROM student WHERE sex  =  'F' AND age  <  25

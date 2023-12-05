@@ -1,0 +1,1 @@
+SELECT circuitid ,  LOCATION FROM circuits WHERE country = "France" OR country = "Belgium"

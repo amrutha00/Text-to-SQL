@@ -1,0 +1,1 @@
+SELECT count(*) FROM game WHERE season  >  2007

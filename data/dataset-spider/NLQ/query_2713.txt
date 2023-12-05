@@ -1,0 +1,1 @@
+Show the name for regions and the number of storms for each region.

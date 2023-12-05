@@ -1,0 +1,1 @@
+What are the emails of employees with null commission, salary between 7000 and 12000, and who work in department 50?

@@ -1,0 +1,1 @@
+Show all the buildings that have at least 10 professors.

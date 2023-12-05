@@ -1,0 +1,1 @@
+show the lowest low temperature and highest wind speed in miles per hour.

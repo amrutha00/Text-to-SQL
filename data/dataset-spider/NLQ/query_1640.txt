@@ -1,0 +1,1 @@
+Show the name and country for all people whose age is smaller than the average.

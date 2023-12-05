@@ -1,0 +1,1 @@
+Show different types of ships and the average tonnage of ships of each type.

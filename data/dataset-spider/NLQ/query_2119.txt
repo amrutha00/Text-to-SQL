@@ -1,0 +1,1 @@
+What is the receipt date of the document with id 3?

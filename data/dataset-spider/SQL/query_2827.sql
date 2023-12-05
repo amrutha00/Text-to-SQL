@@ -1,0 +1,1 @@
+SELECT Age FROM Student WHERE Fname = "Linda" AND Lname = "Smith";

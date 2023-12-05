@@ -1,0 +1,1 @@
+Show first name and last name for all the students advised by Michael Goodrich.

@@ -1,0 +1,1 @@
+Count the number of exhibitions that have had an attendnance of over 100 or a ticket prices under 10.

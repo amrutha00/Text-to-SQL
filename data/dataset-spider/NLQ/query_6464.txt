@@ -1,0 +1,1 @@
+How many documents do not have any expense?

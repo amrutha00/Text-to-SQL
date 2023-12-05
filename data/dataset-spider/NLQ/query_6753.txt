@@ -1,0 +1,1 @@
+Which students have professors as their advisors? Find their student ids.

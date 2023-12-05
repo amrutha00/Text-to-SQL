@@ -1,0 +1,1 @@
+SELECT roomName FROM Rooms WHERE bedType  =  "King" OR bedType  =  "Queen";

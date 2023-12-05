@@ -1,0 +1,1 @@
+SELECT name FROM building WHERE building_id NOT IN (SELECT building_id FROM institution)

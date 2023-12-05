@@ -1,0 +1,1 @@
+SELECT max(Sales_billion) ,  min(Sales_billion) FROM Companies WHERE Industry != "Banking"

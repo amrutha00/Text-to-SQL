@@ -1,0 +1,1 @@
+Show the names of products and the number of events they are in, sorted by the number of events in descending order.

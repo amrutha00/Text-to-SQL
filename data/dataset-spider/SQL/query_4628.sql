@@ -1,0 +1,1 @@
+SELECT outcome_code ,  count(*) FROM mailshot_customers GROUP BY outcome_code

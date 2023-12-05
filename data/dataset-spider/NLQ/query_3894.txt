@@ -1,0 +1,1 @@
+Which customers do not have any policies? Find the details of these customers.

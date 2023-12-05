@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT Artist_ID) FROM volume

@@ -1,0 +1,1 @@
+SELECT dorm_name FROM dorm ORDER BY student_capacity DESC LIMIT 1

@@ -1,0 +1,1 @@
+Find the subject ID, subject name, and the corresponding number of available courses for each subject.

@@ -1,0 +1,1 @@
+which shop has happy hour most frequently? List its id and number of happy hours.

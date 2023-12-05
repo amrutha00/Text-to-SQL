@@ -1,0 +1,1 @@
+How many distinct publication dates are there in our record?

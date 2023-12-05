@@ -1,0 +1,1 @@
+List the open date of open year of the shop named "Apple".

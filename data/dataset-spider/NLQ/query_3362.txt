@@ -1,0 +1,1 @@
+List the position of players and the average number of points of players of each position.

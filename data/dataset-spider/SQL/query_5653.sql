@@ -1,0 +1,1 @@
+SELECT Country FROM manager WHERE Age  >  50 OR Age  <  46

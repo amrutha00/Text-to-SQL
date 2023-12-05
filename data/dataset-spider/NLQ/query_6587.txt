@@ -1,0 +1,1 @@
+Give the names of wines with prices above any wine produced in 2006.

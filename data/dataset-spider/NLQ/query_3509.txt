@@ -1,0 +1,1 @@
+What are the employee ids and job ids for employees who make less than the lowest earning employee with title MK_MAN?

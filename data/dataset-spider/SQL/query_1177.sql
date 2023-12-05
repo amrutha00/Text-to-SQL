@@ -1,0 +1,1 @@
+SELECT Date ,  Vote_Percent FROM election

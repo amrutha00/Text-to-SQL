@@ -1,0 +1,1 @@
+SELECT Competition_type ,  Country FROM competition

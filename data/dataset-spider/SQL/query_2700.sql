@@ -1,0 +1,1 @@
+SELECT count(*) FROM storm WHERE Number_Deaths  >  0

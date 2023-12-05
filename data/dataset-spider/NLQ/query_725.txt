@@ -1,0 +1,1 @@
+What are the codes of card types that have 5 or more cards?

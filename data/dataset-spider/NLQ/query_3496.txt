@@ -1,0 +1,1 @@
+display all the information of the employees whose salary if within the range of smallest salary and 2500.

@@ -1,0 +1,1 @@
+SELECT student_id FROM student_course_registrations GROUP BY student_id ORDER BY count(*) LIMIT 1

@@ -1,0 +1,1 @@
+Find the name of instructors who didn't teach any courses?

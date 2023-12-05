@@ -1,0 +1,1 @@
+Show the names and ids of tourist attractions that are visited at most once.

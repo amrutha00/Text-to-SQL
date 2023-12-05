@@ -1,0 +1,1 @@
+SELECT count(*) FROM Video_games WHERE gtype  =  "Massively multiplayer online game"

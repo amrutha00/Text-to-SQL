@@ -1,0 +1,1 @@
+SELECT title ,  directed_by FROM film

@@ -1,0 +1,1 @@
+Show all locations where a gas station for company with market value greater than 100 is located.

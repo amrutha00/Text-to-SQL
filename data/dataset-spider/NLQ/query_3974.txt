@@ -1,0 +1,1 @@
+Which physicians are trained in procedures that are more expensive than 5000?

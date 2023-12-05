@@ -1,0 +1,1 @@
+What are the names of the top 8 countries by total invoice size and what are those sizes?

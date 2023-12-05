@@ -1,0 +1,1 @@
+Show names of technicians who are assigned to repair machines with value point more than 70.

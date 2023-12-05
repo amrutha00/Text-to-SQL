@@ -1,0 +1,1 @@
+What are the statement id and statement detail for the statement that has the most corresponding accounts?

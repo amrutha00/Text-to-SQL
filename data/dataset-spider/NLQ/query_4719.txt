@@ -1,0 +1,1 @@
+Return the staff ids and genders for any staff with the title Department Manager.

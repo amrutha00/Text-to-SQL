@@ -1,0 +1,1 @@
+What is the attribute data type of the attribute with name "Green"?

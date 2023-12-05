@@ -1,0 +1,1 @@
+Show first name and id for all customers with at least 2 accounts.

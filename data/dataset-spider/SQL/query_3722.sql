@@ -1,0 +1,1 @@
+SELECT count(DISTINCT brand) FROM camera_lens

@@ -1,0 +1,1 @@
+Which document has the most draft copies? List its document id and number of draft copies.

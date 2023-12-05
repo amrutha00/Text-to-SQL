@@ -1,0 +1,1 @@
+SELECT sum(student_capacity) FROM dorm

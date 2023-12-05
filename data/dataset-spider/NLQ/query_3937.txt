@@ -1,0 +1,1 @@
+What are the unique block codes that have available rooms?

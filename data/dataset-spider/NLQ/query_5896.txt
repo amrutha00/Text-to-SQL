@@ -1,0 +1,1 @@
+Show the price ranges of hotels with 5 star ratings.

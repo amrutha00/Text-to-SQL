@@ -1,0 +1,1 @@
+Show names for all aircrafts with distances more than the average.

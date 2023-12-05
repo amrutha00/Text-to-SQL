@@ -1,0 +1,1 @@
+How many patients do each physician take care of? List their names and number of patients they take care of.

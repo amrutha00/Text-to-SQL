@@ -1,0 +1,1 @@
+Find the name and college of students whose decisions are yes in the tryout.

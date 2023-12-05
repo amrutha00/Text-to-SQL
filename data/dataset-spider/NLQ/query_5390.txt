@@ -1,0 +1,1 @@
+Which problems were reported before the date of any problem reported by the staff Lysanne Turcotte? Give me the ids of the problems.

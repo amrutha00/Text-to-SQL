@@ -1,0 +1,1 @@
+Return the poll source corresponding to the candidate who has the oppose rate.

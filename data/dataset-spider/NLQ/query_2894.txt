@@ -1,0 +1,1 @@
+Find the titles of the papers the author "Stephanie Weirich" wrote.

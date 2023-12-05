@@ -1,0 +1,1 @@
+SELECT Name FROM company ORDER BY Sales_in_Billion ASC

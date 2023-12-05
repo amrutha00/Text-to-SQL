@@ -1,0 +1,1 @@
+What is the lowest salary in departments with average salary greater than the overall average.

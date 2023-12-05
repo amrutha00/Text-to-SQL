@@ -1,0 +1,1 @@
+What are the id and details of the customers who have at least 3 events?

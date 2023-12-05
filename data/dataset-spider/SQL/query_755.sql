@@ -1,0 +1,1 @@
+SELECT name ,  LOCATION ,  seating FROM track ORDER BY year_opened DESC LIMIT 1

@@ -1,0 +1,1 @@
+SELECT birth_country FROM player GROUP BY birth_country ORDER BY count(*) ASC LIMIT 3;

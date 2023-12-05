@@ -1,0 +1,1 @@
+What are the total number of students who are living in a male dorm?

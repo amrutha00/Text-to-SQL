@@ -1,0 +1,1 @@
+SELECT draft_details FROM Document_Drafts WHERE document_id = 7;

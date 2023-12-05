@@ -1,0 +1,1 @@
+Find the average and maximum rating of all reviews.

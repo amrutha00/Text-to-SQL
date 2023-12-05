@@ -1,0 +1,1 @@
+Show the id and details of the investor that has the largest number of transactions.

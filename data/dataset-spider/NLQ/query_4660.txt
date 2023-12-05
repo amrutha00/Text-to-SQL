@@ -1,0 +1,1 @@
+List all information about courses sorted by credits in the ascending order.

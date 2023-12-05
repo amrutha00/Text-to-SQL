@@ -1,0 +1,1 @@
+SELECT count(*) FROM Lessons WHERE lesson_status_code = "Cancelled";

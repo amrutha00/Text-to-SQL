@@ -1,0 +1,1 @@
+SELECT Author FROM submission ORDER BY Scores DESC LIMIT 1

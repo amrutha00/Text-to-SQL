@@ -1,0 +1,1 @@
+Find the name and id of the item with the highest average rating.

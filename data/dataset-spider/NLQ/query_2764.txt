@@ -1,0 +1,1 @@
+Count the number of distinct delegates who are from counties with population above 50000.

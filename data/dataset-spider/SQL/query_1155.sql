@@ -1,0 +1,1 @@
+SELECT Clean_Jerk FROM body_builder ORDER BY Total DESC LIMIT 1

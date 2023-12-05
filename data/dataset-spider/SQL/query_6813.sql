@@ -1,0 +1,1 @@
+SELECT max(elevation) FROM airports WHERE country  =  'Iceland'

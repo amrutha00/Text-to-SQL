@@ -1,0 +1,1 @@
+SELECT Headquarters ,  COUNT(*) FROM company GROUP BY Headquarters

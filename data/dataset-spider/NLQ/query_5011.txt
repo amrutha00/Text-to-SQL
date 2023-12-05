@@ -1,0 +1,1 @@
+Find the average and maximum hours for the students whose tryout decision is yes.

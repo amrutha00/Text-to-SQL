@@ -1,0 +1,1 @@
+SELECT document_type_code FROM Documents GROUP BY document_type_code HAVING count(*)  <  3

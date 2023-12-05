@@ -1,0 +1,1 @@
+Show all locations that have train stations with at least 15 platforms and train stations with more than 25 total passengers.

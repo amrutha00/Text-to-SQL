@@ -1,0 +1,1 @@
+Show ids for all transactions whose amounts are greater than the average.

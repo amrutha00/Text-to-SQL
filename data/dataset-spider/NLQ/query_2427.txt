@@ -1,0 +1,1 @@
+find the highest support percentage, lowest consider rate and oppose rate of all candidates.

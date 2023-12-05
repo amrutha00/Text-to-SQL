@@ -1,0 +1,1 @@
+Find the first and last names of all the female (sex is F) students who have president votes.

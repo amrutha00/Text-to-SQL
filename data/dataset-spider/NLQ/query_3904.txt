@@ -1,0 +1,1 @@
+Find the name and position of the head of the department with the least employees.

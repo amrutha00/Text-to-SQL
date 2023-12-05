@@ -1,0 +1,1 @@
+For which product was there a problem reported by Christop Berge, with closure authorised by Ashley Medhurst? Return the product ids.

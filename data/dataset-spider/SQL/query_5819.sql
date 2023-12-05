@@ -1,0 +1,1 @@
+SELECT Author ,  College FROM submission

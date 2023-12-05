@@ -1,0 +1,1 @@
+SELECT model_name FROM chip_model ORDER BY launch_year

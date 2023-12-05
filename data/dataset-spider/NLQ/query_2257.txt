@@ -1,0 +1,1 @@
+What are the names of the technicians that are assigned to repair machines with more point values than 70?

@@ -1,0 +1,1 @@
+Return the poll resource associated with the most candidates.

@@ -1,0 +1,1 @@
+Count the number of male students who had class senator votes in the fall election cycle.

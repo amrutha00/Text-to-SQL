@@ -1,0 +1,1 @@
+Find the first name and office of history professor who did not get a Ph.D. degree.

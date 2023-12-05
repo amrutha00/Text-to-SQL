@@ -1,0 +1,1 @@
+Sort the names of all counties in descending alphabetical order.

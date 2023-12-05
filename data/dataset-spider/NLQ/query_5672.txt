@@ -1,0 +1,1 @@
+What are the names of all the dorms that can accomdate more than 300 students?

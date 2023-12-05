@@ -1,0 +1,1 @@
+SELECT name FROM Companies WHERE Headquarters != 'USA'

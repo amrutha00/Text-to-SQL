@@ -1,0 +1,1 @@
+SELECT DISTINCT Publisher FROM publication WHERE Price  >  5000000

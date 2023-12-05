@@ -1,0 +1,1 @@
+SELECT avg(enr) FROM College WHERE state  =  'FL'

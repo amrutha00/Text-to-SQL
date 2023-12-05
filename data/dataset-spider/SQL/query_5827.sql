@@ -1,0 +1,1 @@
+SELECT College ,  COUNT(*) FROM submission GROUP BY College

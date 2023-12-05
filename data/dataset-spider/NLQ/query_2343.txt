@@ -1,0 +1,1 @@
+Find the count of universities whose campus fee is greater than the average campus fee.

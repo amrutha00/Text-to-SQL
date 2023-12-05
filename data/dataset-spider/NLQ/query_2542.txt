@@ -1,0 +1,1 @@
+What are the crime rates of counties sorted by number of offices ascending?

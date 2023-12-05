@@ -1,0 +1,1 @@
+SELECT organization_name FROM organizations WHERE organization_name LIKE "%Party%"

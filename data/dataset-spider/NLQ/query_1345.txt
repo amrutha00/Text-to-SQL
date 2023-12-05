@@ -1,0 +1,1 @@
+Find the title, credit, and department name of courses that have more than one prerequisites?

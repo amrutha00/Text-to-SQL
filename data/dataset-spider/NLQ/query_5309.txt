@@ -1,0 +1,1 @@
+Find the name and revenue of the company that earns the highest revenue in each city.

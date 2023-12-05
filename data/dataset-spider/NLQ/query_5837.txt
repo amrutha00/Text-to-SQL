@@ -1,0 +1,1 @@
+Show each author and the number of workshops they submitted to.

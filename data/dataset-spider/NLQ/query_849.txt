@@ -1,0 +1,1 @@
+Count the number of customers that have an email containing "gmail.com".

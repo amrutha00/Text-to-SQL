@@ -1,0 +1,1 @@
+SELECT Publication_Date FROM publication ORDER BY Price DESC

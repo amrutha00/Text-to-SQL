@@ -1,0 +1,1 @@
+What is the department name of the students with lowest gpa belongs to?

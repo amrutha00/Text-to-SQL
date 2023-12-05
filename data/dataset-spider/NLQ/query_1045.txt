@@ -1,0 +1,1 @@
+Find the accreditation level that more than 3 phones use.

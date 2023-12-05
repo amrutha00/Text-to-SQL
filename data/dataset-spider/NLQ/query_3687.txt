@@ -1,0 +1,1 @@
+Find the year in which the least people enter hall of fame.

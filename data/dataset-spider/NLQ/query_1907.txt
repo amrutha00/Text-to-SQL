@@ -1,0 +1,1 @@
+Show the names of schools with a total budget amount greater than 100 or a total endowment greater than 10.

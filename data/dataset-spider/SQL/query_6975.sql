@@ -1,0 +1,1 @@
+SELECT category ,  count(*) FROM book_club GROUP BY category

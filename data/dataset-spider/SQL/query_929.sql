@@ -1,0 +1,1 @@
+SELECT max(settlement_amount) ,  min(settlement_amount) FROM settlements

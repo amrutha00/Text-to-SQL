@@ -1,0 +1,1 @@
+Show names of shops that have more than one kind of device in stock.

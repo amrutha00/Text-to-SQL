@@ -1,0 +1,1 @@
+SELECT vehicle_id FROM Vehicles;

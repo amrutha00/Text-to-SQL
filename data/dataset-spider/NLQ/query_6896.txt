@@ -1,0 +1,1 @@
+Find the details of all the distinct customers who have orders with status "On Road".

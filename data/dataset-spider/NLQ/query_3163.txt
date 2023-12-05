@@ -1,0 +1,1 @@
+Find the number of trains starting from each origin.

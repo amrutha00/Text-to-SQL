@@ -1,0 +1,1 @@
+SELECT town_city FROM addresses UNION SELECT state_province_county FROM addresses

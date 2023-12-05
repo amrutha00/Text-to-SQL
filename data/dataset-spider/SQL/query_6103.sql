@@ -1,0 +1,1 @@
+SELECT avg(active_to_date - active_from_date) FROM customer_contact_channels

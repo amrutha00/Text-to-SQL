@@ -1,0 +1,1 @@
+Find all the players' first name and last name who have empty death record.

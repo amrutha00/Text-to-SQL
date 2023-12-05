@@ -1,0 +1,1 @@
+What are the positions of both players that have more than 20 20 points and less than 10 points?

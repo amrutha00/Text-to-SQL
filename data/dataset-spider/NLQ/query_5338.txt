@@ -1,0 +1,1 @@
+What are the names and prices of products that cost at least 180, sorted by price decreasing and name ascending?

@@ -1,0 +1,1 @@
+List the count and id of each product in all the orders.

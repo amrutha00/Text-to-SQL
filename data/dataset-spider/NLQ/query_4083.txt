@@ -1,0 +1,1 @@
+For each classroom, report the classroom number and the number of grades using it.

@@ -1,0 +1,1 @@
+Show the name and description of the role played by the employee named Ebba.

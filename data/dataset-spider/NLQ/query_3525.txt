@@ -1,0 +1,1 @@
+What the full names, ids of each employee and the name of the country they are in?

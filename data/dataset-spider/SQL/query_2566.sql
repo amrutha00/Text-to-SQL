@@ -1,0 +1,1 @@
+SELECT Name FROM county_public_safety WHERE County_ID NOT IN (SELECT County_ID FROM city)

@@ -1,0 +1,1 @@
+SELECT Delegate FROM election WHERE District  =  1

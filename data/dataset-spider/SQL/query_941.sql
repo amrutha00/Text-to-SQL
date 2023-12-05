@@ -1,0 +1,1 @@
+SELECT max(OMIM) FROM enzyme

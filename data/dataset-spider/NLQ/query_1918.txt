@@ -1,0 +1,1 @@
+Show institution types, along with the number of institutions and total enrollment for each type.

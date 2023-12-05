@@ -1,0 +1,1 @@
+SELECT avg(followers) FROM user_profiles WHERE UID IN (SELECT UID FROM tweets)

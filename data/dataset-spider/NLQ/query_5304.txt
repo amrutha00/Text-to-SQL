@@ -1,0 +1,1 @@
+What are the names of companies with revenue less than the lowest revenue of any manufacturer in Austin?

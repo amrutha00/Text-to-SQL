@@ -1,0 +1,1 @@
+SELECT count(*) FROM Movie WHERE YEAR  <  2000

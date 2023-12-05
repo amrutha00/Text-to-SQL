@@ -1,0 +1,1 @@
+Show the ids of the faculty who don't participate in any activity.

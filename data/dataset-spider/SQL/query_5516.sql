@@ -1,0 +1,1 @@
+SELECT Advisor FROM STUDENT GROUP BY Advisor HAVING count(*)  >  2

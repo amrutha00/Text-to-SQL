@@ -1,0 +1,1 @@
+What are the allergies and their types that the student with first name Lisa has? And order the result by name of allergies.

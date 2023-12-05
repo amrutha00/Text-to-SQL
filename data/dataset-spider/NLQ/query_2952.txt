@@ -1,0 +1,1 @@
+What are the title, id, and description of the movie with the greatest number of actors?

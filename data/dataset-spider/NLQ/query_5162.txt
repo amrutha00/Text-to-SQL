@@ -1,0 +1,1 @@
+Which status code is the most common of all the bookings?

@@ -1,0 +1,1 @@
+SELECT STATEMENT_ID ,  statement_details FROM Statements

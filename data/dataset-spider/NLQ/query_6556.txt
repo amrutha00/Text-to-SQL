@@ -1,0 +1,1 @@
+What are the average prices of wines for different years?

@@ -1,0 +1,1 @@
+SELECT count(*) FROM dorm_amenity

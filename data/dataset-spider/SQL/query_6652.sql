@@ -1,0 +1,1 @@
+SELECT count(*) FROM Addresses WHERE state_province_county = "Georgia";

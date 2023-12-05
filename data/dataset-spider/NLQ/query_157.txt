@@ -1,0 +1,1 @@
+For each zip code, find the ids of all trips that have a higher average mean temperature above 60?

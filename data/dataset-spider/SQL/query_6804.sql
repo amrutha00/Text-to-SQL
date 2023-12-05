@@ -1,0 +1,1 @@
+SELECT name FROM airports WHERE city  =  'Goroka'

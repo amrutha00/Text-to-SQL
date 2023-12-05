@@ -1,0 +1,1 @@
+Select the names of manufacturer whose products have an average price higher than or equal to $150.

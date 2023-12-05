@@ -1,0 +1,1 @@
+SELECT name ,  distance FROM Aircraft WHERE aid  =  12

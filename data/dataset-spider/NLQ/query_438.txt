@@ -1,0 +1,1 @@
+What is the salary and name of the employee who has the most number of certificates on aircrafts with distance more than 5000?

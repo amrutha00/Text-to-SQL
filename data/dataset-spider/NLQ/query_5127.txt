@@ -1,0 +1,1 @@
+What are the descriptions of the service types with product price above 100?

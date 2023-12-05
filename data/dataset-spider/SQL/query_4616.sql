@@ -1,0 +1,1 @@
+SELECT YEAR FROM festival_detail GROUP BY YEAR HAVING COUNT(*)  >  1

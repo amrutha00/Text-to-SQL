@@ -1,0 +1,1 @@
+Count the number of chip model that do not have wifi.

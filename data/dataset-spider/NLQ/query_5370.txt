@@ -1,0 +1,1 @@
+Which problems are reported by the staff with first name "Christop"? Show the descriptions of the problems.

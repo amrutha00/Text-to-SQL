@@ -1,0 +1,1 @@
+For each grade 0 classroom, return the classroom number and the count of students.

@@ -1,0 +1,1 @@
+SELECT name FROM people WHERE height  <  (SELECT avg(height) FROM people)

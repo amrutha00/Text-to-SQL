@@ -1,0 +1,1 @@
+SELECT payment_method_code FROM parties GROUP BY payment_method_code HAVING count(*)  >  3

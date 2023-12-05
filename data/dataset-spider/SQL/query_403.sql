@@ -1,0 +1,1 @@
+SELECT avg(distance) ,  avg(price) FROM Flight WHERE origin  =  "Los Angeles"

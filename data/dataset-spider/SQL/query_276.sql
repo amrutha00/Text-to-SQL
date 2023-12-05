@@ -1,0 +1,1 @@
+SELECT partitionid FROM user_profiles WHERE name  =  'Iron Man'

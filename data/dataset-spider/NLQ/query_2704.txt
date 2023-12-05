@@ -1,0 +1,1 @@
+What is the average and maximum damage in millions for storms that had a max speed over 1000?

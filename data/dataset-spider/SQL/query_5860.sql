@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT transaction_type_code) FROM TRANSACTIONS

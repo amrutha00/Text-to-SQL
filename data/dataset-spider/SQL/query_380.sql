@@ -1,0 +1,1 @@
+SELECT eid ,  salary FROM Employee WHERE name  =  'Mark Young'

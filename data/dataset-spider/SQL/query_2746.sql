@@ -1,0 +1,1 @@
+SELECT Zip_code FROM county WHERE County_name  =  "Howard"

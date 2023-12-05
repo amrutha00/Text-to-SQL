@@ -1,0 +1,1 @@
+SELECT gender ,  count(*) FROM Customers GROUP BY gender

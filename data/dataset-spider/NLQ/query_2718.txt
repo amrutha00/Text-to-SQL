@@ -1,0 +1,1 @@
+Return the name and max speed of the storm that affected the most regions.

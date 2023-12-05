@@ -1,0 +1,1 @@
+SELECT event_name FROM party_events GROUP BY event_name HAVING count(*)  >  2

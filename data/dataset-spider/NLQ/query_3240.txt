@@ -1,0 +1,1 @@
+Find the name of the department that offers the largest number of credits of all classes.

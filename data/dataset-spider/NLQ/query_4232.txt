@@ -1,0 +1,1 @@
+What are the codes of the locations with at least three documents?

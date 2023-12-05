@@ -1,0 +1,1 @@
+For each account type, find the average account balance of customers with credit score lower than 50.

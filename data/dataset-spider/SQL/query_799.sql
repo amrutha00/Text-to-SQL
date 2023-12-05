@@ -1,0 +1,1 @@
+SELECT address FROM member EXCEPT SELECT address FROM member WHERE Membership_card  =  'Black'

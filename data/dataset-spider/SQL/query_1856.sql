@@ -1,0 +1,1 @@
+SELECT Elimination_Move FROM Elimination WHERE Team  =  "Team Orton"

@@ -1,0 +1,1 @@
+SELECT lastname FROM teachers WHERE classroom  =  109

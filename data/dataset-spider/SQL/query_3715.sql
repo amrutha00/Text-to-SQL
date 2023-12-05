@@ -1,0 +1,1 @@
+SELECT max(height) ,  avg(height) FROM mountain

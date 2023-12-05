@@ -1,0 +1,1 @@
+Show the product type codes that have both products with price higher than 4500 and products with price lower than 3000.

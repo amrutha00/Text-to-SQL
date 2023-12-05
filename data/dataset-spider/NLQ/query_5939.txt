@@ -1,0 +1,1 @@
+What are the average prices of hotels grouped by their pet policy.

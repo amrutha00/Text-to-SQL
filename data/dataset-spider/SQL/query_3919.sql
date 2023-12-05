@@ -1,0 +1,1 @@
+SELECT count(patient) FROM stay WHERE room  =  112

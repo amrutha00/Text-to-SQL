@@ -1,0 +1,1 @@
+List the actual delivery date for all the orders with quantity 1

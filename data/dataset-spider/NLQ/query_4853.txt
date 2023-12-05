@@ -1,0 +1,1 @@
+How many distinct locations have the things with service detail 'Unsatisfied' been located in?

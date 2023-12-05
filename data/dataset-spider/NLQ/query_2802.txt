@@ -1,0 +1,1 @@
+Find the committees that have delegates both from from the democratic party and the liberal party.

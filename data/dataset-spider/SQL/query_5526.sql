@@ -1,0 +1,1 @@
+SELECT color_description FROM ref_colors

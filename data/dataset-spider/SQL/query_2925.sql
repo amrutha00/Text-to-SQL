@@ -1,0 +1,1 @@
+SELECT count(DISTINCT last_name) FROM actor

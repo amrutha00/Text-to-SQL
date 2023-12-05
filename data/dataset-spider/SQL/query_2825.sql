@@ -1,0 +1,1 @@
+SELECT ResTypeDescription FROM Restaurant_Type WHERE ResTypeName = "Sandwich";

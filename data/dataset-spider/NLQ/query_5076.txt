@@ -1,0 +1,1 @@
+What is the name of the shop that has the greatest quantity of devices in stock?

@@ -1,0 +1,1 @@
+Return the number of routes with destination airport in Italy operated by the airline with name 'American Airlines'.

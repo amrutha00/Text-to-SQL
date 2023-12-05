@@ -1,0 +1,1 @@
+What are the names of players whose training hours is between 500 and 1500?

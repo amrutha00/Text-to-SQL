@@ -1,0 +1,1 @@
+Find the brand and name for each camera lens, and sort in descending order of maximum aperture.

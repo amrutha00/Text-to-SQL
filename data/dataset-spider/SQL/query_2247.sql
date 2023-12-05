@@ -1,0 +1,1 @@
+SELECT Team ,  COUNT(*) FROM technician GROUP BY Team

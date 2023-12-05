@@ -1,0 +1,1 @@
+SELECT fname FROM student WHERE age  >  20

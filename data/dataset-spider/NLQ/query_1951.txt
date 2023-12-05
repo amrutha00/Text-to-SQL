@@ -1,0 +1,1 @@
+What is total number of show times per dat for each cinema?

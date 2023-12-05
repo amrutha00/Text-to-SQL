@@ -1,0 +1,1 @@
+How many manufacturers have headquarters in either Tokyo or Beijing?

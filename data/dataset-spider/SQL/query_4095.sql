@@ -1,0 +1,1 @@
+SELECT count(*) ,  classroom FROM list GROUP BY classroom

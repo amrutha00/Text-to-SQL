@@ -1,0 +1,1 @@
+SELECT date FROM weather WHERE max_temperature_f  >  85

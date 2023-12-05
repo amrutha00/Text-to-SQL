@@ -1,0 +1,1 @@
+Find the name and account balance of the customer whose name includes the letter ‘a’.

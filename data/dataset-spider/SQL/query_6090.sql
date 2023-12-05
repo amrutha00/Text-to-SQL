@@ -1,0 +1,1 @@
+SELECT city FROM addresses WHERE zip_postcode  =  255

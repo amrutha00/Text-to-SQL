@@ -1,0 +1,1 @@
+SELECT price_range FROM HOTELS WHERE star_rating_code  =  "5"

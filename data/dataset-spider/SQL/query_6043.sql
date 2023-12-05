@@ -1,0 +1,1 @@
+SELECT Stuid ,  sum(hours_played) FROM Plays_games GROUP BY Stuid

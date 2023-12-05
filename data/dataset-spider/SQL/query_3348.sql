@@ -1,0 +1,1 @@
+SELECT max(Silver) ,  min(Silver) FROM club_rank

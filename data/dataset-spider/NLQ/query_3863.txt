@@ -1,0 +1,1 @@
+Among all the claims, which settlements have a claimed amount that is no more than the average? List the claim start date.

@@ -1,0 +1,1 @@
+Tell me the payment method used by the customer who ordered the least amount of goods in total.

@@ -1,0 +1,1 @@
+What is the minimum and maximum number of bathrooms of all the apartments?

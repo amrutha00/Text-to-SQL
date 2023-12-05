@@ -1,0 +1,1 @@
+Find the first name and office of the professor who is in the history department and has a Ph.D. degree.

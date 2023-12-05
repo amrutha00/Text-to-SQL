@@ -1,0 +1,1 @@
+SELECT employee_id FROM job_history GROUP BY employee_id HAVING COUNT(*)  >= 2

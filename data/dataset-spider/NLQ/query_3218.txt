@@ -1,0 +1,1 @@
+Find the number of students for each department.

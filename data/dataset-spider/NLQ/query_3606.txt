@@ -1,0 +1,1 @@
+Find the names and number of works of all artists who have at least one English songs.

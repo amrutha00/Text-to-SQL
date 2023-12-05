@@ -1,0 +1,1 @@
+Which customer, who has made at least one payment, has spent the least money? List his or her first name, last name, and the id.

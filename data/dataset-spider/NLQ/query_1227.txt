@@ -1,0 +1,1 @@
+What is the booking status code of the apartment with apartment number "Suite 634"?

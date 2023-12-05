@@ -1,0 +1,1 @@
+SELECT name FROM stadium ORDER BY capacity DESC LIMIT 1

@@ -1,0 +1,1 @@
+Which buildings do not have any company office? Give me the building names.

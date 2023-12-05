@@ -1,0 +1,1 @@
+How many students are enrolled in colleges that have student accepted during tryouts, and in which states are those colleges?

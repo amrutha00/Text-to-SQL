@@ -1,0 +1,1 @@
+SELECT name FROM CLub WHERE Club_ID NOT IN (SELECT Club_ID FROM player)

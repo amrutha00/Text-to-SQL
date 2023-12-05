@@ -1,0 +1,1 @@
+What are the id and first name of the student whose addresses have the highest average monthly rental?

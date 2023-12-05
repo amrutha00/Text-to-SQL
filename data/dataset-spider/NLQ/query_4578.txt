@@ -1,0 +1,1 @@
+Show the industries shared by companies whose headquarters are "USA" and companies whose headquarters are "China".

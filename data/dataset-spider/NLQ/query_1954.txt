@@ -1,0 +1,1 @@
+Show cinema name, film title, date, and price for each record in schedule.

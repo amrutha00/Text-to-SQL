@@ -1,0 +1,1 @@
+What are the room names and ids of all the rooms that cost more than 160 and can accommodate more than two people.

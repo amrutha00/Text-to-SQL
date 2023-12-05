@@ -1,0 +1,1 @@
+What are the gas station ids, locations, and manager names for the gas stations ordered by opening year?

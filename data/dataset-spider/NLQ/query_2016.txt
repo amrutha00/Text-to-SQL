@@ -1,0 +1,1 @@
+How many gas station are opened between 2000 and 2005?

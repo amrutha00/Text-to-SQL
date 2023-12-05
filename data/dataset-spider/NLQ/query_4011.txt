@@ -1,0 +1,1 @@
+Show different types of ships and the number of ships of each type.

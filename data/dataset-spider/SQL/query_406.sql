@@ -1,0 +1,1 @@
+SELECT destination ,  count(*) FROM Flight GROUP BY destination

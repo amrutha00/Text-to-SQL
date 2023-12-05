@@ -1,0 +1,1 @@
+get the details of employees who manage a department.

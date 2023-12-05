@@ -1,0 +1,1 @@
+For each grade, report the grade, the number of classrooms in which it is taught and the total number of students in the grade.

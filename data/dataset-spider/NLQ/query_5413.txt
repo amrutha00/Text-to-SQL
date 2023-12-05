@@ -1,0 +1,1 @@
+Show the city and the number of branches opened before 2010 for each city.

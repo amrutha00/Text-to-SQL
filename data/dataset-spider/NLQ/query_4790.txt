@@ -1,0 +1,1 @@
+Find the name and gender of the staff who has been assigned the job of Sales Person but never Clerical Staff.

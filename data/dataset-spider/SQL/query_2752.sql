@@ -1,0 +1,1 @@
+SELECT count(DISTINCT Governor) FROM party

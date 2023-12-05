@@ -1,0 +1,1 @@
+SELECT Nominee FROM musical GROUP BY Nominee HAVING COUNT(*)  >  2

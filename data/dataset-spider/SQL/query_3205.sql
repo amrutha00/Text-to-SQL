@@ -1,0 +1,1 @@
+SELECT count(*) ,  class_room FROM CLASS GROUP BY class_room HAVING count(*)  >=  2

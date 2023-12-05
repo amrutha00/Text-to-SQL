@@ -1,0 +1,1 @@
+Report the distinct president vote and the vice president vote.

@@ -1,0 +1,1 @@
+Display the first and last name, and salary for those employees whose first name is ending with the letter m.

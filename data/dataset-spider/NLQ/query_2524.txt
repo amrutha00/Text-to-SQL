@@ -1,0 +1,1 @@
+What are the ids of all reviewers who have not given 4 stars at least once?

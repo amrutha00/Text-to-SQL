@@ -1,0 +1,1 @@
+SELECT avg(Num_of_Factories) FROM manufacturer WHERE num_of_shops  >  20

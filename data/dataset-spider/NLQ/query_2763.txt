@@ -1,0 +1,1 @@
+How many distinct delegates are from counties with population larger than 50000?

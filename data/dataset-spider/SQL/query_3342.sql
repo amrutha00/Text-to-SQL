@@ -1,0 +1,1 @@
+SELECT avg(Gold) FROM club_rank

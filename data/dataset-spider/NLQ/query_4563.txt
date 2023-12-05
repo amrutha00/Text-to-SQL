@@ -1,0 +1,1 @@
+For each company, return the company name and the name of the building its office is located in.

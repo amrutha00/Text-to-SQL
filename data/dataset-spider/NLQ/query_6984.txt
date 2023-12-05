@@ -1,0 +1,1 @@
+What are the titles, years, and directors of all movies, ordered by budget in millions?

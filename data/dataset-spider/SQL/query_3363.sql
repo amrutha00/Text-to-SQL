@@ -1,0 +1,1 @@
+SELECT POSITION ,  avg(Points) FROM player GROUP BY POSITION

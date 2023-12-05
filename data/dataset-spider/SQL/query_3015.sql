@@ -1,0 +1,1 @@
+SELECT avg(no_of_customers) FROM bank

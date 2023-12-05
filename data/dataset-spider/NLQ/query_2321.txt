@@ -1,0 +1,1 @@
+Show the countries that have both perpetrators with injures more than 50 and perpetrators with injures smaller than 20.

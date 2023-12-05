@@ -1,0 +1,1 @@
+What are the distinct first names of the students who have vice president votes and reside in a city whose city code is not PIT?

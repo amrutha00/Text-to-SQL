@@ -1,0 +1,1 @@
+SELECT Price FROM publication WHERE Publisher  =  "Person" OR Publisher  =  "Wiley"

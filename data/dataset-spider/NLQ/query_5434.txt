@@ -1,0 +1,1 @@
+What are the cities that have a branch that opened in 2001 and a branch with more than 100 members?

@@ -1,0 +1,1 @@
+Find the different first names and cities of the students who have allergy to milk or cat.

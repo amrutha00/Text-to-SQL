@@ -1,0 +1,1 @@
+List the studios of each film and the number of films produced by that studio.

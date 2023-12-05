@@ -1,0 +1,1 @@
+Find the names of districts where have both city mall and village store type stores.

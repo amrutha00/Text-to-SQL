@@ -1,0 +1,1 @@
+For each denomination, return the denomination and the count of schools with that denomination.

@@ -1,0 +1,1 @@
+Find all the distinct id and nationality of drivers who have had laptime more than 100000 milliseconds?

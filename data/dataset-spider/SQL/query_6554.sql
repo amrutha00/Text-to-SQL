@@ -1,0 +1,1 @@
+SELECT count(*) ,  Grape FROM WINE GROUP BY Grape

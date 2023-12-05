@@ -1,0 +1,1 @@
+What is the total and maximum duration of trips with bike id 636?

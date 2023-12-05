@@ -1,0 +1,1 @@
+Tell me the price ranges for all the hotels.

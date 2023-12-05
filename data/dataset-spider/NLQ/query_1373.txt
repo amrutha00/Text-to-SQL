@@ -1,0 +1,1 @@
+Find the name of the department that offers the highest total credits?

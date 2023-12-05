@@ -1,0 +1,1 @@
+Show all document type codes, document type names, document type descriptions.

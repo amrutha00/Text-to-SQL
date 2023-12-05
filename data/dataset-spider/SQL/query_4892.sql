@@ -1,0 +1,1 @@
+SELECT School_Colors FROM school ORDER BY Enrollment DESC LIMIT 1

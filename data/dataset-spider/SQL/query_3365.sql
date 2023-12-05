@@ -1,0 +1,1 @@
+SELECT POSITION FROM player GROUP BY name HAVING avg(Points)  >=  20

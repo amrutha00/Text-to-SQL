@@ -1,0 +1,1 @@
+Find the names and descriptions of the photos taken at the tourist attraction called "film festival".

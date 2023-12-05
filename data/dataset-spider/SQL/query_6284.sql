@@ -1,0 +1,1 @@
+SELECT city FROM city ORDER BY regional_population DESC LIMIT 3

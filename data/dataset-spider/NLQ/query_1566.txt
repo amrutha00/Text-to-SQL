@@ -1,0 +1,1 @@
+How many accounts does each customer have? List the number and customer id.

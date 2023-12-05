@@ -1,0 +1,1 @@
+What are the full names and cities of employees who have the letter Z in their first names?

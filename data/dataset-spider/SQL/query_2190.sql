@@ -1,0 +1,1 @@
+SELECT count(*) ,  constructorid FROM constructorStandings GROUP BY constructorid

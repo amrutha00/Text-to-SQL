@@ -1,0 +1,1 @@
+How many distinct official languages are there among countries of players whose positions are defenders.

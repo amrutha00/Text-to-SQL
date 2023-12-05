@@ -1,0 +1,1 @@
+What are the district names and city populations for all districts that between 200,000 and 2,000,000 residents?

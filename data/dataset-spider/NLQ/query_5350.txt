@@ -1,0 +1,1 @@
+For each manufacturer name, what are the names and prices of their most expensive product?

@@ -1,0 +1,1 @@
+Which clubs have one or more members from the city with code "BAL"? Give me the names of the clubs.

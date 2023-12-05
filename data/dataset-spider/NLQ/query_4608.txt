@@ -1,0 +1,1 @@
+For each nomination, show the name of the artwork and name of the festival where it is nominated.

@@ -1,0 +1,1 @@
+Show me the owner of the channel with the highest rating.

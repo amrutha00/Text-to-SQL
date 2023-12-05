@@ -1,0 +1,1 @@
+SELECT distinct(catalog_entry_name) FROM catalog_contents

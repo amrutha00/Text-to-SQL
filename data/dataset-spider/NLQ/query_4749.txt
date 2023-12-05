@@ -1,0 +1,1 @@
+What is the code of the product type with an average price higher than the average price of all products?

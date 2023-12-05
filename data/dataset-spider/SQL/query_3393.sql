@@ -1,0 +1,1 @@
+SELECT Num_of_Component ,  name FROM furniture WHERE Num_of_Component  >  10

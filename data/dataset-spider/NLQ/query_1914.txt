@@ -1,0 +1,1 @@
+What are the average, maximum, and minimum number of floors for all buildings?

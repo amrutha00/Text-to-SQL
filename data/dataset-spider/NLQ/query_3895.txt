@@ -1,0 +1,1 @@
+List the date the claim was made, the date it was settled and the amount settled for all the claims which had exactly one settlement.

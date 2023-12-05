@@ -1,0 +1,1 @@
+Find the name, enrollment of the colleges whose size is bigger than 10000 and location is in state LA.

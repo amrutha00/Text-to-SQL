@@ -1,0 +1,1 @@
+Find the locations that have more than one movie theater with capacity above 300.

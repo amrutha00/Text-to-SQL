@@ -1,0 +1,1 @@
+SELECT count(*) FROM team_franchise WHERE active = 'Y';

@@ -1,0 +1,1 @@
+What are the addresses of customers living in Germany who have had an invoice?

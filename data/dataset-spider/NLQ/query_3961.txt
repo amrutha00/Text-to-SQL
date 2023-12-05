@@ -1,0 +1,1 @@
+List the physicians' employee ids together with their primary affiliation departments' ids.

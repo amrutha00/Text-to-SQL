@@ -1,0 +1,1 @@
+What is the maximum stars and year for the most recent movie?

@@ -1,0 +1,1 @@
+SELECT payment_method_code ,  count(*) FROM customers GROUP BY payment_method_code

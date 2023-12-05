@@ -1,0 +1,1 @@
+Return ids of all the products that are supplied by supplier id 2 and are more expensive than the average price of all products.

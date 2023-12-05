@@ -1,0 +1,1 @@
+Return the product type, name, and price for products supplied by supplier 3.

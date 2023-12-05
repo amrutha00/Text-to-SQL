@@ -1,0 +1,1 @@
+List the first and last name for players who participated in all star game in 1998.

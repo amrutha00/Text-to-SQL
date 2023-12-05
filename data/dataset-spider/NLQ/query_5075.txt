@@ -1,0 +1,1 @@
+Show the name of the shop that have the largest quantity of devices in stock.

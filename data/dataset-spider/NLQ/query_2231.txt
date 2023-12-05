@@ -1,0 +1,1 @@
+For each id of a driver who participated in at most 30 races, how many races did they participate in?

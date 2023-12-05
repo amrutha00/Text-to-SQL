@@ -1,0 +1,1 @@
+For each type, how many ships are there?

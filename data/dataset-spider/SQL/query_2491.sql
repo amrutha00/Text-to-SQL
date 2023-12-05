@@ -1,0 +1,1 @@
+SELECT director FROM Movie GROUP BY director HAVING count(*)  =  1

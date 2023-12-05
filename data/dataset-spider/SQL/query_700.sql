@@ -1,0 +1,1 @@
+SELECT card_id ,  customer_id ,  card_type_code ,  card_number FROM Customers_cards

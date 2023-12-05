@@ -1,0 +1,1 @@
+For each party, return the name of the party and the number of delegates from that party.

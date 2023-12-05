@@ -1,0 +1,1 @@
+SELECT count(*) FROM users WHERE user_login  =  1

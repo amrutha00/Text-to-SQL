@@ -1,0 +1,1 @@
+Find the name and population of district with population between 200000 and 2000000

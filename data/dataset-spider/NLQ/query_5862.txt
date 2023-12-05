@@ -1,0 +1,1 @@
+Return the lot details of lots that belong to investors with details "l"?

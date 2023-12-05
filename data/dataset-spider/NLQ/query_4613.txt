@@ -1,0 +1,1 @@
+Show the id, name of each festival and the number of artworks it has nominated.

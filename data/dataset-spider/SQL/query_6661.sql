@@ -1,0 +1,1 @@
+SELECT email_address ,  date_of_birth FROM Customers WHERE first_name = "Carole"

@@ -1,0 +1,1 @@
+Which services type had both successful and failure event details?

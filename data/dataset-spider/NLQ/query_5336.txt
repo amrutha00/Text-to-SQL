@@ -1,0 +1,1 @@
+How many products have prices of at least 180?

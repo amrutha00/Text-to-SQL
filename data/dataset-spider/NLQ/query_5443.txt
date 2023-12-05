@@ -1,0 +1,1 @@
+list the card number of all members whose hometown address includes word "Kentucky".

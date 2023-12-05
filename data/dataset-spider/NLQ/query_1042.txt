@@ -1,0 +1,1 @@
+List the phone hardware model and company name for the phones whose screen usage in kb is between 10 and 15.

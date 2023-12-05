@@ -1,0 +1,1 @@
+SELECT TYPE ,  count(*) FROM store GROUP BY TYPE

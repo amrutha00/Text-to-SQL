@@ -1,0 +1,1 @@
+SELECT count(*) FROM phone WHERE Company_name = "Nokia Corporation";

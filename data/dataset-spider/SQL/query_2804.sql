@@ -1,0 +1,1 @@
+SELECT Name FROM journalist ORDER BY Years_working ASC

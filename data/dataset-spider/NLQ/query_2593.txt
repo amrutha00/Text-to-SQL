@@ -1,0 +1,1 @@
+Which room has cheapest base price? List the room's name and the base price.

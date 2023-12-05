@@ -1,0 +1,1 @@
+Find the physicians who are trained in a procedure that costs more than 5000.

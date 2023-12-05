@@ -1,0 +1,1 @@
+SELECT Address FROM Restaurant WHERE ResName = "Subway";

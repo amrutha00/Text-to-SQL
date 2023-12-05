@@ -1,0 +1,1 @@
+Show all role codes and the number of employees in each role.

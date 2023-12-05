@@ -1,0 +1,1 @@
+Give me the times and numbers of all trains that go to Chennai, ordered by time.

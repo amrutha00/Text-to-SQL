@@ -1,0 +1,1 @@
+SELECT customer_phone FROM available_policies

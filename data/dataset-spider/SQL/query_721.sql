@@ -1,0 +1,1 @@
+SELECT card_type_code ,  count(*) FROM Customers_cards GROUP BY card_type_code

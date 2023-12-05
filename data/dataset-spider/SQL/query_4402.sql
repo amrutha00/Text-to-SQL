@@ -1,0 +1,1 @@
+SELECT count(*) FROM Person WHERE gender  =  'female'

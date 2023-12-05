@@ -1,0 +1,1 @@
+SELECT count(*) FROM player WHERE birth_country = 'USA' AND bats  =  'R';

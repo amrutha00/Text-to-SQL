@@ -1,0 +1,1 @@
+How many films are there in each category? List the genre name, genre id and the count.

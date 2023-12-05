@@ -1,0 +1,1 @@
+SELECT school FROM university WHERE founded  >  1850 OR affiliation  =  'Public'

@@ -1,0 +1,1 @@
+Which customers have used both the service named "Close a policy" and the service named "Upgrade a policy"? Give me the customer names.

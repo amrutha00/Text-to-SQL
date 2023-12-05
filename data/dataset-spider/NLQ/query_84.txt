@@ -1,0 +1,1 @@
+Find id of candidates whose assessment code is "Pass"?

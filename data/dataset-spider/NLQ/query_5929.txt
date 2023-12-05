@@ -1,0 +1,1 @@
+Find the details of all the markets that are accessible by walk or bus.

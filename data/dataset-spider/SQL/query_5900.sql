@@ -1,0 +1,1 @@
+SELECT Address FROM LOCATIONS WHERE Location_Name  =  "UK Gallery"

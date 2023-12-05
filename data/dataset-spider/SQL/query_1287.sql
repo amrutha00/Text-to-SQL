@@ -1,0 +1,1 @@
+SELECT count(*) FROM game WHERE id NOT IN ( SELECT game_id FROM injury_accident )

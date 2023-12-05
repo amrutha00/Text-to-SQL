@@ -1,0 +1,1 @@
+Select the average price of each manufacturer's products, showing the manufacturer's name.

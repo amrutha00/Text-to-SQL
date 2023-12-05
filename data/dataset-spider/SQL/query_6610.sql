@@ -1,0 +1,1 @@
+SELECT name ,  TIME ,  service FROM train

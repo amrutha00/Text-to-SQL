@@ -1,0 +1,1 @@
+List the document type code, document name, and document description for the document with name 'Noel CV' or name 'King Book'.

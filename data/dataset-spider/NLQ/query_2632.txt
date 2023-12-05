@@ -1,0 +1,1 @@
+Find the number of distinct bed types available in this inn.

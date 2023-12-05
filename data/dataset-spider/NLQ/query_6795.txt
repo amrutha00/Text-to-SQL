@@ -1,0 +1,1 @@
+Find the name of the activity that has the largest number of student participants.

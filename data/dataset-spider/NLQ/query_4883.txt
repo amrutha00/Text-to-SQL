@@ -1,0 +1,1 @@
+Show the denomination of the school that has the most players.

@@ -1,0 +1,1 @@
+Show the names of employees that work for companies with sales bigger than 200.

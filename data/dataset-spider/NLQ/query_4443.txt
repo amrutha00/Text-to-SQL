@@ -1,0 +1,1 @@
+Find the name and age of the person who is a friend of Dan or Alice.

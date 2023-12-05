@@ -1,0 +1,1 @@
+Please show the software platforms of devices in descending order of the count.

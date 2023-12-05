@@ -1,0 +1,1 @@
+SELECT apt_number FROM Apartments ORDER BY room_count ASC

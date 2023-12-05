@@ -1,0 +1,1 @@
+SELECT count(DISTINCT participant_id) FROM participants_in_Events

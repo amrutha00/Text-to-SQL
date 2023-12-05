@@ -1,0 +1,1 @@
+For each bed type, find the average base price of different bed type.

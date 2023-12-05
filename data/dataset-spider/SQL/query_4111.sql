@@ -1,0 +1,1 @@
+SELECT Name FROM people WHERE People_ID NOT IN (SELECT People_ID FROM employment)

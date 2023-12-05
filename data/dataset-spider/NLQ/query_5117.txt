@@ -1,0 +1,1 @@
+Show all payment method codes and the number of orders for each code.

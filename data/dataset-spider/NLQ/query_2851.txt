@@ -1,0 +1,1 @@
+Find the names and phone numbers of customers living in California state.

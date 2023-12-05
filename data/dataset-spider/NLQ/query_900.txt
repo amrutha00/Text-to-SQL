@@ -1,0 +1,1 @@
+Find the policy type used by more than 4 customers.

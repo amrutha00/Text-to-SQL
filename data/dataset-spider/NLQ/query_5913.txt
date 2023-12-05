@@ -1,0 +1,1 @@
+Find the names and opening hours of the tourist attractions that we get to by bus or walk.

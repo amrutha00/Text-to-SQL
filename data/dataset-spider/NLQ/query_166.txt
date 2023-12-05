@@ -1,0 +1,1 @@
+Count the number of trips that did not end in San Francisco city.

@@ -1,0 +1,1 @@
+SELECT max(support_rate) ,  min(consider_rate) ,  min(oppose_rate) FROM candidate

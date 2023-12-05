@@ -1,0 +1,1 @@
+List the distinct positions of pilots older than 30.

@@ -1,0 +1,1 @@
+Show the name, location, and number of platforms for all stations.

@@ -1,0 +1,1 @@
+Show the card type codes and the number of transactions.

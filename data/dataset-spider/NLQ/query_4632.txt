@@ -1,0 +1,1 @@
+Show the premise type and address type code for all customer addresses.

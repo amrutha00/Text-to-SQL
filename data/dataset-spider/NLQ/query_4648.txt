@@ -1,0 +1,1 @@
+Find the number of students that have at least one grade "B".

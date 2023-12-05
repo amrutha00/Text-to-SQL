@@ -1,0 +1,1 @@
+SELECT f_id FROM files ORDER BY duration DESC LIMIT 1

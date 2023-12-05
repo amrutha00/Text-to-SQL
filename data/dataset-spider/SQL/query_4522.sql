@@ -1,0 +1,1 @@
+SELECT user_name ,  password FROM users GROUP BY role_code ORDER BY count(*) DESC LIMIT 1

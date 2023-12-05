@@ -1,0 +1,1 @@
+SELECT avg(elevation) ,  country FROM airports GROUP BY country

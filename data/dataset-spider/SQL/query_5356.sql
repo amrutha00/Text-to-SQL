@@ -1,0 +1,1 @@
+SELECT problem_log_id ,  problem_id FROM problem_log ORDER BY log_entry_date LIMIT 1

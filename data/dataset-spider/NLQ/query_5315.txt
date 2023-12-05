@@ -1,0 +1,1 @@
+Find the number of different products that are produced by companies at different headquarter cities.

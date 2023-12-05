@@ -1,0 +1,1 @@
+SELECT count(DISTINCT crs_code) FROM CLASS

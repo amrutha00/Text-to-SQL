@@ -1,0 +1,1 @@
+Return the famous release date for the oldest artist.

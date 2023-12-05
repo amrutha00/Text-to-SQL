@@ -1,0 +1,1 @@
+Count the number of programs broadcast for each time section of a day.

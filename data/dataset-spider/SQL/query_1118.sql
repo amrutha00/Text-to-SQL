@@ -1,0 +1,1 @@
+SELECT max(Points) FROM climber WHERE Country  =  "United Kingdom"

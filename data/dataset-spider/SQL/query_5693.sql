@@ -1,0 +1,1 @@
+SELECT dorm_name FROM dorm WHERE dormid NOT IN (SELECT dormid FROM has_amenity)

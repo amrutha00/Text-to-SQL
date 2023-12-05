@@ -1,0 +1,1 @@
+Show storm name with at least two regions and 10 cities affected.

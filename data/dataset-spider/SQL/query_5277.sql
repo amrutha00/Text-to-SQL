@@ -1,0 +1,1 @@
+SELECT name ,  headquarter FROM manufacturers ORDER BY revenue DESC

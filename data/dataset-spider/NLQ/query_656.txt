@@ -1,0 +1,1 @@
+What are the different ages of editors? Show each age along with the number of editors of that age.

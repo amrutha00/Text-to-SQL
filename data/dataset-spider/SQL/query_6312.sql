@@ -1,0 +1,1 @@
+SELECT DISTINCT form_type_code FROM forms

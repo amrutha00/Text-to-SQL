@@ -1,0 +1,1 @@
+Find the first names of faculties of rank Professor in alphabetic order.

@@ -1,0 +1,1 @@
+What are the names of all instructors with a higher salary than any of the instructors in the Biology department?

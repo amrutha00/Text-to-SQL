@@ -1,0 +1,1 @@
+Return the minister who left office at the latest time.

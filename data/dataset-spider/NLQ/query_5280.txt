@@ -1,0 +1,1 @@
+Return the average, maximum, and total revenues across all manufacturers.

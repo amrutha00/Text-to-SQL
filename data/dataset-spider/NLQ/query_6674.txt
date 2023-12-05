@@ -1,0 +1,1 @@
+For each customer status code, how many customers are classified that way?

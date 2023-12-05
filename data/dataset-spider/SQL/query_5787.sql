@@ -1,0 +1,1 @@
+SELECT product_description FROM products WHERE product_name  =  "Chocolate"

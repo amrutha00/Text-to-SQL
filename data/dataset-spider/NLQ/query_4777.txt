@@ -1,0 +1,1 @@
+Return the maximum and minimum customer codes.

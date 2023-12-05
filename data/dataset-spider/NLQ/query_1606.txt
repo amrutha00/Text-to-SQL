@@ -1,0 +1,1 @@
+Show invoice dates and order id and details for all invoices.

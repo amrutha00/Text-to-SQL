@@ -1,0 +1,1 @@
+Find the captain rank that has no captain in Third-rate ship of the line class.

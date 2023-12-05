@@ -1,0 +1,1 @@
+Find the name of customers who do not have a loan with a type of Mortgages.

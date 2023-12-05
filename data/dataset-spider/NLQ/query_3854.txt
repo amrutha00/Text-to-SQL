@@ -1,0 +1,1 @@
+Give me the the customer details and id for the customers who had two or more policies but did not file any claims.

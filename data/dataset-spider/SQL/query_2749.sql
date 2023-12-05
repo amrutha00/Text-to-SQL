@@ -1,0 +1,1 @@
+SELECT Delegate ,  Committee FROM election

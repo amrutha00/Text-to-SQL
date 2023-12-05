@@ -1,0 +1,1 @@
+SELECT Grape ,  Appelation ,  Name FROM WINE WHERE Score  >  93 ORDER BY Name

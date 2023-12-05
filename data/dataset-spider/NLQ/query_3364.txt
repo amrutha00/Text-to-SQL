@@ -1,0 +1,1 @@
+List the position of players with average number of points scored by players of that position bigger than 20.

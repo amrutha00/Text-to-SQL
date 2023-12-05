@@ -1,0 +1,1 @@
+What are the names and sum of checking and savings balances for accounts with savings balances higher than the average savings balance?

@@ -1,0 +1,1 @@
+SELECT Accreditation_level FROM phone GROUP BY Accreditation_level HAVING count(*)  >  3

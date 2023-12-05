@@ -1,0 +1,1 @@
+How many budgets are above 3000 in year 2001 or before?

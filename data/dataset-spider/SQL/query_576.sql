@@ -1,0 +1,1 @@
+SELECT email ,  phone FROM customers WHERE first_name = "Astrid" AND last_name = "Gruber";

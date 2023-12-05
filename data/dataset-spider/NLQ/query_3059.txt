@@ -1,0 +1,1 @@
+For each state, find the total account balance of customers whose credit score is above 100.

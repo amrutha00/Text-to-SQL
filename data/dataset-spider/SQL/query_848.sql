@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM CUSTOMER WHERE Email LIKE "%gmail.com%"

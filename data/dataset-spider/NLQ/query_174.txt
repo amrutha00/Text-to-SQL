@@ -1,0 +1,1 @@
+What are the name, latitude, and city of the station with the lowest latitude?

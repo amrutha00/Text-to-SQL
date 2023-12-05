@@ -1,0 +1,1 @@
+Find the name, address, number of students in the departments that have the top 3 highest number of students.

@@ -1,0 +1,1 @@
+Find the names of items whose rank is higher than 3 and whose average rating is above 5.

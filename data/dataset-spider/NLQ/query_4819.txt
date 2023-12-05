@@ -1,0 +1,1 @@
+What are the names and descriptions of aircrafts associated with an airport that has more total passengers than 10000000?

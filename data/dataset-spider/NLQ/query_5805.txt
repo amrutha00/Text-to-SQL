@@ -1,0 +1,1 @@
+How many distinct complaint type codes are there in the database?

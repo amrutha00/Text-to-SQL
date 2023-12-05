@@ -1,0 +1,1 @@
+Find the name and component amount of the least popular furniture.

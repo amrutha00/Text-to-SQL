@@ -1,0 +1,1 @@
+Show the theme for exhibitions with both records of an attendance below 100 and above 500.

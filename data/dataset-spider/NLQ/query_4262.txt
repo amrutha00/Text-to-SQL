@@ -1,0 +1,1 @@
+Return the last name for the members of the club named "Hopkins Student Enterprises".

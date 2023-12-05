@@ -1,0 +1,1 @@
+What are the names of the airports which are not in the country 'Iceland'?

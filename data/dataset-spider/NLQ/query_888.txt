@@ -1,0 +1,1 @@
+How many artists do not have any album?

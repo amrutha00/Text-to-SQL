@@ -1,0 +1,1 @@
+SELECT name ,  lat ,  city FROM station ORDER BY lat LIMIT 1

@@ -1,0 +1,1 @@
+What are all info of students who registered courses but not attended courses?

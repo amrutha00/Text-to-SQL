@@ -1,0 +1,1 @@
+SELECT city FROM Addresses ORDER BY city

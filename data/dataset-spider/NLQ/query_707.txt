@@ -1,0 +1,1 @@
+Count the number of cards the customer with the first name Art and last name Turcotte has.

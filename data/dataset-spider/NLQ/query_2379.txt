@@ -1,0 +1,1 @@
+List the campus that have between 600 and 1000 faculty lines in year 2004.

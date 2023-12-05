@@ -1,0 +1,1 @@
+Find the name, headquarter and revenue of all manufacturers sorted by their revenue in the descending order.

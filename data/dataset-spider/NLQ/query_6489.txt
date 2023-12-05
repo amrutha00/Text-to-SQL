@@ -1,0 +1,1 @@
+What is the sum of hours for projects that scientists with the name Michael Rogers or Carol Smith are assigned to?

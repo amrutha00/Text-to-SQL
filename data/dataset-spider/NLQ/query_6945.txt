@@ -1,0 +1,1 @@
+Which customers have ever canceled the purchase of the product "food" (the item status is "Cancel")?

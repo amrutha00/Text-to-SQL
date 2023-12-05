@@ -1,0 +1,1 @@
+SELECT Date FROM performance ORDER BY Attendance DESC LIMIT 1

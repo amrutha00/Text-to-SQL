@@ -1,0 +1,1 @@
+Show the invoice number and the number of transactions for each invoice.

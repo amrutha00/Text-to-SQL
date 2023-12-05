@@ -1,0 +1,1 @@
+Find the types of documents with more than 4 documents.

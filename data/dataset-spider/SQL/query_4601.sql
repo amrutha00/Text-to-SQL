@@ -1,0 +1,1 @@
+SELECT Name FROM artwork WHERE TYPE != "Program Talent Show"

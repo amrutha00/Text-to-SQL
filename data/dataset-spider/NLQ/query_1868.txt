@@ -1,0 +1,1 @@
+Which teams had more than 3 eliminations?

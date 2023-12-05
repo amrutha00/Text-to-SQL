@@ -1,0 +1,1 @@
+Find the first name and gender of the student who has allergy to milk but not cat.

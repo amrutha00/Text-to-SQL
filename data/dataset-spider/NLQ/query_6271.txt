@@ -1,0 +1,1 @@
+Find the match ids of the cities that hosted competition "1994 FIFA World Cup qualification"?

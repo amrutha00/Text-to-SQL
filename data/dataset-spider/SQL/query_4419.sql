@@ -1,0 +1,1 @@
+SELECT count(*) FROM Person WHERE age  >  30 AND job  =  'engineer'

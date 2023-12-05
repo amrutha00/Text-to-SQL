@@ -1,0 +1,1 @@
+SELECT policy_type_code FROM available_policies GROUP BY policy_type_code HAVING count(*)  >  4

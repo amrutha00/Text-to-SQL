@@ -1,0 +1,1 @@
+Show ids of students who play video game and play sports.

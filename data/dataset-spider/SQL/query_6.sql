@@ -1,0 +1,1 @@
+SELECT name FROM head WHERE born_state != 'California'

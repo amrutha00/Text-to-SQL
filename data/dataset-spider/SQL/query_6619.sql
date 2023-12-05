@@ -1,0 +1,1 @@
+SELECT name FROM station WHERE station_id NOT IN (SELECT station_id FROM train_station)

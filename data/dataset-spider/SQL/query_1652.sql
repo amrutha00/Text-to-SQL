@@ -1,0 +1,1 @@
+SELECT name ,  age ,  country FROM artist ORDER BY Year_Join

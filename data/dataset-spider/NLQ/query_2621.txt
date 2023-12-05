@@ -1,0 +1,1 @@
+Find the average and minimum price of the rooms in different decor.

@@ -1,0 +1,1 @@
+What is each customer's move in date, and the corresponding customer id and details?

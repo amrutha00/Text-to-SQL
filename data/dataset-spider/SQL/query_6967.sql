@@ -1,0 +1,1 @@
+SELECT DISTINCT publisher FROM book_club

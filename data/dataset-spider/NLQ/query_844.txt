@@ -1,0 +1,1 @@
+What is the average unit price of tracks that belong to Jazz genre?

@@ -1,0 +1,1 @@
+Find the maximum and minimum monthly rental for all student addresses.

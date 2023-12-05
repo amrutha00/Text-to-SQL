@@ -1,0 +1,1 @@
+Find the number of customers in the banks at New York City.

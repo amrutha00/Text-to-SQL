@@ -1,0 +1,1 @@
+Count the number of rooms in Lamberton with capacity lower than 50.

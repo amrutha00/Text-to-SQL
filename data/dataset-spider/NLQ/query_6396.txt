@@ -1,0 +1,1 @@
+Show all statement id and the number of accounts for each statement.

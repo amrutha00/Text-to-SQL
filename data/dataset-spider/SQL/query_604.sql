@@ -1,0 +1,1 @@
+SELECT count(*) ,  city FROM employees WHERE title  =  'IT Staff' GROUP BY city

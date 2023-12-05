@@ -1,0 +1,1 @@
+SELECT DISTINCT allergy FROM Allergy_type WHERE allergytype  =  "food"

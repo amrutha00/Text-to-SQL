@@ -1,0 +1,1 @@
+SELECT sum(share_count) FROM TRANSACTIONS

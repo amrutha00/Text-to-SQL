@@ -1,0 +1,1 @@
+Show all cities where at least one customer lives in but no performer lives in.

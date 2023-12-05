@@ -1,0 +1,1 @@
+A list of the top 10 countries by average invoice size. List country name and average invoice size.

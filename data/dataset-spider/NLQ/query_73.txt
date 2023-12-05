@@ -1,0 +1,1 @@
+How many courses does the student with id 171 actually attend?

@@ -1,0 +1,1 @@
+Which staff handled least number of payments? List the full name and the id.

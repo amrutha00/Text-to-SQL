@@ -1,0 +1,1 @@
+SELECT Stories FROM buildings ORDER BY Height DESC LIMIT 1

@@ -1,0 +1,1 @@
+Which customers have the substring "Diana" in their names? Return the customer details.

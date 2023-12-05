@@ -1,0 +1,1 @@
+SELECT date_of_transaction FROM TRANSACTIONS WHERE transaction_type_code  =  "SALE"

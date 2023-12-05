@@ -1,0 +1,1 @@
+SELECT mID ,  avg(stars) FROM Rating GROUP BY mID HAVING count(*)  >=  2

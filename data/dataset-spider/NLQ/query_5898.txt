@@ -1,0 +1,1 @@
+Show the average price range of hotels that have 5 star ratings and allow pets.

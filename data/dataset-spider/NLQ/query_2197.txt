@@ -1,0 +1,1 @@
+What is the id and stop number for each driver that has a shorter pit stop than the driver in the race with id 841?

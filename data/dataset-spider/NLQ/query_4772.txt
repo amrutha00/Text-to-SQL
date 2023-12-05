@@ -1,0 +1,1 @@
+Find the id of suppliers whose average amount purchased for each product is above 50000 or below 30000.

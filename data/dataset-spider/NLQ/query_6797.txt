@@ -1,0 +1,1 @@
+Which faculty members are playing either Canoeing or Kayaking? Tell me their first names.

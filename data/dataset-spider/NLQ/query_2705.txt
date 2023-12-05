@@ -1,0 +1,1 @@
+What is the total number of deaths and damage for all storms with a max speed greater than the average?

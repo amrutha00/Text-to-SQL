@@ -1,0 +1,1 @@
+What is the average, minimum, maximum, and total transaction amount?

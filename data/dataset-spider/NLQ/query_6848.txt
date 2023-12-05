@@ -1,0 +1,1 @@
+How many airports are there per country? Order the countries by decreasing number of airports.

@@ -1,0 +1,1 @@
+Please show the categories of the music festivals with count more than 1.

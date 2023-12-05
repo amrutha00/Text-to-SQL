@@ -1,0 +1,1 @@
+Find the name and capacity of products with price greater than 700 (in USD).

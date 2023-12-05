@@ -1,0 +1,1 @@
+SELECT sum(enr) FROM College

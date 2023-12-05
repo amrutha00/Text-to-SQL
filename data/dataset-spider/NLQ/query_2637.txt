@@ -1,0 +1,1 @@
+Find the number of rooms that do not have any reservation.

@@ -1,0 +1,1 @@
+For each policy type, return its type code and its count in the record.

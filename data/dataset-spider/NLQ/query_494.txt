@@ -1,0 +1,1 @@
+Show all ages and corresponding number of students.

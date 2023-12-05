@@ -1,0 +1,1 @@
+SELECT county ,  count(*) ,  sum(enrollment) FROM school GROUP BY county

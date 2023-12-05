@@ -1,0 +1,1 @@
+SELECT founded FROM university WHERE affiliation != 'Public' ORDER BY founded DESC LIMIT 1

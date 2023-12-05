@@ -1,0 +1,1 @@
+SELECT Pilot_name FROM pilot ORDER BY Rank ASC

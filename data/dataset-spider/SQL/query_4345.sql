@@ -1,0 +1,1 @@
+SELECT count(DISTINCT role_code) FROM Project_Staff

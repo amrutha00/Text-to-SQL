@@ -1,0 +1,1 @@
+What are the names of all the teams in the basketball competition, sorted by all home scores in descending order?

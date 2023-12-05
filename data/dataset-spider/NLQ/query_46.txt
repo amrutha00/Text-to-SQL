@@ -1,0 +1,1 @@
+Return the different statuses of cities, ascending by frequency.

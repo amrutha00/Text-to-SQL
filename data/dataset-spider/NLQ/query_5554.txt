@@ -1,0 +1,1 @@
+Return the names and typical buying and selling prices for products that have 'yellow' as their color description.

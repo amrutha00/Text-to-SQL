@@ -1,0 +1,1 @@
+SELECT eid FROM Employee WHERE salary  >  100000

@@ -1,0 +1,1 @@
+SELECT composer FROM tracks WHERE name = "Fast As a Shark";

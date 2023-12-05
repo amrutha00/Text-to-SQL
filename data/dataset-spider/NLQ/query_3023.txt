@@ -1,0 +1,1 @@
+List the name of all different customers who have some loan sorted by their total loan amount.

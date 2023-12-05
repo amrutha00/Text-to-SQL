@@ -1,0 +1,1 @@
+Find the subject ID, name of subject and the corresponding number of courses for each subject, and sort by the course count in ascending order.

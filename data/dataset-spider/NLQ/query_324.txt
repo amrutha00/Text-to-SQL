@@ -1,0 +1,1 @@
+What is the product with the highest height? Give me the catalog entry name.

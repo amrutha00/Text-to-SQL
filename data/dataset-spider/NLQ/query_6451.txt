@@ -1,0 +1,1 @@
+Return the budget type codes, budget type descriptions and document ids for documents with expenses.

@@ -1,0 +1,1 @@
+Show distinct types of artworks that are nominated in festivals in 2007.

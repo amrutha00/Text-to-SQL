@@ -1,0 +1,1 @@
+SELECT count(*) ,  gender FROM artist GROUP BY gender

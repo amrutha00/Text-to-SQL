@@ -1,0 +1,1 @@
+SELECT max(Transit_Passengers) ,  min(Transit_Passengers) FROM airport

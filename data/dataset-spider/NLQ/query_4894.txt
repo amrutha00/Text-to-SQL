@@ -1,0 +1,1 @@
+Which schools do not have any player? Give me the school locations.

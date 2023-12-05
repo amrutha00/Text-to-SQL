@@ -1,0 +1,1 @@
+SELECT sum(num_of_component) FROM furniture

@@ -1,0 +1,1 @@
+SELECT name ,  dept_name FROM student ORDER BY tot_cred

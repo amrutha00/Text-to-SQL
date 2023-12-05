@@ -1,0 +1,1 @@
+SELECT count(DISTINCT LEVEL) FROM member

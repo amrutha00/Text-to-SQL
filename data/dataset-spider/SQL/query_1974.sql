@@ -1,0 +1,1 @@
+SELECT daily_hire_cost FROM Products_for_hire WHERE product_name LIKE '%Book%'

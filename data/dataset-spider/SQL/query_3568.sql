@@ -1,0 +1,1 @@
+SELECT count(*) ,  formats FROM files GROUP BY formats

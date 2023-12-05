@@ -1,0 +1,1 @@
+Find the average prices of all products from each manufacture, and list each company's name.

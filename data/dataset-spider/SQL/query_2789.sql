@@ -1,0 +1,1 @@
+SELECT Party FROM party GROUP BY Party HAVING COUNT(*)  >=  2

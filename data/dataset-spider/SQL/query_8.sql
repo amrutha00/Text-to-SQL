@@ -1,0 +1,1 @@
+SELECT born_state FROM head GROUP BY born_state HAVING count(*)  >=  3

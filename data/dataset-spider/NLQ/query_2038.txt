@@ -1,0 +1,1 @@
+find the location and Representative name of the gas stations owned by the companies with top 3 Asset amounts.

@@ -1,0 +1,1 @@
+Show the season, the player, and the name of the country that player belongs to.

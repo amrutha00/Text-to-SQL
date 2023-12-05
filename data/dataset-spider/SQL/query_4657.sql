@@ -1,0 +1,1 @@
+SELECT Room FROM FACULTY WHERE Rank  =  "Professor" AND Building  =  "NEB"

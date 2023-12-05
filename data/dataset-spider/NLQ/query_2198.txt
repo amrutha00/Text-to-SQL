@@ -1,0 +1,1 @@
+Find the distinct driver id of all drivers that have a longer stop duration than some drivers in the race whose id is 841?

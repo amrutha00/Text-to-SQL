@@ -1,0 +1,1 @@
+SELECT FirstName ,  LastName FROM EMPLOYEE WHERE City  =  "Calgary"

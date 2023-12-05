@@ -1,0 +1,1 @@
+Show the distinct countries of managers.

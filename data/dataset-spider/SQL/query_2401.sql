@@ -1,0 +1,1 @@
+SELECT Candidate_ID FROM candidate ORDER BY oppose_rate LIMIT 1

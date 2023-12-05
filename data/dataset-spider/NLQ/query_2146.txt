@@ -1,0 +1,1 @@
+How many events had participants whose details had the substring 'Dr.'

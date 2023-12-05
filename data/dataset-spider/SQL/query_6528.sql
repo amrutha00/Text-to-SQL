@@ -1,0 +1,1 @@
+SELECT Area ,  County FROM APPELLATIONS

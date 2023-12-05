@@ -1,0 +1,1 @@
+Find the name and attribute ID of the attribute definitions with attribute value 0.

@@ -1,0 +1,1 @@
+Find all information of all the products with a price between $60 and $120.

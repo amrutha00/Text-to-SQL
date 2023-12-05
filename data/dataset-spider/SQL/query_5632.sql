@@ -1,0 +1,1 @@
+SELECT avg(capacity) FROM stadium WHERE opening_year  =  2005

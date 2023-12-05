@@ -1,0 +1,1 @@
+SELECT max(home_games) ,  min(home_games) ,  avg(home_games) FROM stadium

@@ -1,0 +1,1 @@
+Find the id and address of the shops whose score is below the average score.

@@ -1,0 +1,1 @@
+List the names of climbers whose country is not Switzerland.

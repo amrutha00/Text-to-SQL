@@ -1,0 +1,1 @@
+SELECT count(DISTINCT rating) FROM film

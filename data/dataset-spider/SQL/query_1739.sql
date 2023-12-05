@@ -1,0 +1,1 @@
+SELECT Total_Points FROM gymnast ORDER BY Total_Points DESC

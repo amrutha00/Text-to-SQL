@@ -1,0 +1,1 @@
+Return the city with the customer type code "Good Credit Rating" that had the fewest customers.

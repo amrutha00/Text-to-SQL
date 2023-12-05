@@ -1,0 +1,1 @@
+Return the dates of ceremony corresponding to music festivals that had the category "Best Song" and result "Awarded".

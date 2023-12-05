@@ -1,0 +1,1 @@
+Find the names of goods that receive a rating of 10.

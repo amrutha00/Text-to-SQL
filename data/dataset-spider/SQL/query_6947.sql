@@ -1,0 +1,1 @@
+SELECT name ,  nationality ,  id FROM architect WHERE gender  =  'male' ORDER BY name

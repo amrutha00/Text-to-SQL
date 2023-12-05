@@ -1,0 +1,1 @@
+SELECT hire_date FROM employees WHERE first_name NOT LIKE '%M%'

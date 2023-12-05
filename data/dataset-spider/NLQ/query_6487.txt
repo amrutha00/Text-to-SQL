@@ -1,0 +1,1 @@
+What is the name of the project that has a scientist assigned to it whose name contains 'Smith'?

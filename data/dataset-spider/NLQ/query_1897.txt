@@ -1,0 +1,1 @@
+List all the names of schools with an endowment amount smaller than or equal to 10.

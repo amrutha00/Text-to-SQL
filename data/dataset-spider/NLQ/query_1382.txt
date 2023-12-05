@@ -1,0 +1,1 @@
+Give the name of the highest paid instructor.

@@ -1,0 +1,1 @@
+SELECT avg(pages_per_minute_color) FROM product

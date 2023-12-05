@@ -1,0 +1,1 @@
+SELECT avg(Profits_billion) FROM Companies

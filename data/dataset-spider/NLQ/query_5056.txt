@@ -1,0 +1,1 @@
+Return the device carriers that do not have Android as their software platform.

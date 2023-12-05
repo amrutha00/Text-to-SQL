@@ -1,0 +1,1 @@
+SELECT count(DISTINCT complaint_type_code) FROM complaints

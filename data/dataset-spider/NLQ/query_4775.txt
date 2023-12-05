@@ -1,0 +1,1 @@
+Return the average total amount purchased and total value purchased for the supplier who supplies the greatest number of products.

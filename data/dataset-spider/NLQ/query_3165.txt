@@ -1,0 +1,1 @@
+Find the number of trains for each station, as well as the station network name and services.

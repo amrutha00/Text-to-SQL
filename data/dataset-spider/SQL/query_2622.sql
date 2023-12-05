@@ -1,0 +1,1 @@
+SELECT decor , avg(basePrice) ,  min(basePrice) FROM Rooms GROUP BY decor;

@@ -1,0 +1,1 @@
+How many lessons taught by staff whose first name has letter 'a' in it?

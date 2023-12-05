@@ -1,0 +1,1 @@
+SELECT Nationality ,  COUNT(*) FROM HOST GROUP BY Nationality

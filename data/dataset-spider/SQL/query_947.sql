@@ -1,0 +1,1 @@
+SELECT name ,  trade_name FROM medicine WHERE FDA_approved  =  'Yes'

@@ -1,0 +1,1 @@
+SELECT Sex FROM Student WHERE Fname = "Linda" AND Lname = "Smith";

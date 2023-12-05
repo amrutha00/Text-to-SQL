@@ -1,0 +1,1 @@
+SELECT host_city FROM hosting_city ORDER BY YEAR DESC LIMIT 1

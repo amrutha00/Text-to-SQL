@@ -1,0 +1,1 @@
+SELECT count(DISTINCT payment_method_code) FROM parties

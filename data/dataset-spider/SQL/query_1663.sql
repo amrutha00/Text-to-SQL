@@ -1,0 +1,1 @@
+SELECT name FROM artist ORDER BY year_join DESC LIMIT 1

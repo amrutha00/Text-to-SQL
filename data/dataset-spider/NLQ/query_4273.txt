@@ -1,0 +1,1 @@
+Find all the male members of club "Hopkins Student Enterprises". Show the first name and last name.

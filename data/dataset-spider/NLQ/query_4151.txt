@@ -1,0 +1,1 @@
+Find the titles and studios of the films that are produced by some film studios that contained the word "Universal".

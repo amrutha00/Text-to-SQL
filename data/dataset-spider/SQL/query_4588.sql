@@ -1,0 +1,1 @@
+SELECT avg(Product_Price) FROM Products

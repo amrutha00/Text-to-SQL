@@ -1,0 +1,1 @@
+what is id of students who registered some courses but the least number of courses in these students?

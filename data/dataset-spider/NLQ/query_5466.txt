@@ -1,0 +1,1 @@
+Return all the distinct secretary votes made in the fall election cycle.

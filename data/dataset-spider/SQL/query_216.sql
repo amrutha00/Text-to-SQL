@@ -1,0 +1,1 @@
+SELECT Title FROM book ORDER BY Issues ASC

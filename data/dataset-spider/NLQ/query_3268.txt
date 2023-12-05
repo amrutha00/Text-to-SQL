@@ -1,0 +1,1 @@
+What is the first name of students who got grade C in any class?

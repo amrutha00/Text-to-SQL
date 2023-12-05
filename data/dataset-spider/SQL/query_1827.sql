@@ -1,0 +1,1 @@
+SELECT count(*) FROM browser WHERE market_share  >=  5

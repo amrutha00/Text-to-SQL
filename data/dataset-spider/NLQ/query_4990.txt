@@ -1,0 +1,1 @@
+For each position, what is the minimum time students spent practicing?

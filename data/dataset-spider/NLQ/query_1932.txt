@@ -1,0 +1,1 @@
+Show all the locations where some cinemas were opened in both year 2010 and year 2011.

@@ -1,0 +1,1 @@
+Find the location and all games score of the school that has Clemson as its team name.

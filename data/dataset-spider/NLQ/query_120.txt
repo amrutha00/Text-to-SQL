@@ -1,0 +1,1 @@
+What is the id of the trip that has the shortest duration?

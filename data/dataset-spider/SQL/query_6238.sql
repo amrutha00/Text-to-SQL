@@ -1,0 +1,1 @@
+SELECT avg(age) ,  min(age) ,  CLASS FROM captain GROUP BY CLASS

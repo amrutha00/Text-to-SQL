@@ -1,0 +1,1 @@
+Find the distinct names of all songs that have a higher resolution than some songs in English.

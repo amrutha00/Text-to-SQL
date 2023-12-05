@@ -1,0 +1,1 @@
+SELECT name ,  country FROM people WHERE age  <  (SELECT avg(age) FROM people)

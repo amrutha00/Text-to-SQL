@@ -1,0 +1,1 @@
+SELECT nurse FROM on_call WHERE blockfloor  =  1 AND blockcode  =  1

@@ -1,0 +1,1 @@
+Find the name of the candidates whose oppose percentage is the lowest for each sex.

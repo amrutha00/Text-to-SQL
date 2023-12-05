@@ -1,0 +1,1 @@
+SELECT name ,  manufacturer_id FROM manufacturer ORDER BY open_year

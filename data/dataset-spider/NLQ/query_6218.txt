@@ -1,0 +1,1 @@
+Show the names of countries and the average speed of roller coasters from each country.

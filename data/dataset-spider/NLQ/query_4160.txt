@@ -1,0 +1,1 @@
+Return the titles and directors of films that were never in the market of China.

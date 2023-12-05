@@ -1,0 +1,1 @@
+SELECT count(*) FROM people WHERE is_male  =  'F' AND age  >  30

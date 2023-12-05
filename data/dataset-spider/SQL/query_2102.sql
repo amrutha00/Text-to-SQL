@@ -1,0 +1,1 @@
+SELECT document_type_description FROM Ref_Document_Types WHERE document_type_code = "Paper";

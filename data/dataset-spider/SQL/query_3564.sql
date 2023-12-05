@@ -1,0 +1,1 @@
+SELECT avg(rating) ,  languages FROM song GROUP BY languages

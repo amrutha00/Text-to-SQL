@@ -1,0 +1,1 @@
+SELECT max(used_kb) , min(used_kb) , avg(used_kb) FROM screen_mode;

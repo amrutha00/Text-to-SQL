@@ -1,0 +1,1 @@
+What is the highest salary among each team? List the team name, id and maximum salary.

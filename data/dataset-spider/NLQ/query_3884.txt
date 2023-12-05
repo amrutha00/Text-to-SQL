@@ -1,0 +1,1 @@
+Compute the total amount of payment processed.

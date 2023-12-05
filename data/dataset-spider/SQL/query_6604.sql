@@ -1,0 +1,1 @@
+SELECT name ,  main_services FROM station ORDER BY total_passengers DESC LIMIT 3

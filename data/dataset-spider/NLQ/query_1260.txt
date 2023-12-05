@@ -1,0 +1,1 @@
+Which apartment type has the largest number of total rooms? Return the apartment type code, its number of bathrooms and number of bedrooms.

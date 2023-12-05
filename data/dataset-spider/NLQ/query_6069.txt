@@ -1,0 +1,1 @@
+Find the name of the customers who use the most frequently used payment method.

@@ -1,0 +1,1 @@
+SELECT rank ,  Fname ,  Lname FROM Faculty

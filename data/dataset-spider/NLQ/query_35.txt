@@ -1,0 +1,1 @@
+Show the years and the official names of the host cities of competitions.

@@ -1,0 +1,1 @@
+Return the minimum and maximum crime rates across all counties.

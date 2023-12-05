@@ -1,0 +1,1 @@
+Count the number of different colleges that players who play for Columbus Crew are from.

@@ -1,0 +1,1 @@
+SELECT document_type_code FROM Document_Types WHERE document_description LIKE 'Initial%'

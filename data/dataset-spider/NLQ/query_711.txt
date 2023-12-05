@@ -1,0 +1,1 @@
+Count the number of credit cards that the customer with first name Blanche and last name Huels has.

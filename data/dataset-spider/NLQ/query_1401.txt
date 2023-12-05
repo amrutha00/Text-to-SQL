@@ -1,0 +1,1 @@
+Find the minimum salary for the departments whose average salary is above the average payment of all instructors.

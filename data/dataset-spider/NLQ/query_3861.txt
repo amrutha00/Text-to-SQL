@@ -1,0 +1,1 @@
+Among all the claims, which claims have a claimed amount larger than the average? List the date the claim was made and the date it was settled.

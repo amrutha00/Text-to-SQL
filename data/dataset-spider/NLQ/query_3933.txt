@@ -1,0 +1,1 @@
+Find the number of rooms located on each block floor.

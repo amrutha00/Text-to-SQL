@@ -1,0 +1,1 @@
+Which department has more than 1 head at a time? List the id, name and the number of heads.

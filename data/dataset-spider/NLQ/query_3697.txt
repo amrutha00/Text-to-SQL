@@ -1,0 +1,1 @@
+Compute the total salary that the player with first name Len and last name Barker received between 1985 to 1990.

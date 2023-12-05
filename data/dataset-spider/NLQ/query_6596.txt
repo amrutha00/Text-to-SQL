@@ -1,0 +1,1 @@
+Find the average price of wines that are not produced from Sonoma county.

@@ -1,0 +1,1 @@
+SELECT student_capacity ,  gender FROM dorm WHERE dorm_name LIKE '%Donor%'

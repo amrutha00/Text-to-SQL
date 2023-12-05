@@ -1,0 +1,1 @@
+SELECT g_name ,  rating FROM genre ORDER BY g_name

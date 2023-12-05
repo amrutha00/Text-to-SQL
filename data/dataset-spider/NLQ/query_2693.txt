@@ -1,0 +1,1 @@
+Show all region code and region name sorted by the codes.

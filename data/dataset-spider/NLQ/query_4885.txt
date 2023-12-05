@@ -1,0 +1,1 @@
+Show locations and nicknames of schools.

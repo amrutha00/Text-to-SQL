@@ -1,0 +1,1 @@
+Return the characters and durations for each actor.

@@ -1,0 +1,1 @@
+SELECT count(*) FROM Player WHERE HS  >  1000

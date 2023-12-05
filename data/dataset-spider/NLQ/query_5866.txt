@@ -1,0 +1,1 @@
+What are the lot details of lots associated with transactions whose share count is bigger than 100 and whose type code is "PUR"?

@@ -1,0 +1,1 @@
+Show the names of donors who donated to both school "Glenn" and "Triton."

@@ -1,0 +1,1 @@
+Which guests have apartment bookings with status code "Confirmed"? Return their first names and last names.

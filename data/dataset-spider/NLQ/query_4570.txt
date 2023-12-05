@@ -1,0 +1,1 @@
+Please show each industry and the corresponding number of companies in that industry.

@@ -1,0 +1,1 @@
+What is the first and last name of the youngest student with a GPA above 3, and what is their GPA?

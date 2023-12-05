@@ -1,0 +1,1 @@
+SELECT Wheels ,  LOCATION FROM railway

@@ -1,0 +1,1 @@
+How many male students (sex is 'M') are allergic to any type of food?

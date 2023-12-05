@@ -1,0 +1,1 @@
+How many students are advised by each rank of faculty? List the rank and the number of students.

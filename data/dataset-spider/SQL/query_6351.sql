@@ -1,0 +1,1 @@
+SELECT party ,  count(*) FROM driver GROUP BY party

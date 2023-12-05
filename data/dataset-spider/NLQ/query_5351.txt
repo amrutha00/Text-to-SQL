@@ -1,0 +1,1 @@
+Select the code of the product that is cheapest in each product category.

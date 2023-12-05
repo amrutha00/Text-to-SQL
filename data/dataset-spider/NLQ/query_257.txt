@@ -1,0 +1,1 @@
+Show names of musicals and the number of actors who have appeared in the musicals.

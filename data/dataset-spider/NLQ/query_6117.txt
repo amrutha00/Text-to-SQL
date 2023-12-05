@@ -1,0 +1,1 @@
+Tell me the total quantity of products bought by the customer called "Rodrick Heaney".

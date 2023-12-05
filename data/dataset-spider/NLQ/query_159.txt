@@ -1,0 +1,1 @@
+For each zip code, how many times has the maximum wind speed reached 25 mph?

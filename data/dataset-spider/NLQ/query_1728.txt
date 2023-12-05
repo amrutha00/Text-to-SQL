@@ -1,0 +1,1 @@
+Show the residences that have at least two players.

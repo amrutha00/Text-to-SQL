@@ -1,0 +1,1 @@
+SELECT DISTINCT lot_details FROM LOTS

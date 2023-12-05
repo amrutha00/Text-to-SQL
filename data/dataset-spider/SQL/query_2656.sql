@@ -1,0 +1,1 @@
+SELECT council_tax_id ,  cmi_cross_ref_id FROM parking_fines

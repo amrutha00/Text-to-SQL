@@ -1,0 +1,1 @@
+Give the names and scores of wines made from white grapes.

@@ -1,0 +1,1 @@
+SELECT min(bathroom_count) ,  max(bathroom_count) FROM Apartments

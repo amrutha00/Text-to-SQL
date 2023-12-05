@@ -1,0 +1,1 @@
+SELECT DISTINCT YEAR FROM party WHERE Governor  =  "Eliot Spitzer"

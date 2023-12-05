@@ -1,0 +1,1 @@
+Find the names of the tourist attractions that is either accessible by walk or at address 660 Shea Crescent.

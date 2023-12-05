@@ -1,0 +1,1 @@
+Show the church names for the weddings of all people older than 30.

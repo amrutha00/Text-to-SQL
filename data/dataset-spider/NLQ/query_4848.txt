@@ -1,0 +1,1 @@
+List the id and type of each thing, and the details of the organization that owns it.

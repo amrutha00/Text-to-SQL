@@ -1,0 +1,1 @@
+Return all the information for each election record.

@@ -1,0 +1,1 @@
+What is the name of every city that has at least 15 stations and how many stations does it have?

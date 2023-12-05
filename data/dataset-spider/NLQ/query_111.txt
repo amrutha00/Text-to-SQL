@@ -1,0 +1,1 @@
+What are the dates with a maximum temperature higher than 85?

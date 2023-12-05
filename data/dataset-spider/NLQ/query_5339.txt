@@ -1,0 +1,1 @@
+Select all the data from the products and each product's manufacturer.

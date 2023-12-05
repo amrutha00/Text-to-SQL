@@ -1,0 +1,1 @@
+List the customer event id and the corresponding move in date and property id.

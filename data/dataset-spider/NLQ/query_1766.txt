@@ -1,0 +1,1 @@
+Give the hometowns from which two or more gymnasts are from.

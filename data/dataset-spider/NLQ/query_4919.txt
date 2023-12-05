@@ -1,0 +1,1 @@
+Find all the stores in the district with the most population.

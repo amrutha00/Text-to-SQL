@@ -1,0 +1,1 @@
+What are the names of the characteristics of the product 'sesame' that have the characteristic type code 'Grade'?

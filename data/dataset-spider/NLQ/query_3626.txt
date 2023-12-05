@@ -1,0 +1,1 @@
+Find the names of the artists who have produced English songs but have never received rating higher than 8.

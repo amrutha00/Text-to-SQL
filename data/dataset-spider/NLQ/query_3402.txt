@@ -1,0 +1,1 @@
+Find the number of funiture types produced by each manufacturer as well as the company names.

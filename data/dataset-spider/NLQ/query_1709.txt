@@ -1,0 +1,1 @@
+Find the name and id of the good with the highest average rank.

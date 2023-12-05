@@ -1,0 +1,1 @@
+Find the name of the department that has no students minored in?

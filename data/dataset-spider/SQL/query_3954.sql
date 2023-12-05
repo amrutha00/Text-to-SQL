@@ -1,0 +1,1 @@
+SELECT DISTINCT name FROM nurse ORDER BY name

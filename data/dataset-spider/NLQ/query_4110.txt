@@ -1,0 +1,1 @@
+Show the names of companies and the number of employees they have

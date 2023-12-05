@@ -1,0 +1,1 @@
+Return the investors who have invested in two or more entrepreneurs.

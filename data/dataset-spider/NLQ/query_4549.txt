@@ -1,0 +1,1 @@
+Find the names of the companies whose headquarters are not located in "USA".

@@ -1,0 +1,1 @@
+Show the locations that have both performances with more than 2000 attendees and performances with less than 1000 attendees.

@@ -1,0 +1,1 @@
+SELECT poll_source FROM candidate ORDER BY oppose_rate DESC LIMIT 1

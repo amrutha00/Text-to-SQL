@@ -1,0 +1,1 @@
+SELECT country_id ,  COUNT(*) FROM locations GROUP BY country_id

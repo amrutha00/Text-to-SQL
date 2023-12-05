@@ -1,0 +1,1 @@
+SELECT count(*) FROM Documents_with_expenses

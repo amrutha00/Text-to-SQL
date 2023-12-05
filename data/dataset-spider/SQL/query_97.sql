@@ -1,0 +1,1 @@
+SELECT course_name FROM courses ORDER BY course_name

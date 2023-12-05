@@ -1,0 +1,1 @@
+Find the last name of the latest contact individual of the organization "Labour Party".

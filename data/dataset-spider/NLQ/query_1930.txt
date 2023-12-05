@@ -1,0 +1,1 @@
+How many institutions do not have an associated protein in our record?

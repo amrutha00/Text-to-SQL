@@ -1,0 +1,1 @@
+Show the locations of schools that have more than 1 player.

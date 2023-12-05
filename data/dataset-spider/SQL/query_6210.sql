@@ -1,0 +1,1 @@
+SELECT avg(Speed) FROM roller_coaster

@@ -1,0 +1,1 @@
+List the votes of elections in descending order.

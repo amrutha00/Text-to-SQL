@@ -1,0 +1,1 @@
+Show the crime rate of counties with a city having white percentage more than 90.

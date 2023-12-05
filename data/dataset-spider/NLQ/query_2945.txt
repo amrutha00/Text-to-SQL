@@ -1,0 +1,1 @@
+Find all the payment dates for the payments with an amount larger than 10 and the payments handled by a staff person with the first name Elsa.

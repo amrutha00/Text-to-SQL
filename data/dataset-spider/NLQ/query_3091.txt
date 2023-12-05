@@ -1,0 +1,1 @@
+Return all distinct detention type codes.

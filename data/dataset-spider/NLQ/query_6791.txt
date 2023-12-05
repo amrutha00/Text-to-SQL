@@ -1,0 +1,1 @@
+What are the ids of the students who are under 20 years old and are involved in at least one activity.

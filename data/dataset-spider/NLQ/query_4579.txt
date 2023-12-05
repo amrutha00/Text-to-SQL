@@ -1,0 +1,1 @@
+Which industries have both companies with headquarter in "USA" and companies with headquarter in "China"?

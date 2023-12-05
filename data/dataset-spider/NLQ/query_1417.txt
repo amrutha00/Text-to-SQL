@@ -1,0 +1,1 @@
+Find the name and salary of the instructors who are advisors of any student from History department?

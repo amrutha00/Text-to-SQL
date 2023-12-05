@@ -1,0 +1,1 @@
+SELECT Party ,  COUNT(*) FROM representative GROUP BY Party

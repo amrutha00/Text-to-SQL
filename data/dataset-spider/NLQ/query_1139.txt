@@ -1,0 +1,1 @@
+Please show the countries and the number of climbers from each country.

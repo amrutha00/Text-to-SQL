@@ -1,0 +1,1 @@
+Count the number of budgets in year 2001 or before whose budgeted amount is greater than 3000

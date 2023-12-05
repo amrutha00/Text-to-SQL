@@ -1,0 +1,1 @@
+SELECT Memory_in_G ,  Carrier FROM phone

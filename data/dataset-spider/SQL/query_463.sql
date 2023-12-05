@@ -1,0 +1,1 @@
+SELECT Fname ,  Lname FROM Student

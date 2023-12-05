@@ -1,0 +1,1 @@
+SELECT document_type_code FROM Ref_Document_Types;

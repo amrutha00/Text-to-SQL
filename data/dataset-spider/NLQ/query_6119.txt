@@ -1,0 +1,1 @@
+Return the number of customers who have at least one order with "Cancelled" status.

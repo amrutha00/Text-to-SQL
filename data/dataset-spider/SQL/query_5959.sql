@@ -1,0 +1,1 @@
+SELECT T2.Name FROM Locations AS T1 JOIN Tourist_Attractions AS T2 ON T1.Location_ID  =  T2.Location_ID WHERE T1.Address  =  "660 Shea Crescent" OR T2.How_to_Get_There  =  "walk"

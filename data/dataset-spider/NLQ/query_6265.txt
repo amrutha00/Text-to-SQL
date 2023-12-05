@@ -1,0 +1,1 @@
+Find the name and flag of ships that are not steered by any captain with Midshipman rank.

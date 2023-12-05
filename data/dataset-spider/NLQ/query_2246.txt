@@ -1,0 +1,1 @@
+Show different teams of technicians and the number of technicians in each team.

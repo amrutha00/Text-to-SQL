@@ -1,0 +1,1 @@
+Give me the zip code where the average mean humidity is below 70 and at least 100 trips took place.

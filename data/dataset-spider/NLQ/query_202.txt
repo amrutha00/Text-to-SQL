@@ -1,0 +1,1 @@
+Find the day in which the difference between the max temperature and min temperature was the smallest. Also report the difference.

@@ -1,0 +1,1 @@
+Return the title and inventory id of the film that is rented most often.

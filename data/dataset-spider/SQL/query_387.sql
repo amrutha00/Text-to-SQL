@@ -1,0 +1,1 @@
+SELECT flno FROM Flight WHERE origin  =  "Los Angeles"

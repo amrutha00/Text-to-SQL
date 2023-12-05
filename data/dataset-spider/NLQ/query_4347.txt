@@ -1,0 +1,1 @@
+What is the total amount of grants given by each organisations? Also list the organisation id.

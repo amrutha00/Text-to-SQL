@@ -1,0 +1,1 @@
+What are the locations that have gas stations owned by a company with a market value greater than 100?

@@ -1,0 +1,1 @@
+Return the issue dates of volumes that are by the artist named Gorgoroth.

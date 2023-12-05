@@ -1,0 +1,1 @@
+SELECT sum(Amount_Claimed) FROM Claims

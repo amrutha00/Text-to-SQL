@@ -1,0 +1,1 @@
+What are the names of all songs that have a lower rating than some song of blues genre?

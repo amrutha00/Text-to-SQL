@@ -1,0 +1,1 @@
+SELECT min(Crime_rate) ,  max(Crime_rate) FROM county_public_safety

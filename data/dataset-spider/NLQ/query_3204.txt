@@ -1,0 +1,1 @@
+Find the number of classes offered for all class rooms that held at least 2 classes.

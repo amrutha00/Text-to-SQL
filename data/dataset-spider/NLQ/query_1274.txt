@@ -1,0 +1,1 @@
+Which apartments have unit status availability of both 0 and 1? Return their apartment numbers.

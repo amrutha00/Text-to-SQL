@@ -1,0 +1,1 @@
+SELECT DISTINCT firstname FROM list WHERE classroom  =  107

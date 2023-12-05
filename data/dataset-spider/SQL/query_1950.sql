@@ -1,0 +1,1 @@
+SELECT directed_by ,  count(*) FROM film GROUP BY directed_by

@@ -1,0 +1,1 @@
+Whare the names, friends, and ages of all people who are older than the average age of a person?

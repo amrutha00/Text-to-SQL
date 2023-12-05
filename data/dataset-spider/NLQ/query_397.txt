@@ -1,0 +1,1 @@
+What is the origin and destination for all flights whose price is higher than 300?

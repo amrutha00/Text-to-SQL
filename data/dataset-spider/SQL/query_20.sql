@@ -1,0 +1,1 @@
+SELECT Total_Horses FROM farm ORDER BY Total_Horses ASC

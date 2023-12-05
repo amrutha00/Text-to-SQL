@@ -1,0 +1,1 @@
+Find the distinct driver id and the stop number of all drivers that have a shorter pit stop duration than some drivers in the race with id 841.

@@ -1,0 +1,1 @@
+What are the city name, id, and number of addresses corresponding to the city with the most addressed?

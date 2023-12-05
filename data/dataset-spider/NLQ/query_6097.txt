@@ -1,0 +1,1 @@
+Which contact channel codes were used less than 5 times?

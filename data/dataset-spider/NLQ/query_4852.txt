@@ -1,0 +1,1 @@
+What are the distinct id and type of the thing that has the status 'Close' or has a status record before the date '2017-06-19 02:59:21'

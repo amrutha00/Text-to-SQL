@@ -1,0 +1,1 @@
+SELECT title FROM course ORDER BY title ,  credits

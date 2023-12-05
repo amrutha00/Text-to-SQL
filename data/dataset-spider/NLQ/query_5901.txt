@@ -1,0 +1,1 @@
+Find the address of the location named "UK Gallery".

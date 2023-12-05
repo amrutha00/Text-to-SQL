@@ -1,0 +1,1 @@
+Find the delegates who are from counties with population below 100000.

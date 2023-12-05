@@ -1,0 +1,1 @@
+What are the years, titles, and publishers for all books, ordered by year descending?

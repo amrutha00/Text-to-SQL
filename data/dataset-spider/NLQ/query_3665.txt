@@ -1,0 +1,1 @@
+What are the first name and last name of the players who have weight above 220 or height below 75?

@@ -1,0 +1,1 @@
+SELECT count(DISTINCT incident_type_code) FROM Behavior_Incident

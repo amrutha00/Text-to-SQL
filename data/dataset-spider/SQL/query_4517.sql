@@ -1,0 +1,1 @@
+SELECT document_type_code FROM documents GROUP BY document_type_code HAVING sum(access_count)  >  10000

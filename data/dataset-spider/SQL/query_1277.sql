@@ -1,0 +1,1 @@
+SELECT season ,  home_team ,  away_team FROM game

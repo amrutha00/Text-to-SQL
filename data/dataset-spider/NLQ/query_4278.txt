@@ -1,0 +1,1 @@
+Find the club which has the largest number of members majoring in "600".

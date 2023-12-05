@@ -1,0 +1,1 @@
+SELECT count(DISTINCT class_section) FROM CLASS WHERE crs_code  =  'ACCT-211'

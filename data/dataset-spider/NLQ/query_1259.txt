@@ -1,0 +1,1 @@
+Show the apartment type code that has the largest number of total rooms, together with the number of bathrooms and number of bedrooms.

@@ -1,0 +1,1 @@
+SELECT Hosts FROM farm_competition WHERE Theme !=  'Aliens'

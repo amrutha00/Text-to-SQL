@@ -1,0 +1,1 @@
+SELECT Gender ,  Occupation FROM player

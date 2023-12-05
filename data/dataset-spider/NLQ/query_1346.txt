@@ -1,0 +1,1 @@
+What is the title, credit value, and department name for courses with more than one prerequisite?

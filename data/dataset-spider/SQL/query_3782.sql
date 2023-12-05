@@ -1,0 +1,1 @@
+SELECT count(DISTINCT student_id) FROM Student_Course_Enrolment

@@ -1,0 +1,1 @@
+Show the names of mountains with height more than 5000 or prominence more than 1000.

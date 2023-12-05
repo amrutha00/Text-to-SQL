@@ -1,0 +1,1 @@
+SELECT product_category_description FROM ref_product_categories WHERE product_category_code  =  "Spices"

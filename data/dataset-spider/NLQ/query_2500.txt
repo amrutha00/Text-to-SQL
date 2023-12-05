@@ -1,0 +1,1 @@
+What are the titles and average ratings for all movies that have the lowest average rating?

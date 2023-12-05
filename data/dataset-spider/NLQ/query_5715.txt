@@ -1,0 +1,1 @@
+Find the first and last name of students whose age is younger than the average age.

@@ -1,0 +1,1 @@
+Count the number of customers that have the customer type that is most common.

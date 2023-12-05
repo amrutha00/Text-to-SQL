@@ -1,0 +1,1 @@
+What is the count of customers that Steve Johnson supports?

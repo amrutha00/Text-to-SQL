@@ -1,0 +1,1 @@
+SELECT dept_name FROM course GROUP BY dept_name ORDER BY count(*) DESC LIMIT 3

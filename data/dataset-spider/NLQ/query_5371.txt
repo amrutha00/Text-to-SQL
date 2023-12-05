@@ -1,0 +1,1 @@
+Find the ids of the problems that are reported by the staff whose last name is Bosco.

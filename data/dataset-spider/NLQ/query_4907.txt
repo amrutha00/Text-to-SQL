@@ -1,0 +1,1 @@
+Find the name all districts with city area greater than 10 or population larger than 100000

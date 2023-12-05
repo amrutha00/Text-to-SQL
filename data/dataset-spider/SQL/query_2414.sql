@@ -1,0 +1,1 @@
+SELECT avg(weight) ,  min(weight) ,  sex FROM people GROUP BY sex

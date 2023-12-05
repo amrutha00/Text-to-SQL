@@ -1,0 +1,1 @@
+List the project details of the projects with the research outcome described with the substring 'Published'.

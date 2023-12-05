@@ -1,0 +1,1 @@
+Find all phones that have word 'Full' in their accreditation types. List the Hardware Model name and Company name.

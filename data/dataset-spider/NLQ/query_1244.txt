@@ -1,0 +1,1 @@
+How many rooms in total are there in the apartments in the building with short name "Columbus Square"?

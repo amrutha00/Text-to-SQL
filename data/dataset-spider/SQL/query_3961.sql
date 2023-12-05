@@ -1,0 +1,1 @@
+SELECT physician ,  department FROM affiliated_with WHERE primaryaffiliation  =  1

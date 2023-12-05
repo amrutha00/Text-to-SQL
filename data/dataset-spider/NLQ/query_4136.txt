@@ -1,0 +1,1 @@
+Give the average number of cities within markets that had a low market estimation larger than 10000?

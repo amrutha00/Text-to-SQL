@@ -1,0 +1,1 @@
+SELECT min(age) ,  job FROM Person GROUP BY job

@@ -1,0 +1,1 @@
+List the document type code for the document with the id 2.

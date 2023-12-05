@@ -1,0 +1,1 @@
+SELECT company ,  headquarters FROM company ORDER BY market_value DESC

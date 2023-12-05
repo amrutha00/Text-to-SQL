@@ -1,0 +1,1 @@
+How many distinct transaction types are used in the transactions?

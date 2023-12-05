@@ -1,0 +1,1 @@
+List the file size and format for all songs that have resolution lower than 800.

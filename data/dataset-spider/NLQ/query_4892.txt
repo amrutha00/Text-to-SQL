@@ -1,0 +1,1 @@
+What is the school color of the school with the largest enrollment?

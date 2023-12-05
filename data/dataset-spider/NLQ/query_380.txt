@@ -1,0 +1,1 @@
+Show the id and salary of Mark Young.

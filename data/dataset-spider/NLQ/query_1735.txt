@@ -1,0 +1,1 @@
+How many coaches does each club has? List the club id, name and the number of coaches.

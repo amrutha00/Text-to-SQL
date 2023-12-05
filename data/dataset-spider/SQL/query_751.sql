@@ -1,0 +1,1 @@
+SELECT name ,  LOCATION FROM track

@@ -1,0 +1,1 @@
+Find the average number of bedrooms of all the apartments.

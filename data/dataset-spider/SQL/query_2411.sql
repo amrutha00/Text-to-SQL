@@ -1,0 +1,1 @@
+SELECT name FROM people WHERE height  >  200 OR height  <  190

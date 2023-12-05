@@ -1,0 +1,1 @@
+List the distinct payment method codes with the number of orders made

@@ -1,0 +1,1 @@
+SELECT Name FROM musical WHERE Musical_ID NOT IN (SELECT Musical_ID FROM actor)

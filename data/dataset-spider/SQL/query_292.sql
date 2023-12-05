@@ -1,0 +1,1 @@
+SELECT name ,  email FROM user_profiles ORDER BY followers LIMIT 1

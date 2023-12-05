@@ -1,0 +1,1 @@
+Return the detail of the location named "UK Gallery".

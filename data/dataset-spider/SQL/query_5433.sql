@@ -1,0 +1,1 @@
+SELECT city FROM branch WHERE open_year  =  2001 AND membership_amount  >  100

@@ -1,0 +1,1 @@
+SELECT sum(grant_amount) ,  organisation_id FROM Grants GROUP BY organisation_id

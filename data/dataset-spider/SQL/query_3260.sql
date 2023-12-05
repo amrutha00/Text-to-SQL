@@ -1,0 +1,1 @@
+SELECT emp_fname FROM employee WHERE emp_jobcode  =  'PROF' ORDER BY emp_dob

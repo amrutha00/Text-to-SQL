@@ -1,0 +1,1 @@
+SELECT TYPE FROM school GROUP BY TYPE HAVING count(*)  =  2

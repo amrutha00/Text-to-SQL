@@ -1,0 +1,1 @@
+SELECT name FROM swimmer ORDER BY meter_100

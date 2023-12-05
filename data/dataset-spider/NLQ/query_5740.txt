@@ -1,0 +1,1 @@
+For each dorm, how many amenities does it have?

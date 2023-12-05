@@ -1,0 +1,1 @@
+What are the names and salaries for instructors who earn less than the average salary of instructors in the Physics department?

@@ -1,0 +1,1 @@
+SELECT product_type_code ,  avg(product_price) FROM products GROUP BY product_type_code

@@ -1,0 +1,1 @@
+Return the colleges that have players who play the Midfielder position, as well as players who play the Defender position.

@@ -1,0 +1,1 @@
+List email address and birthday of customer whose first name as Carole.

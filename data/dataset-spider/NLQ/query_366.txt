@@ -1,0 +1,1 @@
+Show ids for all employees with at least 100000 salary.

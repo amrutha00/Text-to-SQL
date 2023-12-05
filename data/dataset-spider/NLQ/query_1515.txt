@@ -1,0 +1,1 @@
+Which types of policy are chosen by more than 2 customers? Give me the policy type codes.

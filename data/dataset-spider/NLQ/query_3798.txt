@@ -1,0 +1,1 @@
+Sort the information about course authors and tutors in alphabetical order of the personal name.

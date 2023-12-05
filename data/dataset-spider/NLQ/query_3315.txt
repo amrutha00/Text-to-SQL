@@ -1,0 +1,1 @@
+What are the first names, office locations of all lecturers who have taught some course?

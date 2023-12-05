@@ -1,0 +1,1 @@
+What are the completion dates of all the tests that have result "Fail"?

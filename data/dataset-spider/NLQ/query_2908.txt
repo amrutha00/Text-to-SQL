@@ -1,0 +1,1 @@
+Which papers have the substring "Database" in their titles? Show the titles of the papers.

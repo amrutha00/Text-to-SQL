@@ -1,0 +1,1 @@
+What is the id of the patient who stayed in room 111 most recently?

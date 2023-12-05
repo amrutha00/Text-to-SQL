@@ -1,0 +1,1 @@
+SELECT founder FROM manufacturers WHERE name LIKE 'S%'

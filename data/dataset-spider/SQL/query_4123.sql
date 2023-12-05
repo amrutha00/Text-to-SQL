@@ -1,0 +1,1 @@
+SELECT max(Number_cities) ,  min(Number_cities) FROM market

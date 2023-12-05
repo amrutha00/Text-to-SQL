@@ -1,0 +1,1 @@
+Find the name of companies whose revenue is smaller than the revenue of all companies based in Austin.

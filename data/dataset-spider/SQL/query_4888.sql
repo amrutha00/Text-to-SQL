@@ -1,0 +1,1 @@
+SELECT Denomination ,  COUNT(*) FROM school GROUP BY Denomination

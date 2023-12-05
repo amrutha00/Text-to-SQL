@@ -1,0 +1,1 @@
+What is the name of the customer who has made the largest amount of claim in a single claim?

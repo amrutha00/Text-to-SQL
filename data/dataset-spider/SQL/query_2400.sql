@@ -1,0 +1,1 @@
+SELECT support_rate FROM candidate ORDER BY support_rate DESC LIMIT 3

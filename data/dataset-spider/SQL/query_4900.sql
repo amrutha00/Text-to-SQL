@@ -1,0 +1,1 @@
+SELECT Denomination FROM school GROUP BY Denomination HAVING COUNT(*)  >  1

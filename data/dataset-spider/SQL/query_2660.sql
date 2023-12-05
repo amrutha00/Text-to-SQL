@@ -1,0 +1,1 @@
+SELECT DISTINCT source_system_code FROM cmi_cross_references WHERE source_system_code LIKE '%en%'

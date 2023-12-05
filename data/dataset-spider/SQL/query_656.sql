@@ -1,0 +1,1 @@
+SELECT Age ,  COUNT(*) FROM editor GROUP BY Age

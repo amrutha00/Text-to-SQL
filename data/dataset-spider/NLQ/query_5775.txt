@@ -1,0 +1,1 @@
+List the name of all products along with the number of complaints that they have received.

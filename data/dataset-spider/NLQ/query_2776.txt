@@ -1,0 +1,1 @@
+For each county, find the name of the county and the number of delegates from that county.

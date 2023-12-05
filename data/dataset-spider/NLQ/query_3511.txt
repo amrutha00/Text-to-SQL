@@ -1,0 +1,1 @@
+What are the employee ids, full names, and job ids for employees who make more than the highest earning employee with title PU_MAN?

@@ -1,0 +1,1 @@
+Show the minimum, average, and maximum age of all students.

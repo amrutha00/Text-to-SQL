@@ -1,0 +1,1 @@
+List how many times the number of people in the room reached the maximum occupancy of the room. The number of people include adults and kids.

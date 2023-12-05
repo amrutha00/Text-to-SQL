@@ -1,0 +1,1 @@
+Show the budget type code and description and the corresponding document id.

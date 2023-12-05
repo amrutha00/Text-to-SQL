@@ -1,0 +1,1 @@
+For each tourist attraction, return its name and the date when the tourists named Vincent or Vivian visited there.

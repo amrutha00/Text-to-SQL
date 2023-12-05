@@ -1,0 +1,1 @@
+SELECT Name FROM ARTIST WHERE Name LIKE "%a%"

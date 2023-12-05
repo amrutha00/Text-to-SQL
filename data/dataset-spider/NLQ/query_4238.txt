@@ -1,0 +1,1 @@
+What are the id of each employee and the number of document destruction authorised by that employee?

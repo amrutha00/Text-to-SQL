@@ -1,0 +1,1 @@
+How many students are from each city, and which cities have more than one cities?

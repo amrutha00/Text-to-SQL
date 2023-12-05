@@ -1,0 +1,1 @@
+Show the ids of students whose advisors are professors.

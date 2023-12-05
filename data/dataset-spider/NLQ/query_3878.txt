@@ -1,0 +1,1 @@
+Tell me the the claim date and settlement date for each settlement case.

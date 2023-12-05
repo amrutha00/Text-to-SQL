@@ -1,0 +1,1 @@
+Show all the buildings along with the number of faculty members the buildings have.

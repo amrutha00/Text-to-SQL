@@ -1,0 +1,1 @@
+Find the total number of students and total number of instructors for each department.

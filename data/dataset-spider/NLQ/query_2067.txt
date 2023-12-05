@@ -1,0 +1,1 @@
+Which member names are shared among members in the party with the id 3 and the party with the id 1?

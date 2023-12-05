@@ -1,0 +1,1 @@
+Show all card type codes and the number of cards in each type.

@@ -1,0 +1,1 @@
+SELECT state FROM customers GROUP BY state ORDER BY count(*) LIMIT 1

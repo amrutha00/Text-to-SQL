@@ -1,0 +1,1 @@
+SELECT max(LEVEL) FROM manager WHERE Country != "Australia	"

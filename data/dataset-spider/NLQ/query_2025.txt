@@ -1,0 +1,1 @@
+For each company id, what are the companies and how many gas stations does each one operate?

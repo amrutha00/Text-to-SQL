@@ -1,0 +1,1 @@
+SELECT attribute_data_type FROM Attribute_Definitions WHERE attribute_name  =  "Green"

@@ -1,0 +1,1 @@
+Show the official names of the cities that have hosted more than one competition.

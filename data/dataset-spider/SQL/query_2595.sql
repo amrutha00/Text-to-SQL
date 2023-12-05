@@ -1,0 +1,1 @@
+SELECT decor FROM Rooms WHERE roomName  =  "Recluse and defiance";

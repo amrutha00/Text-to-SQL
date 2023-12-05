@@ -1,0 +1,1 @@
+Tell me the highest, lowest, and average cost of procedures.

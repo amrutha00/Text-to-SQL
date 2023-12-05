@@ -1,0 +1,1 @@
+Find the cell mobile number of the candidates whose assessment code is "Fail"?

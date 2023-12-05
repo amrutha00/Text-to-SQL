@@ -1,0 +1,1 @@
+SELECT salary ,  manager_id FROM employees WHERE manager_id != "null"

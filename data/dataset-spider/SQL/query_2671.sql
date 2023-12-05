@@ -1,0 +1,1 @@
+SELECT LOCATION FROM party ORDER BY Number_of_hosts DESC LIMIT 1

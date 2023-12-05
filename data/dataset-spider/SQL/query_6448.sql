@@ -1,0 +1,1 @@
+SELECT document_id FROM Documents_with_expenses WHERE budget_type_code  =  'SF'

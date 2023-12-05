@@ -1,0 +1,1 @@
+Find the login name of the course author that teaches the course with name "advanced database".

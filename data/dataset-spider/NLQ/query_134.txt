@@ -1,0 +1,1 @@
+Which start station had the most trips starting from August? Give me the name and id of the station.

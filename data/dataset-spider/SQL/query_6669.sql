@@ -1,0 +1,1 @@
+SELECT date_became_customer FROM Customers WHERE first_name = "Carole" AND last_name = "Bernhard";

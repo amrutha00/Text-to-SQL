@@ -1,0 +1,1 @@
+return all columns of the albums created in the year of 2012.

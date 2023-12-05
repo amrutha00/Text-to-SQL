@@ -1,0 +1,1 @@
+What is the customer id with most number of cards, and how many does he have?

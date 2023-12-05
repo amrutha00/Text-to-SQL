@@ -1,0 +1,1 @@
+How many airports are there per city in the United States? Order the cities by decreasing number of airports.

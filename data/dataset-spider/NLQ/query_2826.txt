@@ -1,0 +1,1 @@
+Which restaurants have highest rating? List the restaurant name and its rating.

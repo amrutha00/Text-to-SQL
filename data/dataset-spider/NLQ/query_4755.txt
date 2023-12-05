@@ -1,0 +1,1 @@
+What are the distinct ids of customers who made an order after any order that was Cancelled?

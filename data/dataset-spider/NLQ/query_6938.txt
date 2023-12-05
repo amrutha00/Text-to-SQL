@@ -1,0 +1,1 @@
+For each customer who has at least two orders, find the customer name and number of orders made.

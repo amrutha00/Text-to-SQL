@@ -1,0 +1,1 @@
+List the locations that are shared by more than two wrestlers.

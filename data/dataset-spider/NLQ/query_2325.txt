@@ -1,0 +1,1 @@
+Report the name of all campuses in Los Angeles county.

@@ -1,0 +1,1 @@
+SELECT name FROM instructor WHERE dept_name  =  'Comp. Sci.'  AND salary  >  80000

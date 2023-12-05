@@ -1,0 +1,1 @@
+SELECT LName FROM STUDENT WHERE Major  =  50

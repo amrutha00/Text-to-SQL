@@ -1,0 +1,1 @@
+Find the code of city where most of students are living in.

@@ -1,0 +1,1 @@
+Show the details and star ratings of the 3 least expensive hotels.

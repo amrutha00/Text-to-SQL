@@ -1,0 +1,1 @@
+SELECT Team FROM technician GROUP BY Team HAVING COUNT(*)  >=  2

@@ -1,0 +1,1 @@
+How many different departments are there in each school that has less than 5 apartments?

@@ -1,0 +1,1 @@
+List the official name and status of the city with the largest population.

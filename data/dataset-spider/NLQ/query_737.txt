@@ -1,0 +1,1 @@
+How many different types of transactions are there?

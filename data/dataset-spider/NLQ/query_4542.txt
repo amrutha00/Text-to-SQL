@@ -1,0 +1,1 @@
+What document types have more than 2 corresponding documents?

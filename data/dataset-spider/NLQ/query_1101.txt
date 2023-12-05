@@ -1,0 +1,1 @@
+Show the name of colleges that have at least two players.

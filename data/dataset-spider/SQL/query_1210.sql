@@ -1,0 +1,1 @@
+SELECT avg(bedroom_count) FROM Apartments

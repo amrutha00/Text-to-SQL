@@ -1,0 +1,1 @@
+Show the names of festivals that have nominated artworks of type "Program Talent Show".

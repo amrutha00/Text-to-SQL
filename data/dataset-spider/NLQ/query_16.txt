@@ -1,0 +1,1 @@
+Which head's name has the substring 'Ha'? List the id and name.

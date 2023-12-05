@@ -1,0 +1,1 @@
+SELECT Category FROM music_festival GROUP BY Category HAVING COUNT(*)  >  1

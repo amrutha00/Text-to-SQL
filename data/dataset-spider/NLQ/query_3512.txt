@@ -1,0 +1,1 @@
+display the department id and the total salary for those departments which contains at least two employees.

@@ -1,0 +1,1 @@
+Return the countries of the mountains that have a height larger than 5000.

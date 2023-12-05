@@ -1,0 +1,1 @@
+What is the last name of the first individual contacted from the organization with the maximum UK Vat number across all organizations?

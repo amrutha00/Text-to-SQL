@@ -1,0 +1,1 @@
+SELECT product_type_code ,  max(product_price) ,  min(product_price) FROM products GROUP BY product_type_code

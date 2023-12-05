@@ -1,0 +1,1 @@
+Find the number of female students (with F sex) living in Smith Hall

@@ -1,0 +1,1 @@
+Show the average, minimum, and maximum ticket prices for exhibitions for all years before 2009.

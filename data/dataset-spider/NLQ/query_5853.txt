@@ -1,0 +1,1 @@
+Show the average amount of transactions with type code "SALE".

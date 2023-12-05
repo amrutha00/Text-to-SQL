@@ -1,0 +1,1 @@
+SELECT organization_id FROM organizations EXCEPT SELECT parent_organization_id FROM organizations

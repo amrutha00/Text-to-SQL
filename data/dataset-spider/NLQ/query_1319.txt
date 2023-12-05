@@ -1,0 +1,1 @@
+Show the names of members and the location of performances they attended in ascending alphabetical order of their names.

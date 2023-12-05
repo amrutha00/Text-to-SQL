@@ -1,0 +1,1 @@
+Show the institution type with an institution founded after 1990 and an institution with at least 1000 enrollment.

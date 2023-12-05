@@ -1,0 +1,1 @@
+Return the full name and phone of the customer who has card number 4560596484842.

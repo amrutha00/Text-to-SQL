@@ -1,0 +1,1 @@
+What are the names and ids of the different categories, and how many films are in each?

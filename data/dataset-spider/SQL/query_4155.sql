@@ -1,0 +1,1 @@
+SELECT Studio FROM film GROUP BY Studio HAVING avg(Gross_in_dollar)  >=  4500000

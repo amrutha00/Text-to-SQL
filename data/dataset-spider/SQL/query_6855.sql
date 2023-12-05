@@ -1,0 +1,1 @@
+SELECT count(*) FROM (SELECT city FROM airports GROUP BY city HAVING count(*)  >  3)

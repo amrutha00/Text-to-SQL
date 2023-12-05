@@ -1,0 +1,1 @@
+SELECT DISTINCT city FROM branch WHERE membership_amount  >=  100

@@ -1,0 +1,1 @@
+Count the total number of policies used by the customer named "Dayana Robel".

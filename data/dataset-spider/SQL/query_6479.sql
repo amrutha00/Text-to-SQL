@@ -1,0 +1,1 @@
+SELECT avg(hours) FROM projects

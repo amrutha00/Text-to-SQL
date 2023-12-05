@@ -1,0 +1,1 @@
+For each course id, how many students are registered and what are the course names?

@@ -1,0 +1,1 @@
+Find the name of the company that has the least number of phone models. List the company name and the number of phone model produced by that company.

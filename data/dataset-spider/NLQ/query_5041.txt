@@ -1,0 +1,1 @@
+Find names of colleges with enrollment greater than that of some (at least one) college in the FL state.

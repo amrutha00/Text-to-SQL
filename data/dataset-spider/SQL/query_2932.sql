@@ -1,0 +1,1 @@
+SELECT district FROM address GROUP BY district HAVING count(*)  >=  2

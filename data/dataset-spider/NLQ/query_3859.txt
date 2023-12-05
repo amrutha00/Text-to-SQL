@@ -1,0 +1,1 @@
+Among all the claims, what is the amount claimed in the claim with the least amount settled? List both the settlement amount and claim amount.

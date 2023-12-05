@@ -1,0 +1,1 @@
+What are the sale details and dates of transactions with amount smaller than 3000?

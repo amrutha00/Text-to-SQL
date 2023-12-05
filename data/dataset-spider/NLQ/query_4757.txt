@@ -1,0 +1,1 @@
+Return the id of the staff whose Staff Department Assignment was earlier than that of any Clerical Staff.

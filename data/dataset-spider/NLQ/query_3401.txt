@@ -1,0 +1,1 @@
+Find the id and number of shops for the company that produces the most expensive furniture.

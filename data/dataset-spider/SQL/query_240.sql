@@ -1,0 +1,1 @@
+SELECT Character ,  Duration FROM actor

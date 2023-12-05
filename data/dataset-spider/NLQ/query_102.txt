@@ -1,0 +1,1 @@
+Find the id of courses which are registered or attended by student whose id is 121?

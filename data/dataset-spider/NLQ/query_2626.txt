@@ -1,0 +1,1 @@
+How many rooms cost more than 120, for each different decor?

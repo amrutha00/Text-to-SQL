@@ -1,0 +1,1 @@
+How many movie ratings have more than 3 stars?

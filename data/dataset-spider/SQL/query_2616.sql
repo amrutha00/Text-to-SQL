@@ -1,0 +1,1 @@
+SELECT RoomId ,  roomName FROM Rooms ORDER BY basePrice DESC LIMIT 1;

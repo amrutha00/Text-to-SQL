@@ -1,0 +1,1 @@
+Find the average elevation of all airports for each country.

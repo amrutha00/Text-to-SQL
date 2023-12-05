@@ -1,0 +1,1 @@
+Return the channel code and contact number of the customer contact channel whose active duration was the longest.

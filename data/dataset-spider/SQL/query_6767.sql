@@ -1,0 +1,1 @@
+SELECT activity_name FROM Activity

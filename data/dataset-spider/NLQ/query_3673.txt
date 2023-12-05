@@ -1,0 +1,1 @@
+For each year, return the year and the number of times the team Boston Red Stockings won in the postseasons.

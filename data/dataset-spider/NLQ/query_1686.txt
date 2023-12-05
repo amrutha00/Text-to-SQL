@@ -1,0 +1,1 @@
+How many exhibitions have a attendance more than 100 or have a ticket price below 10?

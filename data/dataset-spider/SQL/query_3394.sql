@@ -1,0 +1,1 @@
+SELECT name ,  Num_of_Component FROM furniture ORDER BY market_rate LIMIT 1

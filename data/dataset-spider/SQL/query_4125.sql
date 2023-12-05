@@ -1,0 +1,1 @@
+SELECT count(*) FROM market WHERE Number_cities  <  300

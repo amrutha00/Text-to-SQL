@@ -1,0 +1,1 @@
+What is the first name and GPA of every student that has a GPA lower than average?

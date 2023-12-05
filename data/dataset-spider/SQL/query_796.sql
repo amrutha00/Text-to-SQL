@@ -1,0 +1,1 @@
+SELECT address FROM member WHERE age  <  30 INTERSECT SELECT address FROM member WHERE age  >  40

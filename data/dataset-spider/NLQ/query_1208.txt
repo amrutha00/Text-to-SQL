@@ -1,0 +1,1 @@
+Give me the minimum and maximum bathroom count among all the apartments.

@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM Students WHERE personal_name LIKE "%son%"

@@ -1,0 +1,1 @@
+SELECT Name FROM People ORDER BY Height ASC

@@ -1,0 +1,1 @@
+SELECT major FROM Student GROUP BY major ORDER BY count(*) DESC LIMIT 1

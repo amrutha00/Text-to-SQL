@@ -1,0 +1,1 @@
+What are the names, details and data types of the characteristics which are never used by any product?

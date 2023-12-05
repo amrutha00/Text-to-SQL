@@ -1,0 +1,1 @@
+What are the names of manufacturers with revenue greater than the average of all revenues?

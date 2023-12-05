@@ -1,0 +1,1 @@
+Find the states or counties where the stores with marketing region code "CA" are located.

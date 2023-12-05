@@ -1,0 +1,1 @@
+List the service id and details for the events.

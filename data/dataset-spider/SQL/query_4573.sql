@@ -1,0 +1,1 @@
+SELECT Industry FROM Companies GROUP BY Industry ORDER BY COUNT(*) DESC

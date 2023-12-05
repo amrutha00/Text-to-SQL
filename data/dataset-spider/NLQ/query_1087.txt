@@ -1,0 +1,1 @@
+How many distinct colleges are associated with players from the team with name "Columbus Crew".

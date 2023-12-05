@@ -1,0 +1,1 @@
+Of complaints with the type code "Product Failure", how many had each different status code?

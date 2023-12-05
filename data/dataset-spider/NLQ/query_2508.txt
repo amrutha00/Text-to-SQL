@@ -1,0 +1,1 @@
+For each director, what is the title and score of their most poorly rated movie?

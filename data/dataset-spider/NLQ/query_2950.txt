@@ -1,0 +1,1 @@
+What are the title and rental rate of the film with the highest rental rate?

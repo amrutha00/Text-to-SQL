@@ -1,0 +1,1 @@
+Find the first names and offices of all instructors who have taught some course and the course description and the department name.

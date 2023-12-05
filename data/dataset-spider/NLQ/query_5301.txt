@@ -1,0 +1,1 @@
+Find the name of companies whose revenue is greater than the average revenue of all companies.

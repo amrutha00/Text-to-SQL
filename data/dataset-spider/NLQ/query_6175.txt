@@ -1,0 +1,1 @@
+Return the average number of weeks on top for volumes by artists that are at most 25 years old.

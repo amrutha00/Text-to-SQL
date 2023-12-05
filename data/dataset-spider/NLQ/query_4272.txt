@@ -1,0 +1,1 @@
+Give me the first name and last name for all the female members of the club "Bootup Baltimore".

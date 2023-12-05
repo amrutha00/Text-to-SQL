@@ -1,0 +1,1 @@
+Show the member names which are in both the party with id 3 and the party with id 1.

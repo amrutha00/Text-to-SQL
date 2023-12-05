@@ -1,0 +1,1 @@
+What are teh names of the different products, as well as the number of customers who have ordered each product.

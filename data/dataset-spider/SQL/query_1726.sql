@@ -1,0 +1,1 @@
+SELECT Occupation ,  COUNT(*) FROM player GROUP BY Occupation

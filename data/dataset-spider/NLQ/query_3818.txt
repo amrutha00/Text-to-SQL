@@ -1,0 +1,1 @@
+List the subject ID, name of subject and the number of courses available for each subject in ascending order of the course counts.

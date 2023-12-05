@@ -1,0 +1,1 @@
+What are the daily hire costs for the products with substring 'Book' in its name?

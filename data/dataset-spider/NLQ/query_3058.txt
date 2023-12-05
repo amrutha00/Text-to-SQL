@@ -1,0 +1,1 @@
+What is the average account balance of customers with credit score below 50 for the different account types?

@@ -1,0 +1,1 @@
+Find the average height of the players who belong to the college called 'Yale University'.

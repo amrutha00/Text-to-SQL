@@ -1,0 +1,1 @@
+SELECT transaction_type ,  count(*) FROM Financial_transactions GROUP BY transaction_type

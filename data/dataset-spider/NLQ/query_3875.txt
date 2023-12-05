@@ -1,0 +1,1 @@
+Who are the customers that had more than 1 policy? List the customer details and id.

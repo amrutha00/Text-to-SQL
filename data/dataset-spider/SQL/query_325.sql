@@ -1,0 +1,1 @@
+SELECT catalog_entry_name FROM catalog_contents ORDER BY height DESC LIMIT 1

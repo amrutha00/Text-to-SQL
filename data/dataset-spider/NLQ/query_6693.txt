@@ -1,0 +1,1 @@
+List the number of customers that did not have any payment history.

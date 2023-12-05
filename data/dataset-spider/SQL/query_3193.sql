@@ -1,0 +1,1 @@
+SELECT count(DISTINCT dept_address) ,  school_code FROM department GROUP BY school_code

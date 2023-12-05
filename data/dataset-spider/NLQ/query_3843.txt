@@ -1,0 +1,1 @@
+Find the personal names of students not enrolled in any course.

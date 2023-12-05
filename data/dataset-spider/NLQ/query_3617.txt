@@ -1,0 +1,1 @@
+What is the id of every song that has a resolution higher than that of a song with a rating below 8?

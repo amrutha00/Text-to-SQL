@@ -1,0 +1,1 @@
+SELECT origin FROM Flight GROUP BY origin ORDER BY count(*) DESC LIMIT 1

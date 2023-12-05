@@ -1,0 +1,1 @@
+SELECT role_code FROM ROLES;

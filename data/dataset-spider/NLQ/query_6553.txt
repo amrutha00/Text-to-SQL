@@ -1,0 +1,1 @@
+Give the neames of wines with prices below 50 and with appelations in Monterey county.

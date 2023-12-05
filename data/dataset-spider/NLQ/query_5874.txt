@@ -1,0 +1,1 @@
+Show the number of transactions with transaction type code "SALE" for different investors if it is larger than 0.

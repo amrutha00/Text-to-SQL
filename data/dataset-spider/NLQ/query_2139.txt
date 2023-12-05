@@ -1,0 +1,1 @@
+what are the event details of the services that have the type code 'Marriage'?

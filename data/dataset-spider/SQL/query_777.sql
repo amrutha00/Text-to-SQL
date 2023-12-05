@@ -1,0 +1,1 @@
+SELECT name FROM track WHERE track_id NOT IN (SELECT track_id FROM race)

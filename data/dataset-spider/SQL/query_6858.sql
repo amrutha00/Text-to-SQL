@@ -1,0 +1,1 @@
+SELECT city FROM airports GROUP BY city HAVING count(*)  >  2 ORDER BY count(*)

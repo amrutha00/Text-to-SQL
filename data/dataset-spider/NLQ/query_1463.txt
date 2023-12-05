@@ -1,0 +1,1 @@
+Find the building, room number, semester and year of all courses offered by Psychology department sorted by course titles.

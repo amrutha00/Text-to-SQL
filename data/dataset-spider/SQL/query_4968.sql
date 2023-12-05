@@ -1,0 +1,1 @@
+SELECT avg(HS) ,  max(HS) ,  min(HS) FROM Player

@@ -1,0 +1,1 @@
+Which documents have more than 1 draft copies? List document id and number of draft copies.

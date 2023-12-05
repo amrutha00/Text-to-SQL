@@ -1,0 +1,1 @@
+SELECT Headquarters FROM company ORDER BY Sales_in_Billion DESC LIMIT 1

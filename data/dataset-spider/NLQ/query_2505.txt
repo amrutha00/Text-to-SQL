@@ -1,0 +1,1 @@
+Find the title and star rating of the movie that got the least rating star for each reviewer.

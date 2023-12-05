@@ -1,0 +1,1 @@
+SELECT DISTINCT fault_status FROM Fault_Log_Parts

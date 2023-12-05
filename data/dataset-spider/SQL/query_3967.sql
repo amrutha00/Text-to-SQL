@@ -1,0 +1,1 @@
+SELECT MAX(cost) ,  MIN(cost) ,  AVG(cost) FROM procedures

@@ -1,0 +1,1 @@
+List the hardware model name for the phones that have screen mode type "Text" or RAM size greater than 32.

@@ -1,0 +1,1 @@
+List all female students age is older than 18 who is not majoring in 600. List students' first name and last name.

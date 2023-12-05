@@ -1,0 +1,1 @@
+For each main industry, what is the total number of companies for the industry with the highest total market value?

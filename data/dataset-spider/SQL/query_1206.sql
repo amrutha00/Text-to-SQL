@@ -1,0 +1,1 @@
+SELECT building_full_name FROM Apartment_Buildings WHERE building_full_name LIKE "%court%"

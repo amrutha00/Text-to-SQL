@@ -1,0 +1,1 @@
+Show all opening years and the number of churches that opened in that year.

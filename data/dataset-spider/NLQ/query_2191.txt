@@ -1,0 +1,1 @@
+For each constructor id, how many races are there?

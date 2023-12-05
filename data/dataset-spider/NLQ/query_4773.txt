@@ -1,0 +1,1 @@
+What are the ids of suppliers which have an average amount purchased of above 50000 or below 30000?

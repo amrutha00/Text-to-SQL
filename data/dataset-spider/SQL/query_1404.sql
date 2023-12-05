@@ -1,0 +1,1 @@
+SELECT count(*) ,  semester ,  YEAR FROM SECTION GROUP BY semester ,  YEAR

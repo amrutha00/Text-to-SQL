@@ -1,0 +1,1 @@
+What are the names of instructors who earn more than at least one instructor from the Biology department?

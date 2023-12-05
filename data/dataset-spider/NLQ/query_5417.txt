@@ -1,0 +1,1 @@
+Show card number, name, and hometown for all members in a descending order of level.

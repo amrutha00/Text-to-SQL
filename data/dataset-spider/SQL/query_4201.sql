@@ -1,0 +1,1 @@
+SELECT employee_ID FROM Employees WHERE employee_name  =  "Ebba"

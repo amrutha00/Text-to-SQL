@@ -1,0 +1,1 @@
+Show times of elimination of wrestlers with days held more than 50.

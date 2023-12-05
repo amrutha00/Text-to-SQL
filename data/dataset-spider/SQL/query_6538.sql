@@ -1,0 +1,1 @@
+SELECT count(*) FROM WINE WHERE Winery  =  "Robert Biale"

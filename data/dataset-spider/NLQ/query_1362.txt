@@ -1,0 +1,1 @@
+Give the name of the lowest earning instructor in the Statistics department.

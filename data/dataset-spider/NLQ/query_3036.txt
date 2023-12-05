@@ -1,0 +1,1 @@
+What are the total account balances for each customer from Utah or Texas?

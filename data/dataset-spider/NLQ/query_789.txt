@@ -1,0 +1,1 @@
+What are the locations that have both tracks with more than 90000 seats, and tracks with fewer than 70000 seats?

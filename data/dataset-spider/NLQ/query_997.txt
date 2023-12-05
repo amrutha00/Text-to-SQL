@@ -1,0 +1,1 @@
+Return the average enrollment of universities founded before 1850.

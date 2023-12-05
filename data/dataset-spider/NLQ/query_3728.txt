@@ -1,0 +1,1 @@
+What is the name of each camera lens and the number of photos taken by it? Order the result by the count of photos.

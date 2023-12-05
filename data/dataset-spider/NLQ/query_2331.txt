@@ -1,0 +1,1 @@
+Find the name of the campuses opened before 1800.

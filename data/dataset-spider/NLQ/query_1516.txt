@@ -1,0 +1,1 @@
+Find the total and average amount paid in claim headers.

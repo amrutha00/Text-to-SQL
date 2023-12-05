@@ -1,0 +1,1 @@
+Show all video games and their types in the order of their names.

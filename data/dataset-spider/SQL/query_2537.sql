@@ -1,0 +1,1 @@
+SELECT DISTINCT Police_force FROM county_public_safety WHERE LOCATION != "East"

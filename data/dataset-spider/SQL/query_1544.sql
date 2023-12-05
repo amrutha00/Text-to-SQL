@@ -1,0 +1,1 @@
+SELECT count(DISTINCT claim_outcome_code) FROM claims_processing

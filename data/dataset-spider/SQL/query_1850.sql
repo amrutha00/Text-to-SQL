@@ -1,0 +1,1 @@
+SELECT Name FROM wrestler ORDER BY Days_held ASC LIMIT 1

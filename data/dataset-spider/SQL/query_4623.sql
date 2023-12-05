@@ -1,0 +1,1 @@
+SELECT premises_type ,  premise_details FROM premises ORDER BY premises_type

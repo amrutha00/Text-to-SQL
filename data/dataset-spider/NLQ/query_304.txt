@@ -1,0 +1,1 @@
+Find the list of attribute data types possessed by more than 3 attribute definitions.

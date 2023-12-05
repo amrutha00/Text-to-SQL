@@ -1,0 +1,1 @@
+SELECT country FROM addresses GROUP BY country HAVING count(address_id)  >  4

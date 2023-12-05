@@ -1,0 +1,1 @@
+Which colleges have both authors with submission score above 90 and authors with submission score below 80?

@@ -1,0 +1,1 @@
+How many distinct kinds of camera lenses are used to take photos of mountains in the country 'Ethiopia'?

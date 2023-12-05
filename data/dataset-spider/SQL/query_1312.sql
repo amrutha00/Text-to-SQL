@@ -1,0 +1,1 @@
+SELECT avg(Attendance) FROM performance

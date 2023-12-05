@@ -1,0 +1,1 @@
+Which manufacturer has the most number of shops? List its name and year of opening.

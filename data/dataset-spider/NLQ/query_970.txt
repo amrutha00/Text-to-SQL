@@ -1,0 +1,1 @@
+Show the medicine names and trade names that cannot interact with the enzyme with product 'Heme'.

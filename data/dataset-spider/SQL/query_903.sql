@@ -1,0 +1,1 @@
+SELECT sum(settlement_amount) ,  avg(settlement_amount) FROM settlements

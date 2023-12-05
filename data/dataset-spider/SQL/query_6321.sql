@@ -1,0 +1,1 @@
+SELECT organization_name FROM organizations ORDER BY date_formed DESC LIMIT 1

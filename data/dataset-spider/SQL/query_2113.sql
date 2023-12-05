@@ -1,0 +1,1 @@
+SELECT count(*) FROM Documents WHERE document_status_code = "done";

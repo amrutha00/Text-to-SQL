@@ -1,0 +1,1 @@
+SELECT Crime_rate FROM county_public_safety ORDER BY Police_officers ASC

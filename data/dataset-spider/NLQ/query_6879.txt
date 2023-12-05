@@ -1,0 +1,1 @@
+What is the id of the routes whose source and destination airports are in the United States?

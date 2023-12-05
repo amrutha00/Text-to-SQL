@@ -1,0 +1,1 @@
+SELECT avg(rating) ,  avg(resolution) FROM song WHERE languages  =  "bangla"

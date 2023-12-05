@@ -1,0 +1,1 @@
+Find each target user's name and average trust score.

@@ -1,0 +1,1 @@
+SELECT avg(student_capacity) ,  sum(student_capacity) FROM dorm WHERE gender  =  'X'

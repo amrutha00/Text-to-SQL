@@ -1,0 +1,1 @@
+SELECT DISTINCT POSITION FROM match_season

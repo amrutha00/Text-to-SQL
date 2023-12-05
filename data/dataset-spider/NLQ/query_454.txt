@@ -1,0 +1,1 @@
+Show all allergy types and the number of allergies in each type.

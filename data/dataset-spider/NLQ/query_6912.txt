@@ -1,0 +1,1 @@
+Find the id of the customers who have order status both "On Road" and "Shipped".

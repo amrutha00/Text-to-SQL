@@ -1,0 +1,1 @@
+SELECT Nationality ,  COUNT(*) FROM pilot GROUP BY Nationality

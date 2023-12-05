@@ -1,0 +1,1 @@
+What are all the different zip codes that have a maximum dew point that was always below 70?

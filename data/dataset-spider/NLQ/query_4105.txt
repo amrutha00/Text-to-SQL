@@ -1,0 +1,1 @@
+Show the headquarters that have at least two companies.

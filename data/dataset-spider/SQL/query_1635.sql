@@ -1,0 +1,1 @@
+SELECT open_date ,  count(*) FROM church GROUP BY open_date

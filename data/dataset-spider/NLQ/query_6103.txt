@@ -1,0 +1,1 @@
+Compute the average active time span of contact channels.

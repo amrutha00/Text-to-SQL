@@ -1,0 +1,1 @@
+SELECT min(rank) FROM review

@@ -1,0 +1,1 @@
+Which stadium name contains the substring "Bank"?

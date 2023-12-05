@@ -1,0 +1,1 @@
+SELECT DISTINCT Reign FROM wrestler WHERE LOCATION != "Tokyo , Japan"

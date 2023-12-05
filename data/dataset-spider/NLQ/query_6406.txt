@@ -1,0 +1,1 @@
+Find names and ids of all documents with document type code BK.

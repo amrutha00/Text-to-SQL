@@ -1,0 +1,1 @@
+Find the name and category of the most expensive product.

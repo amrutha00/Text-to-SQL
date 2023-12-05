@@ -1,0 +1,1 @@
+For each payment method, how many payments were made?

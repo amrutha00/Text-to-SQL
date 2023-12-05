@@ -1,0 +1,1 @@
+SELECT name FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)

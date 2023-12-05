@@ -1,0 +1,1 @@
+List players' first name and last name who received salary from team Washington Nationals in both 2005 and 2007.

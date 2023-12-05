@@ -1,0 +1,1 @@
+SELECT count(*) FROM College WHERE enr  >  15000

@@ -1,0 +1,1 @@
+Show all distinct city where branches with at least 100 memberships are located.

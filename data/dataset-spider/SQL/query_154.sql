@@ -1,0 +1,1 @@
+SELECT date ,  zip_code FROM weather WHERE max_temperature_f  >=  80

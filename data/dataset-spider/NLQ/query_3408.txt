@@ -1,0 +1,1 @@
+List the full name (first and last name), and salary for those employees who earn below 6000.

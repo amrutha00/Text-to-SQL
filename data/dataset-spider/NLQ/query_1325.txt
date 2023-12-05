@@ -1,0 +1,1 @@
+Count the number of rooms that are not in the Lamberton building.

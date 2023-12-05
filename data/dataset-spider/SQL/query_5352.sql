@@ -1,0 +1,1 @@
+SELECT code ,  name ,  min(price) FROM products GROUP BY name

@@ -1,0 +1,1 @@
+What are the zip codes that have an average mean humidity below 70 and had at least 100 trips come through there?

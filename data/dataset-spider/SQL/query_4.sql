@@ -1,0 +1,1 @@
+SELECT max(budget_in_billions) ,  min(budget_in_billions) FROM department

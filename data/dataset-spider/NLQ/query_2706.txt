@@ -1,0 +1,1 @@
+Return the total number of deaths and total damange in millions for storms that had a max speed greater than the average.

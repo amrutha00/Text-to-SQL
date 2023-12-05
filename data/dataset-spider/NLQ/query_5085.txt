@@ -1,0 +1,1 @@
+Show the locations shared by shops with open year later than 2012 and shops with open year before 2008.

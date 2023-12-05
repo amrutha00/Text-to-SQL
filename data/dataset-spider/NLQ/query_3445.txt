@@ -1,0 +1,1 @@
+What are the job titles, and range of salaries for jobs with maximum salary between 12000 and 18000?

@@ -1,0 +1,1 @@
+Find the movies with the highest average rating. Return the movie titles and average rating.

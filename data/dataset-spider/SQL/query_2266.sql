@@ -1,0 +1,1 @@
+SELECT Company FROM entrepreneur ORDER BY Money_Requested DESC

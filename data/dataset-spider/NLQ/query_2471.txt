@@ -1,0 +1,1 @@
+What are the titles and directors of the movies whose star is greater than the average stars of the movies directed by James Cameron?

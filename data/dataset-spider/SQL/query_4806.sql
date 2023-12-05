@@ -1,0 +1,1 @@
+SELECT sum(Domestic_Passengers) FROM airport WHERE Airport_Name LIKE "%London%"

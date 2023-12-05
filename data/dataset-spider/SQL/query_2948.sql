@@ -1,0 +1,1 @@
+SELECT count(*) FROM customer WHERE active = '1'

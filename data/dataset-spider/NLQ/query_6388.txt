@@ -1,0 +1,1 @@
+Show all account ids and account details.

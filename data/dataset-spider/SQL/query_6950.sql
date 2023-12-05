@@ -1,0 +1,1 @@
+SELECT name ,  built_year FROM mill WHERE TYPE  =  'Grondzeiler'

@@ -1,0 +1,1 @@
+Which claims caused more than 2 settlements or have the maximum claim value? List the date the claim was made and the claim id.

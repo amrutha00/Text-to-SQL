@@ -1,0 +1,1 @@
+List the information of all instructors ordered by their salary in ascending order.

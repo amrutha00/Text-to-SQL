@@ -1,0 +1,1 @@
+Which statuses correspond to both cities that have a population over 1500 and cities that have a population lower than 500?

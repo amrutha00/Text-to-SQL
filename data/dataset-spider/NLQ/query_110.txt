@@ -1,0 +1,1 @@
+Give me the dates when the max temperature was higher than 85.

@@ -1,0 +1,1 @@
+What are the distinct types of the companies that have operated any flights with velocity less than 200?

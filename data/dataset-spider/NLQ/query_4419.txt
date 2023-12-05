@@ -1,0 +1,1 @@
+How many people whose age is greater 30 and job is engineer?

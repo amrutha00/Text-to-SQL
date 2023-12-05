@@ -1,0 +1,1 @@
+What is the average number of rooms of apartments with type code "Studio"?

@@ -1,0 +1,1 @@
+SELECT calendar_date ,  day_Number FROM Ref_calendar

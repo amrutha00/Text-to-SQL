@@ -1,0 +1,1 @@
+Find the ids of the students who participate in Canoeing and Kayaking.

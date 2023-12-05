@@ -1,0 +1,1 @@
+Return the completion date for all the tests that have "Fail" result.

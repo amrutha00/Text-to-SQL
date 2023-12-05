@@ -1,0 +1,1 @@
+Return the decor of the room named "Recluse and defiance".

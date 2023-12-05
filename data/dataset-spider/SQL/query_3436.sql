@@ -1,0 +1,1 @@
+SELECT * FROM employees WHERE hire_date  <  '2002-06-21'

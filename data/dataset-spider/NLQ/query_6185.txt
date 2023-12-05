@@ -1,0 +1,1 @@
+Return the result that is most frequent at music festivals.

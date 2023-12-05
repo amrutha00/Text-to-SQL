@@ -1,0 +1,1 @@
+Show the id and details for the investors who have the top 3 number of transactions.

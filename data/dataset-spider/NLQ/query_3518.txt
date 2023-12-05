@@ -1,0 +1,1 @@
+display the first and last name, department, city, and state province for each employee.

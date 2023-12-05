@@ -1,0 +1,1 @@
+What are the names of all employees who have a salary higher than average?

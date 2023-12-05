@@ -1,0 +1,1 @@
+Show the number of documents with document type code CV or BK.

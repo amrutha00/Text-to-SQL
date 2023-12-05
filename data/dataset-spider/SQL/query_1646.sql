@@ -1,0 +1,1 @@
+SELECT count(*) FROM wedding WHERE YEAR  =  2016

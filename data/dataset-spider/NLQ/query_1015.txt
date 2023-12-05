@@ -1,0 +1,1 @@
+What are the different affiliations, and how many schools with each have an enrollment size of above 20000?

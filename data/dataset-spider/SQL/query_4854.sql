@@ -1,0 +1,1 @@
+SELECT count(DISTINCT Status_of_Thing_Code) FROM Timed_Status_of_Things

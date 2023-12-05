@@ -1,0 +1,1 @@
+SELECT name FROM Employee ORDER BY salary ASC LIMIT 3

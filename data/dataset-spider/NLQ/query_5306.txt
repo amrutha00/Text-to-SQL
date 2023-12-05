@@ -1,0 +1,1 @@
+What is the total revenue of companies with revenue greater than the lowest revenue of any manufacturer in Austin?

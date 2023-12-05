@@ -1,0 +1,1 @@
+Return all information about employees with salaries between 8000 and 12000 for which commission is not null or where their department id is not 40.

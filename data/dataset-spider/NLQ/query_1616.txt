@@ -1,0 +1,1 @@
+Show all product names and the total quantity ordered for each product name.

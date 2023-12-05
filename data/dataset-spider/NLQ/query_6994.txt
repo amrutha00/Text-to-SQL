@@ -1,0 +1,1 @@
+Return the average, maximum, and minimum budgets in millions for movies made before the year 2000.

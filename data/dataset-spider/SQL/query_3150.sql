@@ -1,0 +1,1 @@
+SELECT DISTINCT asset_model FROM Assets

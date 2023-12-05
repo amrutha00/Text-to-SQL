@@ -1,0 +1,1 @@
+SELECT Category ,  COUNT(*) FROM music_festival GROUP BY Category

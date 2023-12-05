@@ -1,0 +1,1 @@
+What is the date, average temperature and mean humidity for the days with the 3 largest maximum gust speeds?

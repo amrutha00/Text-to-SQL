@@ -1,0 +1,1 @@
+SELECT cust_name FROM customer WHERE credit_score  <  (SELECT avg(credit_score) FROM customer)

@@ -1,0 +1,1 @@
+SELECT transaction_type ,  sum(transaction_amount) FROM Financial_transactions GROUP BY transaction_type

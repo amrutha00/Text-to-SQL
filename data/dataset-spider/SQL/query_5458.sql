@@ -1,0 +1,1 @@
+SELECT Major FROM STUDENT WHERE Sex  =  "M"

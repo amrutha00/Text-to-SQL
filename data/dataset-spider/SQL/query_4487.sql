@@ -1,0 +1,1 @@
+SELECT Name ,  Country FROM member

@@ -1,0 +1,1 @@
+SELECT Nationality FROM journalist ORDER BY Years_working DESC LIMIT 1

@@ -1,0 +1,1 @@
+Show all the locations where no cinema has capacity over 800.

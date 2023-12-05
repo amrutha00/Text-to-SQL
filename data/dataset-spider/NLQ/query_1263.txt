@@ -1,0 +1,1 @@
+Show the most common apartment type code among apartments with more than 1 bathroom.

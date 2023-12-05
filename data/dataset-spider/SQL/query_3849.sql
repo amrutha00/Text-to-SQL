@@ -1,0 +1,1 @@
+SELECT personal_name FROM Course_Authors_and_Tutors INTERSECT SELECT personal_name FROM Students

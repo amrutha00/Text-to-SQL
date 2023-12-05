@@ -1,0 +1,1 @@
+Find the number of professors in accounting department.

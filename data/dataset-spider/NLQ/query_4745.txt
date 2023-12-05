@@ -1,0 +1,1 @@
+Return the id of the department with the fewest staff assignments.

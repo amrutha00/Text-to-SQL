@@ -1,0 +1,1 @@
+display the department ID, full name (first and last name), salary for those employees who is highest salary in every department.

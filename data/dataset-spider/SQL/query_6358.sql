@@ -1,0 +1,1 @@
+SELECT name FROM driver WHERE driver_id NOT IN (SELECT driver_id FROM school_bus)

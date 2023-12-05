@@ -1,0 +1,1 @@
+Show the name and location for all tracks.

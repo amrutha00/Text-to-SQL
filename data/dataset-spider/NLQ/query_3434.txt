@@ -1,0 +1,1 @@
+Find the salary and manager number for those employees who is working under a manager.

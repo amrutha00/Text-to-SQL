@@ -1,0 +1,1 @@
+What are the send dates for all documents that have a grant amount of more than 5000 and are involved in research?

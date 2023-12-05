@@ -1,0 +1,1 @@
+SELECT acc_percent FROM basketball_match ORDER BY acc_percent DESC LIMIT 1

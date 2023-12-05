@@ -1,0 +1,1 @@
+From the trip record, find the number of unique bikes.

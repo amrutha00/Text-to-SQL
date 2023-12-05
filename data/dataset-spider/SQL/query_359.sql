@@ -1,0 +1,1 @@
+SELECT name FROM Aircraft ORDER BY distance LIMIT 3

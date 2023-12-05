@@ -1,0 +1,1 @@
+Find the number of papers published by authors from the institution "Tokohu University".

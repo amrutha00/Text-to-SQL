@@ -1,0 +1,1 @@
+Find how many different affiliation types there are.

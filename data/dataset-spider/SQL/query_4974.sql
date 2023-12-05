@@ -1,0 +1,1 @@
+SELECT DISTINCT pName FROM Player WHERE pName LIKE '%a%'

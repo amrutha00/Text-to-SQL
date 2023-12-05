@@ -1,0 +1,1 @@
+List the locations of schools in ascending order of enrollment.

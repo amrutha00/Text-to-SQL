@@ -1,0 +1,1 @@
+Show all distinct product categories along with the number of mailshots in each category.

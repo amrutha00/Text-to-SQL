@@ -1,0 +1,1 @@
+Please show the different statuses of cities and the average population of cities with each status.

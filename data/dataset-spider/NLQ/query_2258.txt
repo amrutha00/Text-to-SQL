@@ -1,0 +1,1 @@
+Show names of technicians and the number of machines they are assigned to repair.

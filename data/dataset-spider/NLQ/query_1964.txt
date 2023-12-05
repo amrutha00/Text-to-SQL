@@ -1,0 +1,1 @@
+What are the id and the amount of refund of the booking that incurred the most times of payments?

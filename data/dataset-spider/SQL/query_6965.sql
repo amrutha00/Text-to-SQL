@@ -1,0 +1,1 @@
+SELECT book_title ,  author_or_editor FROM book_club WHERE YEAR  >  1989

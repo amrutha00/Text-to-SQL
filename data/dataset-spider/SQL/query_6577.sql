@@ -1,0 +1,1 @@
+SELECT max(Price) ,  max(Score) ,  YEAR FROM WINE GROUP BY YEAR

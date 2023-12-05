@@ -1,0 +1,1 @@
+SELECT id ,  country ,  city ,  name FROM airport ORDER BY name

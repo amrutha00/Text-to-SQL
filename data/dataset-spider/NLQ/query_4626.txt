@@ -1,0 +1,1 @@
+Show the name and phone of the customer without any mailshot.

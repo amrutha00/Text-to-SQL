@@ -1,0 +1,1 @@
+SELECT count(*) FROM COURSE WHERE Credits  >  2

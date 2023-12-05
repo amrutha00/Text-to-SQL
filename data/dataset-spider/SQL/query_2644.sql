@@ -1,0 +1,1 @@
+SELECT roomname FROM rooms WHERE baseprice BETWEEN 120 AND 150

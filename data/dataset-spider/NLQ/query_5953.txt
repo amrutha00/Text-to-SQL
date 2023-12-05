@@ -1,0 +1,1 @@
+What are the name, id and the corresponding number of visits for each  tourist attraction?

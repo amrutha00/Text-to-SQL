@@ -1,0 +1,1 @@
+Display the first name, and department number for all employees whose last name is "McEwen".

@@ -1,0 +1,1 @@
+What is the number of employees that have a salary between 100000 and 200000?

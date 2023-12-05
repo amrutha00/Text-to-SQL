@@ -1,0 +1,1 @@
+Find the number of team franchises that are active (have 'Y' as "active" information).

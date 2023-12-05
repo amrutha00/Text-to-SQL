@@ -1,0 +1,1 @@
+Show all the locations with at least two cinemas with capacity above 300.

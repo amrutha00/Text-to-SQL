@@ -1,0 +1,1 @@
+SELECT sum(revenue) ,  name FROM manufacturers GROUP BY name

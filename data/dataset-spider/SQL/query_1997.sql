@@ -1,0 +1,1 @@
+SELECT company ,  rank FROM company ORDER BY Sales_billion DESC

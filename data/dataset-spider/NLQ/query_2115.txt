@@ -1,0 +1,1 @@
+List the document ids for any documents with the status code done and the type code paper.

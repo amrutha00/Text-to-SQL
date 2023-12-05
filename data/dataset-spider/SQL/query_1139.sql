@@ -1,0 +1,1 @@
+SELECT Country ,  COUNT(*) FROM climber GROUP BY Country

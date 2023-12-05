@@ -1,0 +1,1 @@
+SELECT document_type_code FROM documents WHERE document_name  =  "David CV"

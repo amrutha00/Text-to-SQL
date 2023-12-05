@@ -1,0 +1,1 @@
+Find the name of the user who gave the highest rating.

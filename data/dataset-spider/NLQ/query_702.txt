@@ -1,0 +1,1 @@
+Show the date valid from and the date valid to for the card with card number '4560596484842'.

@@ -1,0 +1,1 @@
+SELECT College FROM submission GROUP BY College ORDER BY COUNT(*) DESC LIMIT 1

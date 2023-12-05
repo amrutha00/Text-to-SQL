@@ -1,0 +1,1 @@
+SELECT party_name FROM party WHERE party_id NOT IN (SELECT party_id FROM Member)

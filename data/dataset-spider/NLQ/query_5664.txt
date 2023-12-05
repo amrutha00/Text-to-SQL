@@ -1,0 +1,1 @@
+How many products have a price higher than the average?

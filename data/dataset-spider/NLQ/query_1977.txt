@@ -1,0 +1,1 @@
+What are the payment date of the payment with amount paid higher than 300 or with payment type is 'Check'

@@ -1,0 +1,1 @@
+SELECT role_code ,  count(*) FROM Employees GROUP BY role_code

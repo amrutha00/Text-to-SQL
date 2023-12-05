@@ -1,0 +1,1 @@
+List the name, nationality and id of all male architects ordered by their names lexicographically.

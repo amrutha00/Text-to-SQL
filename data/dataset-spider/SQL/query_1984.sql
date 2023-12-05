@@ -1,0 +1,1 @@
+SELECT Carrier FROM phone ORDER BY Price DESC LIMIT 1

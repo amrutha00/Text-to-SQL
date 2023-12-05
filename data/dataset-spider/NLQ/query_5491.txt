@@ -1,0 +1,1 @@
+Find the average age of students who live in the city with code "NYC" and have secretary votes in the spring election cycle.

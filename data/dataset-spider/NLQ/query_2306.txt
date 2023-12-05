@@ -1,0 +1,1 @@
+List the number of people injured by perpetrators in ascending order.

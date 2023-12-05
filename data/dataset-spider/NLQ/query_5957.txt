@@ -1,0 +1,1 @@
+What are the names and ids of the tourist attractions that are visited at most once?

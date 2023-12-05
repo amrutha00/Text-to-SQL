@@ -1,0 +1,1 @@
+For each movie that received more than 3 reviews, what is the average rating?

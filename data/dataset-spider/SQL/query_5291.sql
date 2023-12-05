@@ -1,0 +1,1 @@
+SELECT name FROM manufacturers WHERE revenue BETWEEN 100 AND 150

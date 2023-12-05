@@ -1,0 +1,1 @@
+SELECT count(DISTINCT bike_id) FROM trip

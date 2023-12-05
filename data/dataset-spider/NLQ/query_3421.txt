@@ -1,0 +1,1 @@
+What are the full name, hire data, salary and department id for employees without the letter M in their first name, ordered by ascending department id?

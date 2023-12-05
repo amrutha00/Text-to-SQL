@@ -1,0 +1,1 @@
+List document id of documents status is done and document type is Paper and the document is shipped by shipping agent named USPS.

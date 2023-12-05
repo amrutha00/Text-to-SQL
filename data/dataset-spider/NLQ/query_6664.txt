@@ -1,0 +1,1 @@
+What are the phone numbers and email addresses of all customers who have an outstanding balance of more than 2000?

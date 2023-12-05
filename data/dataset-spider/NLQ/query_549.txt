@@ -1,0 +1,1 @@
+What are the top 10 customers' first and last names with the highest gross sales, and also what are the sales?

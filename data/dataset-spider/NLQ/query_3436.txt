@@ -1,0 +1,1 @@
+display all the details from Employees table for those employees who was hired before 2002-06-21.

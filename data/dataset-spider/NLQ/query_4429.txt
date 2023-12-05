@@ -1,0 +1,1 @@
+Find the number of people who is under 40 for each gender.

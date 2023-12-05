@@ -1,0 +1,1 @@
+How many settlements does each claim correspond to? List the claim id and the number of settlements.

@@ -1,0 +1,1 @@
+SELECT min(low_temperature) ,  max(wind_speed_mph) FROM weekly_weather

@@ -1,0 +1,1 @@
+What are the last names of customers without invoice totals exceeding 20?

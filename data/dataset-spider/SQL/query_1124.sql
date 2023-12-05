@@ -1,0 +1,1 @@
+SELECT Country FROM mountain WHERE Height  >  5000

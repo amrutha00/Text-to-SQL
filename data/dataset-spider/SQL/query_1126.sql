@@ -1,0 +1,1 @@
+SELECT Name FROM mountain ORDER BY Height DESC LIMIT 1

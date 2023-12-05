@@ -1,0 +1,1 @@
+Show the types of ships that have both ships with tonnage larger than 6000 and ships with tonnage smaller than 4000.

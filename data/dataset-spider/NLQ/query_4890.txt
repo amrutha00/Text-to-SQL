@@ -1,0 +1,1 @@
+Order denominations in descending order of the count of schools with the denomination. Return each denomination with the count of schools.

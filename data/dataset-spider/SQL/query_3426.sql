@@ -1,0 +1,1 @@
+SELECT first_name ,  last_name ,  salary FROM  employees WHERE commission_pct  =  "null"

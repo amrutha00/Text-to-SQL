@@ -1,0 +1,1 @@
+SELECT country FROM airport GROUP BY country HAVING count(*)  >  2

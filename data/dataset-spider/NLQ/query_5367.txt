@@ -1,0 +1,1 @@
+How many problems does the product with the most problems have? List the number of the problems and product name.

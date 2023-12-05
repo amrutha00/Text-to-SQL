@@ -1,0 +1,1 @@
+SELECT avg(order_quantity) FROM order_items

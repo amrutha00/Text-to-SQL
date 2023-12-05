@@ -1,0 +1,1 @@
+SELECT avg(product_price) FROM products WHERE product_type_code  =  'Clothes'

@@ -1,0 +1,1 @@
+Show all game ids and the number of hours played.

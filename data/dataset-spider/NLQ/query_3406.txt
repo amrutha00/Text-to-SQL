@@ -1,0 +1,1 @@
+Display the first name and department name for each employee.

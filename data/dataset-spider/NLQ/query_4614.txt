@@ -1,0 +1,1 @@
+Please show different types of artworks with the corresponding number of artworks of each type.

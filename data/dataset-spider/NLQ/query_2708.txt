@@ -1,0 +1,1 @@
+What are the names and damage in millions for storms, ordered by their max speeds descending?

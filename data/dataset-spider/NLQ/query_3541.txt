@@ -1,0 +1,1 @@
+What are the file sizes and formats for all songs with a resolution lower than 800?

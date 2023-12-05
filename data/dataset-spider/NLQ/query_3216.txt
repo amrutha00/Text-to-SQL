@@ -1,0 +1,1 @@
+Find the number of professors with a Ph.D. degree in each department.

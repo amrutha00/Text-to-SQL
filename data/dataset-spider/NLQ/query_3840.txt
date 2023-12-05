@@ -1,0 +1,1 @@
+Which student are enrolled in at least two courses? Give me the student ID and personal name.

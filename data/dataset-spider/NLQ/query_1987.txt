@@ -1,0 +1,1 @@
+Show the carriers that have both phones with memory smaller than 32 and phones with memory bigger than 64.

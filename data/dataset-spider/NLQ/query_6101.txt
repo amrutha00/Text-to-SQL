@@ -1,0 +1,1 @@
+Return the the "active to date" of the latest contact channel used by the customer named "Tillman Ernser".

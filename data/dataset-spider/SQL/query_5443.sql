@@ -1,0 +1,1 @@
+SELECT card_number FROM member WHERE Hometown LIKE "%Kentucky%"

@@ -1,0 +1,1 @@
+SELECT t3.individual_last_name FROM organizations AS t1 JOIN organization_contact_individuals AS t2 ON t1.organization_id  =  t2.organization_id JOIN individuals AS t3 ON t2.individual_id  =  t3.individual_id WHERE t1.organization_name  =  "Labour Party" ORDER BY t2.date_contact_to DESC LIMIT 1

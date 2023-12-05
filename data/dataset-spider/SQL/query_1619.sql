@@ -1,0 +1,1 @@
+SELECT order_id ,  count(*) FROM Order_items GROUP BY order_id

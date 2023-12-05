@@ -1,0 +1,1 @@
+SELECT count(*) ,  flag FROM ship GROUP BY flag

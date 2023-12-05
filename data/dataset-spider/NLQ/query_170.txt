@@ -1,0 +1,1 @@
+What are the ids of stations that have latitude above 37.4 and never had bike availability below 7?

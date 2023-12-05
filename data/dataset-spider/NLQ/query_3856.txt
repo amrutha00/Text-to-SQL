@@ -1,0 +1,1 @@
+What are the method, date and amount of each payment? Sort the list in ascending order of date.

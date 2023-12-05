@@ -1,0 +1,1 @@
+For each director who directed more than one movie, what are the titles and dates of release for all those movies?

@@ -1,0 +1,1 @@
+How many draft copies does the document with id 2 have?

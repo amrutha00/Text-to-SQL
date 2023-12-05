@@ -1,0 +1,1 @@
+List the names of the browser that are compatible with both 'CACHEbox' and 'Fasterfox'.

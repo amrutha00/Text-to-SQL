@@ -1,0 +1,1 @@
+SELECT sum(Share_in_percent) FROM channel WHERE OWNER  =  'CCTV'

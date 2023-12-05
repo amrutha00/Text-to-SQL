@@ -1,0 +1,1 @@
+SELECT age FROM Person WHERE job  =  'doctor' AND name  =  'Zach'

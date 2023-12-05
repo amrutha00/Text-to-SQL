@@ -1,0 +1,1 @@
+SELECT patient FROM undergoes ORDER BY dateundergoes LIMIT 1

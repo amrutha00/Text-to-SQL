@@ -1,0 +1,1 @@
+Show ids of students who don't play video game.

@@ -1,0 +1,1 @@
+SELECT unit_of_measure FROM ref_product_categories WHERE product_category_code  =  "Herbs"

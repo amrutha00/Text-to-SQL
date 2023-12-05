@@ -1,0 +1,1 @@
+Find all the policy type codes associated with the customer "Dayana Robel"

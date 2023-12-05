@@ -1,0 +1,1 @@
+SELECT DISTINCT gtype FROM Video_games

@@ -1,0 +1,1 @@
+Show the nations that have both journalists with more than 10 years of working and journalists with less than 3 years of working.

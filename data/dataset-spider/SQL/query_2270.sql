@@ -1,0 +1,1 @@
+SELECT avg(Money_Requested) FROM entrepreneur

@@ -1,0 +1,1 @@
+How many proteins are associated with an institution founded after 1880 or an institution with type "Private"?

@@ -1,0 +1,1 @@
+SELECT Venue FROM debate ORDER BY Num_of_Audience ASC

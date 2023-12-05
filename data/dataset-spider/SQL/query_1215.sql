@@ -1,0 +1,1 @@
+SELECT apt_number FROM Apartments WHERE apt_type_code  =  "Flat"

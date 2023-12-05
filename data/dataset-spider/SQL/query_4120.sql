@@ -1,0 +1,1 @@
+SELECT Low_Estimate ,  High_Estimate FROM film_market_estimation

@@ -1,0 +1,1 @@
+Return the categories of music festivals that have the result "Awarded".

@@ -1,0 +1,1 @@
+What are the names of all stations that have more than 10 bikes available and are not located in San Jose?

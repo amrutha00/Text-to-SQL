@@ -1,0 +1,1 @@
+Find the name of students who have taken the prerequisite course of the course with title International Finance.

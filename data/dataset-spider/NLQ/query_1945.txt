@@ -1,0 +1,1 @@
+Which locations have 2 or more cinemas with capacity over 300?

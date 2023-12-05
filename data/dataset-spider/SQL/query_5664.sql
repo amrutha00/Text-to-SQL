@@ -1,0 +1,1 @@
+SELECT count(*) FROM products WHERE product_price  >  (SELECT avg(product_price) FROM products)

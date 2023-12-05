@@ -1,0 +1,1 @@
+Show all book categories and the number of books in each category.

@@ -1,0 +1,1 @@
+For each grade 0 classroom, report the total number of students.

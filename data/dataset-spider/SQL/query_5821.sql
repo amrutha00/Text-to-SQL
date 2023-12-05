@@ -1,0 +1,1 @@
+SELECT Author FROM submission WHERE College  =  "Florida" OR College  =  "Temple"

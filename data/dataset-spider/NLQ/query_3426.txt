@@ -1,0 +1,1 @@
+What are the full name (first and last name) and salary for all employees who does not have any value for commission?

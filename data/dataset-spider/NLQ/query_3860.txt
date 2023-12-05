@@ -1,0 +1,1 @@
+Find the claimed amount in the claim with the least amount settled. Show both the settlement amount and claim amount.

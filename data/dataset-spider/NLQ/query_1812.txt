@@ -1,0 +1,1 @@
+What is the savings balance of the account belonging to the customer with the highest checking balance?

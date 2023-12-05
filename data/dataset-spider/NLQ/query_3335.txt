@@ -1,0 +1,1 @@
+What is the name of the department that offers a course that has a description including the word "Statistics"?

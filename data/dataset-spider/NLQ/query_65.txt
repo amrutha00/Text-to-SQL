@@ -1,0 +1,1 @@
+List the id of students who attended some courses?

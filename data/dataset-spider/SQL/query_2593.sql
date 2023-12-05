@@ -1,0 +1,1 @@
+SELECT roomName ,  basePrice FROM Rooms ORDER BY basePrice ASC LIMIT 1;

@@ -1,0 +1,1 @@
+Show the top 3 apartment type codes sorted by the average number of rooms in descending order.

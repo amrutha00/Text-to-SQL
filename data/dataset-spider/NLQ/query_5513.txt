@@ -1,0 +1,1 @@
+What is the city_code of the city that the most students live in?

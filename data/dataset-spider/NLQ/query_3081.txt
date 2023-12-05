@@ -1,0 +1,1 @@
+Find the total amount of loans provided by bank branches in the state of New York.

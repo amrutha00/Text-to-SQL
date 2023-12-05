@@ -1,0 +1,1 @@
+What is the name of the customer who has made the minimum amount of payment in one claim?

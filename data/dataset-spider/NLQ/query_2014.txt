@@ -1,0 +1,1 @@
+Show gas station id, location, and manager_name for all gas stations ordered by open year.

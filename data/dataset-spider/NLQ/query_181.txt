@@ -1,0 +1,1 @@
+What are the ids and names of all start stations that were the beginning of at least 200 trips?

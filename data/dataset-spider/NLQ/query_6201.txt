@@ -1,0 +1,1 @@
+How many music festivals have had each kind of result, ordered descending by count?

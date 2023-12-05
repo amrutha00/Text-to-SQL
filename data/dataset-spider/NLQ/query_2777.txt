@@ -1,0 +1,1 @@
+Show the name of each party and the corresponding number of delegates from that party.

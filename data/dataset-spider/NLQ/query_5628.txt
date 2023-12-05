@@ -1,0 +1,1 @@
+Find the names of the swimmers who have both "win" and "loss" results in the record.

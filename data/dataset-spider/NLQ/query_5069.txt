@@ -1,0 +1,1 @@
+Show names of shops and the carriers of devices they have in stock.

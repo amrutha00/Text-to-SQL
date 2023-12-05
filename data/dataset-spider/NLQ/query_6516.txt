@@ -1,0 +1,1 @@
+Find name of the project that needs the least amount of time to finish and the name of scientists who worked on it.

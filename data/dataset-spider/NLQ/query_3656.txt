@@ -1,0 +1,1 @@
+What is the average height of the players from the college named 'Yale University'?

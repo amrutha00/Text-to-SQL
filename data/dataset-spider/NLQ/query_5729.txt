@@ -1,0 +1,1 @@
+Find the average age and number of male students (with sex M) from each city.

@@ -1,0 +1,1 @@
+What are the names of body builders whose total score is higher than 300?

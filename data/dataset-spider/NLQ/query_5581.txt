@@ -1,0 +1,1 @@
+Find the product category description of the product category with code "Spices".

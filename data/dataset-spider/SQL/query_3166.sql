@@ -1,0 +1,1 @@
+SELECT avg(high_temperature) ,  day_of_week FROM weekly_weather GROUP BY day_of_week

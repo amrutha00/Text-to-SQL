@@ -1,0 +1,1 @@
+Find the most popular room in the hotel. The most popular room is the room that had seen the largest number of reservations.

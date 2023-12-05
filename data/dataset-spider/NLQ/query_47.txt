@@ -1,0 +1,1 @@
+List the most common type of Status across cities.

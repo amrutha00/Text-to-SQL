@@ -1,0 +1,1 @@
+What are the names and average prices of products for manufacturers whose products cost on average 150 or more?

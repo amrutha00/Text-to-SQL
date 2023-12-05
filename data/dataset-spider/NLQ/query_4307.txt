@@ -1,0 +1,1 @@
+Find the names of the clubs that have at least a member from the city with city code "HOU".

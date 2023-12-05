@@ -1,0 +1,1 @@
+What are the ids and details for all organizations that have grants of more than 6000 dollars?

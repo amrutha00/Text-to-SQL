@@ -1,0 +1,1 @@
+SELECT order_item_id FROM order_items WHERE product_id = 11

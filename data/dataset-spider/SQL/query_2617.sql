@@ -1,0 +1,1 @@
+SELECT roomName ,  bedType FROM Rooms WHERE decor = "traditional";

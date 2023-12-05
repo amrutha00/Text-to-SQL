@@ -1,0 +1,1 @@
+SELECT Company_name FROM phone GROUP BY Company_name HAVING count(*)  >  1;

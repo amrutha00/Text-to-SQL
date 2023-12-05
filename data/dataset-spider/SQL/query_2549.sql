@@ -1,0 +1,1 @@
+SELECT Name FROM city ORDER BY White DESC LIMIT 5

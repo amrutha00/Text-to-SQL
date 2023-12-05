@@ -1,0 +1,1 @@
+Find the first names and last names of male (sex is M) faculties who live in building NEB.

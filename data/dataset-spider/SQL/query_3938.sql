@@ -1,0 +1,1 @@
+SELECT DISTINCT blockcode FROM room WHERE unavailable  =  0

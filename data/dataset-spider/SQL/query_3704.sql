@@ -1,0 +1,1 @@
+SELECT state FROM park GROUP BY state HAVING count(*)  >  2;

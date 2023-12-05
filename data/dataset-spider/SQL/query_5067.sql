@@ -1,0 +1,1 @@
+SELECT Shop_Name FROM shop ORDER BY Open_Year DESC LIMIT 1

@@ -1,0 +1,1 @@
+List the dates of enrollment and completion of the student with family name "Zieme" and personal name "Bernie".

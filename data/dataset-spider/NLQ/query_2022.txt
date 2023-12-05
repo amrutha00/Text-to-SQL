@@ -1,0 +1,1 @@
+Show all headquarters without a company in banking industry.

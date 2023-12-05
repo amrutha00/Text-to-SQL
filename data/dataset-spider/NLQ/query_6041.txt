@@ -1,0 +1,1 @@
+What are ids and total number of hours played for each game?

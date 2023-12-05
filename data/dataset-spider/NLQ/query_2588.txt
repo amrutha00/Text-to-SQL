@@ -1,0 +1,1 @@
+Return the number of kids for the room reserved and checked in by DAMIEN TRACHSEL on  Sep 21, 2010.

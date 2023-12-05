@@ -1,0 +1,1 @@
+List the names and decor of rooms that have a king bed. Sort the list by their price.

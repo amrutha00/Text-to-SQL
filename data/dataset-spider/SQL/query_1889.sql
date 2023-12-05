@@ -1,0 +1,1 @@
+SELECT sum(enrollment) ,  avg(enrollment) FROM school

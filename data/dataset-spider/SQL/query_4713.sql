@@ -1,0 +1,1 @@
+SELECT product_id ,  product_type_code FROM products ORDER BY product_price LIMIT 1

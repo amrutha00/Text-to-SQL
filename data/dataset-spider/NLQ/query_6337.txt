@@ -1,0 +1,1 @@
+Find the name of organizations whose names contain "Party".

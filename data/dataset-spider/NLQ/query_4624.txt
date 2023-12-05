@@ -1,0 +1,1 @@
+Show each premise type and the number of premises in that type.

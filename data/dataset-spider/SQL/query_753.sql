@@ -1,0 +1,1 @@
+SELECT name ,  seating FROM track WHERE year_opened  >  2000 ORDER BY seating

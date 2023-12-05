@@ -1,0 +1,1 @@
+Find the number of universities that have over a 20000 enrollment size for each affiliation type.

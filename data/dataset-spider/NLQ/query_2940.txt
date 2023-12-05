@@ -1,0 +1,1 @@
+What are the title and id of the film which has a rental rate of 0.99 and an inventory of below 3?

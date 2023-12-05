@@ -1,0 +1,1 @@
+SELECT Official_native_language FROM country WHERE Official_native_language LIKE "%English%"

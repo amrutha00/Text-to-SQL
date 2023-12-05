@@ -1,0 +1,1 @@
+SELECT avg(length_feet) FROM bridge

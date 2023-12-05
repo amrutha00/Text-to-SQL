@@ -1,0 +1,1 @@
+SELECT Name FROM phone WHERE Carrier  =  "Sprint" OR Carrier  =  "TMobile"

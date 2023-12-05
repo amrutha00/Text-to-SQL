@@ -1,0 +1,1 @@
+SELECT sex ,  count(*) FROM Faculty WHERE rank  =  "AsstProf" GROUP BY sex

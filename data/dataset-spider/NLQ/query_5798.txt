@@ -1,0 +1,1 @@
+Return complaint status codes have more than 3 corresponding complaints?

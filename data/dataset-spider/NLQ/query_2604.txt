@@ -1,0 +1,1 @@
+How many times the number of adults and kids staying in a room reached the maximum capacity of the room?

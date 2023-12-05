@@ -1,0 +1,1 @@
+How many proteins are associated with an institution in a building with at least 20 floors?

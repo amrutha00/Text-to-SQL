@@ -1,0 +1,1 @@
+SELECT date_test_taken FROM Student_Tests_Taken WHERE test_result  =  "Pass"

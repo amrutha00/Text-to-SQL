@@ -1,0 +1,1 @@
+SELECT dorm_name FROM dorm WHERE student_capacity  >  300

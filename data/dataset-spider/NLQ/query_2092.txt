@@ -1,0 +1,1 @@
+Show the pilot positions that have both pilots joining after year 2005 and pilots joining before 2000.

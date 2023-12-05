@@ -1,0 +1,1 @@
+SELECT Accreditation_type ,  count(*) FROM phone GROUP BY Accreditation_type

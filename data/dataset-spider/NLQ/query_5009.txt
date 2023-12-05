@@ -1,0 +1,1 @@
+Find the state of the college which player Charles is attending.

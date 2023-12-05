@@ -1,0 +1,1 @@
+What are the different reviewer names, movie titles, and stars for every rating where the reviewer had the same name as the director?

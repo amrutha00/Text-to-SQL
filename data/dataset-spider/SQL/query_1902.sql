@@ -1,0 +1,1 @@
+SELECT count(*) FROM budget WHERE budgeted  >  3000 AND YEAR  <=  2001

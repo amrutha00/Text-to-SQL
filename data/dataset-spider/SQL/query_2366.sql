@@ -1,0 +1,1 @@
+SELECT count(*) FROM campuses WHERE county  =  "Los Angeles"

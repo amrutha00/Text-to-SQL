@@ -1,0 +1,1 @@
+Return the cities with more than 3 airports in the United States.

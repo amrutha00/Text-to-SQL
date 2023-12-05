@@ -1,0 +1,1 @@
+For each country, what is the average elevation of that country's airports?

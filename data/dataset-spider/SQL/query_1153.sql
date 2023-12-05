@@ -1,0 +1,1 @@
+SELECT Snatch ,  Clean_Jerk FROM body_builder ORDER BY Snatch ASC

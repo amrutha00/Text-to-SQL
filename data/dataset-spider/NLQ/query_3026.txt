@@ -1,0 +1,1 @@
+What are the states, account types, and credit scores for customers who have 0 loans?

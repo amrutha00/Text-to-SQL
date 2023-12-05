@@ -1,0 +1,1 @@
+For each zip code, return how many times max wind speed reached 25?

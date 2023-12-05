@@ -1,0 +1,1 @@
+What is the name and distance for aircraft with id 12?

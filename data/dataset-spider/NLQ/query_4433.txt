@@ -1,0 +1,1 @@
+Find the number of people whose age is greater than all engineers.

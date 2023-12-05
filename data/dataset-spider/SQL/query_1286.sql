@@ -1,0 +1,1 @@
+SELECT count(DISTINCT SOURCE) FROM injury_accident

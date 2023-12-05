@@ -1,0 +1,1 @@
+SELECT name ,  origin ,  OWNER FROM program

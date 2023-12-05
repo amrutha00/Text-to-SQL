@@ -1,0 +1,1 @@
+What is all the information regarding employees with salaries above the minimum and under 2500?

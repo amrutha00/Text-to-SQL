@@ -1,0 +1,1 @@
+SELECT head FROM department GROUP BY departmentID ORDER BY count(departmentID) LIMIT 1;

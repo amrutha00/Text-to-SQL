@@ -1,0 +1,1 @@
+SELECT avg(prominence) FROM mountain WHERE country  =  'Morocco'

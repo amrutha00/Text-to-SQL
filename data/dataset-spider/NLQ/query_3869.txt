@@ -1,0 +1,1 @@
+How many settlements were made on the claim with the most recent claim settlement date? List the number and the claim id.

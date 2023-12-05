@@ -1,0 +1,1 @@
+Find the number of customers who live in the city called Lake Geovannyton.

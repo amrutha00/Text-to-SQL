@@ -1,0 +1,1 @@
+SELECT avg(campusfee) FROM csu_fees WHERE YEAR  =  1996

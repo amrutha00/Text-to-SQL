@@ -1,0 +1,1 @@
+SELECT gender FROM TEACHERS WHERE last_name  =  "Medhurst"

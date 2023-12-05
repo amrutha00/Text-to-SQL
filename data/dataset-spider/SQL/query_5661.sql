@@ -1,0 +1,1 @@
+SELECT customer_name ,  customer_phone ,  payment_method_code FROM customers ORDER BY customer_number DESC

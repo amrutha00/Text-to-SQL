@@ -1,0 +1,1 @@
+What are the distinct names of wines with prices higher than any wine from John Anthony winery.

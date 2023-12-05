@@ -1,0 +1,1 @@
+SELECT phone_number ,  email_address FROM Customers WHERE amount_outstanding  >  2000;

@@ -1,0 +1,1 @@
+How many credits is the course that the student with the last name Smithson took, and what is its description?

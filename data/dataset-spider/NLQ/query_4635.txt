@@ -1,0 +1,1 @@
+Show the names of customers having an order with shipping method FedEx and order status Paid.

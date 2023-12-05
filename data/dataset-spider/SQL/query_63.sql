@@ -1,0 +1,1 @@
+SELECT student_id FROM students WHERE student_id NOT IN (SELECT student_id FROM student_course_attendance)

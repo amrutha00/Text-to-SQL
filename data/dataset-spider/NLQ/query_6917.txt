@@ -1,0 +1,1 @@
+On what day was the order with invoice number 10 placed?

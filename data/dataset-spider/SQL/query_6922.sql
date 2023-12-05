@@ -1,0 +1,1 @@
+SELECT order_id FROM shipments WHERE shipment_date > "2000-01-01"

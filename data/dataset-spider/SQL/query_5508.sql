@@ -1,0 +1,1 @@
+SELECT Election_Cycle ,  count(*) FROM VOTING_RECORD GROUP BY Election_Cycle

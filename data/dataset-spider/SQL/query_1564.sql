@@ -1,0 +1,1 @@
+SELECT customer_id FROM Customers EXCEPT SELECT customer_id FROM Accounts

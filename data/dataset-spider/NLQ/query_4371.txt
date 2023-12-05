@@ -1,0 +1,1 @@
+Find the organisation type description of the organisation detailed as 'quo'.

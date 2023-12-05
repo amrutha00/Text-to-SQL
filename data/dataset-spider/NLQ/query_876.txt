@@ -1,0 +1,1 @@
+Please list the name and id of all artists that have at least 3 albums in alphabetical order.

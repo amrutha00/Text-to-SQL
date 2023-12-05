@@ -1,0 +1,1 @@
+Give me the title and highest price for each film.

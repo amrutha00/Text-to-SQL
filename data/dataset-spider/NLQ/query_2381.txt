@@ -1,0 +1,1 @@
+How many faculty lines are there in the university that conferred the most number of degrees in year 2002?

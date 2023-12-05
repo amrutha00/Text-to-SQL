@@ -1,0 +1,1 @@
+SELECT sum(Amount_Payment) FROM Payments

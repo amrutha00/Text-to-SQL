@@ -1,0 +1,1 @@
+Show the ids of all the faculty members who participate in an activity and advise a student.

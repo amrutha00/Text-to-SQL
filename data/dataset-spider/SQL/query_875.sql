@@ -1,0 +1,1 @@
+SELECT Title FROM ALBUM ORDER BY Title

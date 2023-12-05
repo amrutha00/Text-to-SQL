@@ -1,0 +1,1 @@
+SELECT first_name ,  last_name FROM employees WHERE department_id  =  70 OR department_id  =  90

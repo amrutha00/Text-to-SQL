@@ -1,0 +1,1 @@
+Show the manager name with most number of gas stations opened after 2000.

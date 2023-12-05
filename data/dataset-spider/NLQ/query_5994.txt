@@ -1,0 +1,1 @@
+Show first name for all students with major 600.

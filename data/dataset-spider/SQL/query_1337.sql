@@ -1,0 +1,1 @@
+SELECT count(DISTINCT s_id) FROM advisor

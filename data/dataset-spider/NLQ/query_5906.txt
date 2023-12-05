@@ -1,0 +1,1 @@
+How many distinct names are associated with all the photos?

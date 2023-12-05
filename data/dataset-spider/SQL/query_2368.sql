@@ -1,0 +1,1 @@
+SELECT campus FROM campuses WHERE county  =  "Los Angeles"

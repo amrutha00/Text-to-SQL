@@ -1,0 +1,1 @@
+SELECT avg(Order_Quantity) FROM Invoices WHERE payment_method_code  =  "MasterCard"

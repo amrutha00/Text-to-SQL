@@ -1,0 +1,1 @@
+Which submission received the highest score in acceptance result. Show me the result.

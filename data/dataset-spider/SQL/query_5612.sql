@@ -1,0 +1,1 @@
+SELECT count(DISTINCT city) FROM stadium WHERE opening_year  <  2006

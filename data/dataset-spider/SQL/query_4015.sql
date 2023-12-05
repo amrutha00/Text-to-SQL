@@ -1,0 +1,1 @@
+SELECT Nationality FROM ship GROUP BY Nationality HAVING COUNT(*)  >  2

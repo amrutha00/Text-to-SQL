@@ -1,0 +1,1 @@
+SELECT state ,  acc_type ,  credit_score FROM customer WHERE no_of_loans  =  0

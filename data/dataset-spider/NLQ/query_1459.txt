@@ -1,0 +1,1 @@
+Find the name and salary of instructors whose salary is below the average salary of the instructors in the Physics department.

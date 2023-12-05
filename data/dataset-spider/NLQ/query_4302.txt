@@ -1,0 +1,1 @@
+Count the number of members in club "Bootup Baltimore" whose age is above 18.

@@ -1,0 +1,1 @@
+Find the names of furnitures whose prices are lower than the highest price.

@@ -1,0 +1,1 @@
+What are the ids of the students who registered course statistics by order of registration date?

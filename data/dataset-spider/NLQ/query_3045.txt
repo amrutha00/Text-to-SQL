@@ -1,0 +1,1 @@
+Find the name of customers whose credit score is below the average credit scores of all customers.

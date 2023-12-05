@@ -1,0 +1,1 @@
+Which cities' temperature in March is lower than that in July or higher than that in Oct?

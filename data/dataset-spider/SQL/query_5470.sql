@@ -1,0 +1,1 @@
+SELECT DISTINCT Registration_Date ,  Election_Cycle FROM VOTING_RECORD

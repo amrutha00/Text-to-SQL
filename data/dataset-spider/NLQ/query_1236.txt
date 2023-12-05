@@ -1,0 +1,1 @@
+What are the start date and end date of the apartment bookings made by female guests (gender code "Female")?

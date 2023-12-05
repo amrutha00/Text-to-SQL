@@ -1,0 +1,1 @@
+Find the full name and id of the college that has the most baseball players.

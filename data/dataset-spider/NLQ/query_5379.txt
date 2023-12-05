@@ -1,0 +1,1 @@
+For each product that has problems, find the number of problems reported after 1986-11-13 and the product id?

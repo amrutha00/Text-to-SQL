@@ -1,0 +1,1 @@
+Show the id and builder of the railway that are associated with the most trains.

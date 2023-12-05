@@ -1,0 +1,1 @@
+For each product, show its name and the number of times it was ordered.

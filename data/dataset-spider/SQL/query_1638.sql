@@ -1,0 +1,1 @@
+SELECT country FROM people WHERE age  <  25 INTERSECT SELECT country FROM people WHERE age  >  30

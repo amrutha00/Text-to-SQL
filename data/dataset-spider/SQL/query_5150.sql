@@ -1,0 +1,1 @@
+SELECT count(DISTINCT Currency_Code) FROM Drama_Workshop_Groups

@@ -1,0 +1,1 @@
+SELECT origin FROM program ORDER BY origin

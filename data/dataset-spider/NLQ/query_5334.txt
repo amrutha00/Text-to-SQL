@@ -1,0 +1,1 @@
+What is the average price of products with manufacturer codes equal to 2?

@@ -1,0 +1,1 @@
+Return the id of the customer who has the most cards, as well as the number of cards.

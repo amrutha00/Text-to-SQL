@@ -1,0 +1,1 @@
+SELECT sales_details FROM sales UNION SELECT purchase_details FROM purchases

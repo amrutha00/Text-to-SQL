@@ -1,0 +1,1 @@
+SELECT Height ,  Weight FROM people ORDER BY Height DESC

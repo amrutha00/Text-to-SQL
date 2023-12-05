@@ -1,0 +1,1 @@
+SELECT count(*) FROM park WHERE state  =  'NY';

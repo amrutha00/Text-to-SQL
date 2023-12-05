@@ -1,0 +1,1 @@
+List players' first name and last name who have weight greater than 220 or height shorter than 75.

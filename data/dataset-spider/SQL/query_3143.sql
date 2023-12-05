@@ -1,0 +1,1 @@
+SELECT asset_acquired_date FROM Assets ORDER BY asset_acquired_date ASC LIMIT 1

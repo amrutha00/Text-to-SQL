@@ -1,0 +1,1 @@
+SELECT avg(age) ,  min(age) FROM artist WHERE country  =  'United States'

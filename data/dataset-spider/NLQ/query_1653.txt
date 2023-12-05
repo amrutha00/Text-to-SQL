@@ -1,0 +1,1 @@
+What are the names, ages, and countries of artists, sorted by the year they joined?

@@ -1,0 +1,1 @@
+SELECT LENGTH ,  Height FROM roller_coaster

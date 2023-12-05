@@ -1,0 +1,1 @@
+Give the name of each department and the number of employees in each.

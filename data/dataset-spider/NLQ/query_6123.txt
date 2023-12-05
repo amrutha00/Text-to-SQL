@@ -1,0 +1,1 @@
+What are the customer name and date of the orders whose status is "Delivered".

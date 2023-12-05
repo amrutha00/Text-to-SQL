@@ -1,0 +1,1 @@
+Return the name and job title of the staff with the latest date assigned.

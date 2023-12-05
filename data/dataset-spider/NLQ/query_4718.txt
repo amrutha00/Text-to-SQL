@@ -1,0 +1,1 @@
+What are the staff ids and genders of all staffs whose job title is Department Manager?

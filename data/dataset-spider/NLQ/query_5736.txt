@@ -1,0 +1,1 @@
+How many students are older than average for each gender?

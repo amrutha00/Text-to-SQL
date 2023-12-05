@@ -1,0 +1,1 @@
+Return the hispanic percentage for cities in which the black percentage is greater than 10.

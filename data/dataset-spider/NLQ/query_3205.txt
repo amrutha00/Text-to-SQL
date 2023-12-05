@@ -1,0 +1,1 @@
+For each classroom with at least 2 classes, how many classes are offered?

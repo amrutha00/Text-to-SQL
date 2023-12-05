@@ -1,0 +1,1 @@
+Return the name of each physician and the number of patients he or she treats.

@@ -1,0 +1,1 @@
+Show ids, customer ids, card type codes, card numbers for all cards.

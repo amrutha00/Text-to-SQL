@@ -1,0 +1,1 @@
+SELECT Votes FROM election ORDER BY Votes DESC

@@ -1,0 +1,1 @@
+SELECT decor , count(*) FROM Rooms WHERE basePrice  >  120 GROUP BY decor;

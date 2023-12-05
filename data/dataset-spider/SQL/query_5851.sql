@@ -1,0 +1,1 @@
+SELECT transaction_id FROM TRANSACTIONS WHERE transaction_type_code  =  'PUR'

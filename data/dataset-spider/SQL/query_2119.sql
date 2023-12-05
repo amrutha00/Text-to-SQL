@@ -1,0 +1,1 @@
+SELECT receipt_date FROM Documents WHERE document_id = 3;

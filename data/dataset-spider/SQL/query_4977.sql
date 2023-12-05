@@ -1,0 +1,1 @@
+SELECT * FROM College ORDER BY enr

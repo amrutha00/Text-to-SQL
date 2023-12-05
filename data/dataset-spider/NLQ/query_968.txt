@@ -1,0 +1,1 @@
+List the medicine name and trade name which can both interact as 'inhibitor' and 'activitor' with enzymes.

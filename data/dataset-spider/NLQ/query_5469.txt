@@ -1,0 +1,1 @@
+Report the distinct registration date and the election cycle.

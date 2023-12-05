@@ -1,0 +1,1 @@
+Show all the cinema names and opening years in descending order of opening year.

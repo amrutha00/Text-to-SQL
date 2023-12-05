@@ -1,0 +1,1 @@
+Find the ids of the employees who does not work in those departments where some employees works whose manager id within the range 100 and 200.

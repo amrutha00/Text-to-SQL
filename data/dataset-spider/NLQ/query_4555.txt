@@ -1,0 +1,1 @@
+Find the maximum and minimum sales of the companies that are not in the "Banking" industry.

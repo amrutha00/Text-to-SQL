@@ -1,0 +1,1 @@
+SELECT count(*) FROM Student WHERE Advisor =  1121;

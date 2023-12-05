@@ -1,0 +1,1 @@
+On which day and in which zip code was the min dew point lower than any day in zip code 94107?

@@ -1,0 +1,1 @@
+SELECT TYPE ,  avg(Tonnage) FROM ship GROUP BY TYPE

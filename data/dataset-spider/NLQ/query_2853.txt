@@ -1,0 +1,1 @@
+List the names, phone numbers, and emails of all customers sorted by their dates of becoming customers.

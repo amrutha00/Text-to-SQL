@@ -1,0 +1,1 @@
+SELECT DISTINCT Destroyed_by_Employee_ID FROM Documents_to_be_destroyed

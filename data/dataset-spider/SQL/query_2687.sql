@@ -1,0 +1,1 @@
+SELECT Name ,  Nationality FROM HOST ORDER BY Age DESC LIMIT 1

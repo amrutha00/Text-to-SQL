@@ -1,0 +1,1 @@
+SELECT sum(crs_credit) ,  dept_code FROM course GROUP BY dept_code

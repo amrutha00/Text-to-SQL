@@ -1,0 +1,1 @@
+Return the code of the document type that is most common.

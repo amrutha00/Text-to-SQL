@@ -1,0 +1,1 @@
+Find the name and active date of the customer that use email as the contact channel.

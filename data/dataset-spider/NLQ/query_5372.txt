@@ -1,0 +1,1 @@
+Which problems are reported by the staff with last name "Bosco"? Show the ids of the problems.

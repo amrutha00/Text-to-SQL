@@ -1,0 +1,1 @@
+How many tracks does each genre have and what are the names of the top 5?

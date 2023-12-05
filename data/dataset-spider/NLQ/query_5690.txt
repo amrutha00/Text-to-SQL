@@ -1,0 +1,1 @@
+What is the average and total capacity for all dorms who are of gender X?

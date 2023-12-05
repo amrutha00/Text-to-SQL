@@ -1,0 +1,1 @@
+Return the addresses of the course authors or tutors whose personal name is "Cathrine".

@@ -1,0 +1,1 @@
+Count the number of times the team "Boston Red Stockings" lost in 2009 postseason.

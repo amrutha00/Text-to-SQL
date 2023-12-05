@@ -1,0 +1,1 @@
+Which film has the most copies in the inventory? List both title and id.

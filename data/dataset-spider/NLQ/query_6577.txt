@@ -1,0 +1,1 @@
+What are the maximum price and score of wines for each year?

@@ -1,0 +1,1 @@
+Show the ages of gymnasts in descending order of total points.

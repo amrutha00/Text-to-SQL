@@ -1,0 +1,1 @@
+Find the policy types more than 4 customers use. Show their type code.

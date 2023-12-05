@@ -1,0 +1,1 @@
+SELECT city FROM park GROUP BY city HAVING count(*) BETWEEN 2 AND 4;

@@ -1,0 +1,1 @@
+Find the product names whose average product price is below 1000000.

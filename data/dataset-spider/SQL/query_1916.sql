@@ -1,0 +1,1 @@
+SELECT name FROM building WHERE height_feet  >=  200 AND floors  >=  20

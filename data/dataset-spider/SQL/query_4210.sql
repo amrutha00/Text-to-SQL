@@ -1,0 +1,1 @@
+SELECT role_code FROM Employees GROUP BY role_code HAVING count(*)  >=  3

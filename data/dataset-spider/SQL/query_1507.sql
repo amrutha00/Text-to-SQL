@@ -1,0 +1,1 @@
+SELECT Name FROM people WHERE People_id NOT IN (SELECT Affirmative FROM debate_people)

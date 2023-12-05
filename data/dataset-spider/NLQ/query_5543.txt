@@ -1,0 +1,1 @@
+Find the category descriptions of the products whose descriptions include letter 't'.

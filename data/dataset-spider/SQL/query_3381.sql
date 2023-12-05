@@ -1,0 +1,1 @@
+SELECT name FROM player WHERE points  >  (SELECT avg(points) FROM player)

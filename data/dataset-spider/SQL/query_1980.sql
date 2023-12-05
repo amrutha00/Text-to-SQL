@@ -1,0 +1,1 @@
+SELECT Name FROM phone ORDER BY Price ASC

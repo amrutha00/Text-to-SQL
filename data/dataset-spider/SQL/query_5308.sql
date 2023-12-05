@@ -1,0 +1,1 @@
+SELECT sum(revenue) ,  founder FROM manufacturers GROUP BY founder

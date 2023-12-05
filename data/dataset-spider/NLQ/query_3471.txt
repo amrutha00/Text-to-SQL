@@ -1,0 +1,1 @@
+Provide the full names of employees earning more than the employee with id 163.

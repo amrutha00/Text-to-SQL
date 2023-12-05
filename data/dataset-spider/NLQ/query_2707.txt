@@ -1,0 +1,1 @@
+List name and damage for all storms in a descending order of max speed.

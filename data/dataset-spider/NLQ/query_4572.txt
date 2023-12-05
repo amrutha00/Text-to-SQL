@@ -1,0 +1,1 @@
+Please show the industries of companies in descending order of the number of companies.

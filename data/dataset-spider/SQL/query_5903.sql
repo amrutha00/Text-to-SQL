@@ -1,0 +1,1 @@
+SELECT Other_Details FROM LOCATIONS WHERE Location_Name  =  "UK Gallery"

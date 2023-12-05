@@ -1,0 +1,1 @@
+List the names of mountains that do not have any climber.

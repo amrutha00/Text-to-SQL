@@ -1,0 +1,1 @@
+Give the average price and case of wines made from Zinfandel grapes in the year 2009.

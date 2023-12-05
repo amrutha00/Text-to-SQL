@@ -1,0 +1,1 @@
+Find the number of complaints with Product Failure type for each complaint status.

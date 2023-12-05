@@ -1,0 +1,1 @@
+Find the student ID and middle name for all the students with at most two enrollments.

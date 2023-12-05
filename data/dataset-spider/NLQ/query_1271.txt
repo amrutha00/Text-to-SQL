@@ -1,0 +1,1 @@
+Show the apartment numbers of apartments with bookings that have status code both "Provisional" and "Confirmed"

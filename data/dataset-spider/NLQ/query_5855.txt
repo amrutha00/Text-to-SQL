@@ -1,0 +1,1 @@
+Show the minimum amount of transactions whose type code is "PUR" and whose share count is bigger than 50.

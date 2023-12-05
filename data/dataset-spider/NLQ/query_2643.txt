@@ -1,0 +1,1 @@
+Find the name of rooms whose base price is between 120 and 150.

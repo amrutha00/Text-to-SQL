@@ -1,0 +1,1 @@
+Show the phone, room, and building for the faculty named Jerry Prince.

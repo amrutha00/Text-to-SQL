@@ -1,0 +1,1 @@
+Return the name, rate, check in and check out date for the room with the highest rate.

@@ -1,0 +1,1 @@
+What are the maximum and minimum population of the counties?

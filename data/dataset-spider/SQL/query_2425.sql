@@ -1,0 +1,1 @@
+SELECT count(*) ,  sex FROM people WHERE weight  >  85 GROUP BY sex

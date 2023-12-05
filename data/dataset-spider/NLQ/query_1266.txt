@@ -1,0 +1,1 @@
+Return each apartment type code along with the maximum and minimum number of rooms among each type.

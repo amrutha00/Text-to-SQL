@@ -1,0 +1,1 @@
+Find the names of the courses that have just one student enrollment.

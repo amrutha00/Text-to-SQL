@@ -1,0 +1,1 @@
+SELECT name ,  openning_year FROM cinema ORDER BY openning_year DESC

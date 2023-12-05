@@ -1,0 +1,1 @@
+What is the maximum and mininum number of transit passengers for all airports?

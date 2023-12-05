@@ -1,0 +1,1 @@
+SELECT count(*) ,  sex FROM employee WHERE salary  <  50000 GROUP BY sex

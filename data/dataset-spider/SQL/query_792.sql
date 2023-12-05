@@ -1,0 +1,1 @@
+SELECT name FROM member WHERE address  =  'Harford' OR address  =  'Waterbury'

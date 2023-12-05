@@ -1,0 +1,1 @@
+SELECT count(DISTINCT StuID) FROM Sportsinfo

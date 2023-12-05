@@ -1,0 +1,1 @@
+SELECT count(DISTINCT Status) FROM city

@@ -1,0 +1,1 @@
+SELECT avg(num_employees) FROM department WHERE ranking BETWEEN 10 AND 15

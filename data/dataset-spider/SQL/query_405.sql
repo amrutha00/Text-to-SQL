@@ -1,0 +1,1 @@
+SELECT origin ,  count(*) FROM Flight GROUP BY origin

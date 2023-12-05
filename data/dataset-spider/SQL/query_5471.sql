@@ -1,0 +1,1 @@
+SELECT DISTINCT President_Vote ,  VICE_President_Vote FROM VOTING_RECORD

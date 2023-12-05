@@ -1,0 +1,1 @@
+SELECT pName FROM Player WHERE yCard  =  'yes' ORDER BY HS DESC

@@ -1,0 +1,1 @@
+SELECT name FROM driver WHERE home_city  =  'Hartford' AND age  <  40

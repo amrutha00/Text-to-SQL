@@ -1,0 +1,1 @@
+SELECT Pilot_name FROM pilot WHERE Team  =  "Bradley" OR Team  =  "Fordham"

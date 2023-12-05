@@ -1,0 +1,1 @@
+SELECT count(*) FROM products WHERE price >= 180

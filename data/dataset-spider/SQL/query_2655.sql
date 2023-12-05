@@ -1,0 +1,1 @@
+SELECT * FROM customer_master_index ORDER BY cmi_details DESC

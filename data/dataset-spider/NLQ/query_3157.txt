@@ -1,0 +1,1 @@
+Which assets did not incur any fault log? List the asset model.

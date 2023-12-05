@@ -1,0 +1,1 @@
+List the time of elimination of the wrestlers with largest days held.

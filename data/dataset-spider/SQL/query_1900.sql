@@ -1,0 +1,1 @@
+SELECT amount ,  donator_name FROM endowment ORDER BY amount DESC LIMIT 1

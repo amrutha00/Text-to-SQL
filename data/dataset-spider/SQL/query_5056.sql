@@ -1,0 +1,1 @@
+SELECT Carrier FROM device WHERE Software_Platform != 'Android'

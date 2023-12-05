@@ -1,0 +1,1 @@
+SELECT count(DISTINCT dormid) FROM has_amenity

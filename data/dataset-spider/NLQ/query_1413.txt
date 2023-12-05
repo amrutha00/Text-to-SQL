@@ -1,0 +1,1 @@
+Find the semester and year which has the least number of student taking any class.

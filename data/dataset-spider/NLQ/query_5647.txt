@@ -1,0 +1,1 @@
+Show different locations of railways along with the corresponding number of railways at each location.

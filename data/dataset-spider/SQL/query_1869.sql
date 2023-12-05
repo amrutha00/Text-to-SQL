@@ -1,0 +1,1 @@
+SELECT Reign ,  Days_held FROM wrestler

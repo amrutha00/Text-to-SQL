@@ -1,0 +1,1 @@
+Return the average horizontal bar points across all gymnasts.

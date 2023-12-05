@@ -1,0 +1,1 @@
+Show ids for all employees who don't have a certificate.

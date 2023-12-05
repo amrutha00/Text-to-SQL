@@ -1,0 +1,1 @@
+SELECT name FROM swimmer WHERE id NOT IN (SELECT swimmer_id FROM record)

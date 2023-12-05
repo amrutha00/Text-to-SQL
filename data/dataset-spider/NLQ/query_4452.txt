@@ -1,0 +1,1 @@
+What are the names of everybody who has exactly one friend?

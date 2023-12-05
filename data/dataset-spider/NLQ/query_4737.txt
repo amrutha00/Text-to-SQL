@@ -1,0 +1,1 @@
+What are the names and addressed of customers who have both New and Pending orders?

@@ -1,0 +1,1 @@
+What is the average age of students who have city code "NYC" and have secretary votes for the spring election cycle?

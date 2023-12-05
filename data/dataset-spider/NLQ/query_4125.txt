@@ -1,0 +1,1 @@
+How many markets have number of cities smaller than 300?

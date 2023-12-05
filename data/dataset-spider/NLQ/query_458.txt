@@ -1,0 +1,1 @@
+Which allergy type has least number of allergies?

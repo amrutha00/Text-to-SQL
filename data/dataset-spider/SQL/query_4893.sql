@@ -1,0 +1,1 @@
+SELECT LOCATION FROM school WHERE School_ID NOT IN (SELECT School_ID FROM Player)

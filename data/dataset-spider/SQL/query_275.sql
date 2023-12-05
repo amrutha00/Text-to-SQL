@@ -1,0 +1,1 @@
+SELECT email FROM user_profiles WHERE name  =  'Mary'

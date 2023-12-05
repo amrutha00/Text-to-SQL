@@ -1,0 +1,1 @@
+Count the number of financial transactions that correspond to each account id.

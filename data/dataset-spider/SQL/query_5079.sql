@@ -1,0 +1,1 @@
+SELECT Software_Platform FROM device GROUP BY Software_Platform ORDER BY COUNT(*) DESC

@@ -1,0 +1,1 @@
+SELECT Name FROM representative WHERE Representative_ID NOT IN (SELECT Representative_ID FROM election)

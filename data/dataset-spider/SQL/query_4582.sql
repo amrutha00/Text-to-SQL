@@ -1,0 +1,1 @@
+SELECT Headquarters FROM Companies GROUP BY Headquarters HAVING COUNT(*)  >  2

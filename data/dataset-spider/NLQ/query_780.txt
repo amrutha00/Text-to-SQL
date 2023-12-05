@@ -1,0 +1,1 @@
+Show the name of track and the number of races in each track.

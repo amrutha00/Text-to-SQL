@@ -1,0 +1,1 @@
+SELECT LOCATION FROM festival_detail ORDER BY Num_of_Audience DESC LIMIT 1

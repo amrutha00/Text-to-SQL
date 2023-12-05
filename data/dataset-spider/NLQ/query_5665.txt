@@ -1,0 +1,1 @@
+Show the customer name, customer address city, date from, and date to for each customer address history.

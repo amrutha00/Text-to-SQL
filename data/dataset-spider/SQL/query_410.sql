@@ -1,0 +1,1 @@
+SELECT destination FROM Flight GROUP BY destination ORDER BY count(*) LIMIT 1

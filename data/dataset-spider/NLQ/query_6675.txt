@@ -1,0 +1,1 @@
+Which customer status code has least number of customers?

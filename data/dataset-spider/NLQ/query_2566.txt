@@ -1,0 +1,1 @@
+What are the names of counties that do not contain any cities?

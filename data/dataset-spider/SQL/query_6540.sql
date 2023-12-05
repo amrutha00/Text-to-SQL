@@ -1,0 +1,1 @@
+SELECT count(*) FROM APPELLATIONS WHERE County  =  "Napa"

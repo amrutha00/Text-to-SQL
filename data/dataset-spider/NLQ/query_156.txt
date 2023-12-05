@@ -1,0 +1,1 @@
+Give me ids for all the trip that took place in a zip code area with average mean temperature above 60.

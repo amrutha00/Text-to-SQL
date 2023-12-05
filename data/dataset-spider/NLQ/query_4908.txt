@@ -1,0 +1,1 @@
+What are the names of all districts with a city area greater than 10 or have more than 100000 people living there?

@@ -1,0 +1,1 @@
+SELECT sum(hours) FROM projects

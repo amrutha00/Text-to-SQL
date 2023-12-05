@@ -1,0 +1,1 @@
+Show the accelerator names and supporting operating systems that are not compatible with the browser named 'Opera'.

@@ -1,0 +1,1 @@
+Show all ministers and parties they belong to in descending order of the time they took office.

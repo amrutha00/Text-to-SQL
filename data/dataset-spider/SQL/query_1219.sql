@@ -1,0 +1,1 @@
+SELECT date_of_birth FROM Guests WHERE gender_code  =  "Male"

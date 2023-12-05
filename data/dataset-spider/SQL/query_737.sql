@@ -1,0 +1,1 @@
+SELECT count(DISTINCT transaction_type) FROM Financial_Transactions

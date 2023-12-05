@@ -1,0 +1,1 @@
+What are the faculty id and the number of students each faculty has?

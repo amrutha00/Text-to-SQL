@@ -1,0 +1,1 @@
+SELECT OWNER FROM channel ORDER BY rating_in_percent DESC LIMIT 1

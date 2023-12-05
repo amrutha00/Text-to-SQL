@@ -1,0 +1,1 @@
+How many bookings does each booking status have? List the booking status code and the number of corresponding bookings.

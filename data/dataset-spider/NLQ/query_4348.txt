@@ -1,0 +1,1 @@
+What is the total amount of grant money given to each organization and what is its id?

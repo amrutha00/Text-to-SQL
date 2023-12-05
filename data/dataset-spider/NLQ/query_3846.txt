@@ -1,0 +1,1 @@
+Count the number of students who did not enroll in any course.

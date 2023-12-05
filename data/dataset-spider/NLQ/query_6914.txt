@@ -1,0 +1,1 @@
+When was the order placed whose shipment tracking number is 3452? Give me the date.

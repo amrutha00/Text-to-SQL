@@ -1,0 +1,1 @@
+SELECT role_code FROM Employees GROUP BY role_code ORDER BY count(*) DESC LIMIT 1

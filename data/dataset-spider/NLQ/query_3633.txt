@@ -1,0 +1,1 @@
+Compute the average salary of the players in the team called 'Boston Red Stockings'.

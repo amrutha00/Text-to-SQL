@@ -1,0 +1,1 @@
+SELECT DISTINCT location_code FROM Document_locations

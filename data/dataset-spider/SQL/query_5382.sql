@@ -1,0 +1,1 @@
+SELECT DISTINCT product_name FROM product ORDER BY product_name

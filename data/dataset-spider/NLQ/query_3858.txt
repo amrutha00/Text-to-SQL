@@ -1,0 +1,1 @@
+Find the settlement amount of the claim with the largest claim amount. Show both the settlement amount and claim amount.

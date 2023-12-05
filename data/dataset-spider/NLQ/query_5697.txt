@@ -1,0 +1,1 @@
+Find the capacity and gender type of the dorm whose name has substring ‘Donor’.

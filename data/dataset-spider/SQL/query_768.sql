@@ -1,0 +1,1 @@
+SELECT CLASS ,  count(*) FROM race GROUP BY CLASS

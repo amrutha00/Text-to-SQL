@@ -1,0 +1,1 @@
+SELECT name FROM buildings WHERE id NOT IN (SELECT building_id FROM Office_locations)

@@ -1,0 +1,1 @@
+SELECT Party FROM representative GROUP BY Party HAVING COUNT(*)  >=  3

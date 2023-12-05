@@ -1,0 +1,1 @@
+Show the names of phones and the districts of markets they are on.

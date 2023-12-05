@@ -1,0 +1,1 @@
+Show each county along with the number of schools and total enrollment in each county.

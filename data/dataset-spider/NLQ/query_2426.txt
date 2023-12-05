@@ -1,0 +1,1 @@
+Count the number of people of each sex who have a weight higher than 85.

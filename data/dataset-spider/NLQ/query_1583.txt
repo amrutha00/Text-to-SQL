@@ -1,0 +1,1 @@
+Count the number of financial transactions that the account with the name 337 has.

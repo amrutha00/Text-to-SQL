@@ -1,0 +1,1 @@
+Find the number of the products that have their color described as "red" and have a characteristic named "slow".

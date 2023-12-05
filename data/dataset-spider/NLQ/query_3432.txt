@@ -1,0 +1,1 @@
+What are the first and last name for those employees who works either in department 70 or 90?

@@ -1,0 +1,1 @@
+SELECT DISTINCT building FROM classroom WHERE capacity  >  50

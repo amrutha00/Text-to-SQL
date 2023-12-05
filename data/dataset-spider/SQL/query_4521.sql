@@ -1,0 +1,1 @@
+SELECT document_name FROM documents WHERE document_code NOT IN (SELECT document_code FROM document_sections)

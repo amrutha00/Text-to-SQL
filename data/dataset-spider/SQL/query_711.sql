@@ -1,0 +1,1 @@
+SELECT count(*) FROM Customers_cards AS T1 JOIN Customers AS T2 ON T1.customer_id  =  T2.customer_id WHERE T2.customer_first_name  =  "Blanche" AND T2.customer_last_name  =  "Huels" AND T1.card_type_code  =  "Credit"

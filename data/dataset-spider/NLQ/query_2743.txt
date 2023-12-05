@@ -1,0 +1,1 @@
+Show all the distinct districts for elections.

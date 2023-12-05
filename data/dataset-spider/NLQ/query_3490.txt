@@ -1,0 +1,1 @@
+Find the job ID for those jobs which average salary is above 8000.

@@ -1,0 +1,1 @@
+What are the ids of all male students who do not play football?

@@ -1,0 +1,1 @@
+Which locations are shared by more than two wrestlers?

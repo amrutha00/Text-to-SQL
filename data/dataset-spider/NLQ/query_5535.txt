@@ -1,0 +1,1 @@
+Find the number of products with category "Spices" and typically sold above 1000.

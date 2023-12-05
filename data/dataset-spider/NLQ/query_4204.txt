@@ -1,0 +1,1 @@
+Which employees have the role with code "HR"? Find their names.

@@ -1,0 +1,1 @@
+Find the names of the candidates whose support percentage is lower than their oppose rate.

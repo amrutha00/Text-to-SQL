@@ -1,0 +1,1 @@
+How many products have the color description 'red' and the characteristic name 'slow'?

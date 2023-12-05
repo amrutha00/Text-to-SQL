@@ -1,0 +1,1 @@
+What are the names of the workshop groups that have bookings with status code "stop"?

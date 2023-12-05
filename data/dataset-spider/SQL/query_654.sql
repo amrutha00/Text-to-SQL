@@ -1,0 +1,1 @@
+SELECT Name FROM editor WHERE Age  =  24 OR Age  =  25

@@ -1,0 +1,1 @@
+SELECT max(Weeks_on_Top) ,  min(Weeks_on_Top) FROM volume

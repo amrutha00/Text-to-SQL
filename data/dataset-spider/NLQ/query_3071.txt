@@ -1,0 +1,1 @@
+Find the name of bank branches that provided some loans.

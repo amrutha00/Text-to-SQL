@@ -1,0 +1,1 @@
+What is the first name of all employees who do not give any lessons?

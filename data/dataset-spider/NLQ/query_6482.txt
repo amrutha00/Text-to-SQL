@@ -1,0 +1,1 @@
+List the name of all projects that are operated longer than the average working hours of all projects.

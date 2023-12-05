@@ -1,0 +1,1 @@
+How many different products are produced in each headquarter city?

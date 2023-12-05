@@ -1,0 +1,1 @@
+SELECT Shop_Name ,  LOCATION FROM shop ORDER BY Shop_Name ASC

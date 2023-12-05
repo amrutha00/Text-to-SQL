@@ -1,0 +1,1 @@
+What are the ids of the courses that are registered or attended by the student whose id is 121?

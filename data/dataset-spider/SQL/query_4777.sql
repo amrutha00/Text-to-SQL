@@ -1,0 +1,1 @@
+SELECT max(customer_code) ,  min(customer_code) FROM Customers

@@ -1,0 +1,1 @@
+SELECT year_opened FROM track WHERE seating BETWEEN 4000 AND 5000

@@ -1,0 +1,1 @@
+SELECT document_id ,  document_name FROM Documents

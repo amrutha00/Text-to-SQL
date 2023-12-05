@@ -1,0 +1,1 @@
+Which customer made the smallest amount of claim in one claim? Return the customer details.

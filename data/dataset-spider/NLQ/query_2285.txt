@@ -1,0 +1,1 @@
+Return the dates of birth for entrepreneurs who have either the investor Simon Woodroffe or Peter Jones.

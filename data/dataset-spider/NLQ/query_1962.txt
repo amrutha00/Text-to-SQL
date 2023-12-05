@@ -1,0 +1,1 @@
+How many bookings did each customer make? List the customer id, first name, and the count.

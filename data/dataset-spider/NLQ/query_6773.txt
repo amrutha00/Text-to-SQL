@@ -1,0 +1,1 @@
+Which faculty do not participate in any activity? Find their faculty ids.

@@ -1,0 +1,1 @@
+SELECT Studio ,  COUNT(*) FROM film GROUP BY Studio

@@ -1,0 +1,1 @@
+Find the component amounts and names of all furnitures that have more than 10 components.

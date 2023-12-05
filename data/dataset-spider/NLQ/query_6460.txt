@@ -1,0 +1,1 @@
+Show ids for all documents in type CV without expense budgets.

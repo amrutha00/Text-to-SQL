@@ -1,0 +1,1 @@
+SELECT DISTINCT grade FROM list WHERE classroom  =  105

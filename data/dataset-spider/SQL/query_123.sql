@@ -1,0 +1,1 @@
+SELECT sum(duration) ,  max(duration) FROM trip WHERE bike_id  =  636

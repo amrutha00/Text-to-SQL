@@ -1,0 +1,1 @@
+How many patients stay in room 112?

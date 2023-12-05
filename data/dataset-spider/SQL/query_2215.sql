@@ -1,0 +1,1 @@
+SELECT name FROM circuits WHERE country = "UK" OR country = "Malaysia"

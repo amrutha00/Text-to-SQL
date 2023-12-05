@@ -1,0 +1,1 @@
+Find the names of the artists who are from Bangladesh and have never received rating higher than 7.

@@ -1,0 +1,1 @@
+Show all locations and the total number of platforms and passengers for all train stations in each location.

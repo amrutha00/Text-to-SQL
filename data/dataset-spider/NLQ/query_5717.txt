@@ -1,0 +1,1 @@
+List the first and last name of students who are not living in the city with code HKG, and sorted the results by their ages.

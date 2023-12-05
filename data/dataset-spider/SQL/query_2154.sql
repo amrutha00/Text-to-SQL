@@ -1,0 +1,1 @@
+SELECT name FROM races ORDER BY date DESC LIMIT 1

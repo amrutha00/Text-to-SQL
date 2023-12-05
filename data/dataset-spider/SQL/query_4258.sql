@@ -1,0 +1,1 @@
+SELECT DISTINCT fname FROM student

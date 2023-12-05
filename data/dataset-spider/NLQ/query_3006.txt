@@ -1,0 +1,1 @@
+Return the first names of customers who did not rented a film after the date '2005-08-23 02:06:01'.

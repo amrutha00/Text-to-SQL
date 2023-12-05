@@ -1,0 +1,1 @@
+How many documents can one grant have at most? List the grant id and number.

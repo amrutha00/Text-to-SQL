@@ -1,0 +1,1 @@
+Which students live in the city with code "NYC" and have class senator votes in the spring election cycle? Count the numbers.

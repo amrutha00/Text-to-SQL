@@ -1,0 +1,1 @@
+Find the description of the most popular role among the users that have logged in.

@@ -1,0 +1,1 @@
+Find all types of store and number of them.

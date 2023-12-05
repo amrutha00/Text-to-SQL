@@ -1,0 +1,1 @@
+SELECT count(DISTINCT dept_name) FROM course

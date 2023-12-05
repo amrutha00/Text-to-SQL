@@ -1,0 +1,1 @@
+SELECT County_name ,  Population FROM county

@@ -1,0 +1,1 @@
+Show the location codes and the number of documents in each location.

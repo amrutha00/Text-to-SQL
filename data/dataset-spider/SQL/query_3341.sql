@@ -1,0 +1,1 @@
+SELECT DISTINCT Region FROM club ORDER BY Region ASC

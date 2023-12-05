@@ -1,0 +1,1 @@
+Find all the female members of club "Bootup Baltimore". Show the first name and last name.

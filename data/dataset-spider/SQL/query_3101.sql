@@ -1,0 +1,1 @@
+SELECT * FROM Assessment_Notes ORDER BY date_of_notes ASC

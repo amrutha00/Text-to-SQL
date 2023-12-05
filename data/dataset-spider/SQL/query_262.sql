@@ -1,0 +1,1 @@
+SELECT Nominee ,  COUNT(*) FROM musical GROUP BY Nominee

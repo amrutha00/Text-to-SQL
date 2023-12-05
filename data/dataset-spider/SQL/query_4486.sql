@@ -1,0 +1,1 @@
+SELECT Name FROM member ORDER BY Name ASC

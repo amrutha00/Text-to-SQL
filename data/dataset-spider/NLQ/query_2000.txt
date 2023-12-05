@@ -1,0 +1,1 @@
+Show all company names and headquarters in the descending order of market value.

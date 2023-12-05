@@ -1,0 +1,1 @@
+What is the maximum price of wines from the appelation in the Central Coast area, which was produced before 2005?

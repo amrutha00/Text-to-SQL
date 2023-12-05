@@ -1,0 +1,1 @@
+SELECT rank ,  count(*) FROM Faculty GROUP BY rank

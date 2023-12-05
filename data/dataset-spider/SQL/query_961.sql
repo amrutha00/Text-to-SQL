@@ -1,0 +1,1 @@
+SELECT count(*) FROM medicine WHERE FDA_approved  =  'No'

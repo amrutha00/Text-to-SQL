@@ -1,0 +1,1 @@
+Show the id, the date of account opened, the account name, and other account detail for all accounts.

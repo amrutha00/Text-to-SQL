@@ -1,0 +1,1 @@
+SELECT main_industry ,  sum(market_value) FROM company GROUP BY main_industry

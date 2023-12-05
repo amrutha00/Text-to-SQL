@@ -1,0 +1,1 @@
+How many distinct FDA approval statuses are there for the medicines?

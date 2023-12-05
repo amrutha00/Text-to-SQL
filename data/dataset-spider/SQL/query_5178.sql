@@ -1,0 +1,1 @@
+SELECT * FROM Albums WHERE YEAR  =  2012

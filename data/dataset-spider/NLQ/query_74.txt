@@ -1,0 +1,1 @@
+Find id of the candidate whose email is stanley.monahan@example.org?

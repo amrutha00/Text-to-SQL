@@ -1,0 +1,1 @@
+Count the number of items store 1 has in stock.

@@ -1,0 +1,1 @@
+What are the unique ids of those departments where any manager is managing 4 or more employees.

@@ -1,0 +1,1 @@
+Show the statement detail and the corresponding document name for the statement with detail 'Private Project'.

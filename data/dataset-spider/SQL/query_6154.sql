@@ -1,0 +1,1 @@
+SELECT Date_of_ceremony ,  RESULT FROM music_festival

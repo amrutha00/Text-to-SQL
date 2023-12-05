@@ -1,0 +1,1 @@
+Show the apartment numbers of apartments with unit status availability of both 0 and 1.

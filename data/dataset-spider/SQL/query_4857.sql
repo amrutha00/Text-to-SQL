@@ -1,0 +1,1 @@
+SELECT other_details FROM Residents WHERE other_details LIKE '%Miss%'

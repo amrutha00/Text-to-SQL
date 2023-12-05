@@ -1,0 +1,1 @@
+Find the Char cells, Pixels and Hardware colours for the screen of the phone whose hardware model name is "LG-P760".

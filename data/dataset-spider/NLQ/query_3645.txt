@@ -1,0 +1,1 @@
+Which manager won the most manager award? Give me the manager's first name, last name and id.

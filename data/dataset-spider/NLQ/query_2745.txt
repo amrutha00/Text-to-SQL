@@ -1,0 +1,1 @@
+Show the zip code of the county with name "Howard".

@@ -1,0 +1,1 @@
+Show the shop addresses ordered by their opening year.

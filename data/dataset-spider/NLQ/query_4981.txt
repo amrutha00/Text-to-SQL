@@ -1,0 +1,1 @@
+Find the name of players whose card is yes in the descending order of training hours.

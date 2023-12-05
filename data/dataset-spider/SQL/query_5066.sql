@@ -1,0 +1,1 @@
+SELECT Open_Date ,  Open_Year FROM shop WHERE Shop_Name  =  "Apple"

@@ -1,0 +1,1 @@
+SELECT count(*) FROM Employee WHERE salary BETWEEN 100000 AND 200000

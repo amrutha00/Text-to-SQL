@@ -1,0 +1,1 @@
+SELECT count(*) FROM gas_station WHERE open_year BETWEEN 2000 AND 2005

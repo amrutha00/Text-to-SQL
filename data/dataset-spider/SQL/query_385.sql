@@ -1,0 +1,1 @@
+SELECT flno ,  origin ,  destination FROM Flight ORDER BY origin

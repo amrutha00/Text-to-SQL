@@ -1,0 +1,1 @@
+SELECT name FROM Aircraft WHERE distance  >  (SELECT avg(distance) FROM Aircraft)

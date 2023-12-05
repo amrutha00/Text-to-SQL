@@ -1,0 +1,1 @@
+Show the average transaction amount for different transaction types.

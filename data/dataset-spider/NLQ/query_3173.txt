@@ -1,0 +1,1 @@
+Find the origins from which more than 1 train starts.

@@ -1,0 +1,1 @@
+SELECT gtype FROM Video_games WHERE gname  =  "Call of Destiny"

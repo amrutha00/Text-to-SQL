@@ -1,0 +1,1 @@
+SELECT avg(Horizontal_Bar_Points) FROM gymnast

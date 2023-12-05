@@ -1,0 +1,1 @@
+Show the name, street address, and number of floors for all buildings ordered by the number of floors.

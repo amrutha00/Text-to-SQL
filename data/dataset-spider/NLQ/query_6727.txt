@@ -1,0 +1,1 @@
+What are the faculty ids of all the male faculty members?

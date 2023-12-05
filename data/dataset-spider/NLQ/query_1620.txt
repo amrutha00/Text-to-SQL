@@ -1,0 +1,1 @@
+Show the product ids and the number of unique orders containing each product.

@@ -1,0 +1,1 @@
+Show the facility codes of apartments with more than 4 bedrooms.

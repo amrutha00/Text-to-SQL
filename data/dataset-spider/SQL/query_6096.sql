@@ -1,0 +1,1 @@
+SELECT channel_code FROM customer_contact_channels GROUP BY channel_code HAVING count(customer_id)  <  5

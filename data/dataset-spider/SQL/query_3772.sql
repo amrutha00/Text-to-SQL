@@ -1,0 +1,1 @@
+SELECT course_description FROM COURSES WHERE course_name  =  "database"

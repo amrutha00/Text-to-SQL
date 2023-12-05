@@ -1,0 +1,1 @@
+SELECT Name ,  Party FROM representative

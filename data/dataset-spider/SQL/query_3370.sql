@@ -1,0 +1,1 @@
+SELECT Competition_type FROM competition GROUP BY Competition_type HAVING COUNT(*)  <=  5

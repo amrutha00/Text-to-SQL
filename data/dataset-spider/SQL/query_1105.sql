@@ -1,0 +1,1 @@
+SELECT Name FROM team WHERE Team_id NOT IN (SELECT Team FROM match_season)

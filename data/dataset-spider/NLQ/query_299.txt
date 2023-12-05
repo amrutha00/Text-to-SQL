@@ -1,0 +1,1 @@
+Find the average number of followers for the users who do not have any tweet.

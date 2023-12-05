@@ -1,0 +1,1 @@
+Find the number of products for each manufacturer, showing the name of each company.

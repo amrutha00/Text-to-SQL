@@ -1,0 +1,1 @@
+SELECT fname ,  lname FROM student WHERE age  <  (SELECT avg(age) FROM student)

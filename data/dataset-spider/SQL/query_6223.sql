@@ -1,0 +1,1 @@
+SELECT count(*) ,  rank FROM captain GROUP BY rank

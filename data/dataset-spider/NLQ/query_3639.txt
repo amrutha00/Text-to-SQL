@@ -1,0 +1,1 @@
+Count the number of players who enter hall of fame for each year.

@@ -1,0 +1,1 @@
+SELECT product_category_code FROM products WHERE product_name  =  "flax"

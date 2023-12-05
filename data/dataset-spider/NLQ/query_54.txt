@@ -1,0 +1,1 @@
+What are the official names of cities that have population over 1500 or less than 500?

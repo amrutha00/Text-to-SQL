@@ -1,0 +1,1 @@
+Show party names and the number of events for each party.

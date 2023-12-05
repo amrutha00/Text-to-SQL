@@ -1,0 +1,1 @@
+Show id, first name and last name for all customers and the number of accounts.

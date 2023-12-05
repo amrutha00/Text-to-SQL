@@ -1,0 +1,1 @@
+What is the last name of every student who is either female or living in a city with the code BAL or male and under 20?

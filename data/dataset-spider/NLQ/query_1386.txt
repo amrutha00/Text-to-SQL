@@ -1,0 +1,1 @@
+What are the names of students and their respective departments, ordered by number of credits from least to greatest?

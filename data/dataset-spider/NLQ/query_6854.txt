@@ -1,0 +1,1 @@
+How many cities are there that have more than 3 airports?

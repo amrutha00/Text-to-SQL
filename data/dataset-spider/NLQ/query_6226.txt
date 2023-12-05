@@ -1,0 +1,1 @@
+Count the number of captains younger than 50 of each rank.

@@ -1,0 +1,1 @@
+SELECT count(*) FROM budget WHERE budgeted  <  invested

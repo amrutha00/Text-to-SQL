@@ -1,0 +1,1 @@
+SELECT publisher FROM book_club GROUP BY publisher ORDER BY count(*) DESC LIMIT 1

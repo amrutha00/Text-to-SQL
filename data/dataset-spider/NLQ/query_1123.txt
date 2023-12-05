@@ -1,0 +1,1 @@
+What are the countries of mountains with height bigger than 5000?

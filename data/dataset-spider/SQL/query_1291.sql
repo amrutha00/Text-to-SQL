@@ -1,0 +1,1 @@
+SELECT name FROM stadium WHERE name LIKE "%Bank%"

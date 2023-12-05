@@ -1,0 +1,1 @@
+SELECT DISTINCT building_description FROM Apartment_Buildings

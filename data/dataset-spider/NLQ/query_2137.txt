@@ -1,0 +1,1 @@
+Find the number of employees of each gender whose salary is lower than 50000.

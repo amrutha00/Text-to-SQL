@@ -1,0 +1,1 @@
+Show all artist names with an average exhibition attendance over 200.

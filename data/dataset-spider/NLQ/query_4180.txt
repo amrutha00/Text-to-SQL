@@ -1,0 +1,1 @@
+Find the document type name of the document named "How to read a book".

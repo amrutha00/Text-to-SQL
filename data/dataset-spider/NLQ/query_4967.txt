@@ -1,0 +1,1 @@
+Find the max, average and min training hours of all players.

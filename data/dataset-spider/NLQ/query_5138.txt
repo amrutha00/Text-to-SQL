@@ -1,0 +1,1 @@
+For each distinct product name, show its average product price.

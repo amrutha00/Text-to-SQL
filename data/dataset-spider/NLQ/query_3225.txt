@@ -1,0 +1,1 @@
+Which department has the highest average student GPA, and what is the average gpa?

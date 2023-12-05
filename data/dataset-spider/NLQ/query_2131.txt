@@ -1,0 +1,1 @@
+For each document, list the number of employees who have showed up in the circulation history of that document. List the document ids and number of employees.

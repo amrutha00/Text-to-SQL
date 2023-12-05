@@ -1,0 +1,1 @@
+Please show the different statuses, ordered by the number of cities that have each.

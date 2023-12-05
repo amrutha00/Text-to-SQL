@@ -1,0 +1,1 @@
+Find the names of schools that have more than one donator with donation amount above 8.5.

@@ -1,0 +1,1 @@
+SELECT course_id FROM course EXCEPT SELECT course_id FROM prereq

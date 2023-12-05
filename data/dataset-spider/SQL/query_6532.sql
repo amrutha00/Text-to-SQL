@@ -1,0 +1,1 @@
+SELECT Name FROM WINE WHERE score  >  90

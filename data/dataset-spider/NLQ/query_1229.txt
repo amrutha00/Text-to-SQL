@@ -1,0 +1,1 @@
+Show the distinct apartment numbers of the apartments that have bookings with status code "Confirmed".

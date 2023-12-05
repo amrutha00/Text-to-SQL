@@ -1,0 +1,1 @@
+Show the maximum and minimum share count of different transaction types.

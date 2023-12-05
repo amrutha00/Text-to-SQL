@@ -1,0 +1,1 @@
+What are the distinct hometowns of gymnasts with total points more than 57.5?

@@ -1,0 +1,1 @@
+SELECT Festival_Name ,  LOCATION FROM festival_detail

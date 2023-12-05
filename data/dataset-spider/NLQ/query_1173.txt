@@ -1,0 +1,1 @@
+What are the total scores of the body builders whose birthday contains the string "January" ?

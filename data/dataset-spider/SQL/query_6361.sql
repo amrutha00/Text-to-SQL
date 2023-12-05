@@ -1,0 +1,1 @@
+SELECT max(years_working) ,  min(years_working) ,  avg(years_working) FROM school_bus

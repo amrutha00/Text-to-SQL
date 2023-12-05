@@ -1,0 +1,1 @@
+Sort the gender codes in descending order of their corresponding number of guests. Return both the gender codes and counts.

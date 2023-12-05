@@ -1,0 +1,1 @@
+SELECT Publisher FROM publication GROUP BY Publisher HAVING COUNT(*)  >  1

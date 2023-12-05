@@ -1,0 +1,1 @@
+How many different majors are there and how many different city codes are there for each student?

@@ -1,0 +1,1 @@
+SELECT Enrollment FROM school WHERE Denomination != "Catholic"

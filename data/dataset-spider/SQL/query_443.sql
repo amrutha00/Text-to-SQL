@@ -1,0 +1,1 @@
+SELECT count(DISTINCT allergytype) FROM Allergy_type

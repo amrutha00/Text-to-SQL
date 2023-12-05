@@ -1,0 +1,1 @@
+SELECT avg(price) FROM products WHERE Manufacturer  =  2

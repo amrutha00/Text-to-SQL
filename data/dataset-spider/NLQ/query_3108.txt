@@ -1,0 +1,1 @@
+Find the id and last name of the teacher that has the most detentions with detention type code "AFTER"?

@@ -1,0 +1,1 @@
+Show different type codes of products and the number of products with each type code.

@@ -1,0 +1,1 @@
+Return the names and ids of each account, as well as the number of transactions.

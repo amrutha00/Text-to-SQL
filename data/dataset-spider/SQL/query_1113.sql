@@ -1,0 +1,1 @@
+SELECT Name FROM climber ORDER BY Points DESC

@@ -1,0 +1,1 @@
+SELECT count(*) FROM university WHERE school_id NOT IN (SELECT school_id FROM basketball_match)

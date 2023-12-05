@@ -1,0 +1,1 @@
+For each room, find its name and the number of times reservations were made for it.

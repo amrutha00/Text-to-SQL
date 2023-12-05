@@ -1,0 +1,1 @@
+SELECT count(DISTINCT acc_type) FROM customer

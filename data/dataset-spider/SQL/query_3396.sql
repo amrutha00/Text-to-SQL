@@ -1,0 +1,1 @@
+SELECT open_year ,  name FROM manufacturer ORDER BY num_of_shops DESC LIMIT 1

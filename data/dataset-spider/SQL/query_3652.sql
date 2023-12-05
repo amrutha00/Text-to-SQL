@@ -1,0 +1,1 @@
+SELECT name_first ,  name_last FROM player WHERE death_year = '';

@@ -1,0 +1,1 @@
+SELECT max(Cows) ,  min(Cows) FROM farm

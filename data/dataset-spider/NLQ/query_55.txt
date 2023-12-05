@@ -1,0 +1,1 @@
+Show the census ranking of cities whose status are not "Village".
