@@ -117,4 +117,4 @@ By default these scripts execute for the proposed dataset. To execute for spider
 We have many improvements we'd like to implement. Please help us! If you would like to contribute, please contact us. 
 
 # Contact us
-Reach out to btaleka2 at illinois dot edu
+Reach out to ukkalam2 at illinois dot edu
